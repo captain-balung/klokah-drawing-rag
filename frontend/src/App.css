@@ -86,12 +86,29 @@
 
 .chat__error {
   align-self: center;
+  display: flex;
+  align-items: center;
+  gap: 10px;
   color: #b3261e;
   font-size: 14px;
   background: #fdeceb;
   border: 1px solid #f5c6c3;
   padding: 8px 12px;
   border-radius: 8px;
+}
+.chat__retry {
+  font: inherit;
+  font-size: 13px;
+  color: #fff;
+  background: #b3261e;
+  border: none;
+  border-radius: 6px;
+  padding: 4px 12px;
+  cursor: pointer;
+}
+.chat__retry:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 
 .composer {

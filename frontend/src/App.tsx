@@ -16,24 +16,29 @@ export default function App() {
   const [liveText, setLiveText] = useState('')
   const [toolNote, setToolNote] = useState('')
   const [error, setError] = useState('')
+  // 連線失敗時保存當輪歷史，供「重試」用（不重複 append 使用者訊息）
+  const [retryHistory, setRetryHistory] = useState<Msg[] | null>(null)
 
   const bottomRef = useRef<HTMLDivElement>(null)
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: 'smooth' })
   }, [messages, liveText, toolNote])
 
-  async function send() {
-    const text = input.trim()
-    if (!text || streaming) return
+  // 把底層錯誤轉成對使用者友善的訊息
+  function friendlyError(err: unknown): string {
+    const msg = err instanceof Error ? err.message : String(err)
+    if (/fetch|network|load failed|connection/i.test(msg)) {
+      return '連線中斷（後端可能正在重啟或網路不穩）。請點「重試」。'
+    }
+    return msg
+  }
 
-    const history: Msg[] = [...messages, { role: 'user', content: text }]
-    setMessages(history)
-    setInput('')
+  // 對指定歷史跑一輪 streaming；失敗時保存歷史供重試
+  async function runTurn(history: Msg[]) {
     setError('')
     setLiveText('')
     setToolNote('')
     setStreaming(true)
-
     try {
       await streamChat(history, (e) => {
         if (e.type === 'text') {
@@ -46,15 +51,34 @@ export default function App() {
           setMessages(e.final_messages)
           setLiveText('')
           setToolNote('')
+          setRetryHistory(null)
         } else if (e.type === 'error') {
           setError(e.error)
+          setRetryHistory(history)
         }
       })
     } catch (err) {
-      setError(err instanceof Error ? err.message : String(err))
+      setError(friendlyError(err))
+      setRetryHistory(history)
     } finally {
       setStreaming(false)
     }
+  }
+
+  function send() {
+    const text = input.trim()
+    if (!text || streaming) return
+    const history: Msg[] = [...messages, { role: 'user', content: text }]
+    setMessages(history)
+    setInput('')
+    void runTurn(history)
+  }
+
+  function retry() {
+    if (streaming) return
+    const history = retryHistory ?? messages
+    if (history.length === 0) return
+    void runTurn(history)
   }
 
   function onKeyDown(e: KeyboardEvent<HTMLTextAreaElement>) {
@@ -103,7 +127,14 @@ export default function App() {
           <div className="bubble bubble--assistant bubble--thinking">思考中…</div>
         )}
 
-        {error && <div className="chat__error">⚠️ {error}</div>}
+        {error && (
+          <div className="chat__error">
+            <span>⚠️ {error}</span>
+            <button className="chat__retry" onClick={retry} disabled={streaming}>
+              重試
+            </button>
+          </div>
+        )}
         <div ref={bottomRef} />
       </main>
 

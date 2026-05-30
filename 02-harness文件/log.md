@@ -303,3 +303,12 @@
 - **範圍與摘要**：上線前置。`query.py`：`MODEL` 改 `os.getenv("CLAUDE_MODEL", "claude-sonnet-4-6")`；CORS 改由 `CORS_ORIGINS` 環境變數限定（預設 `*`，`allow_credentials=False`）。新增根 `render.yaml`（Render Blueprint：plan starter 常駐、rootDir backend、healthCheckPath、env 佔位）。Render 方案拍板付費常駐（解 roadmap 待決項）
 - **觸發來源**：人類指示（同意部署、選 Sonnet/Paid）
 - **風險等級**：中（涉及正式部署設定；金鑰/CORS 仍待 Dashboard 人工確認）
+
+## VERIFY-005 / CHANGE-011
+
+- **時間戳**：2026-05-30T10:35:00+08:00
+- **類型**：變更（含診斷）
+- **範圍與摘要**：使用者回報前端第二輪「network error」。診斷：以真實 HTTP 串流客戶端重現兩輪皆成功（turn2 收 377 字、無 error）→ 判定非程式 bug，而是「為換 Sonnet 重啟後端的數秒連線空窗」使用者剛好打中。改善前端韌性：`App.tsx` 錯誤改友善訊息（辨識連線層失敗）並加「重試」按鈕（保存當輪歷史重送，不重複 append）；`App.css` 對應樣式。tsc 通過、Playwright 多輪實測無誤
+- **觸發來源**：QA 退件（使用者回報）→ 自動診斷 + 修補
+- **風險等級**：低
+- **備註**：操作教訓——使用者實測期間避免重啟後端；若必須，先告知。部署用的正式環境為常駐，不會有此空窗
