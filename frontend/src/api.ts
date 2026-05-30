@@ -69,6 +69,61 @@ export async function streamChat(
   }
 }
 
+// ---- 繪本資料（瀏覽 / 閱讀畫面用）----------------------------------------
+
+export type BookSummary = {
+  id: number
+  title: string
+  level: string
+  grammar_focus: string
+  summary: string
+  page_count: number
+  language_count: number
+  available_languages: string[]
+}
+
+export type IndigenousVersion = {
+  language: string
+  text: string | null
+  audio_url: string | null
+}
+
+export type BookPage = {
+  page_number: number
+  chinese_text: string
+  image_url: string | null
+  audio_url_chinese: string | null
+  indigenous_versions: IndigenousVersion[]
+}
+
+export type BookLanguage = { lid: number; name: string; page_count: number }
+
+export type BookDetail = {
+  id: number
+  title: string
+  illustrator?: string
+  level: string
+  grammar_focus: string
+  summary: string
+  page_count: number
+  available_languages: BookLanguage[]
+  pages: BookPage[]
+}
+
+/** 取全部繪本的輕量 metadata（給瀏覽/過濾用）。 */
+export async function fetchBooks(): Promise<BookSummary[]> {
+  const res = await fetch(`${API_BASE}/api/books`)
+  if (!res.ok) throw new Error(`載入繪本列表失敗：HTTP ${res.status}`)
+  return res.json()
+}
+
+/** 取單本繪本完整內容（逐頁、各族語文字、音檔）。 */
+export async function fetchBook(id: number): Promise<BookDetail> {
+  const res = await fetch(`${API_BASE}/api/books/${id}`)
+  if (!res.ok) throw new Error(`載入繪本 #${id} 失敗：HTTP ${res.status}`)
+  return res.json()
+}
+
 /** 從一則訊息抽出要顯示的純文字（assistant 的 text 區塊 / user 字串）。 */
 export function displayText(m: Msg): string {
   if (typeof m.content === 'string') return m.content

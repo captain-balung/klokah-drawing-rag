@@ -11,11 +11,10 @@
 
 > 整體 ~50%（Phase 1 資料管線、Phase 2 查詢服務皆完成並驗證；Phase 3 前端待起步、Phase 4 部署未開始）
 
-- **整體**：約 65%
-- **當前 Phase**：Phase 4（部署）——應使用者要求先把對話 MVP 上線；前置完成，**卡在需人手的 GitHub 推送**
+- **整體**：約 75%（Phase 1/2/3 完成；剩 Phase 4 部署，卡在人類 GitHub 步驟）
+- **當前 Phase**：Phase 4（部署）——前置完成，**卡在需人手的 GitHub 推送**；趁等待補完 Phase 3 三畫面
 - **當前焦點**：推 GitHub（人類建 private repo）→ Render 後端 → Vercel 前端 → 填金鑰/CORS
-- **近期完成**：對話畫面串接後端＋多輪實測；上線前置（Sonnet 4.6、CORS/模型環境變數化、render.yaml）；前端韌性（重試按鈕）；git init + 首次提交（已掃描無金鑰）
-- **暫緩**：Phase 3 繪本瀏覽（F-04）/ 閱讀（F-02）畫面——先上線 MVP，回來再補
+- **近期完成**：Phase 3 全部三畫面完成（對話/瀏覽/閱讀，Playwright 實測）；上線前置（Sonnet 4.6、CORS/模型環境變數化、render.yaml）；前端韌性（重試）；git 首次提交（無金鑰）
 
 ---
 
@@ -47,7 +46,7 @@ Phase 4（部署）→ 子任務「推 GitHub + Render 後端 + Vercel 前端」
 |---|---|---|---|---|
 | 1 | 資料管線 | 抓取並轉換全部繪本 | 95 本 `book_*.json` + `output_v2/` 三產物齊備且通過驗證 | ✅ |
 | 2 | 查詢服務 | 可運作的後端 API | F-01~F-04、F-07、F-08 驗收通過，prompt caching 生效 | ✅ |
-| 3 | 前端介面 | 完整對話 + 瀏覽網頁 | 三個主要畫面實作完成，Playwright 截圖比對通過 | ⬜ |
+| 3 | 前端介面 | 完整對話 + 瀏覽網頁 | 三個主要畫面實作完成，Playwright 截圖比對通過 | ✅ |
 | 4 | 上線部署 | prod 可用 | 前端 Vercel + 後端 Render 部署，prod `/api/health` 正常 | ⬜ |
 
 **進入條件：**
@@ -91,14 +90,14 @@ Phase 4（部署）→ 子任務「推 GitHub + Render 後端 + Vercel 前端」
   - ✅ 建立測試（pytest 接線）→ 驗證：`pytest` 預設 1 免費案例綠、4 個 `live` 案例標記略過；`pytest -m live` 可跑付費案例 ✅
   - ✅ 成本監控 → 驗證：每次呼叫 log 印 `usage[..]: input/output/cache_read/cache_write`（`log_usage`，2026-05-30）✅
 
-### 🔄 Phase 3：前端介面（進行中）
+### ✅ Phase 3：前端介面（已完成）
 
 - ✅ 前端框架拍板 → React（DECISION-008，2026-05-30）
 - ✅ 對話畫面（F-01/03/07）→ Vite+React+TS 骨架、SSE streaming 串接；Playwright 實測空狀態/單輪/多輪皆正常（2026-05-30）✅
-  - 修掉多輪 400 bug（model_dump 夾帶 parsed_output；見 log LESSON-007）
+  - 修掉多輪 400 bug（model_dump 夾帶 parsed_output；見 log LESSON-007）；加連線失敗重試
 - ✅ 串接後端 → local 前端打 local 後端完整跑通多輪對話 ✅
-- ⬜ 繪本瀏覽畫面（F-04）→ 驗證：過濾級別/語法/族別功能正常
-- ⬜ 繪本閱讀畫面（F-02）→ 驗證：逐頁圖片 + 族語切換 + 音檔播放（族語逐字直接渲染 JSON）
+- ✅ 繪本瀏覽畫面（F-04）→ 卡片網格 + 級別/語法/族別過濾，Playwright 實測 95 本顯示正常 ✅
+- ✅ 繪本閱讀畫面（F-02）→ 逐頁圖片 + 華語 + 族語切換 + 音檔；族語逐字直接渲染 JSON（變音符號正確保留）✅
 
 ### ⬜ Phase 4：上線部署（未開始）
 
