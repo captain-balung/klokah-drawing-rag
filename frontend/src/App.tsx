@@ -37,7 +37,11 @@ export default function App() {
         <BrowseView onOpen={(id) => setView({ name: 'read', bookId: id })} />
       )}
       {view.name === 'read' && (
-        <ReaderView bookId={view.bookId} onBack={() => setView({ name: 'browse' })} />
+        <ReaderView
+          key={view.bookId}
+          bookId={view.bookId}
+          onBack={() => setView({ name: 'browse' })}
+        />
       )}
     </div>
   )

@@ -13,22 +13,29 @@ export default function ReaderView({
   const [lang, setLang] = useState('')
   const [pageIdx, setPageIdx] = useState(0)
 
+  // 換書時由 App 以 key={bookId} 重新掛載本元件，故初始 state 即為重置狀態，
+  // effect 只負責抓資料（在 async callback 設 state，不在 effect body 同步 setState）。
   useEffect(() => {
-    setBook(null)
-    setError('')
-    setPageIdx(0)
+    let active = true
     fetchBook(bookId)
       .then((b) => {
+        if (!active) return
         setBook(b)
         setLang(b.available_languages[0]?.name ?? '')
       })
-      .catch((e) => setError(e instanceof Error ? e.message : String(e)))
+      .catch((e) => {
+        if (active) setError(e instanceof Error ? e.message : String(e))
+      })
+    return () => {
+      active = false
+    }
   }, [bookId])
 
   if (error)
     return (
       <div className="view reader__status">
-        ⚠️ {error}　<button onClick={onBack}>返回列表</button>
+        <span>⚠️ {error}</span>
+        <button onClick={onBack}>返回列表</button>
       </div>
     )
   if (!book) return <div className="view reader__status">載入中…</div>
