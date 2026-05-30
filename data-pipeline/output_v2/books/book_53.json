@@ -1,0 +1,3008 @@
+{
+  "id": 53,
+  "title": "跟著伍茂去打獵",
+  "illustrator": "周楷樺",
+  "level": "初級",
+  "grammar_focus": "名詞",
+  "summary": "伍茂是一位獵人，有著像樹一樣的頭髮，像星星的眼睛及像山的鼻子，這使他能夠很好的藏匿在任何地方，不容易被獵物發現。這天伍茂又出門打獵了，而這次他能不能如願的逮住獵物呢! 故事藉由伍茂的身體帶小朋友認識自己的五官及手、腳等身體部位。這本繪本的語法重點，在於名詞及名詞組的熟悉運用，並且學會「…像…」這樣的語法。教師可以延伸補充身體部位，動物名稱，或狩獵工具等主題。",
+  "language_count": 16,
+  "available_languages": [
+    {
+      "lid": 1,
+      "name": "阿美語",
+      "page_count": 16
+    },
+    {
+      "lid": 2,
+      "name": "泰雅語",
+      "page_count": 16
+    },
+    {
+      "lid": 3,
+      "name": "賽夏語",
+      "page_count": 16
+    },
+    {
+      "lid": 4,
+      "name": "邵語",
+      "page_count": 16
+    },
+    {
+      "lid": 5,
+      "name": "賽德克語",
+      "page_count": 16
+    },
+    {
+      "lid": 6,
+      "name": "布農語",
+      "page_count": 16
+    },
+    {
+      "lid": 7,
+      "name": "排灣語",
+      "page_count": 16
+    },
+    {
+      "lid": 8,
+      "name": "魯凱語",
+      "page_count": 16
+    },
+    {
+      "lid": 9,
+      "name": "太魯閣語",
+      "page_count": 16
+    },
+    {
+      "lid": 10,
+      "name": "噶瑪蘭語",
+      "page_count": 16
+    },
+    {
+      "lid": 11,
+      "name": "鄒語",
+      "page_count": 16
+    },
+    {
+      "lid": 12,
+      "name": "卑南語",
+      "page_count": 16
+    },
+    {
+      "lid": 13,
+      "name": "雅美語",
+      "page_count": 16
+    },
+    {
+      "lid": 14,
+      "name": "撒奇萊雅語",
+      "page_count": 16
+    },
+    {
+      "lid": 15,
+      "name": "卡那卡那富語",
+      "page_count": 16
+    },
+    {
+      "lid": 16,
+      "name": "拉阿魯哇語",
+      "page_count": 16
+    }
+  ],
+  "page_count": 16,
+  "pages": [
+    {
+      "page_number": 1,
+      "chinese_text": "他是Umaw。",
+      "chinese_variants": [
+        {
+          "text": "他是Omaw。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "他是’oemaw。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "他是Umau。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "他是baru。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "他是Pelenge。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "他是umaw。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "他是’umao。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "他是Umaw",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "他是’Umau。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "他是tamauhlu",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/53/1.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Ci Omaw cingra.",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44263.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "hiya ga, Umaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45598.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "siya hi ’oemaw",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46411.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Umaw thithu.",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47224.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Heya ge, Umaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48037.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Umau sai’ia.",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48850.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "ti baru timadju.",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49663.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "siaPelenge ka lasu.",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50476.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Umaw ka hiya.",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51289.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "ti umaw aizipna.",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52102.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "zou ’umao taini.",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52915.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "i Umaw taytaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54084.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "si Omaw o ito.",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54897.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "ci Umaw ciniza.",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55710.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "’Umau sua nguain.",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56523.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "kana’ana ia tamauhlu.",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57336.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "chinese_text": "這是Umaw的頭髮，他的頭髮像樹。",
+      "chinese_variants": [
+        {
+          "text": "這是Omaw的頭髮，他的頭髮像樹。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "這是’oemaw的頭髮，他的頭髮像樹。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "這是Umau的頭髮，他的頭髮像樹",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "這是baru的頭髮，他的頭髮像樹。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "這是Pelenge的頭髮，他的頭髮像樹。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "這是umaw的頭髮，他的頭髮像樹。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "這是’umao的頭髮，他的頭髮像樹。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "這是Umaw的頭髮，他的頭髮像樹",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "這是Omaw的頭髮, 他的頭髮像海藻。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "這是’Umau的頭髮，他的頭髮像樹。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "這是tamauhlu的頭髮，他的頭髮像樹",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/53/2.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "O fokes ni Omaw koni, mahecad o kilang ko fokes nigra.",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44264.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "qani ga snonux ni Umaw, yani balay qhoniq qu snonux nya.",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45599.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "hini ’in’omawa bekeS, nisiya bekeS nak kaehoy.",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46412.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "haya wa Umaw a fukish, thithu a fukish myazai ribush.",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47225.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Nii ge, snuunux na Umaw. Mntena bale cida qhuni ka snuunux na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48038.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Itu Umau sain tu hulbu, maszang isaicia hulbu mas lukis.",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48851.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "’uvalj ni baru aicu, a ’uvalj nimadju matu kasiv.",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49664.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kikay isiw ki Pelenge, ngiamia ki angatu kay isiwini .",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50477.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Sneunux Umaw ka nii, mgqhuni ka sneunux na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51290.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "buqes ni umaw zau, azu paRin buqes na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52103.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "zou f’ʉsʉ to ’umao eni, mo mais’a evi si f’ ʉs ʉsi.",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52916.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "idri i, tu arebu kan Umaw. kamawan dra kawi tu arebu.",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54085.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "avok na o ya ni Omaw, ya akmeykayo o avok na.",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54898.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "u bukes ni Umaw kuyni, mahiza u kilang ku bukes niza.",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55711.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "sua isi ia ’Umau tamna vʉkʉsʉ. makai karu nguain tamna vʉkʉsʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56524.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "kani’i ia vʉkʉisa tamauhluna, vʉkʉisa ausi kiu’u.",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57337.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "chinese_text": "這是Umaw的眼睛，他的眼睛像星星。",
+      "chinese_variants": [
+        {
+          "text": "這是Omaw的眼睛，他的眼睛像星星。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "這是’oemaw的眼睛，他的眼睛像星星。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "這是Umau的眼睛，他的眼睛像星星",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "這是baru的眼睛，他的眼睛像星星。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "這是Pelenge的眼睛，他的眼睛像星星。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "這是umaw的眼睛，他的眼睛像星星。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "這是’umao的眼睛，他的眼睛像星星。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "這是Umaw的眼睛，他的眼睛像星星",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "這是Omaw的眼睛, 他的眼睛像星星。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "這是’Umau的眼睛，他的眼睛像星星。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "這是tamauhlu的眼睛，他的眼睛像星星",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/53/3.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "O mata ni Omaw koni, mahecad o fo’is ko mata ningra.",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44265.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "qani ga roziq ni Umaw, yani balay bengah qu roziq nya.",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45600.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "hini ’in’omawa masa’, insiya’a masa’ nak bintoe’an.",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46413.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "haya wa Umaw a matha, thithu a matha myazai kilhpuz.",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47226.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Nii ge, doriq na Umaw. Doriq na ge, Mntena bale pngerah karac.",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48039.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Itu Umau sain tu mata, maszang isaicia mata mas bintuhan.",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48852.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "maca ni baru aicu, a maca nimadju matu vitju’an.",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49665.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kikay maca ki Pelenge, ngiamia ki tariau kay macaini .",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50478.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Dowriq Umaw ka nii, mgpngrah ka dowriq na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51291.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "mata ni umaw zau, azu buletedan mata na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52104.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "zou f’ʉsʉ to ’umao eni, mo mais’a evi si f’ʉs ʉsi.",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52917.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "idri i, tu matra kan Umaw. kamawan dra triur tu matra.",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54086.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "mata ni Omaw o ya, ya akmeymata no angit o mata na.",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54899.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "u mata ni Umaw kuyni, mahiza u bunac ku mata niza.",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55712.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "sua isi ia ’Umau tamna vo’in, makai tamtasai nguain tamna vo’in.",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56525.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "kani’i ia vulaihliisa tamauhluna, vulaihlisa ausi ’acangʉrahlʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57338.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "chinese_text": "這是Umaw的鼻子，他的鼻子像山。",
+      "chinese_variants": [
+        {
+          "text": "這是Omaw的鼻子，他的鼻子像山。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "這是’oemaw的鼻子，他的鼻子像山。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "這是Umau的鼻子，他的鼻子像山",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "這是baru的鼻子，他的鼻子像山。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "這是Pelenge的鼻子，他的鼻子像山。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "這是umaw的鼻子，他的鼻子像山。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "這是’umao的鼻子，他的鼻子像山。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "這是Umaw的鼻子，他的鼻子像山",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "這是Omaw的鼻子, 他的鼻子像山。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "這是’Umau的鼻子，他的鼻子像山。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "這是tamauhlu的鼻子，他的鼻子像山",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/53/4.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "O ngoso’ ni Omaw koni, mahecad o lotok ko ngoso’ ningra.",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44266.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "qani ga nguhuw ni Umaw, yani balay rgyax qu nguhuw nya.",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45601.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "hini ’in’omawa kangeselan, nisiya kangeselan nak koko:ol.",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46414.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "haya wa Umaw a muzin, thithu a muzin myazai hudun.",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47227.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Nii ge, muhing na Umaw. Mntena bale lmiqu ka muhing na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48040.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Itu Umau sain tu ngutus, maszang isaicia ngutus mas ludun.",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48853.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "ngudus ni baru aicu, a ngudus nimadju matu gadu.",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49666.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kikay ngungwane ki Pelenge, ngiamia ki lregelrege kay ngungwaneini .",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50479.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Muhing Umaw ka nii, mgdgiyaq ka muhing na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51292.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "unung ni umaw zau, azu naung unung na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52105.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "zou ngʉcʉ to ’umao eni, mo mais’a hcuyu si ngʉc ʉsi.",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52918.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "idri i, tu tingeran kan Umaw. kamawan dra drenan tu tingeran.",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54087.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "momodan ni Omaw o ya, ya akmeytokon o momodan na.",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54900.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "u cihek ni Umaw kuyni, mahiza u buyu’ ku cihek niza.",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55713.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "sua isi ia ’Umau tamna tangʉca. makai cimʉrʉ nguain tamna tangʉca.",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56526.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "kani’i ia ngunguruisa tamauhluna, ngunguruisa ausi caalʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57339.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "chinese_text": "這是Umaw的耳朵，他的耳朵像樹葉。",
+      "chinese_variants": [
+        {
+          "text": "這是Omaw的耳朵，他的耳朵像樹葉。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "這是’oemaw的耳朵，他的耳朵像樹葉。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "這是Umau的耳朵，他的耳朵像樹葉",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "這是baru的耳朵，他的耳朵像樹葉。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "這是Pelenge的耳朵，他的耳朵像樹葉。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "這是umaw的耳朵，他的耳朵像樹葉。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "這是’umao的耳朵，他的耳朵像樹葉。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "這是Umaw的耳朵，他的耳朵像樹葉",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "這是Omaw的耳朵, 他的耳朵像樹葉。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "這是’Umau的耳朵，他的耳朵像樹葉。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "這是tamauhlu的耳朵，他的耳朵像樹葉",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/53/5.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "O tanginga ni Omaw koni, mahecad o pahpah no kilang ko tanginga ningra.",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44267.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "qani ga papak ni Umaw, yani balay abaw qhoniq qu papak nya.",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45602.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "hini ’in’omawa sale’e, nisiya sale’e nak biyae’.",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46415.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "haya wa Umaw a lharina, thithu a lharina myazai ribush a filhaq.",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47228.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Nii ge, birac na Umaw. Mntena bale waso qhuni ka birac na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48041.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Itu Umau sain tu tangia, maszang isaicia tangia mas lukis-lisav.",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48854.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "calinga ni baru aicu, a calinga nimadju matu asav nua kasiv.",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49667.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kikay calringa ki Pelenge, ngiamia ki vasaw kay calringaini .",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50480.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Birat Umaw ka nii, mgrnabaw ka birat na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51293.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "kayal ni umaw zau. azu biRi na paRin kayal na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52106.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "zou koyu to ’umao eni, mo mais’a eh ʉng ʉ si koyusi.",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52919.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "idri i, tu trangila kan Umaw. kamawan dra bira tu trangila.",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54088.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "talinga ni Omaw o ya, ya akmeyvoong no kayo o talinga na.",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54901.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "u tangila ni Umaw kuyni, mahiza u papah nu kilang ku tangila niza.",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55714.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "sua isi ia ’Umau tamna tʉkʉ. makai ranʉngʉ nguain tamna tʉkʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56527.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "kani’i ia calingaisa tamauhluna, calingaisa ausi rahlʉngʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57340.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "chinese_text": "這是Umaw的嘴巴，他的嘴巴像花朵。",
+      "chinese_variants": [
+        {
+          "text": "這是Omaw的嘴巴，他的嘴巴像花朵。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "這是’oemaw的嘴巴，他的嘴巴像花朵。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "這是Umau的嘴巴，他的嘴巴像花朵",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            },
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "這是baru的嘴巴，他的嘴巴像花朵。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "這是Pelenge的嘴巴，他的嘴巴像花朵。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "這是umaw的嘴巴，他的嘴巴像花朵。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "這是’umao的嘴巴，他的嘴巴像花朵。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "這是Omaw的嘴巴, 他的嘴巴像花朵。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "這是’Umau的嘴巴，他的嘴巴像花朵。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "這是tamauhlu的嘴巴，他的嘴巴像花朵",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/53/6.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "O ngoyos ni Omaw koni, mahecad o hana ko ngoyos ningra.",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44268.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "qani ga nqwaq ni Umaw, yani balay phpah qu nqwaq nya.",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45603.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "hini ’in’omawa ngabas, nisiya ngabas nak pongaeh.",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46416.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "haya wa Umaw a ruzith, thithu a ruzith myazai bukay.",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47229.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Nii ge, quwaq na Umaw. Mntena bale phepah ka quwaq na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48042.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Itu Umau sain tu ngulus, maszang isaicia ngulus mas puah.",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48855.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "angalj ni baru aicu, a angalj nimadju matu hana.",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49668.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kikay ngudui ki Pelenge ngiamia ki bengelray kay nguduiini .",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50481.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Quwaq Umaw ka nii, mgphpah ka quwaq na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51294.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "ngibiR ni umaw zau. azu simau ngibiR na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52107.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "zou ngayo to ’umao eni, mo mais’a bʉvnʉ si ngayosi.",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52920.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "idri i, tu indan kan Umau. kamawan dra aputr tu indan.",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54089.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "ngongoy ni Omaw o ya, ya akmeyhana o ngongoy na.",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54902.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "u laway ni Umaw kuyni, mahiza u balu ku laway niza.",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55715.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "sua isi ia ’Umau tamna ivici, makai vungavung nguain tamna ivici.",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56528.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "kani’i ia ngusuisa tamauhluna, ngusuisa ausi tavahlihla.",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57341.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "chinese_text": "這是Umaw的手和腳，他的手腳像樹幹。",
+      "chinese_variants": [
+        {
+          "text": "這是Omaw的手和腳，他的手腳像樹幹。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "這是’oemaw的手和腳，他的手腳像樹幹。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "這是Umau的手和腳，他的手腳像樹幹",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            },
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "這是baru的手和腳，他的手腳像樹幹。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "這是Pelenge的手和腳，他的手腳像樹幹。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "這是umaw的手和腳，他的手腳像樹幹。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "這是’umao的手和腳，他的手腳像樹幹。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "這是Omaw的手和腳, 他的手腳像樹幹。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "這是’Umau的手和腳，他的手腳像樹幹。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "這是tamauhlu的手和腳，他的手腳像樹幹",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/53/7.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "O kamay ato wa’ay ni Omaw koni, mahecad o tatapangan no kilang ko kamay ato wa’ay ningra.",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44269.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "qani ga qba’ ru kakay ni Umaw, yani balay ’luwax qu qba’ ru kakay nya.",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45604.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "hini ’in’omawa ’ae’ay, nisiya ’ae’ay nak kaehoy.",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46417.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "haya wa Umaw a rima masa kuskus, thithu a rima kuskus myazai kawi.",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47230.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Nii ge, baga ma papak na Umaw. Mntena bale qmuru qhuni ka baga na ma papak na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48043.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Itu Umau sain tu ima mas bantas, maszang isaicia ima bantas mas lukis.",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48856.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "lima katua kula ni baru aicu, a lima katua kula nimadju matu kasiv.",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49669.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kikay drapale si alrima Pelengane, kay alrima si drapaleini ngiamia ki ricingi ki angatu.",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50482.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Baga Umaw ni qaqay Umaw ka nii, mgpusu qhuni ka baga ni qaqay na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51295.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "lima seRai zapan ni umaw zau, azu paRin lima zapan na.",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52108.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "zou emucu ho t’ango to ’uamo eni, mo mais’a na’si no evi si emucu ho t’angosi.",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52921.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "idri i, tu lima aw tu dapall kan Umaw. kamawan dratu ullus dra kawi tu lima aw tu dapall.",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54090.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "lima kano ai ni Omaw o ya, ya akmeyatngeh no kayo o lima na kano ai na.",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54903.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "u lima atu kuku’ ni Umaw kuyni, mahiza u caang nu kilang ku lima atu kuku’ niza.",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55716.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "sua isi ia ’Umau tamna ramucu mataa ’acipi. makai tina’an karu nguain tamna ramucu ’acipi.",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56529.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "kani’i ia ramucuisa tamauhlu hla sa ʉisa, ramucuisa hla sa ʉisa ausi mausikiu’u.",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57342.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "chinese_text": "Umaw今天去打獵。",
+      "chinese_variants": [
+        {
+          "text": "Omaw今天去打獵。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "’oemaw今天去打獵。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Umau今天去打獵。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "baru今天去打獵。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Pelenge今天去打獵。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "umaw今天去打獵。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "’umao今天去打獵。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Umau今天去打獵",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "’Umau今天去打獵。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "tamauhlu今天去打獵",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/53/8.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Mi’adop ci Omaw anini a romi’ad.",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44270.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "mosa’ qmalup qu Umaw kira.",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45605.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "omaw kaysa’an rima’ ’oemalep.",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46418.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Umaw muribush thuini.",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47231.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Wada phuling ali saya ka Umaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48044.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Aip tu hanian kudip Umau hanup.",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48857.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "na vaik a ’emaljup tucu ti baru.",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49670.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "lrialupu kay Pelenge kaykameane",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50483.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Wada tmsamat sayang ka Umaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51296.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "qatiw pa salaw ti unaw setangi.",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52109.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "mo eyafou ’o ’umao maitan’e.",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52922.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "muka paallupa i Umaw a uninan.",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54091.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "nimangey mipaltog si Omaw si ciaraw eya.",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54904.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "a miadup ci Umaw ayza a demiad.",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55717.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "’acuu aracakanʉ soni ’Umau.",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56530.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "mahlukua mʉrʉcʉka tamauhluna arinani.",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57343.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "chinese_text": "Umaw的頭髮在哪裡?",
+      "chinese_variants": [
+        {
+          "text": "Omaw的頭髮在哪裡?",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "’oemaw的頭髮在哪裡?",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Umau的頭髮在哪裡?",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            },
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "baru的頭髮在哪裡?",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Pelenge的頭髮在哪裡?",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "umaw的頭髮在哪裡?",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "’umao的頭髮在哪裡?",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "’Umau的頭髮在哪裡?",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "tamauhlu的頭髮在哪裡?",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/53/9.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "I sakacowa ko fokes ni Omaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44271.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "cyux maki’ te inu’ qu snonux ni Umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45606.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "in’omawa bekeS hayno’?",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46419.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "intua s Umaw a fukish?",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47232.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Waga mgleing ccida qhuni hiya ka heya?",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48045.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Isa itu Umau hulbu i?",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48858.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "izainu a ’uvalj ni baru?",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49671.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "yakay inu ku isiw ki Pelenge?",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50484.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Kgeinu ka sneunux Umaw hug?",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51297.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "yau ta niyan buqes ni umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52110.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "mo yoneno na f’ʉsʉ to ’umao?",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52923.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "ullaya isuwa tu arebu kan Umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54092.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "wajin o avok ni Omaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54905.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "i cuwa ku bukes ni Umaw saw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55718.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "’esi nanu ’Umau tamna vʉkʉsʉ?",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56531.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "paninaua vʉkʉisa tamauhlu?",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57344.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "chinese_text": "Umaw的眼睛在哪裡?",
+      "chinese_variants": [
+        {
+          "text": "Omaw的眼睛在哪裡?",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "’oemaw的眼睛在哪裡?",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Umau的眼睛在哪裡?",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            },
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "baru的眼睛在哪裡?",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Pelenge的眼睛在哪裡?",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "umaw的眼睛在哪裡?",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "’umao的眼睛在哪裡?",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "’Umau的眼睛在哪裡?",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "tamauhlu的眼睛在哪裡?",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/53/10.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "I sakacowa ko mata ni Omaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44272.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "cyux maki te inu qu roziq ni Umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45607.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "in’omawa masa’ hayno’?",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46420.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "intua s Umaw a matha?",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47233.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Keeman mgleing ppngerah karac hiya ka doriq na?",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48046.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Isa itu Umau mata i?",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48859.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "izainu a maca ni baru?",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49672.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "yakay inu ku maca ki Pelenge?",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50485.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Kgeinu ka dowriq Umaw hug?",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51298.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "yau ta niyan mata ni umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52111.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "mo yoneno na mcoo to ’umao?",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52924.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "ullaya isuwa tu matra kan Umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54093.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "wajin o mata ni Omaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54906.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "i cuwa ku mata ni Umaw saw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55719.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "’esi nanu ’Umau tamna vo’in?",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56532.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "paninaua vulaihliisa tamauhlu?",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57345.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "chinese_text": "Umaw的鼻子在哪裡?",
+      "chinese_variants": [
+        {
+          "text": "Omaw的鼻子在哪裡?",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "’oemaw的鼻子在哪裡?",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Umau的鼻子在哪裡?",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            },
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "baru的鼻子在哪裡?",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Pelenge的鼻子在哪裡?",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "umaw的鼻子在哪裡?",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "’umao的鼻子在哪裡?",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "’Umau的鼻子在哪裡?",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "tamauhlu的鼻子在哪裡?",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/53/11.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "I sakacowa ko ngoso’ ni Omaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44273.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "cyux maki te inu’ qu nguhuw ni Umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45608.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "in’omawa kangeselan hayno’?",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46421.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "intua s Umaw a muzin?",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47234.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Waga mgleing llmiqu hiya ka heya?",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48047.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Isa itu Umau ngutus i?",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48860.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "izainu a ngudjus ni baru?",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49673.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "yakay inu ku ngungwane ki Pelenge?",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50486.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Kgeinu ka muhing Umaw hug?",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51299.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "yau ta niyan unung ni umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52112.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "mo yoneno na ngʉcʉ to ’umao?",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52925.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "ullaya isuwa tu tingeran kan Umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54094.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "wajin o momodan ni Omaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54907.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "i cuwa ku cihek ni Umaw saw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55720.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "’esi nanu ’Umau tamna tangʉca?",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56533.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "paninaua ngunguruisa tamauhlu?",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57346.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "chinese_text": "Umaw的耳朵在哪裡?",
+      "chinese_variants": [
+        {
+          "text": "Omaw的耳朵在哪裡?",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "’oemaw的耳朵在哪裡?",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Umau的耳朵在哪裡?",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            },
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "baru的耳朵在哪裡?",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Pelenge的耳朵在哪裡?",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "umaw的耳朵在哪裡?",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "’umao的耳朵在哪裡?",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "’Umau的耳朵在哪裡?",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "tamauhlu的耳朵在哪裡?",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/53/12.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "I sakacowa ko tanginga ni Omaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44274.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "cyux maki te inu papak ni Umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45609.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "in’omawa sale’e hayno’?",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46422.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "intua s Umaw a lharina?",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47235.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Waga mgleing uwaso hiya ka heya?",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48048.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Isa itu Umau tangia?",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/853046.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "izainu a calinga ni baru?",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49674.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "yakay inu ku calringa ki Pelenge?",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50487.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Kgeinu ka birat Umaw hug?",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51300.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "yau ta niyan kayal ni umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52113.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "mo yoneno na koyu to ’umao?",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52926.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "ullaya isuwa tu trangila kan Umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54095.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "wajin o talinga ni Omaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54908.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "i cuwa ku tangila ni Umaw saw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55721.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "’esi nanu ’Umau tamna tʉkʉ?",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56534.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "paninaua calingaisa tamauhlu?",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57347.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "chinese_text": "Umaw的嘴巴在哪裡?",
+      "chinese_variants": [
+        {
+          "text": "Omaw的嘴巴在哪裡?",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "’oemaw的嘴巴在哪裡?",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Umau的嘴巴在哪裡?",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            },
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "baru的嘴巴在哪裡?",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Pelenge的嘴巴在哪裡?",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "umaw的嘴巴在哪裡?",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "’umao的嘴巴在哪裡?",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "’Umau的嘴巴在哪裡?",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "tamauhlu的嘴巴在哪裡?",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/53/13.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "I sakacowa ko ngoyos ni Omaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44287.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "cyux maki te inu’ nqwaq ni Umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45610.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "in’omawa ngabas hayno’?",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46423.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "intua s Umaw a ruzith?",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47236.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Waga inu ka quwaq na Umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48049.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Isa itu Umau ngulus i?",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48862.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "izainu a angalj ni baru?",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49675.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "yakay inu ku ngudui ki Pelenge?",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50488.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Kgeinu ka quwaq Umaw hug?",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51301.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "yau ta niyan ngibiR ni umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52114.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "mo yoneno na ngayo to ’umao?",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52927.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "ullaya isuwa tu indan kan Umaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54096.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "wajin o ngongoy ni Omaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54909.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "i cuwa ku laway ni Umaw saw?",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55722.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "’esi nanu ’Umau tamna ivici?",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56535.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "paninaua ngusuisa tamauhlu?",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57348.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "chinese_text": "抓到了!",
+      "chinese_variants": [],
+      "image_url": "https://web.klokah.tw/pbc/book/53/14.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Marepet to!",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44288.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "nyux kyapun la!",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45611.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "rakepen ila!",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46424.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "maraiza!",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47237.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Tdiyan di!",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48050.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Damunin!",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48863.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "diname’anga!",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49676.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "pualranganaku .",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50489.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Qrapan mu da!",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51302.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "maqapaR ti!",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52115.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "cu ticuna!",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52928.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "drimutraw lla!",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54097.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "na nimarakep.",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54910.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "mazakep tu!",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55723.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "niatisa’ʉ cu!",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56536.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "matit ʉahlicu!",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57349.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "chinese_text": "哇!!!!",
+      "chinese_variants": [],
+      "image_url": "https://web.klokah.tw/pbc/book/53/15.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Waw!!!!",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44289.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "wa!!!",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/45612.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "wa!",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46425.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "uaa!!!",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47238.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Waw!",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48051.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Ua!!!",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/48864.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "ay!",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49677.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "ya!ya! anika",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50490.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Wau!!!",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/51303.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "wa!!!!",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52116.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "’oa!!!!",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52929.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "wa!!!!",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54098.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "wa!!!",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54911.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "wa!",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55724.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "uaa!!!!",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56537.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "uaa!!!!",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57350.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "chinese_text": "",
+      "chinese_variants": [],
+      "image_url": "https://web.klokah.tw/pbc/book/53/16.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/3206/44290.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/3317/853020.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/3390/46426.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/3463/47239.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/3536/48052.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/3609/853019.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/3682/49678.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/3755/50491.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/3828/77936.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/3901/52117.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/3974/52930.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/4078/54099.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/4151/54912.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/4224/55725.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/4297/56538.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "",
+          "audio_url": "https://web.klokah.tw/text/sound/4370/57351.mp3"
+        }
+      ]
+    }
+  ],
+  "source_urls": {
+    "info": "https://web.klokah.tw/pbc/book/index.php?id=53",
+    "online": "https://web.klokah.tw/pbc/book/online/index.php?id=53"
+  }
+}

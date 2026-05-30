@@ -1,0 +1,34 @@
+# Probe findings for book id=167
+
+## External JS URLs (14)
+  https://www.googletagmanager.com/gtag/js?id=G-F6SD59941C
+  https://web.klokah.tw/plugins/mobile-detect/mobile-detect.js
+  https://web.klokah.tw/plugins/jquery/jquery-3.7.1.min.js
+  https://web.klokah.tw/plugins/javascript/phiricen.url.js
+  https://web.klokah.tw/js/analyticstracking.js
+  https://web.klokah.tw/js/klokah.js?v=2024120200
+  https://web.klokah.tw/pbc/book/online/index.js?1779931345
+  https://web.klokah.tw/plugins/soundmanager/soundmanager2-nodebug-jsmin.js
+  https://web.klokah.tw/plugins/soundmanager/mp3-player-button.js
+  https://cdn.plyr.io/3.7.8/plyr.js
+  https://web.klokah.tw/plugins/klokah/level_label/level_label.js
+  https://web.klokah.tw/plugins/klokah/dialector/dialector.js
+  https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
+  https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js
+
+## PHP endpoints (4)
+  "https://www.facebook.com/sharer/sharer.php?s=100"
+  "member/set_prefer_dialect.php"
+  'get_data.php'
+  'member/get_prefer_dialect.php'
+
+## jQuery AJAX calls (1)
+  get_data.php
+
+## fetch() calls (0)
+
+## JSON/XML paths (0)
+
+## url variables (1)
+  &p[url]=
+

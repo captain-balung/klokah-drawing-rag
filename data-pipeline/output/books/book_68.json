@@ -1,0 +1,2175 @@
+{
+  "id": 68,
+  "title": "貪心的人",
+  "illustrator": "林筱妦",
+  "level": "中級",
+  "grammar_focus": "存在擁有句",
+  "summary": "從前，部落裡有一對窮困的兄弟，貪心虛榮的大哥總是將好的東西占為己有，留下自己看不上眼的給弟弟，乖順勤儉的弟弟也都不敢拒絕哥哥。有一天，弟弟得到了一根會掉下錢的竹子，見錢眼開的哥哥會做出甚麼事情呢?在繪本中我們認識到擁有句跟存在句的語法，例如「我有狗」、「這裡有很多錢」以及否定句的使用。另外故事也傳達出好心有好報，而過多的虛榮貪念是不好的，為得收穫必先付出努力，並學習與他人分享資源。",
+  "language_count": 16,
+  "languages": [
+    {
+      "lid": 1,
+      "language": "阿美語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Iti:ya ho, ira ko ccay tadapakoyoc malakakaay, edeng to ccay ko kolong ato ccay ko waco no loma’.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103712.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Sowal sa ko kaka fa’inayan, oni a kolong no mita pakilacen kako, oni a waco o kilac iso.",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103713.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Kerid han to no safa fa’inayan ko waco talaomah.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103714.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Sanga’ sato cingra to mimingay a kangkang palood han nira i tatirengan no waco, misatapang to mikangkang to omah ko waco.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103715.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Malalok mikangkang ko safa fa’inayan ato waco, ira ko mi’adopay a tamdaw mita’elif, paka’araw cangranan.",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103716.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Tadamahadoway ko faloco’ noya mi’adopay, orasaka pafeli han no mi’adopay ko safa fa’inayan toya tama’.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103717.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Paka’araw ko kaka fa’inayan to safa fa’inayan mitatoy to adihayay pina’adop, raod sa a mitoor.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103718.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Sowal sa ko kaka fa’inayan, adihay ko pina’adop iso, pafelien kako to miming aca!",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103719.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Awa to koya pina’adop noya safa fa’inayan, sa ci’osaw sa deng to tosa to ko lopas.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103720.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Rarom sa ko faloco’ komaen toya lopas ko safa fa’inayan, i tatihi sa mikarkar to tepon ko waco malosapimaan nira?",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103721.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Pilafongan toya lopas molengaw to ko ccay a ’aol, adihay ko ’aresing toya ’aol.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103722.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Adihay ko payso nai ’aolay matefad.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103723.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Sapitekedan saan a paka’araw koya kaka fa’inayan.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103724.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "“ Ano matira aca! o a’adopen, o kolong ato omah ko safalic ako toni a ’aol! ”",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103725.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Nengneng han adihay ko ta’i awaay matefad ko payso i ’aol.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103726.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "To cekok aca koya kaka fa’inayan mato o ’edo comikay a milaliw.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8376/103727.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 2,
+      "language": "泰雅語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "sraral raral. maki sazing mtswe’ mqzinut balay qnxan nha te qalang. nanak qutux kacing ru qutux huzil",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104027.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "qsuyan kman mha sbiq ta kun qu kacing ， sbiq isu qu hozing",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104028.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "maras hozing qu sswe mwah beh slaq",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104029.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "hiya ga kbalay cipoq qibuw sqizi’ na hi’ hozin ， hozin t’aring qmibuw slaq",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104030.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "hozin ki sswe mqnzyat qmibuw slaq 。 maki qutux qutux squliq qmalup hminas ktan nha lhga 。",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104031.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "squliq qmalup sa mtgtung inlungan nya ， nanu i si nya sbiq sswe qu qsinuw",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104032.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "qsuyan ga ktan nya sswe magan su’un qsinuw ， si na say mgluw",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104033.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "kman qsuyan mha cingay balay qsinuw su ， biqi saku cikay ma ！",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104034.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "ungat qu qsinuw sswe la ， nanak sazing qzimux",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104035.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "mngihuy qu inlungan nyu maniq",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104036.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "hmtu qutux ruma beh m’bun rhyal bemux ， khmay sl’uy babaw ruma",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104037.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "cingay balay pila kahun babaw ruma mhotaw la",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104038.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "ktan qsuyan lga aki na si thma magan nanak",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104039.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "nway yasa pi ！ s’agan qsinu ru kacing ki slaq pzyuw rumm su qani 。",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104040.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "babaw ruma ini pila ， nanak cingay quci",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104041.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "qsuyan ga memaw mnkux giwan qoli’ wal m’gyay la",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8404/104042.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 3,
+      "language": "賽夏語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kakhayza’an, ray ’aehae’ hito’ ’izo’ hayza roSa’ ka ’aehael ’ima kokosan, ray taew’an ’apna’aehae’ nanaw ka katin ki ’aehoe’.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104342.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "minatini’ komSa:, \"hini ka katin ’iniman, ka ’aehoe’ ’iniSo’.",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104343.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "minayti’ maraS ka ’aehoe’ mowa:i’ ray pinatiyay.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104344.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "siya paskayzaeh ’aehae’ ka ’ima ’ol’olae’an ka ’iyabokol Sihalay kan ’aehoe’ ray basang, ’aehoe’ tal’oemaeh ila.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104345.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "minayti’ ki ’aehoe’ makakreng patiyay. ’aehae’ kama’alop mayziza, komita’ hi lasiya",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104346.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "nakhara paka’alo’an, ’isa: ka ’inalop nisiya Sibo:ay ka hiza minayti’.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104347.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "minatini’ komita’ noka minayti’ kin ’akoy ka ’inalop, ’isa: rima’ taniSowaw.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104348.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "minatini’ komSa’, \"niSo’ kin ’akoy ka ’inalop, bo:ayani sowiti’ ’iyakin!",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104349.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "noka minayti’ ’inalop ’oka’ ila, roSa’ ila nanaw ka ’a:imapizosan.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104350.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "minayti’ ’ima somi’ael ka ’a:imapizosan ’aewhay ka hin’az’azem, ’aehoe’ ray kabih komowih ka ra:i’ kapowa’an?",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104351.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "hinbeng ka ’a:imapizosan sem’el ila ka raromaeh, ray raromaeh babaw ’akoy lamo:.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104352.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "ray raromaeh monhae:ae’ ’akoy ka rayhil.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104353.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "minatini’ komita’ ila yakina raylis ila.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104354.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "\"takahini! ma’an hini ka ’inalop, katin o pinatiyay tasapih ka ’inSo’a raromaeh!",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104355.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "raromaeh ’okay ’onhae:ae’ ka rayhil ka sa’i’ ila nanaw.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104356.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "minatini’ ’ima homSeS ma: ka ’aewhaeS rae:iw ila.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8432/104357.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 4,
+      "language": "邵語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kahiwan, ianan latata wa kataunan itia latusha wa minlhafut uka s tuali, muqayiza thithu a taun ianan latata wa qnuan masa latata wa atu.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103290.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "minlhafut mzai, qalushan yamin haya wa qnun lhai yakin numa haya wa atu lhai ihun.",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103291.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "shashuazi kmathu sa atu munai ripnu a shirshir.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103292.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "kmalawa thithu sa langqaqisusay a wandan qmuthquth isa atu a buut, lhmazawan puqnuan sa atu.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103293.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "atu masa shashuazi makarishkish puqnuan sa ripnu. munsai sa latata wa muribush a thau, numa minriqaz thaythuy.",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103294.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "muribush a thau mathuaw madaydaz, numa pansha shashuazi sa bahi.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103295.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "minlhafut mriqaz sa shashuazi mara sa manasha sa bahi, numa muntal thithu.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103296.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "minlhafut mzai, mathuaw ihu manasha sa bahi, aliwak ladadu!",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103297.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "ukaiza sa shashuazi a bahi, muqayiza latusha wa kalup tininashan.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103298.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "shashuazi antu maqitan a shnaw kmaan sa kalup, numa sa atu qa ishirshir tmabraq?",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103299.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "izai sa kalup sabuan a pruq, mu’apaw sa latata wa qaulh, qaulh a fafaw ianan mathuaw manasha wa samuq.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103300.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "mathuaw manasha sa tuali munsahai sa qaulh a fafaw matanlhathaq.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103301.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "minriqaz sa minlhafut numa ashawthithun.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103302.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "“piazithuiza! pasain yaku sa bahi、 qnuan masa ripnu mashiwan sa haya wa qaulh!”",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103303.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "qaulh a fafaw niza tu matanlhathaq sa tuali muqayiza mathuaw manasha sa thaqi.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103304.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "minlhafut muqthuaw minmashmash musha.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8328/103305.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 5,
+      "language": "賽德克語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Cbeyo, niqal kingan alang meniq kingal mqrinuc mtswai, wana naq kingal dapa daha ka huling meniq sapah daha.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104657.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Mrengo ka qbsuran mesa, \" Ppsugo ta naku ka dapa ma nisu ka huling. \"",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104658.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Musa yqeyaq madis huling na ka swai rseno.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104659.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Smmalu kingal udung biciq sqeya na ka huling mtabul yqeyaq.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104660.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Kndrumuc ba tmabul yqeyaq ka swai rseno daha ka huling. Moda hiya kingal ka seediq mqlmiqu, bale ba qmita dheya peni.",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104661.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Asi maku mttilux ba lnlungan na qmita, ma sbege na hi ka camac mnangal na.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104662.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Qmita knkana ba hei camac na sawi ka qbsuran, musa smnegul hiya.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104663.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Mesa ka qbsuran, \" Keyan ba ka hei camac su nii, biqi ku tikuh wa! \"",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104664.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Wada uka kana ka hei camac na swai, wano naq daha aring ka msngari hi di peni.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104665.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Naqah ba kuxul na mekan aring ka swai, ma hmuwa lux ka huling na ni kmari beling ssiyo na hii peni?",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104666.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Rneesan na buucu aring hiya ni hmeru kingal btakan di. Knkana ba ka dremus ga btakan baro hiya.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104667.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Ani ba knkana ka pila mtuting kndalax bobo btakan hiya di peni.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104668.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Qmita ka qbsuran na mgpgeeluk mangal.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104669.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "\" Kiya! Pryuxe ta hei camac, dapa, ma yqeyaq mu ka btakan su nii di kini. \"",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104670.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Uka mtuting pila ka btakan di! Wano naq quti ka kneegu peni.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104671.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Wada lux mgqolic snklwiyan na qduriq ka qbsuran di.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8460/104672.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 6,
+      "language": "布農語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Habasang, aiza isia asang mahanglas tu dadusa nanaz-tas’an, aizan inaicia lumah tasa tu hanvang mas tasa tu asu.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104972.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Tupa tuhasnanaz tu, Pavazun tu hanvang hai painak, asu hai paisu.",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104973.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Madas naubananaz mas asu kusia silas bangkal.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104974.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Kauni sai’ia tu tasa kauma’ikit tu islakangkang vilisun sia asu, kitngab asu lakangkang.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104975.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Asu mas naubananaz hai malusbut lakangkang, Aiza hahanup lahaip, sadu naicia.",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104976.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Samasial hahanup-bunun, at isaiv sinhanup mas naubananaz.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104977.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Sadu tuhasnanaz tu maldikus naubananaz mas supah tu cici, at minadip.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104978.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Tupa tuhasnanaz tu, supah isu cici, saivav saikin tu kauman!",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104979.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Ukain itu naubananaz cici, kaupin dusa halup.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104980.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Naubananaz hai makuang is’ang maun halup, isisila asu makazkaz napinmaz i?",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104981.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Hailtuman halup hai tal’iaan mas tasa tu talunas, supah damuh idadaza sia talunascia.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104982.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Supah sui maisna talunas muhalhal.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104983.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Sadu tuhasnanaz hai asa saham.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104984.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Aupacin tu! Maku’uni saikin cici, hanvang sinmas bangkal ispauvaiv mas talunastan.",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104985.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Nii talunas uhalhalan sui kaupa mas supah tu taki.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104986.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Cinhuza tuhasnanaz at min’uni aluaz sankuaskuas.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8488/104987.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 7,
+      "language": "排灣語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kasicuayan, izua aza a ta’inaljanan izua aza a marekaka a mapulju aravac, amin a ita a ljuwang katua vatu niamadju.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105287.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "“aicu a ljuwang niakenay, aicu a vatu nisunay.” aya a kaka a tjavulung.",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105288.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "nakemacu tua vatu azua a kaka a tjaljaljak a semavavua.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105289.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "nasemanpavilin timadju a pituazua a vatu, pay patagilj a pavilin a vatu.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105290.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "kisamuljamulja a pavilin azua a kaka a tjaljaljak katua vatu. izua aza a cinunan a nacemalivat, pacun tjaiamadju",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105291.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "sa’etju a varung nazua a cinunan, pay vayan azua a kaka a taljaljak tua sacemel.",
+          "chinese_text": "獵人覺得很難過，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105292.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "pacun azua a kaka a tjavulung tuaza kaka nimadju a mapelju’ a sacemel, pasakiayan timadju.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105293.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "“liyav a su sacemel, pangalji aken tu pida!” aya azua a kaka.",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105294.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "nekanganu sacemel nua kaka a tjaljaljak, aminanga a drusa a ’udis a teza.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105295.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "masamaz a kemakan tua ’udis aza a kaka a tjaljaljak, ’aw i tjuljivar a vatu a kemalikali ’adav kiuri sikuda azua?",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105296.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "azua a tinaleman tua ’udis cemuvu’anga tua ’au, liyav a ljadjek i tua ’au.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105297.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "manu liyav a paysu a kemasi tua ’au a makelu.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105298.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "kapacun a kaka kivalj tu sannimadjuin.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105299.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "“nangua’ a tja ’atucuin! ku sipavalitan a ku sacemel, ljuwang katua ’uma tua su ’au.”",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105300.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "azua a ’au nekanu paysu a namakelu ca’i a liyav sakamaya.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105301.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "marekutj azua a kaka sa masankulavav a mavilad.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8516/105302.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 8,
+      "language": "魯凱語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kupaswalala, ikay ki cekele yakay ku maruadradrusa kitulalake ku matikukuru ku lamataka ka sawvalay, ku tacekecekelanelini kathane ku vaeva ku lwange si tawpungu.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105602.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "ku takataka la iya kay, kuta ka lamataka kikay lwange baadha nakuane, ala kay tawpungu tabaai musuane.",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105603.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "kay agiagi la iluku ki tawpungu si kelanga ki umauma.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105604.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "kay lasu la tukaciya ku sapavilrivilringane si pasikaciya pikay ki kinawmasane ki tawpungu, kui tawpungu ala pathagilinga pavilringi ki kadaengane.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105605.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "kay tawpungu si agiagi la kisamula pavilringi. yakay ku taraalualupu la ngukakay ki umauma, si drelenga liniane.",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105606.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "kui taraalualupu la ikay ku samalianeini sakidremedremaneini, si malra kuini panaini baai ki agiagi.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105607.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "kui takaini sadrele ki agiini samalra ku makalra ku bulabulay, la mua tupapalra iniane.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105608.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "kay takataka la iya kay, kay makalra kay bulabulaysu, asu luvalasu nakuane!",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105609.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "laka kadruanga ku bulabulay ki agiagi, sika kathanenga kay druadrusa kay mumu.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105610.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "kay agiagi la kasamadre si takukanekane kay mumu, kui tawpunguini la ikay ki babiabilaini luka wakeakeale tumatumane?",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105611.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "kay takidralrekane ki mumu ala cebe ku vaeva ku balebale, kui balebale la kakalra ku lamu.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105612.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "la mururu ku makalra ku paisu twalay ki balebale.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105613.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "sadrelenga kuini takataka ku kidremedremeini apiamalra si naungipapikay iyaiya.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105614.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "“lu miya kuini! ala naumalra kay bulabulay, lwange si kadaengane mabalrithi musuane kikay balebale!”",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105615.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "kui balebale la kai mururu ku paisu sika kathane ku lacaki ku ngiabuale.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105616.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "kui takataka ala kasamali si atilanga mubere katwase.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8544/105617.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 9,
+      "language": "太魯閣語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Sbiyaw, niqan mddha qrinut bi mnswayi ga mniq kingal alang hiya, wana kingal bi kacing ni kingal bi huling ka ruwan sapah dha.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105917.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Rmngaw ka qbsuran snaw, seasug ta knan ka kacing nii, seasug ta sunan ka huling nii.",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105918.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Madas huling miyah dhuq siyaw qmpahan ka swayi snaw.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105919.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Psaun na babaw hiyi huling ka bilaq sakur pnsnalu na, prajing psakur ka huling.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105920.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Mdrumut bi psakur ka huling ni swayi snaw. Muda hi ka kingal emptsamat, qmita dhyaan.",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105921.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Kruh msa lnglungan na ka emptsamat nii, kiya ni wada na sbgay swayi snaw ka samat.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105922.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Qmita swayi snaw mnangal htngay bi samat ka qbsuran snaw do, ki snegul na smkla.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105923.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Rmngaw ka qbsuran snaw, niqan lala bi samat ka isu, biqi saku cih wa!",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105924.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Ungat kana ka samat swayi snaw da, wana dha qlupas ka mnsngari.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105925.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Naqih kuxul na mkan qlupas ka swayi snaw, manu kriun na bling dxgal siyaw hika huling hug?",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105926.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Mhru paah dxgal rbngan qlupas hika kingal pusu djima, lala bi drmul ka babaw djima.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105927.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Mtucing paah babaw djima ka lala bi pila.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105928.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Qmita ka qbsuran snaw do mkmbrxun na nanak.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105929.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "“Kshaya da! Ryuxi misu samat, kacing ni qmpahan ka djima nii wah!”",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105930.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Ungat ka pila mntucing paah djima wana lala bi quci nanak.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105931.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Mskluwi bi ka qbsuran snaw ni maa qowlit wada qduriq da.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8572/105932.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 10,
+      "language": "噶瑪蘭語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "masang, ta ussiq damuan yau kinawsa mesusupa ay Runanay nansuani, ta lepawan na wanma ussiq qabaw seRay ussiq wasu.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106232.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "semanu ya qaqa, sinapu ita zau ussiq qabaw sabulan timaikuan, zau ussiq wasu sabulan timaisuan.",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106233.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "mazas suani na tu wasu matiw sa zenna.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106234.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "semangi aizipna tu usssiq kitut ay tabi paqawitan na ta izipan na wasu, siangatu ti temabi wasu.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106235.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "wasu seRay suani malemes temabi. yau paqenanem pasalawan melaziw, taytan na ti qaniyau.",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106236.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "taytan na ti pasalawan pa qayaw anem na, tuRuz na bulan na ti tu nisalawan suani na.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106237.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "taytan na ti qaqa na puniR nialan na suani tu nisalawan pasan, kulikuzan na ti matiw.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106238.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "semanu ya qaqa, muwaza pasan su nisalawan, bula iku tu qakiya!",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106239.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "mai ti tu nisalawan pasan suani na, wantima uzusa lupas.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106240.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "qeman tu lupas ya suani taRaw anem na, yau ta kinilan wasu kemutkut tu tangan sapaqunian na ya?",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106241.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "ta nitaneman tu tisan na lupas sumRuz tu ussiq tenayan, ta tenayanan yau muwaza uRas.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106242.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "yau muwaza kelisiw maqezi ta tenayanan temibuq.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106243.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "taytan na ti qaqa na ngidan na ala tu sazana.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106244.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "“nazau pa! yau nisalawan ku pasan, qabaw seRay zenna sedes aka isu tu tenayan zau!”",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106245.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "ta tenayanan mai ti tu kelisiw temibuq wantima muwaza tad.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106246.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "meRetut ya qaqa meRamutun meRaRiw ti.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8600/106247.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 11,
+      "language": "鄒語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "ne noana’o, to coni ci hosa pano mosola na’no thicia ci nat’ohaesa, to emoohe moc’o coni ci ’uachumu ho coni ci av’u.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106547.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "yainca to ohaevasi, mate faeni a’o ’e ’uachumu, faeni suu ’e av’u.",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106548.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "isi hafa to ohaesasi ’o av’u ho uhto ezoy.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106549.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "mo mooyai to okono tu’u ho ngov’eni to av’u, micu ahoi ef’ongʉ ’o av’u.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106550.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "mo asno’zonʉ ef’ongʉ ’o av’u ho i’o ohaesasi. panto cihi le eafou mo sucaefi ho teolʉi.",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106551.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "mo na’no mau’no’na’o ’o le eafou, isicu faeni to ohasasi ’o fou.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106552.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "aiti to ohaevasi ’o ohaesasi mo man’i ’o isi hafa ci fou, cu to’ofeihni.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106553.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "yainca to ohaevasi, mo man’i si fousu, ake’a fii a’o!",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106554.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "uk’anacu ’o nia fou to ohaesasi, micuc’o yuso ci bʉnʉvhʉ ’omo nongaco.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106555.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "mo nac’o ’o ohaesasi ho bonʉ to bʉnʉvhʉ, mo yonto ciengonasi ’o av’u ho meifeongo cuma na isi hioa?",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106556.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "’o isi efo’i to bʉnʉvhʉ mo cmʉfeʉ ’o mehacni ci kaapana, mo man’i ’o smuu to kaapana.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106557.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "panto man’i ci peisu mo i’mi to kaapana ho supeopeohʉ.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106558.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "aiti to ohaevasi isi ’ucia taachi.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106559.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "“mate maica! te’o boemi ta fou, ‘uachumu ho ezoyʉ te’o peʉezeni ta kaapanasu!”",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106560.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "o’anamo yaa supeopeohʉ ci peisu ta kaapana zoucuc’o man’i ci t’ee.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106561.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "mo yamci ’o ohaevasi hocu tmuezuhu buhci cu toekameosʉ",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8628/106562.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 12,
+      "language": "卑南語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "a asuwa driya, kadru a miyadruwa a maluwadi kadri drekall. tu kallamallamanan i, maumau a saya tu gung aw a saya tu suwan tu pinimanayan.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106862.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "“na gung i, ti pininiaw. na suwan i, nanu.” kema i baetaw na mainayan.",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106863.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "tu kasuyaw na suwan muka i uma kantu wadi na mainayan.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106864.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "demaway dra saya aw dra makiteng dra kangkang. tu alayanay kana suwan. aw kemirami kemangkang i uma na suwan.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106865.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "na suwan aw tu wadi na mainayan i, salaw raemetr kemangakng i uma. melibat a misasa a paaallup. menau kanadru i,",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106866.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "salaw sadeku na paaallup. aw tu berayay tu wadi na mainayan dra rawa.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106867.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "i baetaw na mainayan i, menau kantu wadi dra inirabangan dra sadru dra rawa. aw tu taturusaw.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106868.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "kemadri i baetaw na mainayan, “sadru nu rawa. berayi ku driya dra samasamaya!” kema.",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106869.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "uniyan lla dra rawa tu wadi na mainayan. musama a lupas a druwaya.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106870.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "tu wadi na mainayan i, salaw kuwatis tu wanger a maekan kana lupas. kadru i saninin kemerutr dra buwang na suwan. “a kakudayan?” kema.",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106871.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "kana trinebellan kana lupas i, temelliyu a basikaw a saya. sadru a ulas kana basikaw.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106872.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "kemay kana basiyaw i isatr mutani a sadru a paisu.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106873.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "menau i baetaw na mainayan i, ti pinantayaw kema.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106874.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "“ta kuwadriyaw lla! na rawa, na gung aw na uma i, ti drulunanay kandri na basikaw i!” kema i baetaw na mainayan.",
+          "chinese_text": "哥哥說：「這樣吧!我用獵物、牛和田跟你交換這個竹子吧！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106875.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "uniyan dra paisu dra kemay kana basikaw mutani. aw mutani a sadru a trai.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106876.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "tu kinageraregeran kan baetaw na mainayan i, mutukulabaw penuwar.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8656/106877.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 13,
+      "language": "雅美語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "no kakwa am, a myan do asakeyli so peymotdahen da mangasi a miketeh, asa o pavahain da ino kano asa ka baka da.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107177.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "maniring o kaka na ji wari na am, vonong ko o baka ya, vonong mo o ino ya.",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107178.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "paloloen na no ananak o ino na mangey do niakawan na.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107179.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "kapamaring na so kayo a pangain na do popotowan no ino, a ihakakow na.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107180.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "mowyat o ananak a amhakakow. asa ka tao o meyliktow jira am, to na nita sira.",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107181.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "ikabo na no nakem, ka tona rana norohan no nimahap na omowmalalam do ananakak ang.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107182.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "macita no kaka na si wari na mangap so aroo a viney am, onotan na.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107183.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "maniring si kaka na am, yaro jimo o viney, ipasina mo pa yaken an.",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107184.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "adowa ka kamala rana o nimavezed do ananak a kakteh na ang.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆毛柿。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107185.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "marahet o onowned ni wari na koman so adowa ka kamala rana ang, ya makongo o ino do katangked na ya meykowkow so tana ang?",
+          "chinese_text": "弟弟傷心地吃著毛柿，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107186.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "o nibobo da a kamala am to lida tomyok a kawalan, aro o appopon. do voong na.",
+          "chinese_text": "埋毛柿的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107187.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "aro o nizpi a mikahehekas do kawalan ang.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107188.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "macita ni kaka na am tona ji ngamowga iyaponged. na",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107189.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "nona! paliten ko no viney kano baka kano akawen o kawalan eya an!",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107190.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "aboata rana o nizpi a makas do kawalan obowbot o mikahekas.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107191.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "to ogto a manyahey si kaka na am to meyvaliw a karam malaylayo rana mangey.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8684/107192.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 14,
+      "language": "撒奇萊雅語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "yu sumamad, cacay a niyazu’ izaw ku pakuyucay a malekakaay, cacay ku katalalan atu wacu nu luma’ nuheni.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107492.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "sakamu satu ku kaka, “u maku ku katalalan, u wacu ku nu misu.”",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107493.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "ladayen nu saba ku wacu taumah.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107494.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "sangaen niza ku adidiay a tabi pasiketen niza i wacu, malingatu tu ku wacu mitabi.",
+          "chinese_text": "做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107495.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "mabilil mitabi ku wacu atu saba. micaliway ku miadupay, makazih tuhinian.",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107496.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "manamuh ku miadupay, paanin han tu niadupen ku saba.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107497.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "mazih ni kaka matumes nu aadupen ku nikapetan nu saba, mikilul ku kaka.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107498.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "sakamu sa ci kaka, “yadah ku aadupen isu, paaninen kaku saw!”",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107499.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "nai’ tu aca ku aadupen nu saba, tusa tu ku lupas adada’ ku liwan.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107500.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "malalum ku saba mukan tu lupas, mihica hakya ku wacu? itapiingan tu mikutkut misabuhang.",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107501.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "ya nitademan tu lupas mulangaw tu tu auk, tanu lesing sa ku auk.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107502.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "yadah ku kalisiw mahetik makayza i auk.",
+          "chinese_text": "有很多錢竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107503.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "makazih satu ci kaka maydih micebis a sanizaan.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107504.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "“mahica saw! u aadupen, katalalan atu umah ku sapibalic aku tu auk isu!”",
+          "chinese_text": "「這樣吧!我用獵物、牛和田跟你交換這個竹子吧!」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107505.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "nai’ ku kalisiw mahetikay u tai’ adada’ ku mahetikay nu auk.",
+          "chinese_text": "竹子上沒有錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107506.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "matawid ku kaka mala edu’ tu maduba’ tu mulaliw.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8712/107507.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 15,
+      "language": "卡那卡那富語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "miana, ’esi na ucani tanasʉn. ’una nakapepe tassa kinvaia. tanasani ’inmaamia ucani karavung mataa ucani tacau.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107807.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "makasi kanaa’ua sovunguʉn mita. sua karavung ia vuʉn ’ikua. vuʉn kasua sua tacau.",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107808.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "ariviciʉn kanaarua sua tacau muukusa ciciri ’umoo’uma.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107809.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "nikamanʉngʉ nguain ti’ingai siarikava tumatini na tacau. makasua cu parikava.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107810.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "kipatʉsʉ tacau mataa kanaarua parikava. ’una tacini niaracakanʉ cau maica ’inia cumacʉ’ʉra nguani.",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107811.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "cucuruana kacangarʉn! umara niaricana moovua kanaarua.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107812.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "cumacʉ’ʉra kanaa’ua ’una kanaarua tamna niaracakana. kipapa ’inia.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107813.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "makasi kanaa’ua, ’ituumuru niaracakana musu. vuo ku ti’ingi.",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107814.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "’akia cu kanaarua tamna niaracakana. ’inmaamia cu urucin mamiiriki.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107815.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "aka cʉpʉngʉ kanaarua kumakʉnʉ mamiiriki. ’esi na ciciriin tacau kumakoru tarako, neni kusai vanai?",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107816.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "to’unaa ni’avunua mamiiriki aratʉmʉ ucani to’umangʉ. ’ituumuru na to’umangʉ tucu’u canumu.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107817.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "’ituumuru vaantuku aranai to’umangʉ matapari’i.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107818.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "cumacʉ’ʉra kanaa’ua, pacʉpʉngʉ tia marisuacʉ ’inia.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107819.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "“makaasia kʉcʉ, ’uruupaca ku niaracakana, karavung mataa ’umoo’uma mapuiri to’umangʉ isi.”",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107820.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "’akia niaranai to’umangʉ matapari’i vaantuku. ’inmaamia ’ituumuru ta’i.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107821.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "arakicacʉ kanaa’ua! tuiisua cu tongingi manguru.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8740/107822.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 16,
+      "language": "拉阿魯哇語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kiariari, maru a muriturua ma miararuma, kupivahlituku, saliaisa cacihli kalavungu hla tasau sangalʉ.",
+          "chinese_text": "從前，在一個部落裡有一對很窮的兄弟，家裡只有一頭牛和一隻狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108122.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "amihla ahlalua na, pususutai kalavungu ia isikanaku, tasau ia isikanau.",
+          "chinese_text": "哥哥說，我們把這頭牛分給我，這隻狗分給你。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108123.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "ruavici hlimilavaʉ na tasau mahlukua hlipatuaiiailia.",
+          "chinese_text": "弟弟帶著狗來到田邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108124.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "tumamahlʉngʉ kana’ana maini siriakava paungua tihla’ahlʉisa tasau na, rumiacu tasau na mariakava.",
+          "chinese_text": "他做了一個小犁戴在狗身上，狗開始犁田。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108125.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "tama’iarʉ hlimilavaʉ hla tasau marikava, micalivi a cacihli cucumuruacʉka taratʉahlʉ hlakana’ana.",
+          "chinese_text": "狗和弟弟認真地犁田。有一個獵人經過，看到了他們",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108126.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "mavacangʉ tʉkʉisa cucumuruacʉka na, umala kana’ana hliʉrʉcʉkaisa uvurau hlimilavaʉ.",
+          "chinese_text": "獵人覺得很感動，於是就把獵物送給弟弟。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108127.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "kumita ahlalua na matumuhlu papaisa hlimilavaʉ.",
+          "chinese_text": "哥哥看到弟弟拿著滿滿的獵物，便跟上去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108128.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "amihla ahlalua na, matumuhlu a papa’au, vuriaku mau maini.",
+          "chinese_text": "哥哥說，你有很多獵物，給我一些吧!",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108129.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "uka’acu papaisa hlimilavaʉ na, usuacu hlimʉtʉngaʉ mimiliki ’ukuhlucu.",
+          "chinese_text": "弟弟的獵物都沒有了，只剩下兩顆桃子。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108130.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "takuliacʉ tʉkʉisa hlimilavaʉ na uumumu mimiliki ’ukuhlucu, ta’iaraisa tasau na ma patʉkʉ kumakali tahluru",
+          "chinese_text": "弟弟傷心地吃著桃子，狗兒在一旁挖洞做什麼呢?",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108131.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "parana cumahlumu tutu’u mimiliki ’ukuhlucu na tumangura ucani racu’u, matumuhlu a urasʉ ma racu’u na.",
+          "chinese_text": "埋桃子的地方上長出了一根竹子，竹子上有許多露水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108132.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "maru a matumuhlu vahlituku angahli racu’u na mucapi.",
+          "chinese_text": "有很多錢從竹子上掉了下來。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108133.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "taratʉahlʉ a ahlalua rumahlaʉ, tumua saricacihli.",
+          "chinese_text": "哥哥看到之後想要占為己有。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108134.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "aunana ia maruamiaku hliʉrʉcʉka kalavungu hla hlipatuaiiailia arupapualiuhlu racu’u na.",
+          "chinese_text": "“這樣吧!我用獵物、牛和田跟你交換這個竹子吧!”",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108135.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "uka’acu vahlituku mucapi, rianicu ti’i ka mucacapi sangalʉ.",
+          "chinese_text": "竹子上沒有掉下錢只有很多大便。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108136.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "arakicacʉ a ahlalua na marataluvucu micuhlu.",
+          "chinese_text": "哥哥嚇得變成老鼠跑走了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/8768/108137.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/68/16.jpg"
+        }
+      ]
+    }
+  ],
+  "source_urls": {
+    "info": "https://web.klokah.tw/pbc/book/index.php?id=68",
+    "online": "https://web.klokah.tw/pbc/book/online/index.php?id=68"
+  }
+}

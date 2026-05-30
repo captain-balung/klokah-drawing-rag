@@ -1,0 +1,1919 @@
+{
+  "id": 57,
+  "title": "酒醉的山豬",
+  "illustrator": "周楷樺",
+  "level": "初級",
+  "grammar_focus": "動態動詞",
+  "summary": "老鷹和小山豬約好了一起遊玩，老鷹卻一直找不到小山豬，途中問了其他動物，但大家都在做別的事情所以不知道，究竟小山豬去了哪裡呢?故事中介紹了許多動詞，可以搭配語法「因為__在…」更替動詞做練習。還有「去問誰」的句法使用。最後故事也傳遞了守信的重要觀念。信用是我們生活中非常重要的事，不僅是人與人之間的相處之道，遇到任何事能否守信用也是負責任的表現。",
+  "language_count": 16,
+  "languages": [
+    {
+      "lid": 1,
+      "language": "阿美語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Maharateng no ’alilis ko katatelek malacafay a misalama ato ciciw , orasaka tayni mikilim to ciciw ko ’alilis .",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44517.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Tayra milicay to ’ayam ko ’alilis , mafokil kako han no ’ayam , nawhan romadiw cingra .",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44518.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Tayra milicay to lotong ko ’alilis , caay kafana’ kako han no lotong , nawhani mikalic i kilang cingra .",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44519.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Tayra milicay ko ’alilis to ekong , mafoti’ ko ekong caay sikolen nira .",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44520.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Tayra milicay ko ’alilis to mangcel , mafokil kako han no mangcel , nawhan miteroc cingra.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44521.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Tayra milicay ko ’alilis to takolil , mafokil kako han no takolil , nawhan comikay cingra.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44522.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Tayra milicay ko ’alilis to waco , mafokil kako han no waco , nawhan mi’it’it to ’okak cingra.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44523.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Tayra milicay ko ’alilis to malonem, mafokil kako han no malonem, nawhan minanom cingra.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44524.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Pikiliman aca no ’alilis tahira sa katoeman no romi’ad.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44525.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Makera no ’alilis ko dihif, kaikor no dihif ira ma’araw nira ko tata’akay fangcalay mato teleng no folad.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44526.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Safaloco’ sato ko ’alilis micomod tora dihif a pahanhan.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44527.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Haciw!",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44528.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "O maan nasa, o tepon no ngoso’ nora fafoy no lotok!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44577.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Na o ciciw ho tata’ak to koya fafoy no lotok! hinam han mahecad o malasangay to cingra.",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3222/44578.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 2,
+      "language": "泰雅語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "mnglung qu kwali’ mha, aki musa mcisal uyuk bzyok qnhyun, nanu yasa qu muwah mhkangi’ uyuk bzyok qnhyun qu Kwali’.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45366.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "musa maqut qbhniq qu kwali’, kmal qu qbhniq mha: ini’ ku qbaq, baha hmswa’ cyux mqwas qu hiya.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45367.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "musa maqut yungay qu kwali’, ini’ ku’ qbaq mha kmal qu yungay, baha mswa’ mkaraw babaw qhoniq qu hya.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45368.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "musa maqut nguziq qu Kwali’, cyux m’abi’ qu nguziq ini’ nya psyuki.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45369.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "musa maqut para’ qu Kwali’, ini’ ku qbaq mha qu para’, baha mswa’ cyux mstoput qu hya.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45370.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "musa maqut usagi’ qu kwali’, kmal qu usagi’ mha ini’ ku qbaq, baha hmswa’ cyux mqzinax qu hya.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45371.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "musa maqut huzil qu Kwali’, kmal qu hozil mha ini’ mu qbaq, baha mswa cyux qmtu’ qni’ qu hya.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45372.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "musa maqut bqanux qu Kwali’, kmal qu bqanux mha ini’ qu qbaq, baha mswa’ cyux trang mnbuw qsya’ qu hya.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45373.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "memaw si khngan mhkangi’ uyuk bzyok qnhyun qu Kwali’.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45374.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "muluw qutux bling qu Kwali’, suruw bling ga cyux qa hopa ru betunux balay ni byacing.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45375.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "myup ska bling ru si blaq mhngaw kya qu Kwali’.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45376.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "ha cyuh!",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45377.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "baq nyux maki’ te bling nguhuw na bzyok qnhyun!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45378.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "wal mtyaba’ balay na bzyok qnhyun qu uyuk bzyok qnhyun qani’ la, yani nyux mbusuk hazi uziy la!",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3293/45379.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 3,
+      "language": "賽夏語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kowaw mahoero: ki waliSan ’am ma’onhael rima’ Siyae’, ’isa: kowaw mowa:i’ komi:im ka waliSan.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46179.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "kowaw rima’ somingozaw ka kabkabaehae:, kabkabaehae: komSa’ ’okik ra:am, siya ’ima matol.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46180.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "kowaw rima’ somingozaw ka hosong, hosong komSa’ ’okik ra:am, siya mam ta:itol ray kahoey.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46181.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "kowaw rima’ somingozaw ka kal’oe’, kal’oe’ minae’rem ’okay kita’ hisiya.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46182.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "kowaw rima’ somingozaw ka hako’, hako’ komSa’ ’okik ra:am, siya mam tomkaw.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46183.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "kowaw rima’ somingozaw ka hotok, hotok komSa’ ’okik ra:am, siya mam ’ae’ae:aew.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46184.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "kowaw rima’ somingozaw ka ’aehoe’, ’aehoe’ komSa’ ’okik ra:am, siya mam komotkot ka boe’oel.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46185.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "kowaw somingozaw ka wa’ae’, wa’ae’ komSa’ ’okik ra:am, siya mam milralom.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46186.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "kowaw komi:im tabin yasi’wi’ ila.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46187.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "kowaw Sahoero: ila ka hoeroe’, ray hoeroe’ hikor hayza ’ima sopaloy o ima kayzaeh kita’en ka ’ilaS.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46188.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "kowaw homayap rima’ ray hoeroe’ ’izo’ ’am maSangay ila.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46189.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "hae’tiS Sa’!",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46190.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "’isa: ay, hiza ’inoka waliSan a ka kangeselan!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46191.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "’ima ’ol’olae’an waliSan sopaloy ila! siya nakhara ’ima boSok.",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3366/46192.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 4,
+      "language": "邵語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "qabus mangqtu sa wazish a huqi amatilhduu amuntal kilhnaqualh, numa qabus munai kmilhim wazish a huqi.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/46992.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "qabus pakikalhi rumfaz, rumfaz mzai maura, maqa thithu maqaquyash.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/46993.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "qabus pakikalhi kuthun, kuthun mzai maura, maqa makurada thithu ribush.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/46994.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "qabus pakikalhi shmadia, shmadia malhusiza uka tu talai thithu.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/46995.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "qabus pakikalhi takith, takith mzai maura, maqa minparaw thithu.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/46996.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "qabus pakikalhi taparuz, taparuz mzai maura, maqa thithu malalia.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/46997.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "qabus pakikalhi atu, atu mzai maura, maqa mrasras thithu puqu.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/46998.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "qabus pakikalhi lhkaribush a qnuan, lhkaribush a qnuan mzai maura, maqa thithu miqilha sa sazum.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/46999.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "qabus kmilhikilhim shihumhuman.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/47000.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "qabus ungqtuan sa hudun a mabraq, hudun a mabraq sa tanarikus itiauan mathuaw mara’in numa maqitan a furaz a nipin.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/47001.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "qabus taniza amarfaz mutmal sa hudun a mabraq iutu pangqa.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/47002.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "“Haciw!”",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/47003.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "naur, huya wa wazish muzin a mabraq!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/47004.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "uaa! wazish a huqi minmara’iniza! numa miazai thithu inishqala.",
+          "chinese_text": "哇!小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3439/47005.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 5,
+      "language": "賽德克語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Lmngelung pnrngagan msuupu mtheyaq di boyak ka qdiro, kika musa skadi boyak ka qdiro.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47805.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Smiling qbheni ka qdiro. Ini ku kela mesa ka qbheni. Anu waga muuyas uyas ka heya.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47806.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Musa smiling runge ka qdiro. Ini ku kela mesa ka runge. Anu waga mkaro qhuni ka heya.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47807.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Musa smiling tekung ka qdiro. Waga mtaqi ka tekung. Ini na tqtai.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47808.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Musa smiling pada ka qdiro. Ini ku kela mesa ka pada. Anu waga milo brbaro ka heya.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47809.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Musa smiling qolic wewe ka qdiro. Ini ku kela mesa ka qolic wewe. Anu waga tmalang ka heya.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47810.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Musa smiling huling ka qdiro. Ini ku kela mesa ka huling. Anu waga qnteqic buuc ka heya.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47811.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Musa smiling rqenux ka qdiro. Ini ku kela mesa ka rqnux. Anu waga mimah qsiya ka heya.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47812.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Asi maku mnkuung karac snkdiyan na ka qdiro.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47813.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Smdiyan kingal lhengo ka qdiro. Bukuy na lhengo niqal kingal knpruwan knbtunux na ka waqic idas.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47814.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Skiya lmngelung mpsange lhengo truma ka qdiro.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47815.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "“Haciyu!”",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47816.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Kela naq beling muhing na boyak ka kiya!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47817.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Wada paru kndkilan na ka wawa boyak di! Ma, ni so hari mnimah bsukan di peni!",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3512/47818.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 6,
+      "language": "布農語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Cinliskin kukuav tu maipatupa babu-auhaz tu namuskun mapahainan, at kudip kukuav kilim babu-auhaz.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48618.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Kudip kukuav tusingav mas hazam, antalam hazam tu ni tu haiap, aupa kahuhuzas saia.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48619.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Kudip kukuav tupa mas utung, tupa utung tu ni tu haiap, aupa kudadaza saia sia lukis.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48620.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Kudip kukuav tusingav ithu, masabah ithu at ni tu saaupacia.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48621.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Kudip kukuav tusingav sakut, tupa sakut tu ni tu haiap, aupa mataidadaza saia.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48622.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Kudip kukuav tusingav autuk, antalam autuk tu ni tu haiap, aupa cisdadan saia.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48623.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Kudip kukuav tusingav asu, antalam asu tu ni tu haiap, aupa mangalngal saia tuhnaz.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48624.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Kudip kukuav tusingav hanvang, antalam hanvang tu ni tu haiap, aupa huhud saia danum.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48625.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Sau isdumdumin kukuav kikilim.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48626.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Usaduan kukuav mas lak, mantan’iku lak hai aiza madaing at manauaz tu buan.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48627.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Kusbai kukuav nakungadah lak islunghu.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48628.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Haciu!",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48629.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Amushang sia, itu babuvanis tu ngutus.",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48630.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "min’uni’in auhaz mas babuvanis daingaz! Musasu maniana misbusukin saia.",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3585/48631.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 7,
+      "language": "排灣語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "sepa’enetj ti ’a’a tu na maljaljauwi kati vavuy tu uri vaik a kivangavang, pay vaik ti ’a’a a kipakim tai vavuy.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49431.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "vaik a kivada’ tai ’aya’ayam, “inika aken a kemeljang.” aya ti ’aya’ayam, ata semenasenay timadju.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49432.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "vaik a kivada’ tai karang, “inika aken a kemaljang.” aya ti karang, ata ljevavavavav timadju tua kasiv.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49433.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "vaik a kivada’ tai lje’u, na ta’ed ti lje’u, inika sinuti’ac.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49434.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "vaik a kivada’ tai takec, “inika aken a kemeljang.” aya takec, ata minpudrupudruk timadju.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49435.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "vaik a kivada’ tai lutuk, “inika aken a kemeljang.” aya ti lutuk, ata mintulutulu’ timadju.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49436.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "vaik a kivada’ tai vatu, “inika aken a kemeljang.” aya ti vatu, ata ’emuce’uce’uc tua ce’ulalj ti vatu.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49437.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "vaik a kivada’ tai venan, “inika aken a kemeljang.” aya ti venan, ata temeketekel timadju tua zaljum.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49438.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "kipakim ti ’a’a a patemasulem.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49439.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "pacun ti ’a’a tua lala, pacun a pasatalad izua a ’iljas a nguangua’ aravac.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49440.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "“taljumaza aken a semekezanan” aya ti ’a’a.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49441.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "vena’esing",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49442.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "manu ngudjus na vavuy azua!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49443.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "nakedrikedri ti vavuy, mekudralanga timadju! saka matu mapulav timadju.",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3658/49444.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 8,
+      "language": "魯凱語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kay adrisi ngualringau ku tamaiyanelini karedele kivavange, si katwase silape kay adrisi ki lrulay ka babui.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50244.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "kay adrisi la katwase kivaga ki adhadhame, kay adhadhame la tubalre si iya kay, wasenasenadhaku laka amani ku kai ka thingaleli.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50245.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "kay adrisi la katwase kivaga ki babila, kay babila la iya kay, wakapakapaaku ki angatu laka amani ku kai ka thingaleli.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50246.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "kay adrisi la katwase kivaga ki kwici, ai kay kwici kai tuabalre iniane, ngualay ku sipelrenganeini.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50247.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "kay adrisi la mua kivaga ki akece, kay akece kainaku wathingale la iya, waititukaku laka amani ku kai ka thingaleli.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50248.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "kay adrisi la mua kivaga ki lrutuku, kay lrutuku kainaku wathingale la iya, walrabwabwalaku laka amani ku kai ka thingaleli.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50249.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "kay adrisi la mua kivaga ki tawpungu, kay tawpungu kainaku wathingale la iya, wautututaku ki culrale, laka amani ku kai ka thingaleli.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50250.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "kay adrisi la mua kivaga ki salawngane, kay salawngane kainaku wathingale la iya, waungungulaku laka amani ku kai ka thingaleli.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50251.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "kay adrisi yai la pakela ki takadradrimitane silasilape.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50252.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "kay adrisi la patarathingale kuini ki barungulu, ikay kuini lrilrikudru ki barungulu, yakay ku maadrau si kathariri ku tinuvalisane ka dramare.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50253.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "kay adrisi la ikay ku takidremedremaneini, si lritaramuadringaku ki barungulu si isadra la iya.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50254.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "basenge aciu la iya!",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50255.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "iya, anika ngungwane ki babui la iya!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50256.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "kay lrulay kay babui la akabalrithi kaamaninga kuidra maadrau ka babui. si miyakaw mabusukunga.",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3731/50257.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 9,
+      "language": "太魯閣語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Lmnglung pnsdhug dha bru bowyak stghuy mrawa ka kjiraw, kiya ni tmalang miyah miing bru bowyak.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51057.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Musa smiling qbhni ka kjiraw, ini ku kla o msa ka qbhni, yaasa gaga meuyas.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51058.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Musa smiling rungay ka kjiraw, ini ku kla o msa ka rungay, yaasa gaga mkaraw qhuni.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51059.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Musa smiling puurung ka kjiraw, gaga mtaqi ini psquri hyaan.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51060.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Musa smiling pada ka kjiraw, ini ku kla o msa ka pada, yaasa gaga gnbaraw pstaril.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51061.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Musa smiling sbirat ka kjiraw, ini ku kla o msa ka sbirat, yaasa gaga tmalang.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51062.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Musa smiling huling ka kjiraw, ini ku kla o msa ka huling, yaasa gaga kmtu buut.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51063.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Musa smiling rqnux ka kjiraw, ini ku kla o msa ka rqnux, yaasa gaga mimah qsiya.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51064.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Knegiman kjiraw o bitaq mkuung ka karat.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51065.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Mhlay bling lhngaw ka kjiraw, niqan duri paru ni malu bi qtaan ka idas saw mtwihing ga bukuy bling lhngaw hiya.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51066.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Mkmsangay pskaya mtmay kska bling lhngaw ka kjiraw.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51067.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "“Acuy!”",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51068.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Kla sa, bling muhing bowyak ka gaga!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51069.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Wada maa tbowki bowyak ka bru bowyak da! Duri ni ki bi saw ga bsukan da.",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3804/51070.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 10,
+      "language": "噶瑪蘭語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kasianeman na qiyul ni simsanuan na tu babuy na naung qatapunan mawRat, mawtu ti qiyul kemilim tu bulek na babuy na naung.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51870.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "matiw mipil tu sisiw na adam, semanu sisiw na adam Raynguan na, unnay yau sasatezay aizipna.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51871.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "matiw mipil tu Rutung, semanu Rutung Raynguan na, unnay yau mezaqis tu paRin aizipna.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51872.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "matiw mipil tu kuu, yau maynep ya kuu mai Riningan na.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51873.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "matiw qiyul mipil tu melimu, semanu melimu Raynguan na, unnay yau medudutiq aizipna.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51874.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "matiw qiyul mipil tu peRawiR, semanu peRawiR Raynguan na, unnay yau meRaRaRiw aizipna.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51875.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "matiw mipil tu wasu, semanu wasu Raynguan na, unnay yau qemitqit tu tiRan aizipna.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51876.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "matiw mipil tu siRemuq, semanu siRemuq Raynguan na, unnay yau menanum aizipna.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51877.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "temuzus tu tedem ti kemilim qiyul.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51878.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "matayta na qiyul yau tangan na naung, ta tuRuz na tangan na naung yau Raya Rubatang melikaw bulan.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51879.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "temuqaz ti qiyul ta tanganan na naung hibang.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51880.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "“Raciyu! ”",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51881.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "timangu, tangan na unung na babuy unnay!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51882.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "bulek pama ay babuy na naung tangi Raya ti ay babuy na naung! yau qaya azu busuq ti aizipna.",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3877/51883.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 11,
+      "language": "鄒語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "isi talʉa to eiski ne ohsi yainca ’o fuzu teto iepoepohʉ yoyaso, isicu i’ima ’o fuzu.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52683.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "mo uhto okono zomʉ ’o eiski ho tuocosi, yainca to zomʉ o’a os’os’a cohivi, maica mo’so pasunaeno.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52684.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "mo uhto nghou ’o eiski ho tuocosi, yainca to nghou o’a os’o cohivi, maica mo’so capo to evi.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52685.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "mo uhto puku ’o eiski ho tuocosi, mo oengʉtʉ ‘o puku o’aisi cumasa.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52686.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "mo uhto ta’cʉ ’o eiski ho tuocosi, yainca to ta’cʉ o’a os’o cohivi, maica mo’so mofti’i.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52687.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "mo uhto yutuka ’o eiski ho tuocosi, yainca to yutuka o’a os’o cohivi, maica mo’so peyayofʉ.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52688.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "mo uhto av’u ’o eiski ho tuocosi, yainca to av’u o’a os’o cohivi, maica mo’so ma’kakoi to cʉehʉ.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52689.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mo uhto ’ua ’o eiski ho tuocosi, yainca to ’ua o’a os’o cohivi, maica mo’so mimo to chumu.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52690.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "isi ec’ ʉha no ’eopsi to eiski.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52691.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "isi teolʉ to feongo ’o eiski, to f’uhu to feongo panton’a coni cimo meoisi ho yonghu ci hopo.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52692.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "micu ma’koyu no meiyoyo to feongo ’o eiski ho amiyocni.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52693.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "ha ciu!",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52694.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "’ia ma ngʉcʉ to fuzu!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52695.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "’o nia okono fuzu mamicu yʉepʉngi ho meoino fuzu! a’vinano mo mais’a mo moyomo.",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3950/52696.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 12,
+      "language": "卑南語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "na lekep i, pakiyanger dratu kinuretan kana babuy dra aukayan malinaya. aw kabekas druwa mayaa kana babuy.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53852.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "muka kiyumalla kana ayam na lekep. semasenay na ayam aw maulid ku kema.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53853.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "muka kiyumalla kana lutung na lekep. muwaisatr dra kawi na lutung aw maulid ku kema.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53854.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "muka kiyumalla kana lleu na lekep. allallupe na lleu aw adri tu ringitri.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53855.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "muka kiyumalla kana ura na lekep. muwanekun na ura aw maulid ku kema.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53856.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "muka kiyumalla kana kunin na lekep. kababekas na kinin aw maulid ku kema.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53857.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "muka kiyumalla kana suwan na lekep. emiyaitreitr dra ukak na suwan aw maulid ku kema.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53858.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "muka kiyumalla kana biyaw na lekep. trematratrekel dra enay na biyaw aw maulid ku kema.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53859.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "emayamaya na lekep i, aremeng lla na wari.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53860.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "menau dra tinkungan na lekep. kana tinkungan i likudraan i, ullaya a matrina aw a bulay a kamawan dra sedeng na bulan.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53861.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "musabak kana tinkungan temalaulep na lekep.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53862.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "“aciw!”",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53863.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "a! amau tu buwang kantu tingeran kana bubuy idru!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53864.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "wa! matrina lla na babuy! aw kamawan dra maliyay lla i.",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4054/53865.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 13,
+      "language": "雅美語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "manakem no manai o kangey da mikawalam kano kois, ori o mangey na nikalahan so kois.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54665.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "mangey na pacicin do lapik am, na jyatenngi, ta ya mianoanood.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54666.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "mangey na pacicin o sazo, am na jyatenngi, ta ya mikalakalat do kayo.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54667.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "mangey na pacicin o totoo, am mitkeh ori jinanirisiringi sya.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54668.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "mangey na pacicin o kaglng, am jinatenngi, ta amloklokso.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54669.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "mangay na pacicin o osagi, am jinatenngi, ta ya malalayo.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54670.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "mangey na pacicin o ino, am jinatenngi ta mingotngot so kokod.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54671.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mangey na pacicin o votdak, am na jyatenngi, ta ya miyan do tonga.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54672.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "to da hepi o manai do kalahan sya.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54673.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "makala na no manai o azcip, o likod no azcip am yanan no mazwey a vahan.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54674.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "somdep o manai do a mangey miwalam rana. azcip",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54675.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "hacio!",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54676.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "momodan no kois ori!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54677.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "a likey pa kois am ya to miparako! a rako a kois! ya akmey masakisaki.",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4127/54678.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 14,
+      "language": "撒奇萊雅語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "mazateng nu Palang a midang aci kiwmah, tayza hantu ni Palang mikilim ci kiwmah.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55478.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "tengilen ni Palang ku ayam, maliyuh kaku sa ku ayam, zaysa na mudadiw ciniza.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55479.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "tengilen nu Palang ku ungay, maliyuh kaku sa ku ungay, zaysa namikacaw tu kilang ciniza.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55480.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "tengilen nu Palang ku deku, mabi’ ku deku caay paegil cinizaan.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55481.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "tengilen nu Palang ku caket, maliyuh kaku sa ku cacet, zaysa na mihalebet ciniza.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55482.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "tengilen nu Palang ku pawalil, maliyuh kaku sa ku pawalil, zaysa na maduba’ ciniza.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55483.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "tengilen nu Palang ku wacu, maliyuh kaku sa ku wacu, zaysa namingitngit tu ukak ciniza.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55484.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "tengilen nu Palang ku ngabul, maliyuh kaku sa ku ngabul, zaysa naminanum ciniza.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55485.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "kilim sa ku palang duut tu ku demiad.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55486.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "mazih tu nu palang ku buhang nu buyu’, i zikuz nu buhang sitabakiay bangcalay a bulad.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55487.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "bahel satu talabu nya buhang a pacena’ ci palang.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55488.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "haciw!",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55489.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "alaw u cihek nu kiwmah kuyza.",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55490.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "na u belek henay mala tabakiay tu a kiwmah! mabusuk aca azihen ciniza.",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4200/55491.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 15,
+      "language": "卡那卡那富語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "pacʉpʉngʉ takʉkʉa, nimakari mataa vavuru, tia arakukunu sumasima’ʉ. ’acuu ’inia tia tikirimi vavuru.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56291.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "kesoni takʉkʉa na tapinange. makasi tapinange, ka’anʉ tavara’ʉ sii ’esi paracani sua nguain.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56292.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "kesoni takʉkʉa na ngʉkau. makasi ngʉkau, ka’anʉ tavara’ʉ sii ’esi muupara karu sua nguain.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56293.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "kesoni takʉkʉa na puka. ’esi si’icʉpʉ puka, ka’anʉ taraakusa ’inia.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56294.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "kesoni takʉkʉ na ato’urung. makasi to’urung, ka’anʉ tavara’ʉ sii ’esi musuvʉrʉsai sua nguain.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56295.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "kesoni takʉkʉa na rituka. makasi rituka, ka’anʉ tavara’ʉ sii ’esi arapana’ʉ sua nguain.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56296.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "kesoni takʉkʉa na tacau. makasi tacau, ka’anʉ tavara’ʉ sii ’esi ’uma’i’i cu’uan sua nguain.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56297.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "kesoni takʉkʉa na vutunu. makasi vutunu, ka’anʉ tavara’ʉ sii ’esi mima canumu sua nguain.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56298.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "makaasua takʉkʉa tikirimi, mataarava cu mapitʉ’ʉ.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56299.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "masiikusa na tarako cumacʉ’ʉra, ’una sikara tarako tatia maningcau, makai vuanʉ anisi.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56300.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "tia kani musutanungu na tarako tarasangai.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56301.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "“haciu!”",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56302.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "vavuru tamnava tangʉca tarako iisua!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56303.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "uaa! niaratatia cu vavuru. makai nimaanava cu!",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4273/56304.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 16,
+      "language": "拉阿魯哇語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "hlatumua takaukau na pasaʉlʉsʉ lamuru alʉmʉhlʉ na pasaulaula’ʉ, minisua mʉcʉkʉhlicu a takaukau na ukikirimi alʉmʉhlʉ na.",
+          "chinese_text": "老鷹想起和小山豬約好一起玩，於是老鷹跑來找小山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57104.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "musa takaukau na pakisuahlai ahlamʉ, amihla ahlamʉ na kuacahlia ta’iaraisaka pahluasasahli.",
+          "chinese_text": "老鷹去問小鳥，小鳥說不知道，因為牠在唱歌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57105.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "musa takaukau na pakisuahlai tapuhlacʉngʉ, amihla tapuhlacʉngʉ na kuacahlia ta’iaraisaka miavavararʉ kana’ana.",
+          "chinese_text": "老鷹去問猴子，猴子說不知道，因為牠在爬樹。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57106.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "musa takaukau na pakisuahlai tapʉ’ʉ na, malusapʉmana tapʉ’ʉ na.",
+          "chinese_text": "老鷹去問貓頭鷹，貓頭鷹在睡覺沒有理牠。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57107.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "musa takaukau na pakisuahlai taurungu, amihla taurungu na kuacahlia, ta’iaraisaka mutuavivilau a kana’ana.",
+          "chinese_text": "老鷹去問山羌，山羌說不知道，因為牠在跳高",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57108.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "musa takaukau na pakisuahlai lituka na, amihla lituka na kuacahlia, ta’iaraisaka miatatahlʉ a kana’ana.",
+          "chinese_text": "老鷹去問兔子，兔子說不知道，因為牠在跑步。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57109.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "musa takaukau na pakisuahlai tasau na, amihla tasau na kuacahlia, ta’iaraisaka makikiki culahlʉ kana’ana.",
+          "chinese_text": "老鷹去問狗，狗說不知道，因為牠在啃骨頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57110.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "musa takaukau na pakisuahlai vutuhlu, amihla vutuhlu na kuacahlia, ta’iaraisaka miamamasahlumu a kana’ana.",
+          "chinese_text": "老鷹去問鹿，鹿說不知道，因為牠在喝水。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57111.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "makilavaʉ a takaukau na araruvana.",
+          "chinese_text": "老鷹找到天都黑了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57112.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "pautukarahla takaukau na tahluru, ilikusutahluru na maru taisa mavacangʉ apikulu vulahlʉ.",
+          "chinese_text": "老鷹發現了山洞，山洞後面還有好大好漂亮的月牙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57113.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "patʉtʉrʉ a takaukau na tapiaruma tahluru na taluvaʉlʉ.",
+          "chinese_text": "老鷹決定飛進山洞裡休息。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57114.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "haaciuu!",
+          "chinese_text": "「哈啾！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57115.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "usuanganaiau tahluru ngunguru a alʉmʉhlʉ!",
+          "chinese_text": "原來，那是山豬的鼻孔！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57116.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "lamuru alʉmʉhlʉ na malavalicu arataisa ahli’aimau ausi a kana’ana mahlavaʉ.",
+          "chinese_text": "小山豬已經變成大山豬了！而且他好像喝醉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4346/57117.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/57/14.jpg"
+        }
+      ]
+    }
+  ],
+  "source_urls": {
+    "info": "https://web.klokah.tw/pbc/book/index.php?id=57",
+    "online": "https://web.klokah.tw/pbc/book/online/index.php?id=57"
+  }
+}

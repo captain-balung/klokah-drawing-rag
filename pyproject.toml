@@ -1,0 +1,23 @@
+# 族語 E 樂園繪本 RAG — Python 工具設定（ruff lint/format、pytest）
+# 涵蓋 backend/ 與 data-pipeline/ 的 Python 程式。
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+# 產物/快取不 lint
+extend-exclude = ["**/__pycache__", "data-pipeline/output", "data-pipeline/output_v2", "data-pipeline/probe"]
+
+[tool.ruff.lint]
+# E/F：pycodestyle 錯誤 + pyflakes；I：import 排序；UP：語法現代化；B：bugbear
+select = ["E", "F", "I", "UP", "B"]
+# E501（行長）以字元數計算，對大量中文/族語內容偏吵且常需切斷字串字面值，
+# 故忽略；行長交由 ruff format 與 code review 把關。
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["backend/tests"]
+markers = [
+    "live: 會呼叫付費 Claude API 的測試（預設略過；用 `pytest -m live` 執行）",
+]
+# 預設只跑免成本測試；付費 live 測試需顯式 -m live
+addopts = "-m 'not live'"

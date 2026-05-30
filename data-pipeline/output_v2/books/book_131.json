@@ -1,0 +1,2498 @@
+{
+  "id": 131,
+  "title": "槍口下的革命之花",
+  "illustrator": "翁雅德",
+  "level": "高級",
+  "grammar_focus": "狀態動詞",
+  "summary": "故事以父親的對白展開，敘述來自巴基斯坦的馬拉拉，是如何成為為教育奮不顧身、致力爭取女性受教權的，諾貝爾和平獎得獎人。\n繪本重點語法為狀態動詞，我們可以在補充例句學習，描述情緒、程度變化等以狀態動詞為重點語法所設計的相關句型。\n我們可以藉由繪本探討教育的重要性；而台灣過去及現在，在兩性的教育及學習資源上是否有差距呢。",
+  "language_count": 16,
+  "available_languages": [
+    {
+      "lid": 1,
+      "name": "阿美語",
+      "page_count": 18
+    },
+    {
+      "lid": 2,
+      "name": "泰雅語",
+      "page_count": 18
+    },
+    {
+      "lid": 3,
+      "name": "賽夏語",
+      "page_count": 18
+    },
+    {
+      "lid": 4,
+      "name": "邵語",
+      "page_count": 18
+    },
+    {
+      "lid": 5,
+      "name": "賽德克語",
+      "page_count": 18
+    },
+    {
+      "lid": 6,
+      "name": "布農語",
+      "page_count": 18
+    },
+    {
+      "lid": 7,
+      "name": "排灣語",
+      "page_count": 18
+    },
+    {
+      "lid": 8,
+      "name": "魯凱語",
+      "page_count": 18
+    },
+    {
+      "lid": 9,
+      "name": "太魯閣語",
+      "page_count": 18
+    },
+    {
+      "lid": 10,
+      "name": "噶瑪蘭語",
+      "page_count": 18
+    },
+    {
+      "lid": 11,
+      "name": "鄒語",
+      "page_count": 18
+    },
+    {
+      "lid": 12,
+      "name": "卑南語",
+      "page_count": 18
+    },
+    {
+      "lid": 13,
+      "name": "雅美語",
+      "page_count": 18
+    },
+    {
+      "lid": 14,
+      "name": "撒奇萊雅語",
+      "page_count": 18
+    },
+    {
+      "lid": 15,
+      "name": "卡那卡那富語",
+      "page_count": 18
+    },
+    {
+      "lid": 16,
+      "name": "拉阿魯哇語",
+      "page_count": 18
+    }
+  ],
+  "page_count": 18,
+  "pages": [
+    {
+      "page_number": 1,
+      "chinese_text": "「在許多父權社會及部落社會中，父親通常會因為兒子的作為而有名聲，而我是少數因為女兒而成名的父親，我為她感到非常驕傲。她爭取受教的權利，為教育發聲。她是我的女兒，Malala。」",
+      "chinese_variants": [
+        {
+          "text": "「在許多父權社會及部落社會中，父親通常會因為兒子的作為而有名聲，而我是少數因為女兒而成名的父親，我為她感到非常驕傲。她爭取受教的權利，為教育發聲。她是我的女兒，Marara。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/1.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "“Adihay itini i siyakay no niyaro’ ato i ’alingay no mama, nawhan, o nidemakan no fa’inayan a wawa ko sakalata’ang cingangan no mama, nika kako i oya edengan a fafahiyan a wawa malasaka cingangan ko mama, tada o sakalata’ang no mako cingra. O pisa’icel nira misalongoc to sifana’, patahekal a pangiha to sifana’. O wawa ako fafahiyan ci Malala ko ngangan nira.”",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599108.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "“pzyux squ yaba’ smpung kwara’ zyaw na qalang qani ga, pqasun nha’ ’laqi’ mlikuy sgayang lalu’ nha’. knan hiya’ ga, skahul ’laqi’ mu kneril gmayang lalu’. pqasun maku’ qu hiya’. kinlokah ptke’ ru msina’ pqbaq na pqzing ta’ nanak qu hiya’. ’laqi’ mu kneril Malala qu hiya’.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599401.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "“ray noka katiniSowawan hi yaba’ ki ray ’asang ka kin’i’iyaeh, ka’ama’an tani noka korkoring kamamanra:an ka pinanra:an hayza’ ila ka raro:o’, yako ’okik hingha’ ma’an ’aehae’ ka korkoring, minkoringan, yako tani nisiya ka pinanra:an hayza’ ka raro:o’, yako Siyae’ a tomal ’ini siya. siya Somina’ ka kakiSka:at noka saboeh. siya ma’an ka korkoring Sinin malala.”",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599694.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "“isai manasha sa ama wa kushwit a ininthawan mat sa kataunan a ininthawan, ama maqa azazak a kinalawa numa mu’apawiza sa ama wa lhanaz, numa iaku sa ladadu munsai naak a binanau’az a azazak mu’apawiza sa lhanaz a ama.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/599987.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "“Rahur pnsliyan luwan daka ka alang sqlhangan rseno, pngalan pnldxanan laqi rseno ka ngayan tnsapah. Yaku ge, ango pnldaxan ndaan nlaqi mqedil. Mbeyax mangal pooda quri sooda stgesa. Malala, heya ge, laqi mu mqedil.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600280.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "isian sia asang cintu minuni mas itu tama tu kanadan hai, maza tama hai cisuni amin mas itu uvaz tu sinkuzakuza at min uni mas isnganan, amin, saikin hai isia nitu taukpia tu maluspingaz tu uvaz minuni isnganan hai mastan amin tu iskuniv. aupa usizan saia mas itu tamatu tamasaz cisuni mas isnanavacin mapunapav mas singav at saia hai inaktu uvazpingaz tupaun isaicia ngan tu Malala.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600573.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "i tua rukilaylaying tua u’alja’aljay a ’inaljan, tjatjuruvu azua a matjaljaljak masa sikudan nua aljak saka namaligu i ’inaljan, ’aw tiaken mavan a tjamavekelj a masa aljak a vavayan a namakeljang a kama, pakazenger aken aravac tua ku aljak. kikamangua’an timadju tua na vavayan a sikituluan, tjemawcikel tua sikitulu a pazangalan. ku aljak timadju, ti malala.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600866.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "“ikay ki taikalrane kuidra tagemegemane ku puku ki tamatama si cekele lu ikay ki siakay, kay tatama yakay lu ngualay kuidra tatuatumanane ki lalakemadu si kipunagane. ala kunaku amaniaku kuidra tabekele ka ngulay ki lalakeli ka ababay si ikay ku takipunagananeli ka tatama. la ngualadhaku iniane si ikay ku dradraraneli. kay alisu la kisamula ku agemegemaneini ku puku ikay ki takibulruane, pasikay ki akibulruane si alalingaw puvaga.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601159.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "“Kska lala knlangan tama ka pusu ni knlangan alang o, nuxay nuda laqi snaw wada niqan bi hangan na ka tama, kiya ni hghaw bi tama nuxay laqi kuyuh wada niqan bi hangan ka yaku, stndahu mu bi ka hiya. Meysa pusu brihun tgsaan, phnang kari asaw tgsa ka hiya. Laqi mu kuyuh ka hiya, Marara.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601453.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "“tama sinangan ta muwaza qizuanan seRay ta damuan, tama nizu maqewaway na Runanay ay sunis sinangan, aiku nani yau a tazungan sunis sinangan ya tama, meRuzangin iku timaizipana. aizipna semanu tu sataqsian, manmu sikawma tu sataqsian. aizipna nani tazungan sunis ku ti Malala.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601746.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "i’e sakai na’nosino amo ’ola esvʉtʉ tomo cono emoo, ’e ,amo lasi conio aitin’a ’o oko no hahocngʉ, mi’oc’oso hochia zou amohe a’o, os’o itanveni, la butaso tiyou no kioiku,zou oko no’u mamespingi, malala.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602039.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“sadru a kadruwadruwanan aw a drekall semeer dratu kedrang dra mainayan. muka dratu wallak na mainayan dra inaba tu ikatratrau aw mingalad i temamataw. amawna, kirekamelli ku. muka ku draku wallak na babayan aw mingalad ku aw pailling ku dra trau. pakutrekutr kiyaami dratu kedrang dra takakesian taytaw. idri i, amau nanku wallak na babayan i Malala.” kema i Ziaudin.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602332.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "“do karawan am a kano ili am, ala ikazway da o anank a mahakay ipakarang so tomid no niapoan da, am ko matarek beken a mahakay na ikazway yaken ni ama, ya mangey pacisirisiringen o aroa tao tovoing sira mangey mivatvatek mapey vazay so akman sang o akakawan a, iya anak ko si veyta, Malala.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602625.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "“u wamaay a lekakawa atu niyazu’ay a syakay, pakayni i wawa niza tu asingangan ku wama, aku hantu silaheci tu ku tatayna a wawa aku itiya matineng ku taw itakuan a wama. maseneng kaku i cinizaan. mianin ciniza tu keynli nu mamicudad, pangiha tu cyawyu. u tatayna a wawa aku ciniza ci malala.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602921.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "“’esi na cuma tamna kenri si’ai mataa tanasʉn tamna si’ai, paira cuma aranai na manu sarunai ara’una mamanʉng nganai. kanaira makai ’ikua niaranai na manu nanakʉ, ara’una mamanʉng nganai. vanai ku ’inia cucuru purangrang kia. kipatʉsʉ nguain makinai tia kiatuturu kenri. vanai sipatuturu maripiningi kari. sua nguain ia, manu maku Malala.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603214.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "ma ikatumahlana miararuma tumahlaʉ manganʉ hlahlusa, kaupaupangʉ marapihli a ama’ana pingahla hlitakuvacangʉ mamainisa hlahlusa, ucanika marapihliaku mamainiku ahlainana pingahla. marapihliakuisana apuvahli. makini a kana’ana manganʉ apatuturu, marapihli a siatuturua pakipuhlu kari. ihlaisa mamainiku ahlaina Malala.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603507.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "chinese_text": "在這個國家，女性的權利與生活是被約束的。沒有人會慶祝女孩的誕生，當孩子到了讀書的年紀，只有男孩可以上學，女孩只能待在家裡。",
+      "chinese_variants": [],
+      "image_url": "https://web.klokah.tw/pbc/book/131/2.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Itini toni a kanatal ma’emet ko salongoc no fafahiyan ato nika’orip. Awaay ko pahemekay to kasofocan no fafahiyan a wawa, ano maraod to ko mihecaan to sapitilid no wawa, edeng o fa’inayan a wawa ko manga’ayay a mitilid, itini sa i loma’ ko fafahiyan a wawa.",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599109.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "qalang qani ga, sbhul nha’ qnxan ru qpzing nanak na kneril hiya’. ungat squliq sqqas htgan na ’laqi’ kneril. tnaq thuyay mqwas biru’ kawas qu ’laqi’ lga, ’laqi’ mlikuy nanak pson nha’ mqwas biru’ ql’an nha’ ngasal qu ’laqi’ kneril hiya’.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599402.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "rini ka ’oemaeh, minkoringan kinonre’re’ ray kin’i’iyaeh. ’oka’ ka mae’iyaeh Siyae’ nisiya Sikas’oehaez, potngor ila kakiSka:atan tinal’oemaeh, kamamanra:an nanaw pakiSka:aten, minkoringan ma’ ray taew’an nanaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599695.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "tusuqan inai a katataunan sa binanau’az a kushwit numa ininthawan. binanau’az ya palhi’azazain uka sa thau apatingqaran. ya amalhupish sa patashan a qamishan, muqay ayuzi ashduu lhmupish, binanau’az muqay kitaun.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/599988.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Meniq knlangan nii, beyax skdesun na mqedil ge, pskretun. Uka seediq psqaras mtuting ka laqi mqedil. Dehuk knkawas spuuyas duri, wana naq laqi rseno ka ppyasun, speeniq sapah ka llaqi mqedil.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600281.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "sain tu kuka hai maza itu maluspingaz tu iskuzakuza hai nitu pinuniun mas kanadan aupanaia hai matusuhcis mas maluspingaz. ukamas lulusan mas itu maluspingaz tu tainusuvazan tu hanian, mais taunasianina uvaz sia naisnavan tu painsanan hai kaupamas mabananaz tu uvaz mahtu kudip isnavan maza maluspingaz hai ka asatu ilumah.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600574.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "aicu a kuni, a mangua’an katua sikarakudan nua vavayavayan liav aravac a sinikulekulet. neka nu malevaleva tua pinualjakan nua vavayavayan, saka nu talju tua sisupuananga nua kakedrian, amin a u’alja’aljay a makaya a semagaku, a vavayavayan talju tjuma’ sakamaya.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600867.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "ikay ki cekele kay, ku agemegemane ku puku si tacekecekelane ki laabaybay laka yakay ku takiruthukane. kadrua ku akiragadhane kuidra takitulalakane ki ababay, kay vavalake lu kelanga ki amugakuane ki cayli, la kakathane kay sawvalay ku wadulru mugaku, ala kay ababay yatavanane sikathane.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601160.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Klwaan nii ga, wada ptbrhug ka pusu brihun ni kndsan kuyuh. Ungat ka seejiq mqaras pncingan laqi kuyuh, dhuq ka hngkwasan laqi mmowsa ptasan do, wana laqi snaw ka tduwa musa ptasan, wana ttama ruwan sapah ka laqi kuyuh.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601454.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "ta lawlawan zau, yau siqet na wawaway na seRay qenabinnus na tazungan. sasunis tu tazungan mai tu lazat semanu tu qelilizakan, temuzus ti tu taqsian tasaw na sunis, wanma Runanay qanengi temaqsi, tazungan nani zinu ta leppawan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601747.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "i’e ’koka ’tan’e lac’o esvʉta ’o keli ho seikacu. o’alahe cumasa ’o tangzoovi ta maamespingi, ho tac’u tmaseolʉ tmopsʉ, i’oc’o oko no hahocngʉ ’ote meelʉ tmopsʉ, lac’o yonta emoo ’e okono mamespingi.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602040.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "kandri na kanatal i, tu kedrang aw tu inubaawan dra babayan i, a binuutan. adri masasangal a trau an miwallak dra babayan. an penauwa lla dratu aukayan i takesian dra wallak. na mainayan i, karuwa muka i takesian. na babayan i, kadru i ruma.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602333.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "do jia a mahataw am, topavehvehsa jimia sira mavakes do iweywawalam da a kano pangorayan da. ikeykaglaw pa mahakay kano mavakes, manao kapivatevatek do gako am mahakey mangey mivatvatek, o mavakes am tongyan sira do vahay.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602626.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "i tini a kanatal, u keynli nu tatayna atu nikauzip mapasikec. inayay ku mipadaesu tu kalecuhan nu tatayna a wawa, a micudad tu ku wawa, u tatama adada’ ku tayzaay micudad, u tatayna i luma’ satu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602922.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "’esi na kuka isi. sua nanakʉ tamna kenri mataa siacʉvʉrʉ ia iriripiʉn. ’akia cau kaisisi macangcangarʉ kamanumanu nanakʉ. noo matatʉa tia cu marisinatʉ manu, ’inmamia sarunai tʉni mukusa tarisinata. sua nanakʉ ia, monangʉ na tanasa.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603215.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "ma kani’i kukana, picʉpʉngʉ a manganʉ hla siangusipa ahlainana. uka’a cucu’u parasingasinga hlipaumamaini a mamaini ahlainana, maci miungucu a caihlisa umaiiapʉ ia, ucanii a hlahlusana ia tuahlʉ umaiiapʉ, ucanii a ahlainana ia maruaru salia.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603508.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "chinese_text": "Ziauddin和大家不同，當他的女兒出生時，他感到非常驕傲。他以為自由奮鬥的勇士“Malala”替女兒命名。期盼她就像勇士一樣勇敢、有智慧。",
+      "chinese_variants": [
+        {
+          "text": "Canglah和大家不同，當他的女兒出生時，他感到非常驕傲。他以為自由奮鬥的勇士“Malala”替女兒命名。期盼她就像勇士一樣勇敢、有智慧。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "Jiyating和大家不同，當他的女兒出生時，他感到非常驕傲。他為他的女兒取了自由奮鬥的勇士 “Malala”為名。期盼她就像勇士一樣勇敢、有智慧。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "’awting和大家不同，當他的女兒出生時，他感到非常驕傲。他以為自由奮鬥的勇士“Malala”替女兒命名。期盼她就像勇士一樣勇敢、有智慧。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Ciawdingi和大家不同，當他的女兒出生時，他感到非常驕傲。他以為自由奮鬥的勇士“Malala”替女兒命名。期盼她就像勇士一樣勇敢、有智慧。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Ciyating和大家不同，當他的女兒出生時，他感到非常驕傲。他以為自由奮鬥的勇士“Marara”替女兒命名。期盼她就像勇士一樣勇敢、有智慧。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Ciyating和大家不同，當他的女兒出生時，他感到非常驕傲。他以為自由奮鬥的勇士“Malala”替女兒命名。期盼她就像勇士一樣勇敢、有智慧。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Ziaudin和大家不同，當他的女兒出生時，他感到非常驕傲。他以為自由奮鬥的勇士“Malala”替女兒命名。期盼她就像勇士一樣勇敢、有智慧。",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Ziyating和大家不同，當他的女兒出生時，他感到非常驕傲。他以為自由奮鬥的勇士“Malala”替女兒命名。期盼她就像勇士一樣勇敢、有智慧。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Ciiatingina和大家不同，當他的女兒出生時，他感到非常驕傲。他以為自由奮鬥的勇士“Malala”替女兒命名。期盼她就像勇士一樣勇敢、有智慧。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/3.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Caay kalecad to ’alomanay ci Canglah, na masofoc to fafahiyan a wawa cingra, tada malata’ang ko faloco’ nira. O faloco’ nira toya milifetay cicodahay ci “Malala” pangangan sa to fafahiyan a wawa. Nanay matiya oya tadafa’inayan malecad cicodahay, cifenekay saan cingra.",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599110.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "iyat ptnaq lhga qu Ziauddin. trang mhtu qu yagih nya’ ga, pqasun nya’ balay. s’agal nya’ lalu’ nqu lokah psina’ sbugah inlungan ru motux na squliq i Malala qu lalu’ ’laqi’ nya’ kneril. sinoya’ nya’ m_yan hiya’ motux ru sininlungan qu ’laqi’ nya’ kneril.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599403.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "ziauddin ’okik hingha’ ki saboeh, nisiya ka korkoring kas’oehaez, siya Siyae’ a tomal. siya tani korkoring nisiya hi malala siya ’iyapae’zo’en bowayen ka raro:o’. ’iwan mayhael nak yongSe’ hingha’ hayza’ ka pae’zo’, hayza’ ka kinra:aman.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599696.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Ziauddin antu tataal pashtay, thithu a binanau’az a azazak palhi’azazainiza, mathuaw thithu pazazai. tmulhanaz thithu a binanau’az a azazak pasain mathuaw makarishkish a shnauluman “Malala.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/599989.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Ini pntena seediq ka Jiyating, mtuting ka weewa na ciida, kragun na bale. Tnngayun na ngayan “Malala”. Dungus na ge, knremun kndrumuc. Psmyahun na mSeediq bale knremun ma niqal knkela.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600282.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Ziauddin mas duma hai nitu mamaszang, masa tausuvazun isaicia uvazpingaz hai masmuav saia tu makuniv daingaz makasang saia tu namahtu makanananak mapasavai mas kaitamasazan Malala hai cisuni isaicia tu uvazpingaz cia macingan miliskin saia tu mahtuanga isacia uvaz pingaza maszang mas mamananu matamasaz at istaklasan tu bunun.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600575.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "maretimalji ti ’awting katua zuma, ka sipualjak a aljak a vavayan tazua, kizenger aravac timadju. saka pinapungadanan tuazua napuvarung a cawcau a ti malala, ulja mamav tjay malala a napuvarung, a ngalungalu aya.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600868.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "ai kay Ciawdingi yakay ku tamakaelane ki palrapalra, sa kitulalake kay lalakeini ka ababay, yakay ku dradraraneini turamuru. la malra pasingagane ku “Malala” ki lalakeini si ani kaamani kuidra ngiasasingikay ikay ku rakacane ku takisamulaneini iya. la sidrama iniane aningimia ikay ku rakacaeini kagarange, si ikay ku lrigilaneini iyaiya.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601161.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Ini pndka kana seejiq ka Ciyating, mntucing ka laqi na kuyuh siida, pspraw bi ka hiya. Thnganun na hangan mrmun bi snaw mtbiyax bi quri mtrawah “Marara” ka laqi na kuyuh. Tai saw empdka mrmun bi snaw mrmun ni niqan kkla ka hiya.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601455.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "ti Ziauddin mai sasetaR tu mazemun, mezuka tazungan sunis na nani, meRuzangin aizipna. pasinanganan na sunis na tazungan tu “Malala” metaRuz ay zin na nangan na. azu pa tu metaRuz ay lazat metaRuz, mesanem.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601748.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "i’e ciyating mo yupa h’unasi tamo botngonʉ, mo pitano ne moso yayo ’o oko nosi mamespingi isi ta’unanate mais’a ’o malala hocu tos’okoneni. ho ocia poa maezoa. ’timei ho mau’totohʉngʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602041.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "adri marisan dra druma dra trau i Ziaudin. kemay dra mupatraran tu wallak na babayan i, salaw semangal aw pailling dra trau. maruwaya makeser aw uringetr kiyaami dra daliwasayan kema aw tu pungaladay kan Malala. na “Malala” i, a uringetran kema tu pauwayan. likudran i, kamawana dra mainay uringetr aw inaba sadru tu kinalladraman kema tu nirangeran kan Ziaudin.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602334.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "matarek o iyangey na ni Ziyating, katazak a tao no anak na a mavakes an, ikagaga na ya mazway. ngaranen na si Malala. ko toyotoyone imo a makapingtek mowyat do karawan, makaaap so tenetenen, mowyat an.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602627.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "caay kalecad atu taw ci Ziauddin, mulecuh tu tatayna a wawa ciniza, paseneng ciniza, u mataluday a tademaw ci malala han niza pangangan ku tatayna a wawa niza. maydih tu a malecad tu katalud, kasipunu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602923.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "karanana sua Ziauddin. miaa kamanumanuʉn sua manu nanakʉ, cucuru macangcangarʉ. ’urupaca nguain vasʉ tamna nganai Malala matanganai manu in nanakʉ. pacʉpʉngʉ tia matʉa vasʉ mintasʉ, ’una macʉrang.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603216.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "kuparaiahlʉ a Ciiatingina cucuusumanʉ, akuisa paumamaini mamaini ahlainana rumahlaʉ, tam pausakisakiriisana. umarumia Malalana ahlama vaasu marungahla mamainisa ahlaina. ahliki’ai ia kana’ana vaasu hla pacʉcʉpʉngʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603509.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "chinese_text": "Malala四歲的時候Ziauddin讓她去學校學習。在這個國家，不是每個女孩都有上學的機會，但他認為女孩應該跟男孩一起接受教育。",
+      "chinese_variants": [
+        {
+          "text": "Malala四歲的時候Ciyating讓她去學校學習。在這個國家，不是每個女孩都有上學的機會，但他認為女孩應該跟男孩一起接受教育。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            },
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Malala四歲的時候Jiyating讓她去學校學習。在這個國家，不是每個女孩都有上學的機會，但他認為女孩應該跟男孩一起接受教育。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Malala四歲的時候’awting讓她去學校學習。在這個國家，不是每個女孩都有上學的機會，但他認為女孩應該跟男孩一起接受教育。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Malala四歲的時候Ciawdingi讓她去學校學習。在這個國家，不是每個女孩都有上學的機會，但他認為女孩應該跟男孩一起接受教育。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Marara四歲的時候Ciyating讓她去學校學習。在這個國家，不是每個女孩都有上學的機會，但他認為女孩應該跟男孩一起接受教育。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Malala四歲的時候Ziaudin讓她去學校學習。在這個國家，不是每個女孩都有上學的機會，但他認為女孩應該跟男孩一起接受教育。",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Malala四歲的時候Ziyating讓她去學校學習。在這個國家，不是每個女孩都有上學的機會，但他認為女孩應該跟男孩一起接受教育。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Malala四歲的時候Ciiatingina讓她去學校學習。在這個國家，不是每個女孩都有上學的機會，但他認為女孩應該跟男孩一起接受教育。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/4.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sepat ho ko mihecaan ni Malala patayraen to ni Ciyating i pitilidan a minanam. Itini toni a Kanatal, caayay kanga’ay ko kahacecay no fafahiyan talapitilidan a mitilid, nika o faloco’ nira manga’ay ko fafahiyan ato fa’inayan malacafay milayap to sifana’.",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599111.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "payat kawas na Malala lga, pson mqwas biru’ na Ziauddin qu hiya’. maki’ qalang qani ga, iyat thuyay mqwas biru’ qu ’laqi’ kneril. hiya’ mnglung mha. ’laqi’ kneril aki mtnaq ’laqi’ mlikuy mgluw pqbaq pqwasan.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599404.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "malala ’ima Sopat tinal’oemaeh kayta’ ni ziauddin pa’loehloehayen ray kakiSka:atan. ray hini ’aehae’ ’oemaeh, ’okik sa’sa’ih ka minkoringan hayza’ ka’oSa’an ray kakiSka:atan, ’oka’ ila siya komoSa’ minkoringan ki kamamanra:an pakhingha’ pakiSka:at saboeh.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599697.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Malala shpaatiza wa qamishan Ziauddin pusha thithu lhupilhupishan a taun minfazaq. inai a katataunan antu tatata wa binanau’az az’az shduu lhmupish, kanuniza thithu mzai binanau’az amusuun ayuzi pinfazaqin.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/599990.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Sepac knkawas na Malala, spuuyas na Jiyating ka haya. Meniq knlangan nii, ini spyasi ka laqi mqedil. Ani si, niqal lnlungan na mesa, pntnaan laqi rseno spuuyas ka laqi mqedil peni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600283.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Malala masa pun paat in a painsanan hai Ziauddin hai mapundip saicia mapasnava sia pasnanavan. tudipa isaincia tu kuka hai nitu tupa tu mahtu amina uvaz pingaz isnavan haitu miliskin saia tu maszang amin tu uvaz anatupatu uvazpingaz hai maszang amintu mahtu maszang uvaznanaz tu kudip mapasnava.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600576.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "ka sepatjanga a cavilj ni malala tazua, pasazuain i gaku a pakitulu ni ’awting. a i maza taicu a kunian, inika manu makaya a kilaing tua varung a semagaku a kitulu a vavayavayan, ljakua nu kinemenem timadju aicu a vavayavayan makaya a kiamaw tua u’alja’aljay a kitulu uta aya.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600869.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "sa kelanga ki tarasupate ki cayli kay Malala, kay Ciawdingi la paugaku iniane pakibulru. ikay kikay ki cekele, kaika sanaka ababay ka wadulru mugaku, ai ikay ki kidremedremeini, kay laabaybay nayka maramau ki sawvalay masilange tarumara ku akibulruane.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601162.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Spat hngkwasan na ka Marara siida, saan psluhay ptasan Ciyating ka hiya. Klwaan nii ga, laqi kuyuh o aji kana ka tduwa musa ptasan, kiya ka kiya ni naa seupu laqi snaw tgsaun ka laqi kuyuh msa lmnglung ka hiya.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601456.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "usepat pama tasaw ni Malala nani paqatiwan na ti ni Ziauddin sa taqsian sinanam. ta lawlawan zau, tazungan ussa nizu qanengi matiw temaqsi, wanayka semanu aizipna tazungan qawma qanengi masulun tu Runanay temaqsi.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601749.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "ne mohcu yongsai ’e malala osicu poa tmopsʉa ta ciating ’e malala i’e ciyating osicu poa uhta ’oyona tmopsʉ ho poa momaemaezo. homo yonta ’koka tan’e, o’amo acʉhʉ meelʉ tmopsʉ ’e ’oko no mamespingi, yainca no ’tohʉngʉsi ’a teno ʉmnʉ honci mais’a ta oko no hahocngʉ ho yaeza kioiku.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602042.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "a kaapat tu ami kan Malala i, tu paukayaw kan Ziaudin i takesian muka meladaladama. kandri na kanatal i, adri karuwa muka ella i takesian a babayan. amawna, maruwaya kurenang dra mainayan muka i takesian kipatakesia a babayan kema i Ziaudin.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602335.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "si Ziyating am tovoing na siya mangey do gako milingalingay no kanang am ikapat a ngernan o kakakawan ni Malala. do jia a maataw am, mangey mivatvatek am beken a mavakes tojiamamimin sira tovoing da mangey macinanao, tana mavakes a mahakay an malovot sira saon ya macinanao koan do nakem na.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602628.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sepat tu a miheca ci malala patayzaen tu ni Ziauddin i cacudadan micudad. itini a kanatal, caay kahamin ku tatayna a wawa tacacudadan micudad, nika hini sa ciniza, u tatayna a wawa malecad tu tatama a wawa a tayza i cacudadan micudad. sa ciniza.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602924.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "miaa sʉpatʉ cenana Malala. tacucuʉn Ziauddin mukusa tarisinata. ’esi na kuka isi, ka’anʉ cancani manu nanakʉ ’una ramangʉ tʉni marisinatʉ. nakai pacʉpʉngʉ nguain, manu nanakʉ tia matʉa sarunai marisinatʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603217.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "upatʉ caihlisa Malalana rumahlaʉ, sapusa Ciiatingina ariatʉkʉrana apusuturu. ma kani’i kukana, kurianʉ a ahlainana tuahlʉ umaiiapʉ, ucanika sipamiaisa kana’ana mairahlu a ahlainana kiʉlʉsʉ hlahlusana matialu siatuturua.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603510.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "chinese_text": "Malala很喜歡上學，她讀書很厲害，會很多種語言，她是學校最傑出的學生。但是Malala發現不是所有小孩都可以上學，這讓她很難過。",
+      "chinese_variants": [
+        {
+          "text": "Marara很喜歡上學，她讀書很厲害，會很多種語言，她是學校最傑出的學生。但是Marara發現不是所有小孩都可以上學，這讓她很難過。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/5.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Tada maolah mitilid ci Malala, tada caloway a misa’osi cingra, adihay ko kafana’an nira a caciyaw, tada citanengay no mitiliday i pitilidan cingra. Nika makafana’ ni Malala caayay ko edef no wawa manga’ay a mitilid, malasaka rarom no faloco’ nira.",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599112.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "smoya’ balay musa’ mqwas biru’ qu Malala. baq balay mqwas biru’ qu hiya’. pzyux balay baqun nya’ kmal ke’. hiya’ ga, betunux balay na seto’. ana’ ga, baqun nya’ iyat kwara’ ’laqi’ thuyay musa’ mqwas biru’. yasa’ qu s’yaqih nya’ inlungan.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599405.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "malala minowa’ a tomalan kiSka:at, siya ra:am a tomal kiSka:at, ra:am ’akoy ka kapayaka:i’, siya ray kakiSka:atan ’ima tomal ka kamakiSka:at. ’oka’ ila malala Sahoero: ’okik saboeh ka korkoring kayzaeh mowa:i’ kiSka:at, nakhini siya ’omahowiS a tomalan.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599698.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "mathuaw Malala madaduu malhupish, mathuaw ma’ania lhmupish patashan thithu, mafazaq manasha wa katataunan a lalawa, mathuaw thithu sa la maqitan a lhupishuan a azazak isa lhupilhupishan a taun.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/599991.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Snkuxul ba muuyas ka Malala. Mtluhe ba muuyas. Knklegan ka kari klaun na mrengo; mbtunux ba ka meniq sapah pyasan. Ani si, klaun na mesa uxe knkingal laqi mpdehuk spuuyas. Naqah ba ka kuxul na lmngelung so nii peni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600284.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Malala hai mazima isnavan, mamananu saia mais mapasnava haiap amin maisupah tu halinga, saia hai isia pasnanavantu tu makitvaivi isnganan tu uvaz. haitu usaduan a Malala tu niia duma uvaz mahtu makiamin kudi mapasnava at maupacia hai matusalpu isaicia isang.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600577.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "tjengelay aravac ti malala a semagaku, maca’u aravac uta a semupu timadju, liav a kinaca’u a kai, nakisumalji aravac tua sikasituan timadju. ljakua ka kemeljanganga timadju tu inika kana kakedrian makaya a semagaku a kitulu, manasika nasarekuya a varung nimadju.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600870.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Malala la kadalame mugaku, sika maparamuru lu kibulru, la kakalra ku kalrigiliini ku lavaga, ikay ki gaku amaniini kuidra silrialribatenga ka situ. ai kay Malala la patarathingale kaika sanaka vavalake wadulru mugaku, kay tangimiane la pakasamadre iniane.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601163.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Smkuxul bi musa ptasan ka Marara, tgkla bi matas ka hiya, mkla rmngaw lala klgan kari, empatas tgmalu bi kska ptasan ka hiya. Kiya ka kiya ni mkla sa aji kana laqi tduwa musa ptasan ka Marara do, sqnaqih na bi kuxul ka saw nii.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601457.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "melizaq temaqsi ti Malala, satuRin temaqsi aizipna, suppaR tu muwaza sikawman, ta taqsian sinangan ay pataqsian aizipna. wanayka taytan na ussa meniz sunis qanengi temaqsi, taRaw anem na tu zau.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601750.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "mo na’no kaebʉ tmopsʉ ’e malala, meemealʉ tmopsʉ, man’i ’o sis peelʉi ci h’oe’ea, atva’esi ta ’oyona tmopsʉ nac’o ho isi aiti ta malala ho o’amo acʉhʉ meelʉ tmopsʉ. na ’o’oko no mamespingi.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602043.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "sagar muka i takesian i Malala. salaw saigu temakesi. sadru tu kinasaiguwan na ngaiyan. marainabanaba tu tinakesian i takesian kan Malala. amawna, menau dra ullaya driya a wallak adri karuwa muka i takesian aw salaw kuwatis tu wanger.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602336.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "ya makey mivatvatek si Malala, ya matenen mowyat pa a, aro o na katennga o ciriciring, iya do gako am teymowyat saon. am no na masingkad sira kanakan amian pa ji mivatvatek, ori am ya na ikarahet no onowned.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602629.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "manamuh ci malala tacacudadan micudad, matineng ciniza micudad, yadah ku katinengan niza a kamu misakamu, u satinengay a micudaday ciniza i cacudadan. nika matineng satu ci Malala caay kahamin ku wawa tayni i cacudadan micudad, malalum ku balucu’ niza.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602925.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "manmaan Malala mukusa tarisinata. saihu marisinatʉ. tavarʉ’ʉ ’itumuru karanana kari. ’esi na tarisinata, cucuru porangrangʉʉn. nakai Malala cumacʉ’ʉra, ka’anʉ kavangvang manu tʉni mukusa tarisinata. vanai isi, aka nguain tamna cʉpʉngʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603218.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "tam marumuku a Malalana umiiapʉ, tam hliulavalava kana’ana umiiapʉ, macahlia tarʉtatʉkʉhlʉ kari, tampingahla kana’ana ma ariatʉkʉrana mamaini umaiiapʉna. ucanika pausu’ulu a Malalana kurianʉ a mamainina tuahlʉ umiiapʉ, paratakuliacʉ tʉkʉisa kani’i.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603511.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "chinese_text": "城鎮開始出現一些危險的男人，他們帶著槍枝控制這裡。他們不允許女孩上學，也不允許婦女工作。",
+      "chinese_variants": [],
+      "image_url": "https://web.klokah.tw/pbc/book/131/6.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Misatapang to masadak ko kacalemceman a fa’inayan i maci , cihawikid to kowang mi’emet to itiniay. Milalang to fafahiyan a wawa mitilid cangra , milalang to fafahiyan a matayal .",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599113.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "cyux t’aring ki’an yaqih na squliq mlikuy qu qalang. meng patus khangan nha’ sqani. shtuy nha’ musa’ mqwas biru’ qu ’laqi’ kneril. ini’ nha’ swali’ mtzyaw qu kneril uzi.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599406.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "ray rahoeran mowa:i’ ila ’ima ’aewhay ka kamamanra:an, lasiya maraS ka wawatos romara’et rini. lasiya kayni’ noka minkoringan SikiSka:at, ma’ kayni’ noka minkoringan Sipatawaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599699.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "lhmazawan mawalhnaq a pruq mu’apaw sa suma wa antu amiaramaz a ayuzi, thaithuy kmathu sa put.huun numa lhqizin thaithuy inai. antu thaithuy shmirua binanau’az a azazak malhupish, antu shmirua mani binanau’az malhkakrikriw.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/599992.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Tkriyak dmoi halung ka rrseno, meyah qmlahang niqun daha hini. Ini daha srwai puuyas ka laqi mqedil, ma ini daha srwai qmeepah ka mmqedil duri.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600285.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "kit nga bin isia asang munapava kapisingun tu mabananaz, madas naia mas busul iskusia mas mapasampanah matusuhcis, mas isaincin. nia maluspingaz mahtu kusia pasnanavan mapasnava, nii amin mahtu mapakuzakuza mas maluspingaz.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600578.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "azua i makalizuk sevaca’ a nareminekutj a u’alja’aljay, namasikuang tiamadju a djemadas ta i maza. ma’ilji tiamadju a semau tua vavayavayan a pasagaku, ma’ilji uta tiamadju a masengseng a vavayavayan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600871.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay cekele la pathagilinga ngibwale ku matiaukuludru ku lasawvalay, si mailuku ku kwange ruthuku kikay ki cekele. kay lalasu la kai palraingi ki laabaybay mugaku, maiyalri si kai palraingi ki laabaybay katwase kaungu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601164.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Prajing niqan duma snaw saw smiisug ka alang, gpuniq mduuy hini ka dhiya. Ini dha srwai musa ptasan ka laqi kuyuh, ini dha srwai musa qmpah ka kykuyuh uri.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601458.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "ta qizuanan taytan na siangatu yau mezukat qaqaytisan ay Runanay, sipisa qaniyau pematez tu tazian ay. mai semuluz qaniyau tu tazungan temaqsi, mai semuluz tu tazungan kelawkaway qaya.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601751.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "panta isi smoyoa ci hahocngʉ ta hosa tan’e, mo mahto f’suyu ho potani na maamespingi honci tmopsʉ, ho potani na maamespingi honci yaahioa.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602044.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "kemirami lla mupatraran a kiyanedanedang a mainayan kantu kinakadruwan na sinki. nadru i, mikuwang aw tu dikesay lla kadrini. adri muwai pauka i takesian kana wallak na babayan. aw adri muwai pauka dra kiyakarunan kana bayabayan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602337.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "amian so manganiahey a mahakay ya mitotoaw do ili, da pavehvehsa a sia mangap pa so paoben jia. ji da mia o mavakes ya mangey mivatvatek, a ya da jimia o mavakes mivazay.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602630.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "itini a niyazu’ izaw tu ku maedesay a tatama, sikuwang kuheni a mikuwang kuheni tina niyazu’. daecus ku tatayna a wawa tacacudadan micudad sa kuheni, daecus aca ku tatayna misakakawaw. sa kuheni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602926.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "matianai cu tanasʉn isua ’una ’apitarʉ cau arapiningi. mukʉrʉ nguani nantu maripi tanasʉn nesi. ka’anʉ nguani pakituru tia parisinatʉ manu nanakʉ. ka’anʉ pakituruʉn nanakʉ putukio.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603219.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "ruamiacu a miararumana kipuhlu a apaihlipihla hlahlusa, hlimahlava hlahlitu hlakana’ana miasasara nani. kupaiiapʉ a hlakana’ana mamaini ahlainana, ku mʉmʉa apataku’i’iarʉ ahlahlaina.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603512.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "chinese_text": "他們命令Ziauddin關閉學校，因為他的學校招收女生。如果Ziauddin繼續上課，他將會遭到報復。",
+      "chinese_variants": [
+        {
+          "text": "他們命令Ciyatingan關閉學校，因為他的學校招收女生。如果Ciyatingan繼續上課，他將會遭到報復。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "他們命令Jiyating關閉學校，因為他的學校招收女生。如果Jiyating繼續上課，他將會遭到報復。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "他們命令’awting關閉學校，因為他的學校招收女生。如果’awting繼續上課，他將會遭到報復。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "他們命令Ciawdingi關閉學校，因為他的學校招收女生。如果Ciawdingi繼續上課，他將會遭到報復。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "他們命令Ciyating關閉學校，因為他的學校招收女生。如果Ciyating繼續上課，他將會遭到報復。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            },
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "他們命令Ziaudin關閉學校，因為他的學校招收女生。如果Ziaudin繼續上課，他將會遭到報復。",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "他們命令Ziyating關閉學校，因為他的學校招收女生。如果Ziyating繼續上課，他將會遭到報復。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "他們命令Ciiatingina關閉學校，因為他的學校招收女生。如果Ciiatingina繼續上課，他將會遭到報復。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/7.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Mikadem ci Ciyatingan papiedef to pitilidan , nawhan papitilid to fafahiyan ko pitilidan nira . Ano mitongod papicodad ci Ciyating , o mamapaco’ay cingra .",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599114.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "ql’i pqwasan son nha’ qu Ziauddin. baha hmswa’ pqwasan nya’ ga, magal ’laqi’ kneril pcbaqan nya’. mha na pcbaq biru’ qu Ziauddin lozi ga, yasa ksyukun na yaqih squliq qasa lma.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599407.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "lasiya komonre’re’ hi ziauddin ’eleb ka kakiSka:atan, komoSa’ siya pakiSka:at ka minkoringan. So: komoSa’ ziauddin pakiSka:at naehan, siya ka hibo’on.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599700.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "thaithuy shungkaful Ziauddin qundup sa lhupilhupishan a taun, maqa thithu a lhupilhupishan a taun itia malalawa sa binanau’az a azazak munai. ya Ziauddin mintamar fuilhfuilh sa patashan,",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/599993.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Speeyux daha meluk ka pyasan Jiyating, anu mangal laqi mqedil spuuyas. Ado ka dmudul ppuuyas ka Jiyating, maha daha spqrnutun.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600286.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "mapuapav naia mas halinga miili mas Ziauddin tu pis’uava pasnanavana, aupa isaicia pasnanava hai aizan mas maluspingaz tu isnananvan mais masasa  maza Ziauddin mapasnanava hai na unaun naia kanasang mapinkuang.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600579.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "semavuta tiamadju tjay ’awting a ’emeljev tua gaku, ayatua pasupu a gemedeged a gaku nimadju tua vavayavayan. saka nu gemedegedanan a kitulu, uri valeten timadju tua siselapay.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600872.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay lalasu la drekase ki Ciawdingi si paisadra ki gakuini, ngulay ku tapaubangalraneini ki laabaybay pakela mugaku. alaiyasi aruakay paugaku kay Ciawdingi, lrikipadredresenge ku akibilrianeini.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601165.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Dpi ka ptasan msa powsa kari Ciyating ka dhiya, yaasa kmeaguh pstmay laqi kuyuh ka ptasan na. Nasi ida pklutut tmgsa ka Ciyating do, ida empsiyuk pndjiyal hyaan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601459.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "sanuan na qaniyau ti Ziauddin tu ineban tu taqsian, nayau ta taqsian mala tu tazungan temaqsi. azu qawqawman temaqsi ti Ziauddin. qababal aizipna.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601752.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "ihe meilei ’e ciyating ho poa amʉtneni ’e ’oyona tmopsʉ, ihe’so poa tmopsʉa ’o maamespingi. honci ac’ʉ’cʉnʉ tmopsʉ tenahe akuzkuzoa. ’e ciyating.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602045.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“allebi na takesian!” kema pudare dra ngai kan Ziaudin nadru. i Ziaudin i, amau na pusabak dra babayan druwa kantu takesian temakesia. “an patrutru yu patakesi i, uwaranak yu!” kema kan Ziaudin nadru.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602338.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "anebey o gako koan da ji Ziyating, ta amian so mivatvatek a mavakes do dang. no mo tomaciozai o nakem mo am ji namen pakakasi a imo a.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602631.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "tudu han nuheni ci Ziauddin edepen tu ku cacudadan, zaysa izaw ku tatayna a micudaday. anu pacici’ sa ci Ziauddin miwawah tu cacudadan, a silibung ciniza sa kuheni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602927.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "pakasiʉn nguani Ziauddin, pi’inʉvʉo tarisinata. vanai sii mariapʉ nguani nanakʉ seto. noo macuvungu pa Ziauddin tumatuturu marisinatʉ. tia ’una sumasanai ’inia.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603220.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "umuhlunu a hlakana’ana Ciiatingi mangʉhlʉngʉhlʉvʉ ariatʉkʉrana, ta’iaraisaka maripucu a kana’ana mamaini ahlaina umaiiapʉna. maci umarihlusuhlusu a Ciiatingina ia, apaliavalʉ a kana’ana.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603513.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "chinese_text": "Ziauddin沒有因此而放棄，他帶著Malala在各地演說、寫文章、他利用電視宣傳教育的重要性。",
+      "chinese_variants": [
+        {
+          "text": "Ciyating沒有因此而放棄，他帶著Malala在各地演說、寫文章、他利用電視宣傳教育的重要性。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            },
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Jiyating沒有因此而放棄，他帶著Malala在各地演說、寫文章、他利用電視宣傳教育的重要性。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "’awting沒有因此而放棄，他帶著Malala在各地演說、寫文章、他利用電視宣傳教育的重要性。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Ciawdingi沒有因此而放棄，他帶著Malala在各地演說、寫文章、他利用電視宣傳教育的重要性。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Ciyating沒有因此而放棄，他帶著Marara在各地演說、寫文章、他利用電視宣傳教育的重要性。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Ziaudin沒有因此而放棄，他帶著Malala在各地演說、寫文章、他利用電視宣傳教育的重要性。",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Ziyating沒有因此而放棄，他帶著Malala在各地演說、寫文章、他利用電視宣傳教育的重要性。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Ciiatingina沒有因此而放棄，他帶著Malala在各地演說、寫文章、他利用電視宣傳教育的重要性。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/8.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Ano matinitini caayay ka sapisawadan ci Ciyating , hakelongen nira ci Malala talacowacowa pakimad , mitilid to sasa’osien , pakaynien nira i tilifi palosiyang to tadakalimelaan ko sifana’ hananay a demak .",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599115.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "ana ga, ini’ alax qu Ziauddin. rasun nya’ Malala ptke’ te n’inu’. miru’ biru’. spuwah nya’ tensi pqzyu’ iyat kinqeri’ qu zyaw pqbaq qani.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599408.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "Ziauddin ’okay tae’aes, siya maraS hi malala ’ila’ila’ino’ balong, koma:at, ray tilibi: homapa: kiSka:at koza’ kin Sil’i:.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599701.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Ziauddin antu miazai s izai numa paqaan thithu, thithu kmathu Malala isa tatata wa pruq malhinuna, matash patashan, thithu pasain tian-sii pishfazaq ya pinfazaq sa mathuaw mabrithan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/599994.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Ani so kiya, ini alix ka Jiyating. Madis Malala musa klaalang pgkela mrengo, matis patis, ma spooda na terebi pgkela mesa spruun bale qmita ka ooda stgesa.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600287.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Ziauddin hai nitu cismaupacia mapacisu mas isaicia tu pasnanavancia madas saia mas Malala maiaupasia dumaduma tu asang tatahu masnanava, mapatas patasan, maku uni saia mas tiilibi mapacitpung mapishaiap mas ispasnanava tu tamasaz.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600580.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "inika natemawla ti ’awting, nakemacu timadju tjay malala a semazuatunazuanga a pasemalamalav, venecik, pakatiribi a penaljang tua pazangalan nua kitulu nua kakedrian.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600873.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "ai, kay Ciawdingi la kai ngualay kikay si sarare, matwase ililuku ki Malala muiniininuga ki cekele peelaelaela, papapacese, si arakay kuidra ki tingse peelaelaela ku tinukucingalrane ikay ki takibulruane.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601166.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Ana saw kiya ini alax ka Ciyating, dsun na hmrapas rmngaw kngkingal alang, matas patas ka Marara, spowda sasaw samaw pgkla knpraan tgsaan ka hiya.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601460.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "mai lapusan ni Ziauddin, azasan na ti Malala matiw taninian menanul, semudad tu sasudadan, medaiyung tu tilibi semanu tu qaninanan temaqsi.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601753.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "o’aisi h’unano tosveni ta ciyating, isi hafa ’e malala ho mimio ho aomotʉ’ʉ, ho tposi, lasi ieni to televi ho psoyaska ’o ʉmnʉsi ta kioiku.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602046.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "amawna, adri tu retraan na takesian kan Ziaudin. tu pillangaw i Malala muka makasuwasuwa driya benabatia. temilill dra tilin dra nanauwan. tu pakallanganay kana tilibi patrirebeng dratu padrangalan dra patakakesian.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602339.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "ni paneben rana o gako am ji mtadan ni Ziyating, ononongan na ka pivatvatek na paloloen si Malala milivolivon, ka angey na pa do tizivi mizizyak ta koan am teymakdeng saon o kapacinanao no tao.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602632.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "caay piales ci Ziauddin, ladayen niza ci Malala tacuwacuwa papelu, misulit tu sasakamuen i tini i tilibi misakamu tu cyawyu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602928.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "koo vanai isi matipuri sua Ziauddin. ariviciʉn kee Malala mucacanʉ tumatuturu. maripiningi sinatʉ. ’apaica tensʉ tumatuturu kasakʉnʉn sua sipatuturu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603221.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "kuiasau a Ciiatingina, ruavici a kana’ana Malala mahlukua aucaucani miararuma maluliri, sumasuhlatʉ, umarumia kana’ana ’ahlingu kiahlahlamu mataingalʉ siatuturuana.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603514.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "chinese_text": "人們的生活變得越來越糟。攜帶槍的人們會在街上巡邏，人們被禁止在晚上出門。許多專門招收女子的學校被炸毀。",
+      "chinese_variants": [
+        {
+          "text": "人們的生活變得越來越糟。攜帶槍枝的人們會在街上巡邏，人們被禁止在晚上出門。許多專門招收女子的學校被炸毀。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            },
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/9.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Ngalengalef sato caay to kafangcal ko nika’orip no tamdamdaw , cihawikiday to kowang a tamdaw itira i lalan no maci misolap , malalang ko tamdamdaw masadak to dadaya . Deng o fafahiyan ko mialaan a pitilidan maemin to a makari’ang .",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599116.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "qnxan ssquliq ’n_gyut yaqih. cyux muyaw tuqiy qu panga’ patus na squliq. shtuy nha’ mhtuw tanux qu squliq. pcbaq ’laqi’ kneril na pqwasan ga, wal nha’ bkon hmiriq.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599409.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "noka ma’iyaeh ka kin’i’iyaeh ’aewhay ila. ’ima taSiwawatos ray ra:an maySiri:, mae’iyaeh ’okay pakaSlatari hae:wan. ’ima pakiSka:at ka minkoringan ka kakiSka:atan ma’ pawsoehen.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599702.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "thauthau a ininthawan makitqarman. kminathu sa put.huun a thau isa saran smuqum, thauthau shkafulan thaithuy ata tu usaran ya tanlhuan. manasha sa itia malalawa sa binanau’az a azazak munai a lhupilhupishan a taun fthiqan murubuziza.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/599995.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Kndudul naqah ka pkdesun seediq. Kleelu dmoi halung ka mprigo. Ini pdai nganguc ka seediq da keeman. Kana ka mangal mmqedil spuuyas pyasan, wada tnmuwan bakudang kana.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600288.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "itu bunun a sinihumis hai makanadidip tu minmakuang, madas mas busul naiskusia mapasampanah tu bunun hai isia dan sasadu maza bununhai masamu munapav sia ilav mais sanavan, supahina isia pasnanavan mais dangian mas maluspingaz tu isnanavan hai tunuun amin mapinkaung.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600581.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "tjamenakuyakuya a sikadrakudan nua sikata’aljan. namasikuang a cawcau a cemuljev i kadjalanan, ka’iljin a sikata’aljan a pacasav nu vengin. ’aw azua rutavelavelak tua vavayavayan a gaku ljinekuya tua bakuhac.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600874.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay tacekecekelane ki laumaumase la kirimu arungilingilisiyane. kuidra masasiakwange ku laumaumase la ikay cekele dadadavace dreedrele, kikay laumaumase la kiruthuku ikay ki maungu ku amulatadrane. laka taikalrane ku kiatulisi kitupuru kuidra taramalramalra ki laababay kuidra gaku.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601167.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Wada rinah naqih ka kndsan dseejiq. Mkleelug gdadak ka dseejiq madas puniq, wada shtur mlatat keeman ka dseejiq. Wada mkbaax sprqan ka lala ptasan pkruway kmeaguh pstmay laqi kuyuh.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601461.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "padames ti mesukaw ya qenabinnus na lazat. sipisa ay lazat qalalazan meRibun temayta, tuRabi sukaw melusit ya lazat. muwaza nialan tu tazungan ay taqsian bettuqan na.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601754.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "ausuhcu kuzo ’o seikacu la zungla ta maci ’omo mahto fsuyu, ho potani ’o yatatiskova homo emoyafo ho micu feʉngna. man’i ’oisi poplukvi cimo mayo to maamespingi ci ’oyono tmopsʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602047.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "marekakuwatis tu inubaawan dra tratrautrau. na mikuwang na trau i, melikap i daladalan. benuut dra trau adri uwapatraran an aremeng kema. na mitinakesian dra babayan na takesian i, tu baitraw.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602340.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "tomiparahet o iweywawalam no aroa tao. amian o kisat ta milivolivon do rarahan a mamzat so tao ji miyoyaw do mahep. ni pakbazan o gako no pacinanawan da no mavakes.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602633.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "daecusdaecus satu ku kauzipan nu binawlan. ya sikuwangay tademaw miliwliw aca i zazan, daecus ku katuuday tahkal tu labi. yadah tu a cacudadan u pacubuday tu tatayna a wawa a cacudadan mapeleng tu amin.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602929.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "muru’inasʉ cau tamna siacʉvʉrʉ. ’una cau mukʉrʉ nantu na pipiningi sumasiusiuku. ka’anʉ parapiningi cau noo rovana. ’itumuru sua mariapʉ nanakʉ tarisinata pasutapakʉn.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603222.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "aratatakuliacʉ a siangusipaisa cucu’una, cucuhlimahlava hlahlituna ma sala’ana takuari, kupakiapuhlu cucu’u mʉmʉa ruvana. matumuhlu ariatʉkʉrana hlimaripucu mamaini ahlainana saparatupua.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603515.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "chinese_text": "孩童害怕去學校上課，上學變成一件很危險的事情。Malala心想，必須把這裡的事情散播出去，或許就會有人來幫助他們。",
+      "chinese_variants": [
+        {
+          "text": "孩童害怕去學校上課，上學變成一件很危險的事情。Malala(馬拉拉)心想，必須把這裡的事情散播出去，或許就會有人來幫助他們。",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "孩童害怕去學校上課，上學變成一件很危險的事情。Marara心想，必須把這裡的事情散播出去，或許就會有人來幫助他們。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "孩童害怕去學校上課，上學變成很危險一件很帶槍的事情。Malala心想，必須把這裡的事情散播出去，或許就會有人來幫助他們。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/10.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Matalaw to ko wawa talapitilidan a mitilid , mato kacalemceman to ko demak a talapitilidan . Palosiyangen kona matiniay itini a demak saan ko harateng ni Malala , anohaenen a ira ko tamdaw tayni a mipadang cangranan .",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599117.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "mngungu’ musa’ pqwasan qu ’laqi’. mkngun na zyaw musa’ qu pqwasan hiya’. mnglung Malala mha. zyaw nqu sqani pson gmayang tanux. baqun nha’ lga, aw ini’ maki’ squliq mwah kmraw lhga’.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599410.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "korkoring tikot rima’ kiSka:at, rima’ kiSka:at ’abonay ila. Mlala ma’az’azem, hini howaw SaSika: saboeh kapakra:am ka saboeh, ’am hayza’ a ka mae’iyaeh mwa:i’ tomlhaehael.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599703.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "azazak shungkash mutusi lhupilhupishan a taun lhmupish, malhupish mintata wa antu miaramaz a kalawan. Malala mangqtu, apu’apaw pishfazaq sa inai a kalawan, numa a’itia sa thau amunai mindahip thaithuy painan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/599996.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Kcugun ba lqlaqi musa sapah pyasan. Uxe ba ssaun ka pyasan. Lmngelung ka Malala, asi ba pklaun seediq ka ndaan so nii. So klaun meeniq ka seediq meeyah dmayo mangal.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600289.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "uvavaz hai mapisingin kusia pasnanavan mapasnava, mais kusia pasnanavan kapisingunin tu iskuzakuza, itu Malala isang hai miliskinin tu maza isaincin maupacia tu sinkuzakuza hai napunapavun mapishaiap mas dumatu bunun at adu na aizang duma bunun mahtu minsuma mindangaz naicia.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600582.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "azua marekakakedrian marekutj a semagaku, masan naremekutj azua a semagaku. kinemenem ti malala tu nangua’ sipakeljang a pasatuzuma aicu a sengsengan, palemek a izua a makaya a pusaladj tjayamadju.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600875.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay lavavalake la ukuludru mugaku kibulru, kuidra amugakuane la kaamaninga kuidra matiakiwcu ka aungane. la kidremedreme kay Malala, kay tangimiane kay aungane yai lritarapeelaelaku pulatadre, alaw lriikay ku wakela paralubu liniane la iya.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601168.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Miisug musa ptasan ka lqlaqi, maa kingal euda saw smiisug bi ka musa ptasan. Lmnglung ka Marara, euda hini o asi ka seusa grangun ngangut, nhuya empniqan ka seejiq miyah dmayaw dhyaan da.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601462.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "maytis sunis matiw sataqsian temaqsi, temaqsi azu ti qaqaytisan ay lanas. kasianem ti Malala, lanas zau qasanuan tu mazemun, uu qayau lazat mawtu manmu ta qaniyauan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601755.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "la ngoheʉngʉ ’o ’o’oko homo uhne ’oyona tmopsʉ, ataveia sokoeva homo tmopsʉ. yainca no ’tohʉngʉ ta malala te psoyaska ’emo maica ci a’a’ausna, nenusino panote to’usnu hin’i.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602048.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "minedang auka i takesian na llallak. na aukayan i takesian temakesia i, a kiyanedangan lla kema. kemiyaanger i Malala dra, adri ta kaadri pupatraran kana llemak kadrini. ta patrirebenganay aw ta pakalladramay. alla kaullallaya a trau druwa pullanga kanadru nay kema.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602341.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "manginanawa no ya mangey do pivatvatkan, ta sia maniahey sira kanakan no ya mangey do gako. koan ni Malala am milimoangan o vazay ta ikatengan da no ya mansidongen ji yamen.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602634.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "matalaw tu ku wawa tacacudadan micudad, u sakatalawen tu a kawaw ku sakatayza i cacudadan. zateng satu ci Malala a pakatinengen ku taw tina mahiniay a kawaw, hakay a izaw tu ku miedapay i tuheniyan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602930.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "ma’icʉpʉ mamanu mukusa tarisinata. ’apitarʉ sua mukusa tarisinata. pacʉpʉngʉ Malala, tia arivuvuarʉn ’esi nesi makasia. manasʉ tia ’una cau iavatu muranʉ nguani.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603223.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "muruahlʉ a mamainina mahlukua ariatʉkʉrana umiiapʉ, araapaihlipihlacu a maci musa umiiapʉ. amihla Malalana, tumua kani’i sitakuamia pakiapuhlu patakuacahlia, aunana ia maru a cucu’u tumalʉlʉvʉ hlakana’ana.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603516.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "chinese_text": "沒過多久，戰爭擴大了，城鎮變成了戰場。人們不得不離開家園。人們集中在一個偏遠的地方，躲避戰亂。那裡又髒又亂，疾病到處散播。",
+      "chinese_variants": [],
+      "image_url": "https://web.klokah.tw/pbc/book/131/11.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Caho katenes , macowat to ko kafafolaw , mala kafafolawan to ko maci . samanen ho maemin to miliyas to paniyaro’an ko tamdamdaw . Malisaot to i mara’ayay a pala , milimek to kalalood . Nika ma’oning masemot itira , icowacowa maresap ko lifong a adada .",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599118.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "ini’ kbsyaq lga, wal qzinah hupa’ qu pintriqan nha’. mciriq zik qalang uzi. mgyay ngasal kwara’ qu ssquliq. mutu’ musa’ twahiq na rhzyal. mtlqing squ mciriq. kngangang ru m’uraw lozi qu qasa. mhmut pqzyu’ mnbu’.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599411.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’okik honaehnge:, sobae:oeh ila ka pinpapanae’. mae’iyaeh ma’ rae:iw ila rini ray ’asang. mae’iyaeh raroton ray kamrawaS, hoSa:il ka pinapanae’. riza hara:i’ o lalibo’, kak’ayaeh mainSika: ila.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599704.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "antu mindaaq, mashampanaq minharaniza, mawalhnaq a pruq minmashampanaq a pruq. thauthau amusha sa thaithuy a taun buhat. thauthau mapa’usuun isa ihazish a pruq, thithuy mungkuru maqa mashampanaq.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/599997.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Ini qbsiyaq, mrana knglahang ka pcbuwan, Pgcbuwan ka niqul daha di. Asi maku mswae nniqaul daha ka tnalang. Msseli tgmuxi ka seediq, pooda ndruwan mccebu. Snrtiqan ma nndruwan ka hiya. Knkana mmnarux mttgarang.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600290.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "nitu tailpitu hanian hai mindaing tu mapalkapatataz minunin mas palkapatazan, nina bunun mahtu siskuav sia asang lumah, bunun hai siampuk sia malhabinan tu sisilas dalah tunghabin mas palkapatazan cia, isaicia dangian hai mahansu at kuisnahan tu mahaluvatvat macintus amin naia mindahpa aupa citpunga mas dahpa.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600583.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "inika nacuay patjalji’aca’acanga a ma’a’eci’eci i tua kinaizuanan niamadju. manasika sekawmalj a marekasikata’aljan izua. ki’ilja tua ma’a’eci’eci. tiamadju kicacadja tua kinaizuanan angata, saka azua a izua, ’ilja’iljang, sa nareminekutj, delja sa’etju’etju a masasepusepu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600876.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "la kai tarathainu, kay tamakakaruburane si aruswadrawnga, kay cekele la kirimu kaamaninga kuidra tamakaruburuburane. ngualay kikay si kidayli ki cekelelini kay laumaumase. ala kay laumaumase la isarubu ikay ki taadaylane ki cekele, si kibalay kidayli ki makarururuburu ikay kuini. kuini taikaiyanelini la kakukudrulrane si kalrithavulu, masaelaelaela kuini caemane.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601169.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Ini qbsiyaq, wada mkgarang ka tmgjiyal, maa tglayan ka alang da. Ungat ixan taalax sapah ka dseejiq. Mssli mniq kingal nniqan dhiyaq bi ka dseejiq, tgliing gnbrbur tmgjiyal. Mrudu ni mruciq bi ka hiya, mgarang ana inu ka mnarux.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601463.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "mai metenes, paqeRaya ti masawa, qizuanan na masawa ti qizuanan tazian. mai tu qunian matanaq ti tu leppaw lazat. malisimpu ta ussiq ta medaudan inakan ya lazat, temalumbi tu masawa. dasam nani RamutiR tayan, pasasani menanaz ya taRaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601756.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "o’amo aomane micu meoino yu’susuyumo, atavi sengsoo ’o hosa. micu pkaako to emoo ’o yatatiskova. noteuyunu ne covhi ’o yatatiskova, ho totoefʉngʉ tamo yu’susuyumo. mo aemo’ʉ ho ca’i ’o ne’e, psoepeaski ’o tmacongo.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602049.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "adri paetreng i, marekamatrina na matatengedr. mutupatatengedran lla idri na sinki. na tratrautrau i, karabureburekay tu ruma. mudawill muka kana uniyan dra trau aw mukasakasa kadru. muka mulalikia dra matengetengedr. kadrunu i, kaduresiresi aw sadru a kualengan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602342.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "mangey do kavahayan tomiparako no kabneng na o da pasiaaapan jimiyahahey saon an. somaway o aroa tao do vahay da. pilovoten da siro tao do asaka vavahay, mitomayo ta maginanawa. ya maloit ji nipingsanan do dang, makatotoing o aroa loiloit.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602635.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "matenes tu, mangalub tu ku kalalais, mala kalalaisan tu ku niyazu’. liyas satu ku katuuday tu luma’, masaupu tu ku katuuday i bataday a kakitizaan, milimek tu kalalais. tanu uning sa itiza. malalid tu nu imelang.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602931.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "koo miaranau, niaratatia sua macangini. tanasʉn tuisua cu tacanginia. ’inmamia cu cau aratʉkʉnʉ tanasʉn. mukusa araceni cikiringa to’unaa. tia mitʉvʉngʉ macangini. cangkan marapusu ’inia. niara’itumuru sukʉmʉa.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603224.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "kurahlua, arataisacu a tarikicangihlina, maraparanacu a miararumana tarikicangihli. kutuahlʉ a cucu’u kuiacikiri salia. cucu’una maru parana masaihla mitalʉvʉngʉ tarikiacangihlina, maisana ’aʉrʉ hla hlikʉriakʉrarʉ, rianʉ iatuvani macarʉmʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603517.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "chinese_text": "幾個月過後，戰爭結束了。大家終於可以回到家園。可是歷經戰爭的家園變得殘破不堪。這讓Malala積極宣傳教育的重要，並尋求全世界的幫助。",
+      "chinese_variants": [
+        {
+          "text": "幾個月過後，戰爭結束了。大家終於可以回到家園。可是歷經戰爭的家園變得殘破不堪。這讓Marara積極宣傳教育的重要，並尋求全世界的幫助。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "幾個月過後，戰爭結束了。大家終於可以回到家園。可是歷經戰爭的家園變得殘破不堪。這讓積極宣傳教育的重要，並尋求全世界的幫助。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/12.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Mata’elif to ko pinapina a folad , paherek to ko kalalood . Manga’ay to minokay ko laloma’an a miemin . Nika naikoran to no kalalood nengneng han ko loma’ tada makari’ang to . Malasaka mangalef makanir misa’icel ci Malala patenak to kalimela no sifana’ , misalongoc to edef no kasakanatal a mipadang .",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599119.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "pira’ byacing wayal lga, masuq pciriq la. wal si qehul thuyay musa’ ngasal qu kwara’ nha’. ana ga, wayal hriqun cinriqan qu ngasal. qzinah lokah ptke’ zyaw nqu pcbaq qu Malala ru msina’ pkraw nqu cinbwanan.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599412.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "piza’ ’ilaS Saehpi:ih, sizaeh ila papanae’. saboeh lobih ila naehan ray ’asang. ’oka’ ila, pinpapanae’an ’asang ’okik nak kakhayza’an ’asang ila. Malala ’okay tae’aes homapa: komoSa’ kiSka:at koza’ kin Sil’i:, o pataihaehael ka Say babih ka ’oemaeh saboeh.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599705.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "piza wa furaz, mashampanaq mukaktuniza. pashtay shduuiza mushuqish sa ananak a taun. kanuniza maqa minashampanaq a taun buhat kurubuziniza. maqa s izai Malala makarishkish pishfazaq ya pinfazaq sa mathuaw mabrithan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/599998.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Wada eguw hari idas ka pncbuwan. Mhedu mccebu di. Qulung meyah sapah daha ka tnalang. Ani si uka ba malu sapah daha di peni. Kiya ka kndrumuc ba pspruun pgkela seediq ka ooda stgesa na Malala, ma skadi pnddayo na nknklangan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600291.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "masa kaipin tu buan hai, panutungin a mapalkapataz mahtuin a niaia musuhis kusia lumah, haitu aupa maza lainihaiban mas mapalkapataz tu lumah hai muntunuh mupulpul pulpul amin ukin mahtu saduan Malala hai cismaupacia macimananu macintamasaz mapacitpung masnanava sahus bu mas pasnanavan cin musasu tu masiaupasia tastu dalacin makisaiv mas isindangaz.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600584.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "pacalivat tu pida a ’iljasan, semekezanga a ma’a’eci. cemikelanga a mapuljat tua kakaizuanan angata niamadju. ayatua cinalivatan nua ma’a’eci manasika namaruvuljanga azua a uma’ niamadju. aza ti malala kisamulja a penaljang tua pazangalan nua pakitulu, sa kipakikim tua makaya a ’emeljing tjayamadju.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600877.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "sa ngilribatenga ki nitaradramarane, ala isadranga kay tamakaruruburane. si dulrunga makitumubalriw kay laumaumase. ai kikay tangilribatane ki tamakaruruburane, la kalalisi kababuruku kay daanelini. ngualay kikay si paarutukucingalre kisamula peelaela kay Malala ikay ki takibulruane, si katwase silape ku akipalribulaneini ki yakaumasane.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601170.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Babaw piya idas, nhdaan tmgjiyal do, Mtduwa musa sapah kana da. Kiya ka kiya ni wada mnegbeybay ungat brihan ka sapah ndaan tmgjiyal. Kika embiyax bi sgarang Marara pgkla knpraan tgsaan, duri ni miying ddayaw kana babaw dxgal.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601464.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "melaziw tu utani bulanan, tumqez ti masawa. wanayka zana masawa maRaRapsi ti leppaw. senazau padames ti ti Malala semanu tu qaninanan temaqsi, kemilim tu tenub na banang meniz papanmu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601757.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "pio no feohʉ cu tosvo yu’susuyumo. cu petohʉyʉ yuoveia ’o emoo. at’inghi meoino tikuzkuzoa no yu’susuyumo ’o maemoemoo. osicu psoyaska ta malala ’emo zuuyo no kioiku, ho m’ea to’usni ta zeng sekai.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602050.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "dra samaya bulan lla i, madranga lla na matengetengedr. karuwa lla marebeliyas kantu ruma na trau. amawna, muranak dra matengetengedr tu rumaruma. adri lla piyamau. pakirungetr patrirebeng dratu padrangalan dra patakakesian i Malala. aw kiyaami dra kiyapullangan kana tratrautrau i punapunan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602343.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "mangey do apira ka vehavehan, ka teyka na ji sia rana masiahahap. awalay koan da no aroa tao apia rana moli tamo do kavahayan. am masingkad da o minavahay da ni makavakava abo o rana am makongo so anjin sira. ka to na pakdenga nia mowyat saon ta teymakdeng saon ka pacinanao tamo, pacizizyakan na o asaka mahataw a sira tao sidongen nio pa yamen.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602636.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "pina tu a bulad, masatezep tu ku kalalais. taluma’ tu katuuday i luma’. nika namalalais ku luma’ malepilepi tu ku luma’. mabilil tu ci Malala miseyndeyn tu cyawyu, milungec aca papiedap tu hekal.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602932.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "maca’ivi upeni vuanʉ. tarasangai cu macangini. tʉni cu cau pui’i na tanasʉn. nakai nipaica macangini sua tanasʉn, tararako muru’inasʉ. kipatʉsʉ Malala tumatuturu kasakʉnʉʉn sua sipatuturu. tikirimi sikai muranʉ nguani.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603225.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "micalivi upiaini vulahlʉ, tarisilipingicu a tarikiacangihli. ulavaisa tuahlicu a cucu’u puaili salia. ucanika hlicalivacu tarikicangihlina kiraravikicu ka salia. mataingalʉ a Malalana pasamanganʉ kiahlahlamu sipualisʉhla siatuturuana, hla makini cucuma sasaruanana patalʉlʉvʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603518.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "chinese_text": "Malala到處演講、撰寫文章、參與訪問。她要告訴世人教育的重要。她要為自己爭取受教權，為那些無法替自己訴求的女孩說話。",
+      "chinese_variants": [
+        {
+          "text": "Marara到處演講、撰寫文章、參與訪問。她要告訴世人教育的重要。她要為自己爭取受教權，為那些無法替自己訴求的女孩說話。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Malala到處演講、撰寫文章、參與訪問。她要世人教育的重要。她要為自己爭取受教權，為那些無法替自己訴求的女孩說話。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "到處演講、撰寫文章、參與訪問。她要告訴世人教育的重要。她要為自己爭取受教權，為那些無法替自己訴求的女孩說話。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/13.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Talacowacowa ci Malala a pakimad , mitilid to sasa’osien , mikapot a mihomong . Pakafana’en nira ko i hekalay a tamdaw to kalimelaan ko sifana’ . Misa’icel milongoc to no nira to sakafana’ , mipatado ho a somowal tora mafokilay misalongoc tono tireng a wawa fafahiyan .",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599120.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "ana’ inu’ son nya’ ptke’, miru’ biru’, wahan nha’ maqut. skayal nya’ ssquliq cinbwanan squ iyat balay kinqeri’ na zyaw qu pcbaq qani. nyux msina’ qpzing nya’ nanak nqu pcbaq squ hiya’ ru rmaw ini’ thuyay kmal snonan nha’ na ’laqi’ kneril.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599413.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "Malala ’ila’ila’ino’ balong, koma:at ka kina:at, pasingozaw. siya ’am manabih ka saboeh mae’iyaeh kiSka:at Sil’i: a tomalan howaw. siya ma’ ’am Somina’ ’oyih ninonak ka kakiSka:aten, tomilhaehael ’oyih ka ’aroma’ ’inokay pakiSka:ati ka minkoringan.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599706.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Malala munkuzakuza malhinuna, matash patashan, matudahip makikalhi. afuilh thithu sa az’az a pruq a thau pinfazaq sa mathuaw mabrithan. min’ananak thithu amara sa pinfazaqin a kushwit.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/599999.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Ani nuinu ssaan na pgkela mrengo, matis spatis, tuuman pprngagan. Pgkela ooda stgesa na nii, ptyexun na mangal ka Spkdungus sptgesa. Dmayo pgquri lqlaqi mqedil, uxe pgdungus ka ooda ini spyasi ka lqlaqi mqedil nii.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600292.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Malala hai mudadn sia vaivivaivi tu asang tatahu. mapapatas patasan .minamu mapantatalam tu halinga humung naasa saia tahu mas tastu zinsikai cin mas mahusbu tu ispasnanava asatu sahusbumas mapasnavacin. cisuni saia mas ananak tu isnanava cin hai makisaiv mas namahtu minuni masnanava cisuni mas ananak tu nitumahtu maluspingaz tu bunun makisaiv itu maluspingaz tu ispalinanutu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600585.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "nuinukinuanga a penaljapaljang, venecivecik, kiayan a talidu. pasemalav timadju tua pazangalan nua kitulu. ki’ave’av timadju tua pakatua kitulu, katuazua a neka nu sivala a kipa’eljing a marekavavayavayan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600878.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Malala la muinu kidruwanga ki sanakacekele peelaelaela, tupacase, la kipaelre kivavaga. kay alisu lripeelaela ki laumaumase kuidra tinukucingalrane ikay ki takibulruane. kay alisu lrikatwase kisamula pasikay kuidra sapakibulruaneini, pasikay kuidra kai makawadulru ngipapasikay kitubi kuidra apuvagane ki laabaybay.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601171.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Hmrapas rmngaw ana inu ka Marara, matas patas, teumal mtqita pprngaw. Rngagun na kana seejiq ka knpraan tgsaan. Pusu brihun tgsaun na ka ngngalun na, ini dhuq sdaring rmngaw hiya nanak ka laqi kuyuh o hiya ka mririh na rmngaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601465.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "matiw pasasani ti Malala pasanu semud tu sudad, melabu tu simsanuan. sanu pa tu ta tenub na banang ay lazat temaqsi qaninanan. ngid sanu tu sataqsian na, manmu tu Rayngu sikawma ay tazungan sikawma.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601758.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "mo biavovei ho aomotʉ’ʉ ho tposi ta malala, mimimio tuocosʉ ho eʉsvʉta ta acʉcʉhʉ ’e yoozisi ta kioiku.. mici m’ea kengli no tmopsʉ, ho i’omo ’ote meelʉ aomotʉ’ʉ ci oko no mamespingi.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602051.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "muibaibat muka benabatia aw temilill dra tilin dratu nanauwan dra trau i Malala. kurenang dra parekiyumaumaullan. “rarengay ku kana tratrautrau dratu padrangalan dra patakakesian aw kiyaami ku draku kipatakakesian na kedrang.” kema. patallu driya kanadru na druma na babayan benabati kiyaami.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602344.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "macizanod do aroa tao mangey mivatvatek ononongan na o naknakem ni Malala. koan am teymakdeng saon o macinanao. ji nio raheten sira ya macinanao, ta na kasi sira o mavakes ya jimakaziyak.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602637.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "tacuwacuwa papelu ci Malala, misulit tu sasakamuen milihiza mihumun. misakamu tu i hekalay tu cyawyu. amianin ciniza tu sapicudad niza, a patadu ciniza tu tatayna a wawa amisakamu tu i balucu’ay a kamu nuheni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602933.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "mucacaca Malala tumatuturu. maripiningi sinatʉ. matipa rovʉvʉ. tia tumatuturu sikai kasakʉnʉʉn sua sipatuturu. tia makinai takacicini kiatuturu tamna kenri. tia vanai cucumeni manu nanakʉ pokarikari.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603226.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "musa Malalana mahlukua aucaucani taparana maluliri, sumuhlatʉ karisa, tumalʉlʉvʉ pakisusuahlai. tumua kiahlahlamu kana’ana cucumasasaruanana sipualisʉhla siatuturuana. tumua marapihli kana’ana takacicihli makini siusuaturua, marapihli mamaini ahlaina kuacahlia malulirina.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603519.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "chinese_text": "她的聲音傳到了世界各地，她說的話得到世界的關注。她變得越來越有力量，號召越來越多人，幫助那些無法上學的孩子、被禁止上學的女孩。",
+      "chinese_variants": [],
+      "image_url": "https://web.klokah.tw/pbc/book/131/14.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Tangasa to i edef no kitakit ko ngiha nira, misahapinang to ko kasakanatal. Sa ci’ice’icel sato cingra, malekal to sa ’alomaloman sato ko tamdaw, mipadang toya caayay kanga’ay a mitilid a wawa ato ya milalangan a fafahiyan a wawa mitilid.",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599121.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "hngyang nya’ ga, wal gmayang rhzyal cinbwanan. cyux blequn mita’ na ssquliq qu ke’ nya’. si ’n_gyut hopa’ qu qpzing nya’ ru m’n_gyut pzyux squliq mgluw squ hiya’. musa’ kmraw squ ini’ thuyay ru shtuy mosa’ mqwas biru’ na ’laqi’ kneril.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599414.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "nisiya pinbalong hato ila ray babih ka ’oemaeh, nisiya pinayaka:i’ bazae’en ila noka saboeh ’oemaeh. nakhini siya pakhayza’en ila ka wa’is naehan. malroton haeba:an ka maeiyaeh, tomilhaehael ka korkoring ’inokay kiSka:at, ki ’inokay pakiSka:ati minkoringan.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599707.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "thithu a lushkin pishna’az’az tatata wa pruq, inzai thithu a lalawa taraan sa a’az’az a pruq. minmakitkushwit thithu, malalawa makitnasha wa thau, mindahip sa huya wa antu malhupish a azazak, shkafu thaithuy binanau’az ata tu lhupish.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/600000.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Dehuk nniinu ka hrenang kari na. Ma spruun sqita na knklangan ka kari ssrengo na duri di. Kndudul niqal ka beyax na msseli dmudul lqlaq uka beyax spuuyas, ma hnteran ini spyasi lqlaqi mmqedil di peni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600293.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "maupacia isaicia ailmananuan mapunapav mas maupacia tu singav tuhalinga hai mapa citpungin sai sia tastu zinsikaicin isaicia sintutupa tu halinga hai antalaunin mas tastu sikai sahusbu amin mas isacia tu halingacin, makanadidip saia tu istamasazan sisusus mas supahtu bunun mindangaz mas hinabin nitu mahtu isnavan tu uvavaz cia.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600586.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "azua tjawcikel nimadju izuatunazuanga, metjuruvuanga a lemangedangeda tua kai nimadju. tjapupicupiculanga timadju, metjuruvuruvuanga a pusaladj tuazua a inika makaya, kina’iljian a semagaku a marekavavayavayan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600879.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kuidra lingawini pakela inu kidruwanga, ku vagaini la kitarumara ki yakawmasane si kithingalenga kidreele. kay alisu la arusapukupukuane, kudra tadaulaneini ku umaumase la arutakalrakalra, si katwase paralubu kuini kai makawadulru mugaku ka lavavalake, si kuidra kiaruthuku ku augakuane ki laababay.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601172.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Wada bhangun kngkingal klwaan babaw dxgal ka hnang na, wada sqlahang kana babaw dxgal ka kari na. Wada rinah niqan brax ka hiya, rinah hbaraw ka kneaguh na seejiq, jyagan dha ka laqi ini dhuq musa ptasan, laqi kuyuh wada htrun musa ptasan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601466.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "suni na menanaz ti ta tenub na banang, nisikawman na mataytan na ti ta tenub na bangan ay lazat. padames ti Raya uRat na, padames ti mazemun lazat nitingaR na, manmu tu Rayngu tenaqsi ay sunis, taqa na pataqsi ay tazungan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601759.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "psoemo’a ta acʉcʉhʉ, ihe tac’ʉhi ta acʉcʉhʉ ’o e’esi. ausuhcu botngonʉ ’omo to’usnu tomo o’te meelʉ tmopsʉ ci ’o’oko ho i’oihe potani tmopsʉ ci oko no mamespingi.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602052.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "tu llengaw i, mupatrirebeng patarisesek i punapunan. tu killengetraw tu nirengayan dra trau i punapunan. marekamakeser tu kedreng kan Malala. marekakadruwan lla na trau na papullang kanadri na adri karuwa muka i takesian na llallak aw na binuutan temakesi na wallak na babayan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602345.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "tomiyonong do karawan o ciriciring na, do karawan am pazimanen da ikatengan o ni ononongan na a vazay. ya na tomipaowyat siya, ya tomiparo rana o tao ya macikeza jia, ya sidongen o kanakan jimivatvatek a, ji da mia o mavakes ya mangey mivatvatek.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602638.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "u ngiha niza makatukuh tu i cuwacuwa a kakitizaan, ya kamu niza matengil tu nu hekal. siicelangicelang satu ciniza, katuudkatuud satu ku pasayzaay i cinizaan, miedap tu caay picudad a wawa, daecusay tacacudadan micudad a tatayna a wawa.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602934.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "nguain tamna kari takutavarʉ’ʉn sikai. kacaua sikai cau taraparasʉ ’inia. ’una cu nguain tamna ’intasʉ kari. mariapʉ kacaua cau, muranʉ ka’anʉ tavarʉ’ʉ marisinatʉ manu, mataa manu nanakʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603227.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "vahliunguisa kana’ana patimahla aucaucani parana sasaruanana, apusamahlʉmahlʉngʉ cucusasaruanana karisa. aranganganicu a kana’ana, aratutumahlaʉ a ariapucuaisa cucu’u, tumalʉlʉvʉ mamaini kutuahlʉ musa umiiapʉna hla kupaiiapʉ mamaini ahlainana.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603520.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "chinese_text": "在報紙上、在電視機裡，都可以看到Malala。她被那些危險的男人發現。他們威脅Malala，不準她繼續公開發言，否則他們將取走她的性命。",
+      "chinese_variants": [
+        {
+          "text": "在報紙上、在電視機裡，都可以看到Malala。她被那些危險的男人發現。他們威脅馬拉拉，不準她繼續公開發言，否則他們將取走她的性命。",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            },
+            {
+              "lid": 12,
+              "name": "卑南語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            },
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "在報紙上、在電視機裡，都可以看到Marara。她被那些危險的男人發現。他們威脅Marara，不準她繼續公開發言，否則他們將取走她的性命。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/15.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Itini i simpon ato i tilifi , manga’ay paka’araw ci Malalaan . Makera noya katalawan a fa’inayan cingra . Patalawen nangra ci Malala , milalang mitongod patahekal a pasowal , anoca pidoedo to sowal patayen nangra cingra .",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599122.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "sinbung ru tensi ktan kya’ qu Malala. stnaq squ kngun na squliq mlikuy. sngngwan nya’ Malala. shtuy nya’ mgayang ptke’. ini’ pung ke’ nha’ ga, pqilun nha’ qu hiya’ ma.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599415.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "ray Sinbon, ray tilibi: ’i:zo’, Sahoero: saboeh hi Malala. siya Sahoero:en noka kamamanra:an. lasiya tomatikot hi Malala, kayni’ nisiya Sihapa: ray noka saboeh kakrarotonan, So: ’oka’ ’am tombok hisiya.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599708.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "isa pishfazaq a qahil, isa tian-sii, az’az shduu mriqaz sa Malala. thithu ungqtuan sa huya antu miaramaz a ayuzi. pashisasalpu thaithuy Malala ata tu intamarii pishfazaq pashtay sa thithu a lalawa.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/600001.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Srengo sinbung, ma terebi. Qqtaan daha ka Malala. Slayan na seediq so smiicu, ma yexun daha mepux. Psteqan ka spgkela na mrengo. Ini de, pnhqilun daha denu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600294.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tunsisimbung makasisia tiilibi hai mah tu in amin usaduan mas Malala cia. usaduan na kapisingun makukuang tu mabananaza at sipisingun naicia Malala tu kakatu muhna mapunaapav maupacia tu halingacin mais masahai napatazun zamikasu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600587.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "a i tua sinbung, i tua tiribi mapacucun sakamaya ti malala. djumaken timadju nuazua a nakuyakuya a u’alja’aljay, rekutjen timadju a mayanga sa ’ivuivu, mananga nu nia ’ecin sun ayain.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600880.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "ikay ki singbungu, ikay ki tingse, wadrelemadu ki Malala. la kipatarathingale kuini matiakiwcu ka lasawvalay. kuini lalasu la ukukuludru ki Malala, si paisadra iniane ku apaaruakayaneini ikay ki mapapangale kawriva, lu kai pangimia kuini, lrikimuniakane liniane kay alisu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601173.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Gaa spatas lblak pgkla, gaa kska sasaw samaw, ida tduwa qtaun ka Marara. Wada klaun duma snaw saw smeisug ka hiya. Siisug dha ka Marara, ini dha srwai pklutut pteura rmngaw, nasi aji saw kiya do ngalun dha ka kneudus na.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601467.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "ta tepuluk ay sinbun, ta tilibian, nizu maqaytay ita ti Malalan. mataytan na ya qaqaytisan ay Runanay. sanuan na qaniyau ti Malala, naRin ta mazemunan menanul, mai mipil ’tung na pa qaniyau aizipna.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601760.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "aiti to singvung ho televi ’o malala. ihe aiti tomo avunai ci hahocngʉ. ho auepiha ’o malala ’otena i’vaho aomotʉ’ʉ, takosa uk’ana nsou.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602053.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "kana sinbung lla aw kana tilibi lla i, maruwa ta menau kan Malala. tu patrebungay kanadru na kiyanedanedang na mainayan. tu saliyamedangaw i Malala kanadru. tu padrangayaw patrirebeng benabati. an adri madranga i, tu piyanatrayi i Malala kanadru.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602346.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "do vakong do tizibi, to jiasta si Malala. aroa marahet a mahakay am ni macita da si Malala. to da ngavaya siya, ji ka na mizizyak do aroa tao, no si makoan sang am to namen zakat ta rana imo.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602639.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "i sinbung, i tilibi, mazih tu ci Malala. matineng tu kiza katalawan a tatama. patalawen nuheni ci Malala, daecus misuayaw tu katuuday a musakamu anucaay a alaen nuheni ku uzip niza.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602935.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "’esi na sinpun, ’esi na tensʉ. tʉni cʉ’ʉrʉʉn Malala. takutavarʉ’ʉ nguani ’apitarʉ sasarunai. pararicakʉn nguani Malala, noo macuvungu pa makasua marivuvuarʉ kari, tia kani araʉn nguain tamna ngisaa.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603228.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "ma sinvungu hla siakita’ahlinguna, rianʉ tuahlʉ pukʉhla Malala. apausu’ulu a kana’ana apaihlipihla hlahlusana. tumahliakʉnʉkʉnʉngʉ hlakana’ana Malala malivutu a apihlusuhlusuisana maluliri, kuaunana ia papapacisa.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603521.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "chinese_text": "Malala拒絕躲藏，也拒絕保持沉默。最終，她在回家的路上遭到了槍擊。三聲槍響，子彈穿過Malala的腦袋。",
+      "chinese_variants": [
+        {
+          "text": "Marara拒絕躲藏，也拒絕保持沉默。最終，她在回家的路上遭到了槍擊。三聲槍響，子彈穿過Marara的腦袋。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Malala拒絕躲藏，也拒絕保持沉默。最終，她在回家的路上遭到了槍擊。三聲遭到了槍擊槍響，子彈穿過Malala的腦袋。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/16.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Manaay a milimek ci Malala , manaay a terep sa . Ikor to , minokay i fatad no lalan makowan to , kinatolo masoni ko kowang , ta’esel sa ko laco i pono’ ni Malala .",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599123.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "ini’ swan mlqing ru ini’ swan tmlux uzi qu Malala. pcingan lga, bun patus i tuqiy ’son nya’ ngasal. mincyugal hngyang na patus. mu’ tunux na Malala.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599416.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "Malala siya kayni’ hoSa:il, ma’ kayni’ hihimi’an. bi:il, siya ’ima lobih ray ra:an panae’en. monto:ol ka pinanae’, papanae’ paShoero: ray tae’oeloeh nisiya.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599709.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Malala ani tu ungkuru, numa mani ani madamadamat thithu. tu minqarayza, thithu isa mutaun a saran panduu sa pafthiq. turu a fthiq, fthiqan makashqut Malala wa pnuq.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/600002.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Ini sruwa mgleing, ma pkpseesu mrengo kari na ka Malala. Bobo na de, wada buun halung eluw oda ssaan na sapah. Teru hrengang halung, wada moda lmihu luqi tunux na Malala.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600295.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Malala hai nitu sihabin ni amin sinugsiv isuka, aaipincin hai masa isia tundadan saia sia na kulumahtu tu dan hai tuzatu panahun saia naicia mapataz pinulaciunan saia mamanah at makangdaha savis sia isaicia tu punuh mintanglav.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600588.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "inika naki’ilja ti malala, inika nasemekez uta tua sitjawcikecikel nimadju. ka vililjanga, vaivaik timadju a semauma’ i djalan, manu kuangen timamdju a kintjelulj, namakuang a pitua ’ulu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600881.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Malala la kai tarumara si katwase kibalay, maiyalriini kai taruamara paaruakay kababitingi. sakabilrilanenga, sa utavanavanane ikadalranane kay alisu ala kikwangenga. la akutulrulu ku tatutathane, ku nanuku la lregese ki awlru ki Malala.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601174.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Ini sruwa tgliing ka Marara, ini sruwa mgmlux uri. Nhdaan do, wada bsqar puniq elug mmowsa sapah ka hiya. mntru ka hnang bsqar, tklihug tunux Marara ka bali.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601468.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "taqa talumbi ti Malala, mai melimek qaya. tuRuz na, ta lazanan na temanan mapisa ti. utulu suni na pisa, tumsuR tu uRu ni Malala.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601761.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "i’e malala o’amo totoefʉngʉ o’amo euteoteozu ihecu pnaa to fsuyu nemo emomaine’e to ceonʉ. pahtoteuhi to fsuyu snopaezuma ’o fnguuu to malala.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602054.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "adri tu killengawi aw adri mullasedr i Malala. patrutru patrirebeng benabati. pallu dra, a muwaruma kadri daladalan i, tu kuwangaw dra trau i Malala. paretelun tu llengaw kana kuwang. paelibat dratu tranguru kan Malala na timera.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602347.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "jitomayo si Malala, ji na amizingen o ciriciring da. manowji am to da paoben rana siya no kangey na do vahay da a rarahan. apitlo ni paoben da, ka tonangayan do atek na.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602640.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "kayi sa ci Malala milimek, makayi ciniza a masatezep. zikuz, i sakataluma’ niza a zazan makuwang ciniza. tulu a suni’ nu kuwang, masikeda nu lacu’ ku tangah ni Malala.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602936.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "ka’anʉ mitʉvʉngʉ Malala, ka’anʉ kangvang maucʉngʉ. marivivini, na pui’i tanasa cacanʉ pana’ʉn. makaturu pana’ʉn. maica na Malala tamna navungu sua varʉvarʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603229.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "kutararianʉ a Malalana mitalʉvʉngʉ, kupakuaʉmʉtʉ makʉmʉtʉ a ngusuisa mʉmʉa. ulavaisa, ma siuasalaisa sala’ana papana. hlipatatuluhlu tupuu hlahlitu, kulilaluihli ripasʉ punuisa Malalana.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603522.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "chinese_text": "但是，他們失敗了。Malala活了下來。槍擊事件並沒有讓Malala因此而沉默退卻。她持續提倡教育的重要性，爭取女性受教的權利。",
+      "chinese_variants": [
+        {
+          "text": "但是，他們失敗了。Marara活了下來。槍擊事件並沒有讓Marara因此而沉默退卻。她持續提倡教育的重要性，爭取女性受教的權利。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "但是，他們失敗了。Malala活了下來。槍擊事件並沒有讓Malala因此而沉默。她持續提倡教育的重要性，爭取女性受教的權利。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/17.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Nika , malowid to cangra . ma’orip ci Malala . O nika kowang a demak malasakaca ni Malala caka talarikor tomerep ko faloco’ nira , mitongod palowad to tada kalimelaan a sifana’ cingra , misa’icel a misalongoc to sifana’ no fafahiyan .",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599124.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "ana’ ga, ini’ nha’ thyazi. mqyanux qu Malala. zyaw bun patus qani ini’ shriq ru tmlux qu Malala. qzinah muruw zyaw na pcbaq ru msina’ pcbaq ’laqi’ kneril nqu qpzing nanak.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599417.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’oka’, lasiya siyobaz ila. Malala ’i’iyaeh ila. Malala ’okay papaSeSi noka hini howaw. siya tomowa’is komon’itol noka minkoringan ka kakiSka:aten.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599710.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "kanuniza, antu matunaw thaithuy. Malala maqalhtashuan, pafthiq antu piadamadamat sa Malala. mintamar thithu mu’apaw pinfazaq s izai pinfazaq sa mathuaw mabrithan, amara sa binanau’az pinfazaqin a kushwit.",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/600003.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Ani si, wada daha ini dheki pnhuqil. Muudus ka Malala nii. Halung ini pkseesu Malala. Mslutuc spruun na pgkela ka ooda quri mangal beyax spuuyas na mmqedil.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600296.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "haitu savaian naia aupa maza Malala mihumisang. nia inacia sipapanah saicia taipataz mas Malala cia cismaupacia naia sisauhis minsasiahu minkaz’av mastatanin saia makanadidip tu mapaidadaza mas malkauni pasnanavancin aupa sahusbusaia mas tupautu\\mapasnavacin sausia usizanin saia mas itu maluspingaaz tu pasnanavan tu tamasaz tu kiinli.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600589.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "manu, valjutanan ti malala. azua kinuangan tjaymadju inika napasekez tjaymalala. pazurung a mavan timadju. penaljapaljang sakamaya tua pakamangua’an nua vavayavayan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600882.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "ai, kay lalasu la amalebenga. ala kay Malala la panianiake. ala kay takikwanganeini ki Malala la kai ngualay kikay si paarukasaselebane iniane si paarukababitingi iniane. kay alisu la pacungulana ku apaaruadilane tukucingalre ikay ki takibulruane, si katwase kisamula ku agemegemane ki puku kuidra ki laabaybay ikay ki akibulruane.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601175.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Kiya ka kiya ni, ini dmgiyal ka dhiya da. Meudus ka Marara da. Ana yaa saw nii ini spgmlux sphjiq Marara ka euda bsqar puniq nii. Ini pstuq gmarang knpraan tgsaan, pusu brihun tgsaan kykuyuh ka ngngalun na.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601469.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "wanayka, mesuqas ti qaniyau. binnus ti ti Malala, lanas na nipisan mai melimek maytis ti Malala. qawqawman semanu tu qaninanan na temaqsi, manmu tu tazungan qanengi pa temaqsi.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601762.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "at’inghi o’amihin’is’a seikoo. mon’a yansoua ’e malala. upena ho isi pnaa to fsuyu o’amo h’unano euteoteozu ’e malala. a’cʉ’cʉna psoyaska ’o zuuyo no kioiku, ho m’ea kengli no maamespingi.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602055.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "amawna, adri mulaesi tu llemak kanadru. mubaaw driya i Malala. mulelep kandri na kikuwang i Malala i, adri mulikudrakudran aw adri madranga benabati. patrutru semullud dratu padrangalan dra patakakesian. aw kiyaami dratu kedrang dra babayan kipatakesi.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602348.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "am ji nimakita sira. ni maviay pa si Malala. jiab ka to na miwalam a ji mivazay so nimasimo na o ni paoban da siya no kangang a marahet a vazay. ya mangey mangononong pa ipanci na o ta ikakdengan no ya macinanao a vazay ya, ipanci na sira aroa mavakes mangey mivatvatek.",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602641.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "nika, caay kalaheci kuheni, mauzip henay ci Malala. u nipikuwang caay kasatezep milaliw ci Malala. milalid aca ci Malala amisakamu tu cyawyu, mianin aca tu keynli nu tatayna.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602937.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "nakai koo savaiʉn sua Malala. murungisaa pa Malala. koo vanai pana’ʉn sua Malala tarasangai maucʉng cu. macuvungu pa nguain mapurai kasakʉnʉn sua sipatuturu. tia makinai nanakʉ kiatuturu tamna kenri.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603230.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "ucanika kutasʉkʉraisana. arangusipicu a Malala. maniki papana Malalana ia, kuurahlʉ. takuhlaluhlalusu a kana’ana pualisʉhla siatuturuana, makini siaranganʉ a siusuaturua ahlahlainana.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603523.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "chinese_text": "2013年，她獲得在全國領袖面前發表的機會，她說道:「一個孩子、一位老師、一本書、一枝筆，就會改變世界。」Malala是一位勇敢且充滿智慧的女孩。",
+      "chinese_variants": [
+        {
+          "text": "2013年，她獲得在全國領袖面前發表的機會，她說道:「一個孩子、一位老師、一本書、一枝筆，就會改變世界。」馬拉拉是一位勇敢且充滿智慧的女孩。",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "2013年，她獲得在全國領袖面前發表的機會，她說道:「一個孩子、一位老師、一本書、一枝筆，就會改變世界。」Marara是一位勇敢且充滿智慧的女孩。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/131/18.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "I tosa patek safaw tolo a miheca Pakalayap cingra a patahekal i ka’ayaw no kakeridan no kitakit , sowal sa cingra , “ O cecay a wawa , o cecay a singsi , o cecay a codad , o cecay a impic , maedeng mafalic ko hekal . ” O macodahay matomesay to fenek a fafahiyan ci Malala .",
+          "audio_url": "https://web.klokah.tw/text/sound/37935/599125.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kawas 2013. swalan nha’ maki’ gleng na mrhuw ptke’ mha’, “qutux ’laqi’, qutux sinsi, qutux biru’, qutux bbiru’. baq ’iyuw cinbwanan.” motux ru sininlungan na kneril qu Malala.",
+          "audio_url": "https://web.klokah.tw/text/sound/37963/599418.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "ray 2013 tinal’oemaeh, siya pabalongen ray to’oya’, siya komoSa’, “’aehae’ korkoring, ’aehae’ kamatortoroe’, ’aehae’ kina:at, ’aehae’ kaka:at, kayzaeh pahinibih ka hini ’oemaeh.” Malala ’aehae’ ’iniyapae’zao’ o ’ima soma:om ka tae’oeloeh ka kabina:o’.",
+          "audio_url": "https://web.klokah.tw/text/sound/37991/599711.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "2013 a kawash minaraiza thithu isa katataunan a shaunatuan a tanamuqtha wa malhinuna, thithu mzai “tata azazak, tata shinshii, tata patashan, tata patatash, shduuiza mingqtha sa az’az a pruq.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38019/600004.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Knkawas 2013, mangal ssaan mrengo berih mpdudul knlangan, mesa, “Kingal laqi, kingal mptgesa, kingal patis, kingal ppatis, dehuk pnkriyux klangan.” Malala, kingal laqi mqedil knremun, stngayan knkela peni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38047/600297.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "isia 2013年 antala saia mas maikusnasia tastu zinsikai tu sasbinaz tu sinatumashing, tupasaia tu tacinitu uvaz, tacinitu masnanava tasatu ahil, tasatu ispapatas hai mahtu amin kahna mas tatusikai tu dalahcin. maza Malala hai nitu kantantu maluspingaz makitvaivitu bunun at istamasazan musasu istaiklasan at alutmuzan buklas mas hansiap at istaiklasan tu maluspingaz.",
+          "audio_url": "https://web.klokah.tw/text/sound/38075/600590.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "ka 2013 a caviljan, pinakaleva timadju i tjai’ayav tua ta’alja’aljan. ’ivu timadju, “macidilj a kakedrian, macidilj a sinsi, ita a sunatj, ita a ’inpic, makaya a mawmalj tua selapayan na tjaramacidicidiljan” aya timadju. aicu a ti malala pa’ulidj a ngalungalu saka puvarung aravac a sikavavayanan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38103/600883.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "saka 2013 ningi, kay alisu la kitarumara sanakacekele ku aikaiyaneini cucubungu ki talialalay peelaela ku atuthingalaneini, kay alisu yakay ku vagaini iya kay, “ku tangea ku vavalake, ku tangea ku singsi, kuidra vaeva ka hungu, kuidra vaeva ka sapacapacasane, wadulru paakabalrithi ki yakaumasane.” ala kay Malala amani kuidra magarange si kisuete ku lrigilane ka ababay.",
+          "audio_url": "https://web.klokah.tw/text/sound/38131/601176.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Empusal kbkuy maxal tru hngkawas, maangal psiida pgkla rmngaw brah bukung kana klwaan ka hiya, rmngaw ka hiya“ Kingal laqi, kingal emptgsa, kingal patas, kingal ppatas do, kika mha kmpriyux babaw dxgal.” Kingal laqi kuyuh mrmun bi ni mnttuku kkla ka Marara.",
+          "audio_url": "https://web.klokah.tw/text/sound/38159/601470.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "ta 2013 tasawan, qanengi aizipna ta ngyawanan na uRu na lawlaw menanul, semanu aizipna, “paqenanem sunis, paqenanem patudan, ussiq sudad, ussiq yencepi, qauman ti tenub na banang.” ti Malala nani metaRuz mesanem ay paqenanem tazungan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38187/601763.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "ne moso 2013neng no zikang mo yonta ’mae tala ’ofifiha ta zengkoku, ho yainca cihi ci oko cihi ci sensei conci tposʉ conci ’engpicu cu peela teovahi ’e sekai. a’ʉmtʉs’a ’oha t’oe’ʉya ho mau’to’tohʉngʉ ci oko no mamespingi ’e malala.",
+          "audio_url": "https://web.klokah.tw/text/sound/38215/602056.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "kana 2013 amiyan i, kadru i nganguwayan kantu taudrung kana kanatal benabati i Malala. “a wallak a misasa, a sinsi a misasa, a tilin a saya, a tratruri a saya i, karuwa benalis dra punapunan.” kema. i Malala i, a salaw uringetr a babayan aw sadru tu kinalladraman.",
+          "audio_url": "https://web.klokah.tw/text/sound/38243/602349.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "amian do 2013 awawan, nitovoing da siya mangey macizizyak do inana o panirisiringen a tao do panomaen da, koan am “asaka anak、 asaka sinsi、 asaka vakong、 asaka ipivatvatek、 jitojiblis o karawan eya.” am ori ya teymowyat neymatenen saon si Malala.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38271/602642.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "2013 a mihcaan a mipapelu ciniza i aayaw nu angangan nu kanatal, hini sa ciniza, “cacay a wawa cacay a saydan, cacay a cudad, cacay a sapisulit, amasumad tu ku hekal.” u mataluday u sitangahay ci Malala a tatayna.",
+          "audio_url": "https://web.klokah.tw/text/sound/38299/602938.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "2013 cenana. ’una nguain tamna ramangʉ, na kuka tamna kavangvang ra’ani pokarikari. makasi nguain: “tacini manu, tacini takituturua, cani sinatʉ, cani siarisinatʉ. tʉni parakaranana sikai.” sua Malala cucuru mintasʉ, ’una macʉrang manu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38327/603231.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "usua hlimiaili laihla utulu caihli, atʉahlʉ a kana’ana pasamia maru ahliacuvungaisa kapitanʉ aucaucani kukana maluliri, amihla kana’ana: “cacihli mamaini, cacihli pakiaturua, ucani tʉpʉhlana suhlatʉ, ucani siasuhlatʉ, tuahlʉ apalavalʉ sasaruana.” Malala ihlaisa cacihli vaasu mamaini ahlaina hla pacʉcʉpʉngʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/38355/603524.mp3"
+        }
+      ]
+    }
+  ],
+  "source_urls": {
+    "info": "https://web.klokah.tw/pbc/book/index.php?id=131",
+    "online": "https://web.klokah.tw/pbc/book/online/index.php?id=131"
+  }
+}

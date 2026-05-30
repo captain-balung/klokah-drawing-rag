@@ -1,0 +1,3611 @@
+{
+  "id": 119,
+  "title": "誰偷了我的蛋",
+  "illustrator": "翁雅德",
+  "level": "中高級",
+  "grammar_focus": "動態動詞",
+  "summary": "小男孩去商店幫媽媽買雞蛋，將雞蛋放在客廳後，匆忙奔去廁所，回來卻發現雞蛋不見了!小男孩焦急的想，是誰偷了我買的雞蛋呢?\n故事語法重點為動詞(焦點變化)，在故事裡反覆用不同的焦點來傳達事實，例如「我買的蛋被偷走了。」、「是誰偷了我的蛋？」\n小男孩最後找回了雞蛋，而這過程也值得我們思考，人與人之間的互動與信任關係。",
+  "language_count": 16,
+  "available_languages": [
+    {
+      "lid": 1,
+      "name": "阿美語",
+      "page_count": 16
+    },
+    {
+      "lid": 2,
+      "name": "泰雅語",
+      "page_count": 16
+    },
+    {
+      "lid": 3,
+      "name": "賽夏語",
+      "page_count": 16
+    },
+    {
+      "lid": 4,
+      "name": "邵語",
+      "page_count": 16
+    },
+    {
+      "lid": 5,
+      "name": "賽德克語",
+      "page_count": 16
+    },
+    {
+      "lid": 6,
+      "name": "布農語",
+      "page_count": 16
+    },
+    {
+      "lid": 7,
+      "name": "排灣語",
+      "page_count": 16
+    },
+    {
+      "lid": 8,
+      "name": "魯凱語",
+      "page_count": 16
+    },
+    {
+      "lid": 9,
+      "name": "太魯閣語",
+      "page_count": 16
+    },
+    {
+      "lid": 10,
+      "name": "噶瑪蘭語",
+      "page_count": 16
+    },
+    {
+      "lid": 11,
+      "name": "鄒語",
+      "page_count": 16
+    },
+    {
+      "lid": 12,
+      "name": "卑南語",
+      "page_count": 16
+    },
+    {
+      "lid": 13,
+      "name": "雅美語",
+      "page_count": 16
+    },
+    {
+      "lid": 14,
+      "name": "撒奇萊雅語",
+      "page_count": 16
+    },
+    {
+      "lid": 15,
+      "name": "卡那卡那富語",
+      "page_count": 16
+    },
+    {
+      "lid": 16,
+      "name": "拉阿魯哇語",
+      "page_count": 16
+    }
+  ],
+  "page_count": 16,
+  "pages": [
+    {
+      "page_number": 1,
+      "chinese_text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對Pani說：「幫我買一些蛋好嗎？」",
+      "chinese_variants": [
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對Calaw說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對Pasang說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對para:in說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對Shulay說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對Pidu說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對Dahu說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對cumay說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對Palri說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對Panay說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對Buya說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對Pasuya說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對Pungya說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對Keysodan說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "傍晚的時候，媽媽要煮晚餐，發現沒有蛋了，就對’Avi說：「幫我買一些蛋好嗎？」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/1.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Mahakakerem ko romi’ad , mamisakalafi ci ina , makera awa to ko fita’ol , pasowal sa ci Calaw , “ Padangen ho kako mi’aca to fita’ol haw ? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467369.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "gaygbyan ga, phapuy qu yaya’. ungat qu bazing la. tun nya’ qu Pasang mha, “ ani saku’ maziy cikay bazing hku？ ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467426.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’ima ’iyaSamSem, ’oya’ ’am tinkinSa:o’, komita’ ’oesizo: ’oka’ ila, ’isa: mayaka:i’ hi para:in komSa’: “ Sa’ila bae:iw ka ’oesizo: ’iniman ay? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467483.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "ya tanlhuaniza, ina apit’ia kuntalhuan a kakaanin, minriqaz uka sa qarithuy, numa munsai Shulay mzai “shduu indahipiwakuan fariw ladadu a qarithuy?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467540.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Bbiyan, mphpure ido ka bubu, uka balung di. Mrengo Pidu ka bubu, “ Brgani ku tikuh balung wa? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467597.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "isdalavdavin namapit ia cina as pinit’sanavan , sadu a cina tu ukina lububunun , at tupamas Dahu tu indangazavang saikin mabaliv mas lububunun .",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467654.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "ka selemaleman, uri kemesa tua kaiven ti kina, manu nekanga nu ’ecilu, ’ivu tjay cumay, “sau, velian aken tua ’ecilu?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467714.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "sakamiauaubu, sa lriaga ku atukuaubane ku ina, ala drele ka kadruanga ku batuku, la kivaga ki Palri iya kikay, “alaralubaili katwase langay ku batuku?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467771.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Gbiyan siida, emphapuy ka bubu, kla ungat ka balung da, asi na rngagi ka Panay“ Sai saku marig cih balung hug?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467828.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "Rabi ti nani, ngid sammay tu saqanan saRabian ti tina, taytan na mai ti tu tiRuR, semanu ti buyan, “panmu iku meRasa tu tiRuR qanengi ni?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467885.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "ne yofna, te pei’i ’o ino, isi aiti homo uk’a fcuyu, isi mi’usni ’o pasuya ho yainca: “ tekon’aso to’usni a’o ho mhia fcuyu? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467942.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "a karauraub i, maabel dra kakerabian i ina. menau dra uniyan lla na bitrenun. “uwa driya trimaan ku dra bitrenun maw?” kema kan Pungya.",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/467999.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "makowyab rana ，ya manotong si ina ，am abo o rana o icioy，na ka panci sia si Keysodan “ manarang ka pa so icioy an ?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468106.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "u sansandeb, misakalabi ci ina, nayay ku tiekuk, hini han niza ci Pani, “ picakay tu tiekuk haw? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468220.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "miaa rovana. tia po’ucipi cina. nakai ’akia cu ’iciuru. pasiʉn kee Pani: “uranoo ku pu’a ’iciuru.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468277.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "araruvana rumahlaʉ , pahlaruvaruvana ina’ana , pausu’ulu uka’acu ’asarʉ kihlahlamu ’Avina ：“ talʉlʉvʉniaku pu’a ’asarʉ a’ʉia ?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468334.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "chinese_text": "Pani問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+      "chinese_variants": [
+        {
+          "text": "Calaw 問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "Pasang問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "para:in問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Shulay問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Pidu問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Dahu問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "cumay問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Palri問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Panay問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Buya問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "Pasuya問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Pungya問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Keysodan問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "’Avi問：「哪裡有賣蛋呢？」媽媽回答說：「學校旁邊的商店就有賣。」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/2.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Licay sa ci Calaw , “ Icowa ko pa’acaay to fita’ol sao ? ” paca’of han ni ina somowal , “ Ira pa’aca i patiyamay tatihi no pitilidan .”",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467370.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "maqut qu Pasang mha, “ cyux inu’ qu tbziran bazing hiya’？ ” smyuk qu yaya’ mha, “ cyux bih balay na pqwasan biru’ qu syubay tbziran. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467427.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "para:in somingozaw: “ hayno’ hayza’ kabae:iwen? ” ’oya’ tiSkobae:oeh komSa’: “ ray kakiSka:atan kabih ka tiyam hayza’ kabae:iwen. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467484.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shulay makikalhi “intua s qarithuy ya fariwin? ” ina shuntam mzai “isai lhupilhupishan a shirshir a farifariwan ianan sa fariwin.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467541.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Smiling Pidu. “ Ga inu ka bbrigan?” Cmiyuk ka bubu. “Ga ssiyo sapah pyasan ka sapah brigan. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467598.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa Dahu tu isabis babalivan lububunun i ? antalam cina tu: mandingalan sia pasnanavan cia hai aiza babalivan .",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467655.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "’ivu ti cumay, “izainu a paveliveli tua ’ecilu?” temevela a kina, “a i tjuljivar tua gaku a siyubay izua.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467715.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Palri la kauriva iya kikay, “yainu ku takilangalangadhane ki batuku?” ku tinaini la tubalre iya kikay, “ka thili ki gaku yakay ku takilangalangadhane.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467772.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Smiling ka Panay“ Inu ka niqan sbarig balung hug?” Smiyuk ka bubu“ Sbrigan gaa kiyig ptasan hiya ka niqan sbarig.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467829.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti buya, “yau tanian baliw tu tiRuR ay?” semanu ti tina, “ta kinilan na taqsian ay tiyam yau baliw.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467886.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "tuocosi ta pasuya: nenu nala mhia fcuyu? yut’inga ta ino ho yainca: mo yonto pae’ohsa to ngkoo ’o momhino.",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467943.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“auka ku isuwa tremimaa?” kema kiyumall i Pungya. temubang i ina dra, “i saninin kana takesian na tiyam. ullaya menaniwan kadru. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468000.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "Keysodan “ anjing o na yanan no ya manarang so icioy ?” koan ni ina “ do katangked no gako am amiyan so pananarangan . ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468107.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "mitengil ci Pani, “ icuwa micakay tu tiekuk saw?” sakamu han ni ina, “i tapiingan nu cacudadan a patiyamay micakay. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468221.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "kesoni Pani: “’esi nanu ’una mapu’a ’iciuru?” marivari cina: “ciciri tarisinata, ’una ’inia.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468278.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "pakisuahlai ’avina ：“ maninaua mi’a’a ’asarʉ ？” umalivalʉa ina’ana ：“ marua patʉkʉ ariatʉkʉrana mi’a’a ’asarʉ .”",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468335.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "chinese_text": "Pani說：「好，我去幫妳買蛋。」",
+      "chinese_variants": [
+        {
+          "text": "Calaw 說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "Pasang說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "para:in說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Shulay說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Pidu說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Dahu說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "cumay說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Palri說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Panay說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Buya說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "Pasuya說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Pungya說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Keysodan說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "’Avi說：「好，我去幫妳買蛋。」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/3.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Calaw , “ Manga’ay to , tayra to kako mi’aca to fita’ol . ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467371.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Pasang mha, “ aw. anay misu’ maziy bazing. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467428.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "para:in Sa’: “ ’a:ay, ya:o taSabae:iw ka ’oesizo: ’iniSo’. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467485.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shulay mzai“ ua, mutantu iaku mindahip ihun fariw sa qarithuy ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467542.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "mrengo Pidu. “ Un, Sae sumu maruy. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467599.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa Dahu tu: ung , nakudip saikin mabaliv lububunun.",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467656.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "’ivu ti cumay, “uwi, ku sivelian sun.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467716.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Palri la iya kikay, “wathingalaku, nawmuaana langay ku batuku ralubu musuane.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467773.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka panay“ Iqi wa, saun misu marig balung wah.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467830.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti buya, “kua, panmu aka isu meRasa tu tiRuR.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467887.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta pasuya: “ ma zoueno, te’o uhne’e ho mhia fcuyu. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467944.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“aiwa. kayku tremima a!” kema i Pungya.",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468001.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "Keysodan “ noon ，manhey ko manarang so icioy .”",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468108.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu sa ci Pani, “ hang, tayza kaku micakay. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468222.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Pani: “ʉʉ’ʉ, muranʉ kasua pu’a ’iciuru.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468279.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla ’Avina ：“ aa’ʉ , tumalʉlʉvʉaku ihlau pu’a ’asarʉ .”",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468336.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "chinese_text": "Calaw到了商店以後，對老闆說：「老闆，我要買蛋。老闆問：「你要買多少蛋呢？」",
+      "chinese_variants": [
+        {
+          "text": "Pasang到了商店以後，對老闆說：「老闆，我要買蛋。老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "para:in到了商店以後，對老闆說：「老闆，我要買蛋。老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Shulay到了商店以後，對老闆說：「老闆，我要買蛋。老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Pidu到了商店以後，對老闆說：「老闆，我要買蛋。老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Dahu到了商店以後，對老闆說：「老闆，我要買蛋。」老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "cumay到了商店以後，對老闆說：「老闆，我要買蛋。老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Palri到了商店以後，對老闆說：「老闆，我要買蛋。老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Panay到了商店以後，對老闆說：「老闆，我要買蛋。老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Buya到了商店以後，對老闆說：「老闆，我要買蛋。老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "Pasuya到了商店以後，對老闆說：「老闆，我要買蛋。」老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Pungya到了商店以後，對老闆說：「老闆，我要買蛋。」老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Keysodan到了商店以後，對老闆說：「老闆，我要買蛋。」老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Pani到了商店以後，對老闆說：「老闆，我要買蛋。老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Pani到了商店以後，對老闆說：「老闆，我要買蛋。」老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "’Avi到了商店以後，對老闆說：「老闆，我要買蛋。老闆問：「你要買多少蛋呢？」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/4.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Tangasa to i patiyamay ci Calaw , pasowal sa to tawki , “ Tawki , mi’aca to fita’ol kako . ” licay han no tawki , “ Pina ko a’acaen iso a fita’ol sao ? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467372.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "tayhuk syubay babaw nya’ qu Pasang lga, kmal mha, “ lawpan, pbaziy saku’ bazing. maqut lawpan mha, “ pira’ bzirun su’ bazing？ ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467429.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "para:in potngor ila ray tiyam, mayaka:i’ ka tahoki’ komSa’: “ tahoki’, yako ’am bae:iw ka ’oesizo:. ” tahoki’ komSa’: “ niSo’ ’am koza’ kabae:iwen? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467486.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shulay shaunanaiza farifariwan, numa fuilh talima mzai“ talima, afariw iaku sa qarithuy.” talima makikalhi “ lakuza ya fariwin uhu?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467543.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Musa brigan ka Pidu. “ Lawpan, maruy ku balung.” Smiling ka Lawpan. “Maruy su knhenu wa? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467600.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "taunasianin Dahu sia babalivan hai tupaun saicia tauki tu: tauki, namabaliv saikin lububunun. tauki hai tupa tu napiabilivun su lububunun?",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467657.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "ka taljusiyubayanga ti cumay, ’ivu tua tawki, “tawki, uri veneli aken tua ’ecilu.” kivada’ a tawki, “pida a uri su velin a ’ecilu?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467717.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Palri sakelanga ki tasiubadhane, la kivaga ki lawpange iya kay, “lawpange, lrilangadhaku ku batuku.” kay lawpange la iya kay, “lrilangaysu tupiya ku batuku?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467774.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Dhuq sbrigan ka Panay do, rngagan na ka tnpusu smbarig“ Tnpusu smbarig, barig ku balung.” Smiling ka tnpusu smbarig“ Embarig su piya ka balung hug?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467831.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "maseq ti tu tiyam ti buya, semanu tu tawki, “tawki, ngid iku Rasa tu tiRuR. ipilan na tawki, “ngid isu Rasa tu qatani tiRuR?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467888.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "micu uhto momhino ’o pasuya, ho yainca ’o t’hauke:“ t’haute, te’o mhia fcuyu. tucosi to t’hauke ho yainca: te pio na teko phimi ci fcuyu? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467945.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "meredek kana tiyam i Pungya. “lawpan, tratrima ku dra bitrenun.” “tratrima yu dra munuma dra bitrenun?” kema kiyumall na lawpan.",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468002.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "makaranes rana si Keysodan do pananarangan，koan na do panirisiring am “ ana , ko manarang so icioy.” mizizyak o panirisiring “ apira o icioy ya mo panarangen？”",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468109.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "makatukuh tu ci Pani i patiyamay, hini han ni Pani ku tawki, “ tawki, micakay kaku tu tiekuk. ” hini satu ku tawki, “ hacica ku picakay isu saw? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468223.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "matarava cu tamia’aa sua Pani, makari na raupan makasi: “raupan, tia ku pu’a ’iciuru.” kesoni raupan: “upeni tia pu’aa musu ’iciuru?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468280.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "akuisa musa ’Avina mahlukua i’a’ana , kihlamuhlamu pakiaturua i’a’ana :“ pakiaturua i’a’ana , tumuaku pu’a ’asarʉ .” pakisuahlai pakiaturua i’a’ana ：“ taininia pu’au ’asarʉ ？”",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468337.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "chinese_text": "Pani說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+      "chinese_variants": [
+        {
+          "text": "Calaw說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "Pasang說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "para:in說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Shulay說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Pidu說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Dahu說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "cumay說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Palri說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Panay說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Buya說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，我給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "Pasuya說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Pungya說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Keysodan說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "’Avi說：「媽媽煮晚餐要用的，先買一點就好。」他拿了幾個蛋，給了老闆錢就回去了。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/5.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Calaw , “ O sapitangtang ni ina to sakalafi , miming aca maedeng to , ” ala to pinapina a fita’ol cingra , pafeli to payso i tawki minokay to cingra .",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467373.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Pasang mha, “ thkun na yaya’ gbyan. maziy cikay lga tnaq la.” magal cikay bazing qu hiya’. biqan nya’ pila’ lawpan ru waylay la. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467430.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "para:in komSa’: “ ni ’oya’ katikinSa:o’, ’inSa’la’ bae:iw sowiti’ kayzaeh ila. ” siya mari’ piza’ ka ’oesizo:, mobay ka rayhil hi tahoki’ ’isa: lobih ila.",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467487.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shulay mzai “ina apit’ia kuntalhuan a kakaanin apiazai, mihala fariw ladafu shduuiza. ” maraiza thithu antu piza wa qarithuy, lhai talima sa tuali numa mushaiza.",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467544.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo Pidu. “ Praun na keeman bubu, anaq tikuh hari hayan.” Ini kpiya nngalan na, ma mege pila Lawpan musa sapah ka heya di. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467601.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa Dahu tu naiskusia cina cia mapit’ia pinit’sanavan , nakaz mabalivang tu kauman. siza saia tu nitu taukpia mas lububunun cia ,masaiv mas tauki mas sui at mudanin kulumah.",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467658.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "’ivu ti cumay, “uri sikesa tua kaiven ni kina, pakakedriyu.” malap timadju tu pida tua ’ecilu, sa pavai tua paysu tua tawki sa vaik a tjuma’.",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467718.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Palri la kauriva iya kay, “saarakaiyane aga ki ina kaymaungu, nawlangadhana ngubekele.” la alra ngupiapiya ku batuku si baainga ku paisu katwase.",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467775.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Panay“ Hpuyun uqun gbiyan bubu, cicih do kiya da.” Mangal cicih balung ka hiya, biqan na pila ka tnpusu smbarig do wada da.",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467832.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti buya, “saRamazan na tina ku qaRabi, kunna pa meRasa tu qakiya nengi ti.” mala ti aizipna tu utani ma tiRuR, bulan ku tu kelisiw tawki temanan ti ku.",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467889.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta pasuya: “ tesi titha pei’i no yofna to ino, tec’o poa kakutia ’e te’o phini, faeni to t’hauke ’o peisu hocu emomaine’e. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467946.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“aabel dra kakerabian i nanalli. tremimaa ku driya dra samaya.” kema i Pungya. aw malak dra samaya dra bitrenun. tu berayay dra paisu na lawpan aw muburek.",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468003.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "Keysodan “ sicyamahep am na dengdengen ni ina ，oya a panarangen an .” ni mangap so icioy ，ka toroen so nizpi do panirisiring kagey na rana.",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468110.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu han ni Pani, “ u sapisakalabi ni ina, pinaen aca.” ala satu ciniza tu tiekuk, pabeli satu tu kalisiw i tawki tu taluma’. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468224.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Pani: “tia siarupaca cina po’ucipi rovana, ka’anʉ tia upeni.” ka’anʉ ’itumuru naira kee. movua raipan vantuku, pui’i cu.",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468281.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla ’Avina ：“ arumisa ina’a pasicamai pamamainiku sangalʉ .” umala upiaini ’asarʉ , piraliuhlu pakiaturua i’a’ana musacu puaili .",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468338.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "chinese_text": "回到家裡，Pani突然想上廁所，就把蛋放在客廳。",
+      "chinese_variants": [
+        {
+          "text": "回到家裡，Calaw突然想上廁所，他就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "回到家裡，Pasang突然想上廁所，就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "回到家裡，para:in突然想上廁所，就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "回到家裡，Shulay突然想上廁所，就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "回到家裡，Pidu突然想上廁所，就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "回到家裡，Dahu突然想上廁所，就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "回到家裡，cumay突然想上廁所，就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "回到家裡，Palri突然想上廁所，就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "回到家裡，Panay突然想上廁所，就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "回到家裡，Buya突然想上廁所，就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "回到家裡，Pasuya突然想上廁所，就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "回到家裡，Pungya突然想上廁所，就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "回到家裡，Keysodan突然想上廁所，就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "回到家裡，’Avi突然想上廁所，就把蛋放在客廳。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/6.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Tangasa i loma’ , kafahalan sakatayraan i tatahengan ci Calaw , pateli han nira i kalilafangan koya fita’ol .",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467374.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "tayhuk ngasal lga, musa’ mstanux qu Pasang. syun nya’ tay tanghan bazing.",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467431.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "lobih ray taew’an, para:in ’iyakina rima’ ray kata’o’an, ’isa: ’oesizo: ’aSkanen ray kinbaki’an.",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467488.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "mutauniza, Shulay mulhumzaw aputhaqi, numa qarithu pisai bukhaz a ianan.",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467545.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Dehuk sapah na ka Pidu, seexan rebu, sposa na ckuwe baro koting hi ka balung, musa smrebu.",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467602.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "taunalumahin Dahu hai cisha asa kusia binziu, at pisainuna lububunun sia bukzavancia.",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467659.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "mangetjez i tjuma’, kirimu a kivalj tu semabinziyu ti cumay, pizuain i tua zimusiyu a ’ecilu.",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467719.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "samutavananenga, kay Palri ala kirimu nawmubingziw iyaiya, si sarare kuini batuku pikay ki kadanane.",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467776.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Dhuq sapah, asi lu mkmusa saan ngangut ka Panay, psaan na sapah strngan lupung ka balung.",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467833.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "temanan sa leppaw, pamemeng ngid siatisin ti buya, seppawan na ta temunawan ya tiRuR.",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467890.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "esvovei to emoo ’e pasuya, akameosʉ mici uhto tote’ia, ho teongasi to taico ’o fcuyu.",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467947.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "meredek i ruma i Pungya i, aledu aw muka i puwaserengan. tu retraanay i ke-ting na bitrenun.",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468004.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "moli rana do vahay da ，si Keysodan am maliliw ya ka obotan，na ka topangayan sia so icioy do peywalaman .",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468111.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "katukuh tu i luma’, bahal masabul ciniza, pazeng hantu niza ku tieku i tumunaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468225.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "pui’i tanasa. surumu Pani tia muta’i. makasua nisʉ’ʉ kee na ta’aravanga sua ’iciuru.",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468282.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "miungu salia , mʉlʉmʉlʉmʉa ’Avina tumua mahlukakua tatiahla saikua taraukuhla ’asarʉna .",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468339.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "chinese_text": "Lekal到商店去，原本想要買蛋，但是蛋都賣完了，所以她到 Calaw 家，想跟 Calaw 他們借一點蛋。",
+      "chinese_variants": [
+        {
+          "text": "Icih到商店去，原本想要買蛋，但是蛋都賣完了，所以他到Pasang家，想跟Pasang他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "taheS到商店去，原本想要買蛋，但是蛋都賣完了，所以他到para:in家，想跟para:in他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Nawi到商店去，原本想要買蛋，但是蛋都賣完了，所以他到Shulay家，想跟Shulay他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Pihu到商店去，原本想要買蛋，但是蛋都賣完了，所以她到Pidu家，想跟Pidu他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Samingaz到商店去，原本想要買蛋，但是蛋都賣完了，所以她到Dahu家，想跟Dahu他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "’isay到商店去，原本想要買蛋，但是蛋都賣完了，所以他到cumay家，想跟cumay他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Palripilripi到商店去，原本想要買蛋，但是蛋都賣完了，所以他到Palri家，想跟Palri他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Pinay到商店去，原本想要買蛋，但是蛋都賣完了，所以他到Panay家，想跟Panay他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Utay到商店去，原本想要買蛋，但是蛋都賣完了，所以他到Buya家，想跟Buya他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "voyu到商店去，原本想要買蛋，但是蛋都賣完了，所以她到Pasuya家，想跟Pasuya他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Kiring到商店去，原本想要買蛋，但是蛋都賣完了，所以他到Pungya家，想跟Pungya他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Nagat到商店去，原本想要買蛋，但是蛋都賣完了，所以他到Keysodan家，想跟Keysodan他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Kacaw到商店去，原本想要買蛋，但是蛋都賣完了，所以她到Pani家，想跟Pani他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Pi’i(請換成各族男子名)到商店去，原本想要買蛋，但是蛋都賣完了，所以她到Pani家，想跟Pani他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "Pi’i到商店去，原本想要買蛋，但是蛋都賣完了，所以她到 ’Avi 家，想跟 ’Avi 他們借一點蛋。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/7.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Tayra i patiyamay ci Lekal , o mami’aca to fita’ol , nika maemin to mapa’aca , orasaka tayra i loma’ ni Calaw cingra , sapicaliwan to cecay a fita’ol na Calaw .",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467375.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "musa’ syubay qu Icih. aki’ bazing qu bzirun nya’. aw ga wal suqun maziy bazing la. nanu’ yasa musa’ ngasal na Pasang. musa’ pksyuw cikay bazing.",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467432.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "taheS rima’ ray tiyam ’am bae:iw a ka ’oesizo:, ’oesizo: til’ameten ila, ’isa: siya mowa:i’ kan para:in ray taew’an, ’iyakina Sibae:aeh sowiti’ ka ’oesizo: kala para:in.",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467489.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Nawi mutusi farifariwan, naur mangqtu afariw sa qarithuy, kanuniza ulhthkizin fariwiniza, numawan thithu musui Shulay a taun, mangqtu amashimul thaithuy ladadu a qarithuy.",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467546.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Musa brigan ka Pihu, mpmaruy balung, ani si uka ka balung bbaruy di. Ki musa sapah na Pidu, mkknbarux tikuh balung na peni.",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467603.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Samingazhai kusia babalivan, mananu hai asa mabaliv lububunun, haitu pasiaminanin mabaliv pahasia kusian saia Dahu tu lumah na asa makisaiv simul mas inaicia tu lububunun.",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467660.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "ka vaik ti ’isay a semasiyubay, uri veneliangata tua ’ecilu, ljakua ma’uanganga tua pinavelian, sika vaik timadju a sema tjaya cumay, a uri kisadjam tjaya cumay tu kedri tua ’ecilu.",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467720.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Palripilripi la mua ki tasiubadhane, nawlangay ku batuku naamia, ai kialangaynga patuelre ku batuku, laka amani ku katwaseini mua ki dane ki Palri, ngualay ku nawkisalru ki Palri ku batuku iyaiya.",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467777.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Musa sbrigan ka Pinay, rubang mkmarig balung, kika ka kiya ni wada brigun kana ka balung da, kiya do musa sapah Panay ka hiya, mkmsiyuk cih balung dha.",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467834.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "matiw sa tiyam ti utay, mau ngid Rasa tu tiRuR, wanayka niz ti mabaliw ya tiRuR, Raqana matiw sa leppaw ni buya aizipna, ngid liway tu qakiya tiRuR na qanibuyan.",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467891.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "mo uhto momhino ’o voyu, mo mici mhia fcuyu, ma isi cu’so psʉepʉngneni ’o fcuyu, ’ko’ko micu uhto emoo to pasuya, ho mici yuevaho no fcuyuhe.",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467948.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "muka kana tiyam i Kiring. tratrima ku dra bitrenun kema. amawna, tu niwananay lla peniya na bitrenun. aw muka kana Pungya. maranger kibulas dra samaya dra bitrenun.",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468005.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "mangey do pananarangan si Nagat , beken a ya manarang so icioy，am mamimin ni panarangen da rana ，ori na ka toangayan do vahay da ni Keysodan ，mangey mamood jira so icioy .",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468112.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "ku tayza ci Kacaw i patiyamay, a micakay tu tiekuk, nika mahamin tu macakay ku tiekuk, kyu tayza i luma’ nini Pani, maydih micaliw ciniza tu tiekuk ni Pani.",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468226.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "mukusa tamia’aa sua Pi’i natia kani pu’a ’iciuru. nakai ’akia cu. iimua mukusa na tanasa Pani, tia sumasuruvai na Pani ’iciuru.",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468283.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "Pi’i musa mahlukua i’a’ana , mairahlu hlatumua pu’a ’asarʉ , ucanika sapukucua cua ’asarʉ , kuhlaisai musa mahlukua saliaisa ’Avina hlatumua umauhli maini ’asarʉ .",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468340.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "chinese_text": "Lekal 找不到Calaw ,就先把蛋拿走了。",
+      "chinese_variants": [
+        {
+          "text": "Icih找不到Pasang，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "taheS找不到para:in，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Nawi找不到Shulay，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Pihu找不到Pidu，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Samingaz找不到Dahu，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "’isay找不到cumay，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Palripilripi找不到Palri，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Pinay找不到Panay，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Utay找不到Buya，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "voyu找不到Pasuya，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Kiring找不到Pungya，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Nagat找不到Keysodan，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Kacaw找不到Pani，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Pi’i(請換成各族男子名)找不到Pani，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "Pi’i找不到’Avi，就先把蛋拿走了。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/8.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Caayay pakatama ci Calawan ci Lekal , pali’ayaw sa miala toya fita’ol .",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467376.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "ini’ ’luy ni Icih qu Pasang. wal nya’ rima’ galun qu bazing la.",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467433.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "taheS ’okay tihoero: hi para:in, ’isa: ’inSa’la’ mari’in ila hiza ka ’oesizo:.",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467490.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shulay antu ungqtuan Nawi, numa mihala araran sa qarithuy mushaiza.",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467547.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Ini sdiyan Pidu ka Pihu, wada na asi desi ka balung di.",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467604.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Samingaz hai nitu inkaduan mas Dahu cia at kaz antabanun saicia lububununa mudan.",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467661.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "ini ka namadjumak ti ’isay tjay cumay, sa sivaik a ’ecilu.",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467721.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Palripilripi la kai makakidringay ki Palri, si malraana paswala ku batuku katwase.",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467778.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Ini hlayi Panay ka Pinay, asi na ngali ka balung han.",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467835.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "mai pakalan ni utay ti buya, pamengan na ti mala tiRuR.",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467892.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "o’aisi elʉa to voyu ’o pasuya, isicu yaa ’o fcuyu.",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467949.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "adri pakatrebung kan Pungya i Kiring aw tu alakaw na bitrenun.",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468006.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "si Nagat am ji na kala si Keysodan ，ka tona manma aapen o icioy rana .",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468113.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "caay kazih ni Kacaw ci Pani, ala hantu niza ku tieku.",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468227.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "koo mʉtʉa Pani sua Pi’i . makasua naira kee ’iciuru iisua mucanʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468284.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "Pi’i kupaitʉahlʉ ’Avi salualuacua ’asarʉ musala .",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468341.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "chinese_text": "媽媽問 Calaw：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+      "chinese_variants": [
+        {
+          "text": "媽媽問Pasang：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問para:in：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問Shulay：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問Pidu：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問Dahu：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問cumay：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問Palri：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問Panay：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問Buya：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問 Pasuya：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問Pungya：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問Keysodan：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問Pani：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問 Pani：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "媽媽問 ’Avi：「你買了蛋回來了嗎？我煮菜要用蛋了。」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/9.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Licayen ni ina ci Calaw , “ Minokay to na mi’aca to fita’ol kiso ? pafita’ol to kako mitangtang to dateng . ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467377.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "pqutan ni yaya’ qu Pasang mha, “ nyux su’ mbaziy bazing ga？ pglgan maku’ ramat tmahuk qu bazing la. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467434.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’oya’ somingozaw: “ So’o ’ina bae:iw ila ka ’oesizo:? ma’an ka taleken ila. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467491.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "ina makikalhi Shulay: “finariwiza ihu qarithuy mushuqish? apintata iaku sa shanglaw apasain qarithuy.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467548.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Smiling Pidu ka bubu. “ Inu ka balung bnaruy su? Prayun mu da! ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467605.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa cina tu adu maibaliv kasu mas lububunun ? na anatunin kudau hai .",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467662.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "kivada’ a kina tjay cumay, “mangetjezanga sun a naveneli tua ’ecilu ayau? uri semandjamayanga aken tua ’ecilu.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467722.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay tinaini ki Palri la kivaga iya kay, “walangayngasu ku batuku? wakirikirikiringanaku la murikaiyaku ku batuku.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467779.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Smiling Panay ka bubu“ Mnarig su balung nii su dhug? Shapuy mu damat ka balung da.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467836.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti tina ti buyan, “meRasa ti isu tu tiRuR ni? sadaiyungan ku meRamaz tu tamun.",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467893.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "tuocosi to inosi ’o pasuya: “ mikocu mhia fcuyu? te’o titha pei’i no chae. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467950.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“tremima yu lla dra bitrenun muruma? aru aabel ku lla.” kema kiyumall kan Pungya i ina.",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468007.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni ina na ji Keysodan am “ ka na ni manarang so icioy？ko na dendengen .”",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468114.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu hantu ni ina ci Pani, “ taluma’ tu kisu namicakay tu tiekuk haw? a misalami’ kaku tu tiekuk. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468228.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "kesoniʉn cina sua Pani: “nipui’i cu kara kasu pu’a ’iciuru? tia cu ku mangʉrʉ camai.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468285.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "pakisuahlai ia ina’a ’Avi ：“ hlipu’acui ’asarʉ puaili ? pasia camaicuaku maruamia ’asarʉ .”",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468342.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "chinese_text": "Pani回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+      "chinese_variants": [
+        {
+          "text": "Calaw 回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "Pasang回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "para:in回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Shulay回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Pidu回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Dahu回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "cumay回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Palri回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Panay回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Buya回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "Pasuya回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Pungya回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Keysodan回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "’Avi回答說：「蛋在客廳，你自己去拿一下好嗎？」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/10.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Paca’of sa ci Calaw , “ Mateli i kalilafangan koya fita’ol , kiso ko mamiala manga’ay to haw ? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467378.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "smyuk kmal qu Pasang mha, “ cyux tay tangha qu bazing. hali magal nanak isu’ hku？ ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467435.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "para:in tiSkobae:oeh komSa’: “ ’oesizo: ray kinbaki’an, So’o nonak Sa’ mari’ ay? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467492.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shulay shuntam mzai “ qarithuy isai bukhaz a ianan, min’ananak ihu musui marawan? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467549.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Cmiyuk Pidu, “ Ga koting, sai naq mangal tikuh ho? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467606.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "antalama Dahu tupa tu isia bukzavan cia lububunun kananakav siza .",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467663.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "’ivu ti cumay, “izua i zimusiyu a ’ecilu, sau alapu a kimadju.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467723.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Palri la tubalre iya kikay, “yakay kadanaane ka batuku, lridulrusu ngimamalra?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467780.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Smiyuk ka Panay“ Gaa sapah strngan lupung ka balung, sai nak mangal dhug?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467837.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti buya, “yau ta temunawan tiRuR, alay ka aisu qakikiya qanengi ni?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467894.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yut’ingi ’o pasuya ho yainca: “ mo yonto taico ’o fcuyu, ’ateko no iachia yaa? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467951.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“ullaya i ke-ting. alaku yuyu maw?” kema temubang i Pungya.",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468008.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni Keysodan “ amiyan o icioy do piwalamem ta ，to mo na aapen an ？ ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468115.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "patubeli hantu ni Pani, “ i tumunaw ku tiekuk, ka isu ku mialaay. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468229.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "marivari Pani: “’esi na ta’aravanga ’iciuru. takacicinia pa mara.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468286.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "umalivalʉa ’Avina ：“ ma taraukuhla ’asarʉ , cu takacicihli umala ？”",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468343.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "chinese_text": "媽媽到客廳，找不到蛋，又問：「我找不到蛋，你所買的蛋在哪裡呢？」",
+      "chinese_variants": [
+        {
+          "text": "媽媽到客廳，找不到蛋，又問：「我找不到蛋，你所買的蛋在哪裡？」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/11.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Tayra i kalilafangan ci ina , caayay pakatama toya fita’ol , milicay ho , “ Caayay pakatama kako toya fita’ol , i sakacowa koya mi’acaan iso a fita’ol ? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467379.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "musa’ tangha qu yaya’. ini’ nya’ ’luy bazing. maqut mha, “ ini’ maku’ ’luy bazing. cyux inu’ bnaziy su’ bazing？ ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467436.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’oya’ rima’ ray kinbaki’an ’okay tihoero: ka ’oesizo:, somingozaw naehan: “ yako ’okay tihoero: ka ’oesizo:, niSo’ binae:iw ka ’oesizo: hayno? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467493.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "ina musui bukhaz a ianan, qarithuy kmilhim uka, muqtha makikalhi “ ani ungqtuak, intua s mihu finariw a qarithuy? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467550.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Musa koting ka bubu ini sdiyan balung. Smiling dungal, “ Uka balung! Ga su psaun inu ka balung bnaruy su? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467607.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "kusia na cina sia bukzavan cia hai nitu inkaduan mas lububunun muhna tupatu? isabin isu binaliva lububunun i ?",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467664.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "semazimusiyu a kina, ini ka namadjumak tua ’ecilu, kivada’ a mumalj, “ini ka aken a namadjumak tua ’ecilu, izainu azua a su vineli a ’ecilu?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467724.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay tinaini la katwase mua ki kadaanane, la kai makakidringay ku batuku, ala tupelana kivaga iya kay, “kainaku makakiadringay ku batuku, puainusu ku langaysu ku batuku?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467781.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Musa sapah strngan lupung ka bubu, ini na hlayi ka balung, smiling duri“ Ini mu hlayi ka balung, gaa inu ka balung bnarig su hug?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467838.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "matiw sa temunaw ti tina, mai mapakala na ya tiRuR, muman pasanu, “yau tanian niRasan su tu tiRuR?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467895.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "mo uhta taico ’o ino, o’ai’o elʉa na fcuyu, ho i’vaha tuocosi: “ o’a os’os’a elʉa na fcuyu. mo yonenu na iko phini ci fcuyu? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467952.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "muka i ke-ting i ina i, adri pakaatrebung kana bitrenun. “adri ku pakaatrebung kana bitrenun. ullaya isuwa nu trinimaan na bitrenun?” kema driya masall kiyumall.",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468009.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "mangey do piwalamen si ina na ，ji na kalaen o icioy ，ipacicing na pa “ anjin mo ni panarangen a icioy ?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468116.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "tayza ci ina i tumunaw, caay pakazih tu tiekuk, mitengil aca, “ inayay ku tiekuk, icuwa ku ni cakayan isu a tiekuk saw? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468230.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "’esi na ta’aravanga sua cina. koo mʉtʉa ’iciuru. maka’ʉna kesoni: “’akia ’iciuru! nisʉ’ʉ musu nanu sua nipu’a musu ’iciuru?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468287.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "musa ina’ana taraukuhla kupaitʉlahlʉ ’asarʉ , pakisungahlangahla ：“ kuakupaitʉahlʉ ’asarʉ , iniui kuani ？”",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468344.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "chinese_text": "Pani過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+      "chinese_variants": [
+        {
+          "text": "Calaw過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "Pasang過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "para:in過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Shulay過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Pidu過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Dahu過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "cumay過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Palri過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Panay過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Buya過來，說：「哎呀！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "Pasuya過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Pungya過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Keysodan過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "’Avi過來，說：「天啊！我買的蛋被偷走了！到底是誰偷了我的蛋呢？」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/12.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Raod sa ci Calaw , sowal sa , “ anakina’ ! matakaw to ko mi’acaan ako a fita’ol ! cima sa ko mitakaway to fita’ol ako hakiya ? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467380.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "mwah qu Pasang. kmal mha, “ ana ga, wal qriqun qu bnaziy maku’ bazing la. ima’ balay wal mquriq bazing maku’ la！ ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467437.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "para:in mowa:i’, komSa’: “ ’ayo:! ma’an binae:iw ka ’oesizo: karma’en ila! hiya’ nanaw marma’ ma’an ka ’oesizo:? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467494.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shulay munai mzai “ba! naak a finariw a qarithuy qriu’in ! tihawta ya qriu’in sa naak a qarithuy? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467551.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Gisu ka Pidu, “ Ayu bale! Wada daha gguyan balung bnaruy mu di. Ima bale ka pgeeguy kiya ha? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467608.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "minsuma Dahu tupa tu: dihanin ! tanghai’iuna inak binaliv a lububununa ! simabis tanghai’iu mas inak tu lububunun tu?",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467665.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "vaik a mazua ti cumay, ’ivu, “cakaven a ku vinili a ’ecilu! tima a nacemakav tua ku ’ecilu?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467725.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "ala kela kay Palri si iya kay, “masamaliaku! kiakupa ku langayli ku batuku! laka aneanaini ku wakupa ku batukuli?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467782.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Miyah ka Panay, rmngaw“ Akay bi kida! Wada ha guyun ka balung bnarig mu da! Ima bi ka wada gmeeguy balung mu da hug?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467839.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "mawtu ti buya, semanu, “ ay ya! maRuzik ti niRasan ku tiRuR! tiana meRuzik tu tiRuR ku ya?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467896.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "emo’unu ’o pasuya ho mainca: “ maene! ma ihe peo’eoza ’oi’o phini ci fcuyu! ma sia namo meo’eoi to i’o phini ci fcuyu? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467953.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "druwa lla i Pungya. “yaka! ku trinimaan na bitrenun i, tu trakawaw dra trau lla. i manay na tremakaw kanku bitrenun?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468010.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "mai si Keysodan ，koan nam “ asio ya !da ni takaw o ko ni panarangen a icioy ! sino sino ni takaw eya ?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468117.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "iniw ci Pani, sakamu sa, “ iha! maubi tu ku tiekuk aku, cima ku miubiay tu tiekuk aku hakya? ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468231.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "ararakau cu Pani, makasi: “karakasuana! niko’ua cau ’iciuru! neni kusai niko’ua ’iciuru?”",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468288.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "mʉcʉkʉhlʉ ’Avi amii ：“ saulikapa ’asariku ! ngahlaisaiau mulikapʉ ’asariku ？”",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468345.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "chinese_text": "Pi’i來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+      "chinese_variants": [
+        {
+          "text": "Lekal到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "Icih來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "taheS來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Nawi來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Pihu來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Samingaz來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "’isay來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Palripilripi來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Pinay來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Utay來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，我現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "voyu來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Kiring來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Nagat來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Kacaw來到家裡，說：「阿姨，我剛跟妳們借走一點蛋，現在拿來還了。」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/13.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Ira tayni i loma’ ci Lekal , sowal sa , “ Fai , ihoni macaliw ako ko fita’ol namo , tayni patiko kako anini . ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467381.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "mwah ngasal qu Icih, kmal mha, “ yata’. minksyuw saku’ cikay bazing mamu. nyux maku’ wahan pbzih la. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467438.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "taheS mowa:i’ ila ray taew’an, komSa’: “ ’ata’, yako kaysa’an Somibae:aeh kan moyo ka ’oesizo:, ’isahini ’am mowa:i’ minobih. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467495.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Nawi shaunanaiza taun, mzai “pan’inaan, thathuini shminimul iaku maniun ladadu a qarithuy, mriri iaku thuini. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467552.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Ni dehuk sapah hi ka Pihu, “ Pai! Ni ku meyah hmaduc balung knbrexan mu soni wa! ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467609.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "minsuma samingaz kulumah tupa tu: pancinaun, simulun kusangan imu lububununan, andi masuhisin saikin laupaku.",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467666.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "mangetjez i tia cumay ti ’isay, ’ivu “kina, kasawni nakisedjam aken tjanumun tu pida ta ’ecilu, uza sa uri ku sipacikel.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467726.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Palripilripi la kela mutavanane, iya kikay, “ina, kuasane kiasalruaku malra ngubekele ku batukunumi, kikay wakelaku saulri numiane.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467783.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Miyah ruwan sapah ka Pinay, rmngaw“ Nirih bubu, wada mu ksyukun cih ka balung rudux namu ka suni, miyah ku tmbrih mgay sayang da.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467840.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "mawtu sa leppaw ti utay, semanu, “tina, tangi mawtu iku meliway tu kiya tiRuR, mawtu iku patadikud tangi.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467897.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "mo uhta emoo ’o voyu, ho mainca: “ inoconi, ’o i’o yuevaha ci fcuyu ne soni. te’o e’vovei ho yooveineni. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467954.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "druwa i ruma i Kiring. “ina, a garemay i, ku kibulasaw mu bitrenun a samaya. druwa ku parebeliyasa garem.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468011.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "mai rana si Nagat do vahay da ，koan nam “ kaminan ，no ka stai am ko ni mamood so icioy jinio，sicyatoai am ko na ai jinio .”",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468118.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "tayni tu ci Kacaw i lima’, hini sa, “ ina micaliw kaku tu tiekuk namu i nasawni, pasukasen aku ayza. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468232.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "iavatu tanasa Pi’i makasi: “cina vuravurau, siniruvai ku kamua misoni ’iciuru, ai’iʉn maku masini.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468289.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "mʉcʉkʉhlʉa Pi’i mahlukakua saliaisa mii ：“ tanakuapʉ , hliumuhliaku kicuvanana ’asarimu , kani’i apuaili cuakuisana .”",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468346.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "chinese_text": "Pani說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+      "chinese_variants": [
+        {
+          "text": "Calaw 說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "Pasang說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "para:in說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Shulay說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Pidu說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Dahu說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "cumay說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Palri說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Panay說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Buya說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "voyu說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Pungya說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Keysodan說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "’Avi說：「這不是我買的蛋啊，我幫媽媽買的蛋是白的，你拿來的蛋卻是黃色的。」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/14.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Calaw , “ Caayay ko mi’acaan ako a fita’ol koni , o kohecalay ko patadoan ako ci inaan mi’aca to fita’ol , nika o kaliyalaway a fita’ol ko pataynian iso . ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467382.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Pasang mha, “ iyat maku’ bnaziy qu bazing qani. plquy bazing qu bnaziy maku’ hiya’. mayhibung bazing qu nyux su’ wahan pbzih la. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467439.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "para:in komSa’: “ hini ka ’oesizo: ’okik binae:iw ma’an, ma’an binae:iw ’ima bolalasan, niSo’ hiza ’ima habiyalan. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467496.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shulay mzai “ antu thithu naak a finariw a qarithuy, mindahip iaku ina wa qarithuy mapuzipuzi, kanuniza kmathu ihu shaunanai a qarithuy shadunan.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467553.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "mrengo Pidu, “ Uxe nii balung bnnaruy mu bubu, mbhege. Mgceyas ka ni su desun nii. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467610.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupaDahutu: nisain inak tu lububununi maza binaliv ku lububunun hai maduhlas isu laupaku sinsuhis tu lububunun hai madiavtu .",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467667.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "’ivu ti cumay, “ini ka mavan aicu a ku vineli a ’ecilu, vucelacelay a ku siniveli tjay kina a ’ecilu, vuravuravan sa su sinipacikel a ’ecilu.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467727.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Palri la iya kay, “kikay kaika langayli kay batuku, pupuli ku paralubuli langay ki ina, ala kay saulrisu anika bwaburavane.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467784.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Panay“ Aji nii ka balung bnarig mu ha, bhgay ka balung sbarig mu bubu, ma brhibung ka balung nadas su nii.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467841.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti buya, “ussa niRasan ku tiRuR zau, nipanmuan ku ti tinan meRasa tiRuR nani busaR ay, nialan su paqawtu tiRuR nani Rapedadaw ay.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467898.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta voyu: “ o’as’a a’o namo mhino ta fcuyu, mo fʉecʉ’ia ’o i’o phinineni to ino’u ci fcuyu, i’e os’o yaa ci fcuyu mo asanasna hof’oya. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467955.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“amellli ku trinimaan idri na bitrenun a! ku trinimaan kan ina na bitrenun i, a bulenan. nu kinasuwan na bitrenun i, a milanang.” kema i Pungya.",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468012.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni Keysodan “ beken a ko ni panarangen o icioy ya ，ko ni panarangen a icioy am ya malavang ，o mo ni ai a icioy am ya kowari no manok .”",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468119.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu satu ci Pani, “ caay ka u nicakayan aku a tiekuk kuyni .”",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468233.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Pani: “ka’anʉ isi nipu’a maku ’iciuru! tapunia nipu’a maku, nakai mai’i kasu tanavikarʉ.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468290.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla ’Avina ：“ kani’i ia kuhlipu’aku ’asarʉ , hlipu’aku ’asarʉ ia mapuhli , hlialau ’asarʉ naia mahlisarʉ .”",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468347.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "chinese_text": "Lekal說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+      "chinese_variants": [
+        {
+          "text": "Icih說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "taheS說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Shulay說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Pihu說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Samingaz說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "’isay說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Palri說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Pinay說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Utay說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "voyu說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Kiring說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Nagat說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Kacaw說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Pi’i(請換成各族男子名)說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "Pi’i說：「你買的蛋被我媽媽煮了，我家的母雞剛下了蛋，所以我拿過來還。」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/119/15.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Lekal , “ Matangtang to no ina ako koya mi’acaan iso , nika masofoc to fita’ol ko koko’ no loma’ niyam , saka ala han no mako a patayni patiko . ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467383.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Icih mha, “ wal thkun ni yaya’ maku’ qu bnaziy su’ bazing hiya’ la. nisan maybazing qu ngta’ maku’. nanu’ yasa nyux maku’ rasun qani. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467440.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "taheS komSa’: “ niSo’ binae:iw ’oesizo: ni ’oya’ ma’an taleken ila, ’iniya’oma ka tata:a’ hipo’ baba:aw pas’oesizo:, ’isa: yako mowa:i’ minobih. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467497.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Nawi mzai “ihu sa finariw a qarithuy pinintataiza naak a ina, thathuini naak a taun a ina wa ranaw malhiqarithuy, numawan kmathu iaku mriri.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467554.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "mrengo Pihu, “ Wada shpure bubu mu ka balung bnaruy su di. Ki naq tnbalung ka bubu rodux sapah hi, ki nimu desun hini di. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467611.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa samingaz tu : isu binaliv lububunun hai anatunin mas inaktu cina isia inam tu sinaipuk tu malulubun hai laupang tauslububunun , pahasia sizaunku masuhis mauvaiv mamu .",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467668.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "’ivu ti ’isay, “aza a su vineli a ’ecilu, kinesanga ni kina, taw’emecilucilu a nia kuka, sika ku sisamaza a pacikel.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467728.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Palripilripi la iya kikay, “ku langaysu ku batuku kiaaganga ki ina, kudra kukanai tawtubatubatuku, laka amani ku kelali saulri numiane.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467785.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Pinay“ Wada hpuyun bubu mu ka balung rudux bnarig su da, hana mntucing balung ka bubu rudux sapah mu, kika yahan mu tmbrih mgay.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467842.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti utay, “niRasan su ay tiRuR Ramazan na ti tina ku, RunisatiRuR na tina taquq na leppaw niaq, Raqana alan ku paqawtu patadikud.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467899.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta voyu: “ i’o iko phini ci fcuyu isicu pei’i to ino’u, mo seolʉano mefcuyu ’o moskoʉ mia, ’ko’ko mi’o mahafo ho yoveineni. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467956.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“nu trinimaan na bitrenun i, tu abelaw lla kan nanalli. mibitrenun a garemay naniyam tawinaan. aw ku kasuyaw kadri parebeliyas kanemu.” kema i Kiring.",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468013.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni Nagat am “ mo ni panarangen a icioy am si ina ni dengdengen rana ，na ka piicioy pa no manok namen，am ori ko to ai jia itoroen jimo .”",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468120.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu satu ci kacaw, “ masalami’ tu ni ina aku ku tiekuk isu, mulecuh tu tiekuk ku tulakuk niyam, kyu sipasukas aku. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468234.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Pi’i: “nipo’ucipiʉn cina maku sua nipu’a musu ’iciuru. campe muruvʉnʉ tarakuka mia, mara ku mai’i.”",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468291.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla Pi’i ：“ hlipu’au ’asarʉ saavavacua inaku , hlamuna turukuka pi’asarʉ , kuhlaisai alua ihlaku apuaili ihlamu .”",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468348.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "chinese_text": "媽媽笑著說：「沒關係，留下來一起吃飯吧！」",
+      "chinese_variants": [],
+      "image_url": "https://web.klokah.tw/pbc/book/119/16.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Tatawa sa ci ina a somowal , “ A simaan , kamaro’ ho malacafay kita a malafi ! ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28296/467384.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "msyaq yaya’ mha, “ nway qayri. si gluw maniq. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28301/467441.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’oya’ sawa’ komSa’: “ kayzaeh, tapa’onhael koSa:o’ rini! ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28306/467498.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "mathathawa ti ina numa mzai “anunin qa, kinaiwan miasuun kmaan! ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28311/467555.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mhulis ka bubu mesa, “ Ini huwa wa! Tloung, spue ta meka ido han! ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28316/467612.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "mahainan a cina tupa tu nitumakua, islunghuang muskun maun!",
+          "audio_url": "https://web.klokah.tw/text/sound/28321/467669.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "pedjeli azua a kina, “ini ka makuda, kelju taljumazai a kaiv!”",
+          "audio_url": "https://web.klokah.tw/text/sound/28326/467729.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "ku ina la mulralrakay iya kay, “kai matumane, isuraana la tataelre kane!”",
+          "audio_url": "https://web.klokah.tw/text/sound/28331/467786.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Mhulis rmngaw ka bubu“ Ini huya, hici hini seupu ta mkan nhapuy wah! ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28336/467843.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "mengiyas ti tina semanu, “quni, subulin ka qatapun qeman ya!”",
+          "audio_url": "https://web.klokah.tw/text/sound/28341/467900.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "cocvo ’o ino ho yainca: “ teno kuzo, amiocni na’a teto toehungu bonʉ. ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28346/467957.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“makuda amaw! ubilin kadri! sallangana ta mekan i!” kema sareru marengay i ina.",
+          "audio_url": "https://web.klokah.tw/text/sound/28351/468014.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "ya manmin si ina “ cyaha ta ，koman ka pa jiya an !”",
+          "audio_url": "https://web.klokah.tw/text/sound/28363/468121.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "matawa ci ina misakamu, “ payawan, kaitini mukan isaw! ”",
+          "audio_url": "https://web.klokah.tw/text/sound/28373/468235.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "maacaca cina makasi: “makenanu! cii! moon na nesi kumakʉnʉ!”",
+          "audio_url": "https://web.klokah.tw/text/sound/28378/468292.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "macaca ina’ana mii ：“ hlimini , mulalavaʉkia kʉlʉsʉuumu ！”",
+          "audio_url": "https://web.klokah.tw/text/sound/28383/468349.mp3"
+        }
+      ]
+    }
+  ],
+  "source_urls": {
+    "info": "https://web.klokah.tw/pbc/book/index.php?id=119",
+    "online": "https://web.klokah.tw/pbc/book/online/index.php?id=119"
+  }
+}

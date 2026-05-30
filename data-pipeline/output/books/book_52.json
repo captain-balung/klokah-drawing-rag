@@ -1,0 +1,2175 @@
+{
+  "id": 52,
+  "title": "大魚的嘴巴",
+  "illustrator": "周楷樺",
+  "level": "初級",
+  "grammar_focus": "名詞",
+  "summary": "動物們開心地在島上生活，有一天洪水來了，趁著大水吞噬前動物們紛紛跳上船避難，小青蛙跳上了船，狗和山羌跳上船，牛和熊也一起跳上小船!結果小船撐不住，蹦一聲把大家都彈到空中，這時動物們發現了這座島的大秘密。繪本一開始介紹了許多動物，並以相似的句子用反覆朗誦的方式，熟悉句型及名詞組的相關語法。教師也可以運用繪本中的圖片，來進行有關上下，先後，大小的觀念的說法。",
+  "language_count": 16,
+  "languages": [
+    {
+      "lid": 1,
+      "language": "阿美語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "O maan koni? O kolong koni.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44237.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "O maan kora? Sowal sa ko kolong, “O tomay kora.”",
+          "chinese_text": "那是什麼？牛說：那是熊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44238.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "O maan kora? Sowal sa ko tomay, “O fafoy no lotok kora.”",
+          "chinese_text": "那是什麼？熊說：那是山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44239.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "O maan kora? Sowal sa ko fafoy no lotok, “O mangcel kora.”",
+          "chinese_text": "那是什麼？山豬說：那是山羌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44240.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "O maan kora? Sowal sa ko mangcel, “O waco kora.”",
+          "chinese_text": "那是什麼？山羌說：那是狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44241.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "O maan kora? Sowal sa ko waco, “O takola’ kora.”",
+          "chinese_text": "那是什麼？狗說：那是青蛙",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44242.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Tata’ak ko ’orad, tayni to ko lenlen.",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44243.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Mikalic to to lonan ko takola’!",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44244.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "O takola’ ato waco mikalic to to lonan!",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44245.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "O takola’ o waco ato mangcel mikalic to to lonan!",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44246.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "O takola’ o waco o mangcel ato fafoy no lotok mikalic to to lonan!",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44247.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "O takola’, o waco, o mangcel, o fafoy no lotok ato tomay mikalic to to lonan!",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44248.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "O takola’, o waco, o mangcel, o fafoy no lotok, o tomay ato kolong mikalic to to lonan!",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44249.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pong!",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44250.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "O maan koni?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44251.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "O ngoyos no tata’akay a foting koni.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3205/44259.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 2,
+      "language": "泰雅語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "nanu qani hiya? qani ga kacing.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45441.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "nanu qasa hiya’? kmal qu kacing mha, “qasa ga, ngarux.”",
+          "chinese_text": "那是什麼？牛說：「那是熊。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45442.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "nanu qasa hiya’? kmal qu ngarux mha, “qasa ga, bzyok qnhyun.”",
+          "chinese_text": "那是什麼？熊說：「那是山豬。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45443.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "nanu qasa hiya’? kmal qu bzyok qnhyun mha, “qasa ga, para’.”",
+          "chinese_text": "那是什麼？山豬說：那是山羌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/853018.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "nanu qasa hiya’? kmal qu para’ mha, “qasa ga, huzil.”",
+          "chinese_text": "那是什麼？山羌說：「那是狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45445.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "nanu qasa hiya’? kmal qu huzil mha, “qasa ga, qpatung.”",
+          "chinese_text": "那是什麼？狗說：「那是青蛙。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45446.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "talagay qwalax, muwah hmol qsya’ la!",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45447.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mtoput sa babaw qasu’ qu qpatung la!",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45448.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "stoput sa qasu’ qu huzil ru qpatung la!",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45449.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "stoput sa qasu’ qu para’, huzil, ru qpatung la!",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45450.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "stoput sa qasu’ qu bzyok qnhyun, para’, huzil, ru qpatung la!",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45451.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "stoput sa qasu’ qu ngarux, bzyok qnhyun, para’, huzil ru qpatung la!",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45452.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "stoput sa qasu’ qu kacing, ngarux, bzyok qnhyun, para’, huzil ru qpatung la!",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45453.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pong!",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45454.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "nanu qani hiya’?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45455.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "qani ga, nqwaq na hopa’ balay na qulih.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3302/45456.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 3,
+      "language": "賽夏語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "hini kano’? hini katin.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46254.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "hiza kano’? katin komoSa’ “hiza somay.”",
+          "chinese_text": "那是什麼？牛說：「那是熊。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46255.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "hiza kano’? somay komoSa’ “hiza waliSan.”",
+          "chinese_text": "那是什麼？熊說：「那是山豬。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46256.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "hiza kano’? waliSan komoSa’ “hiza hako’.”",
+          "chinese_text": "那是什麼？山豬說：「那是山羌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46257.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "hiza kano’? hako’ komoSa’ “hiza ’aehoe’.”",
+          "chinese_text": "那是什麼？山羌說：「那是狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46258.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "hiza kano’? ’aehoe’ komoSa’ “hiza takem.”",
+          "chinese_text": "那是什麼？狗說：「那是青蛙。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46259.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "maSna’abe’ sasibo: mowa:i’ ila.",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46260.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "takem kaSna’itol ila ray palono’!",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46261.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "takem ki ’aehoe’ kaSna’itol ila ray palono’!",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46262.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "takem ’aehoe’ o hako’ kaSna’itol ila ray palono’!",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46263.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "takem ’aehoe’ hako’ o waliSan kaSna’itol ila ray palono’!",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46264.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "takem ’aehoe’ hako’ waliSan o somay kaSna’itol ila ray palono’!",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46265.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "takem ’aehoe’ hako’ waliSan somay o katin kaSna’itol ila ray palono’!",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46266.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pong!",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46267.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "hini kano’?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46268.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "hini ’anoka ’aelaw a ngabas.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3375/46269.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 4,
+      "language": "邵語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "numa s izai? haya qnuan.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47067.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "numa s izui? mzai qnuan, “huya thumay.”",
+          "chinese_text": "那是什麼？牛說：「那是熊。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47068.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "numa s izui? mzai thumay, “huya wazish.”",
+          "chinese_text": "那是什麼？熊說：「那是山豬。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47069.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "numa s izui? mzai wazish, “huya takith.”",
+          "chinese_text": "那是什麼？山豬說：「那是山羌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47070.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "numa s izui? mzai takith, “huya atu.”",
+          "chinese_text": "那是什麼？山羌說：「那是狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47071.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "numa s izui? mzai atu, “huya bakbaki.”",
+          "chinese_text": "那是什麼？狗說：「那是青蛙。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47072.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "muntaraw qmusaz, shaynanauiza.",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47073.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "bakbaki munruza!",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47074.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "atu masa bakbaki munruza!",
+          "chinese_text": "狗和青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47075.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "takith, atu masa bakbaki munruza!",
+          "chinese_text": "山羌、狗和青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47076.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "wazish, takith, atu masa bakbaki munruza!",
+          "chinese_text": "山豬、山羌、狗和青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47077.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "thumay, wazish, takith, atu masa bakbaki munruza!",
+          "chinese_text": "熊、山豬、山羌、狗和青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47078.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "qnuan, thumay, wazish, takith, atu masa bakbaki munruza!",
+          "chinese_text": "牛、熊、山豬、山羌、狗和青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47079.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pung ！ bakbaki sa shnaw a buhanuq muplhiqiza!",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47080.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "numa s izai?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47081.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "haya mara’in rusaw a ruzith.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3448/47082.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 5,
+      "language": "賽德克語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Maanu ka nii? Nii ge, dapa.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47880.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Maanu ka waga? Mrengo ka dapa, “Waga ge, sume.”",
+          "chinese_text": "那是什麼？牛說：「那是熊。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47881.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Maanu ka waga? Mrengo ka same, “Waga ge, boyak.”",
+          "chinese_text": "那是什麼？熊說：「那是山豬。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47882.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Maanu ka waga? Mrengo ka boyak, “Waga ge pada.”",
+          "chinese_text": "那是什麼？山豬說：「那是山羌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47883.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Maanu ka waga? Mrengo ka pada, “Waga ge, huling.”",
+          "chinese_text": "那是什麼？山羌說：「那是狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47884.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Maanu ka waga? Mrengo ka huling, “Waga ge, qpatur.”",
+          "chinese_text": "那是什麼？狗說：「那是青蛙。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47885.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Qmuyux paru di. Ni mnkala ka rnecux paru di!",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47886.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Remux asu ka qpatur di!",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47887.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Remux asu ka qpatur ma huling di!",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47888.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Remux asu ka qpatur, huling, ma pada di!",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47889.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Remux asu ka qpatur, huling, pada, ma boyak di!",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47890.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Remux asu ka qpatur, huling, pada, boyak, ma sume di!",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47891.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Remux asu ka qpqtur, huling, pada, boyak, sume, ma, dapa di!",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47892.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Pong!",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47893.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Maanu ka nii?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47894.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Nii ge, quwaq na qcurux paru.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3521/47895.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 6,
+      "language": "布農語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Maaz sain? Hanvang sain.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48693.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Maaz sai’ia? Tupa hanvang tu, “tumaz sai’ia.”",
+          "chinese_text": "那是什麼？牛說：「那是熊。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48694.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Maaz sai’ia? Tupa tumaz tu, “babuvanis sai’ia.”",
+          "chinese_text": "那是什麼？熊說：「那是山豬。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48695.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Maaz sai’ia? Tupa babuvanis tu, “sakut sai’ia.”",
+          "chinese_text": "那是什麼？山豬說：「那是山羌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48696.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Maaz sai’ia? Tupa sakut tu, “asu sai’ia.”",
+          "chinese_text": "那是什麼？山羌說：「那是狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48697.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Maaz sai’ia? Tupa asu tu, “Sisiuh sai’ia.”",
+          "chinese_text": "那是什麼？狗說：那是青蛙。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/853045.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Supzah hudan, lapunalanin.",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48699.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Kudadazain sisuh sia hatu!",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48700.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Kudadazain asu sinmas sisiuh sia hatu!",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48701.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Kudadazain sisiuh asu sinmas sakut sia hatu.",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48702.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Kudadazain sisuh asu sakut sinmas babuvanis sia hatu.",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48703.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Kaudazin a tumaz mas babu vanis mas sakut mas asu mas kavakava sia hatu cia.",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48704.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Kudadazain sisiuh asu sakut babuvanis tumaz sinmas hanvang sia hatu.",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48705.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Pung!",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48706.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Maazbin sain i?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48707.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Itu iskaandaingaz sain tu ngulus.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3594/48708.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 7,
+      "language": "排灣語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "anema aicu? ljuwang aicu.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49506.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "anema azua? “cumay azua,” aya a ljuwang.",
+          "chinese_text": "那是什麼？牛說：「那是熊。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49507.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "anema azua? “vavuy azua,” aya a cumay.",
+          "chinese_text": "那是什麼？熊說：「那是山豬。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49508.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "anema azua? “takec azua,” aya a vavuy.",
+          "chinese_text": "那是什麼？山豬說：「那是山羌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49509.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "anema azua? “vatu azua,” aya a takec.",
+          "chinese_text": "那是什麼？山羌說：「那是狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49510.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "anema azua? “’iyav azua,” aya a vatu.",
+          "chinese_text": "那是什麼？狗說：「那是青蛙。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49511.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "palje’acanga a ’udalj, uzanga raljiz.",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49512.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "ljevavavanga tua varukur a ’iyav!",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49513.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "ljevavavanga tua varukur a vatu kata ’iyav!",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49514.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "ljevavavanga tua varukur a takec, vatu kata ’iyav!",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49515.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "ljevavavanga tua varukur a vavuy, takec, vatu, katua ’iyav!",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49516.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "ljevavavanga tua varukur a cumay, vavuy, takec, vatu, katua ’iyav!",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49517.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "ljevavavanga tua varukur a ljuwang, cumay, vavuy, takec, vatu, katua ’iyav!",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49518.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pung!",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49519.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "anema aicu?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49520.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "angalj naicu a kudrakudral a ci’av.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3667/49521.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 8,
+      "language": "魯凱語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "manemane kikay? kikay lwange.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50319.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "manemane kavay? kay lwange la iya kay, “kavay cumay.”",
+          "chinese_text": "那是什麼？牛說：「那是熊。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50320.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "manemane kavay? kay cumay la iya kay, “kavay babui.”",
+          "chinese_text": "那是什麼？熊說：「那是山豬。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50321.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "manemane kavay ? kay babui la iya kay, “kavay akece.”",
+          "chinese_text": "那是什麼？山豬說：「那是山羌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50322.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "manemane kavay? kay akece la iya kay, “kavay tawpungu.”",
+          "chinese_text": "那是什麼？山羌說：「那是狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50323.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "manemane kavay? kay tawpungu la iya kay, “kavay iyaw .”",
+          "chinese_text": "那是什麼？狗說：「那是青蛙。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50324.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "taruadradraunga kay udale, sika walriawlriaunga!",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50325.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "muabelengenga ki varukulu kay iyaw.",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50326.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "muabelengenga ki varukulu kay tawpungu si iyaw.",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50327.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "muabelengenga ki varukulu kay akece tawpungu si iyaw.",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50328.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "muabelengenga ki varukulu kay babui akece tawpungu si iyaw.",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50329.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "muabelengenga ki varukulu kay cumay babui akece tawpungu si iyaw.",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50330.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "muabelengenga ki varukulu kay lwange cumay akece tawpungu si iyaw.",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50331.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pung la iya! ka tamanianianiakane ki iyaw.",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50332.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "manemane kikay?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50333.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "kikay ngudui ki maadradradrau ka kange.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3740/50334.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 9,
+      "language": "太魯閣語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Manu ka nii? Kacing ka nii.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51132.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Manu ka gaga? Rmngaw ka kacing, “kumay ka gaga.”",
+          "chinese_text": "那是什麼？牛說：「那是熊。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51133.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Manu ka gaga? Rmngaw ka kumay, “bowyak ka gaga.”",
+          "chinese_text": "那是什麼？熊說：「那是山豬。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51134.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Manu ka gaga? Rmngaw ka bowyak, “pada ka gaga.”",
+          "chinese_text": "那是什麼？山豬說：「那是山羌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51135.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Manu ka gaga? Rmngaw ka pada, “huling ka gaga.”",
+          "chinese_text": "那是什麼？山羌說：「那是狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51136.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Manu ka gaga? Rmngaw ka huling, “qpatur ka gaga.”",
+          "chinese_text": "那是什麼？狗說：「那是青蛙。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51137.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Qmuyux paru da, nii rngsux da.",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51138.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Mkala asu ka qpatur da!",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51139.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Mkala asu ka huling ni qpatur da!",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51140.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Mkala asu ka pada, huling ni qpatur da!",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51141.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Mkala asu ka bowyak, pada, huling ni qpatur da!",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51142.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Mkala asu ka kumay, bowyak, pada, huling ni qpatur da!",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51143.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Mkala asu ka kacing, kumay, bowyak, pada, huling ni qpatur da!",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51144.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Pung! Empruq ka kawa nghak qpatur da!",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51145.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Manu ka nii?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51146.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Quwaq paru qsurux ka nii.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3813/51147.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 10,
+      "language": "噶瑪蘭語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "niana zau? qabaw zau.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51945.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "niana ’nay? semanu qabaw, “tumay ’nay.”",
+          "chinese_text": "那是什麼？牛說：那是熊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51946.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "niana ’nay? semanu tumay, “”babuy na naung ’nay.”",
+          "chinese_text": "那是什麼？熊說：那是山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51947.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "niana ’nay? semanu babuy na naung “melimu ’nay.”",
+          "chinese_text": "那是什麼？山豬說：那是山羌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51948.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "niana ’nay? semanu melimu, “wasu ’nay.”",
+          "chinese_text": "那是什麼？山羌說：那是狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51949.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "niana ’nay? semanu “wasu, biyat ’nay.”",
+          "chinese_text": "那是什麼？狗說：那是青蛙",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51950.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Raya ti uzan, yau ti Raya zanum.",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51951.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mezaqis ti tu bawa’ biyat!",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51952.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "wasu seRai biyat mezaqis ti tu bawa’!",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51953.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "melimu, wasu seRai biyat mezaqis ti tu bawa’!",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51954.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "babuy na naung, melimu, wasu seRai biyat mezaqis ti tu bawa’!",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51955.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "tumay, babuy na naung melimu, wasu seRai biyat mezaqis ti tu bawa’!",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51956.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "qabaw, tumay, babuy na naung, melimu, wasu seRai biyat mezaqis ti tu bawa’!",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51957.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pung! sabali ay bawa’ na biyat satangan ti",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51958.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "niana zau?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51959.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "ngibiR na Raya ay baut zau.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3886/51960.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 11,
+      "language": "鄒語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "zou cuma eni? zou ’uachumu eni.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52758.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "zou cuma tonoi? yainca to ’uachumu, “’a cmoi tonoi.”",
+          "chinese_text": "那是什麼？牛說：「那是熊。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52759.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "zou cuma tonoi? yainca to cmoi, “’a fuzu tonoi.”",
+          "chinese_text": "那是什麼？熊說：「那是山豬。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52760.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "zou cuma tonoi? yainca to fuzu, “’a ta’cʉ tonoi.”",
+          "chinese_text": "那是什麼？山豬說：「那是山羌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52761.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "zou cuma tonoi? yainca to ta’cʉ, “’a av’u tonoi.”",
+          "chinese_text": "那是什麼？山羌說：「那是狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52762.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "zou cuma tonoi? yainca to av’u, “’a fo’kunge tonoi.”",
+          "chinese_text": "那是什麼？狗說：「那是青蛙。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52763.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "micu sm ʉn ʉ’ ʉ, cu esmi ’o fozu ci chumu.",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52764.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "cu smo’apang ʉ ’o fo’kunge.",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52765.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "cu smo’apang ʉ ’o fo’kunge ho av’u.",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52766.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "cu smo’apang ʉ ’o fo’kunge ho av’u ho ta’c ʉ.",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52767.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "cu smo’apangʉ ’o fo’kunge av’u ho ta’cʉ ho fuzu.",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52768.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "cu smo’apangʉ ’o fo’kunge av’u ho ta’cʉ ho fuzu ho cmoi.",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52769.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "o fo’kunge av’u ho ta’cʉ ho fuzu ho cmoi ho ’uachumu cu ac ʉh ʉ smo’apangʉ.",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52770.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Phong!",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52771.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "zou cuma eni?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52772.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "a’ ngayo to meoino yoskʉ na eni.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3959/52773.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 12,
+      "language": "卑南語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "amanay idri? idri i, a gung.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53927.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "amanay idru? idru i, a trumay kema na gung.",
+          "chinese_text": "那是什麼？牛說：「那是熊。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53928.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "amanay idru? idru i, a babuy kema na trumay.",
+          "chinese_text": "那是什麼？熊說：「那是山豬。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53929.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "amanay idru? idru i, a ura kema na babuy.",
+          "chinese_text": "那是什麼？山豬說：「那是山羌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53930.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "amanay idru? idru i, a suwan kema na ura.",
+          "chinese_text": "那是什麼？山羌說：「那是狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53931.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "amanay idru? idru i, a tabillaella kema na suwan.",
+          "chinese_text": "那是什麼？狗說：「那是青蛙。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53932.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "pakireb na udall. mayllalla a balenan.",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53933.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "muisatr kana tamina na tabillaella!",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53934.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "na suwan aw na tabillaella i, muisatr kana tamina!",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53935.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "na ura, na suwan aw na tabillaella i, muisatr kana tamina!",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53936.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "na babuy, na ura, na suwan aw na tabillaella i, muisatr kana tamina!",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53937.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "na trumay, na babuy, na ura, na suwan aw na tabillaella i, muisatr kana tamina!",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53938.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "na gung, na trumay, na babuy, na ura, na suwan aw na tabillaella i, muisatr kana tamina!",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53939.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pong! mupalletruk tu tabulull kana tabillaella!",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53940.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "amanay idri?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53941.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "idri i, tu indan dra matrina dra kuraw.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4063/53942.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 13,
+      "language": "雅美語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "ikongo o ya? baka o ri.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54740.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "ikongo o ito? kowan no baka am, “syong o ri.”",
+          "chinese_text": "那是什麼？牛說：「那是熊。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54741.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "ikongo o ito? kowan no syong am, “kois o ri.”",
+          "chinese_text": "那是什麼？熊說：「那是山豬。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54742.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "ikongo o ito? kowan no kois am, “kagling o ri.”",
+          "chinese_text": "那是什麼？山豬說：「那是山羌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54743.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "ikongo o ito? kowan no kagling am, “ino o ri.”",
+          "chinese_text": "那是什麼？山羌說：「那是狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54744.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "ikongo o ito? kowan no ino am, “tozatoza o ri.”",
+          "chinese_text": "那是什麼？狗說：「那是青蛙。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54745.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "rako acimoy, ya meykaranom rana.",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54746.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "ya rana nimavang do avang o tozatoza.",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54747.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "ya rana nimavang do avang o tozatoza kano ino.",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54748.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "ya rana nimavang do avang o kagling, ino a kano tozatoza.",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54749.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "ya rana nimavang do avang o kois kagling ino a kano tozatoza.",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54750.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "ya rana nimavang do avang o syong kois kagling ino, a kano tozatoza.",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54751.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "ya rana nimavang do avang o baka syong kois, kagling ino a kano tozatoza.",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54752.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54753.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "ikongo o ya?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54754.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "ngongoy no rako a among o ya.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4136/54755.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 14,
+      "language": "撒奇萊雅語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "u canan kuyni? u katalalan kuyni.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55553.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "u canan kuyni saw? hini sa ku katalalan, “u tumay kuyni.”",
+          "chinese_text": "那是什麼？牛說：「那是熊。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55554.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "u canan kuyza saw? hini sa ku tumay, “u kiwmah kuyza.”",
+          "chinese_text": "那是什麼？熊說：「那是山豬。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55555.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "u canan kuyza saw? hini sa ku kiwmah, “U caket kuyza.”",
+          "chinese_text": "那是什麼？山豬說：「那是山羌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55556.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "u canan kuyza saw? hini sa ku caket, “u wacu kuyza.”",
+          "chinese_text": "那是什麼？山羌說：「那是狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55557.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "u canan kuyza saw? hini sa ku wacu, “u balaut kuyza.”",
+          "chinese_text": "那是什麼？狗說：「那是青蛙。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55558.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "tabaki tu ku udad, mabalad tu.",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55559.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mikacaw tu tu balunga ku balaut.",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55560.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "mikacaw tu tu balunga ku balaut atu wacu.",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55561.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "mikacaw tu tu balunga ku balaut atu wacu atu caket.",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55562.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "mikacaw tu tu balunga ku balaut, atu wacu, atu caket atu kiwmah.",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55563.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "mikacaw tu tu balunga ku balaut, wacu, caket, kiwmah atu tumay.",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55564.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "mikacaw tu tu balunga ku balaut, wacu, caket, kiwmah, tumay atu katalalan.",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55565.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pong!",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55566.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "u canan kuyni?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55567.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "u laway nu tabakiay a buting.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4209/55568.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 15,
+      "language": "卡那卡那富語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "neni sua isi? sua isi ia karavung.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56366.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "neni sua isa? makasi karavung, “sua isa ia cumai.”",
+          "chinese_text": "那是什麼？牛說：「那是熊。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56367.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "neni sua isa? makasi cumai, “sua isa ia vavuru.”",
+          "chinese_text": "那是什麼？熊說：「那是山豬。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56368.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "neni sua isa? makasi vavuru, “sua isa ia to’urung.”",
+          "chinese_text": "那是什麼？山豬說：「那是山羌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56369.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "neni sua isa? makasi to’urung, “sua isa ia tacau.”",
+          "chinese_text": "那是什麼？山羌說：「那是狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56370.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "neni sua isa? makasi tacau, “sua isa ia takarura.”",
+          "chinese_text": "那是什麼？狗說：「那是青蛙。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56371.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "mir ʉ ʉng ʉc ʉ cu, ’esacu canumu tatia.",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56372.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "muupara na ’avang ʉ takarura.",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56373.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "muupara na ’avang ʉ tacau mataa takarura.",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56374.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "muupara na ’avang ʉ to’urung, tacau mataa takarura.",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56375.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "muupara na ’avang ʉ vavuru, to’urung, tacau mataa takarura.",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56376.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "muupara na ’avang ʉ cumai, vavuru, to’urung, tacau mataa takarura.",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56377.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "muupara na ’avang ʉ karavung, cumai, vavuru, to’urung, tacau mataa takarura.",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56378.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pung!",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56379.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "neni sua isi?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56380.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "sua isi ia vutuukuru tatia tamna ivici.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4282/56381.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 16,
+      "language": "拉阿魯哇語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "ngahlaisa kani’ina? kani’ina ia kalavungu.",
+          "chinese_text": "這是什麼？這是牛。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57179.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "ngahlaisa kana’ana? amihla kalavungu, “kana’ana ia cumi’i.”",
+          "chinese_text": "那是什麼？牛說：那是熊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57180.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "ngahlaisa kana’ana? amihla cumi’i, “kana’ana ia al ʉm ʉhl ʉ.”",
+          "chinese_text": "那是什麼？熊說：那是山豬。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57181.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "ngahlaisa kana’ana? amihla al ʉm ʉhl ʉ, “kana’ana ia taurungu.”",
+          "chinese_text": "那是什麼？山豬說：那是山羌。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57182.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "ngahlaisa kana’ana? amihla taurungu, “kana’ana ia tasau.”",
+          "chinese_text": "那是什麼？山羌說：那是狗。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57183.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "ngahlaisa kana’ana? amihla tasau, “kana’ana ia tamuciak ʉ.”",
+          "chinese_text": "那是什麼？狗說：那是青蛙",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57184.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "miataisacu umusahlʉ puava ʉahlicu.",
+          "chinese_text": "下大雨了，洪水來了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57185.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mailʉngisicua tamuciakʉ avangʉ!",
+          "chinese_text": "青蛙上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57186.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "mailʉngisicua tasau hla tamuciak ʉ avang ʉ!",
+          "chinese_text": "青蛙和狗上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57187.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "mail ʉngisicua taurungu， tasau hla tamuciak ʉ avang ʉ!",
+          "chinese_text": "青蛙、狗和山羌上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57188.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "mail ʉngisicua al ʉm ʉhl ʉ， taurungu， tasau hla tamuciak ʉ avang ʉ!",
+          "chinese_text": "青蛙、狗、山羌和山豬上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57189.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "mail ʉngisicua cumi’i, al ʉm ʉhl ʉ, taurungu, tasau hla tamuciak ʉ avang ʉ!",
+          "chinese_text": "青蛙、狗、山羌、山豬和熊上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57190.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "mail ʉngisicua kalavungu, cumi’i, al ʉm ʉhl ʉ, taurungu, tasau hla tamuciak ʉ avang ʉ!",
+          "chinese_text": "青蛙、狗、山羌、山豬、熊和牛上船了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57191.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pong!",
+          "chinese_text": "砰！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57192.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "ngahlaisa kani’ina?",
+          "chinese_text": "這是什麼？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57193.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "kani’ina ia taisa ngusuisa vutukuhlu.",
+          "chinese_text": "這是大魚的嘴巴。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4355/57194.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/52/16.jpg"
+        }
+      ]
+    }
+  ],
+  "source_urls": {
+    "info": "https://web.klokah.tw/pbc/book/index.php?id=52",
+    "online": "https://web.klokah.tw/pbc/book/online/index.php?id=52"
+  }
+}

@@ -1,0 +1,1919 @@
+{
+  "id": 60,
+  "title": "迷路的山羊",
+  "illustrator": "周楷樺",
+  "level": "初級",
+  "grammar_focus": "動態動詞",
+  "summary": "山羊喜歡吃小小的嫩葉，於是牛帶他去隔壁山，到達目的地的山羊開心地吃著嫩葉卻跟牛走散了。他走過山丘、小徑依舊找不到回家的路，傷心的小山羊該怎麼回到家呢。在繪本中我們可以學到「__喜歡吃__」、「__看到了__」、「__找不到__」的句型。教師可以在依句型做難易度的調整與變化，例如「山羊喜歡吃嫩葉」，進階的變化可以為「山羊喜歡吃小小的嫩葉」。",
+  "language_count": 16,
+  "languages": [
+    {
+      "lid": 1,
+      "language": "阿美語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Maolah komaen to mahangango’ay ho a papah ko siri, nikaorira oni kamaro’an nira toni a lotok, tata’ata’ak ko papah caay ka kaeso’.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44437.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Kaeso’ kaenen ko papah nora tatihiay a lotok han no kolong a somowal, manga’ay makeriden nira ko siri malacafay tayra.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44438.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Toor han no siri romakat ko kolong, mitaelif to pinapina a taporo,",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44439.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Romakat to sali’ako’akong sanay a lalan, o lalan sa adihay aca ko kaemangay a fokeloh,",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44440.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Manengneng nangra ko tata’akay a cascas, romakat toya ka’ayaway no cascas a kayakay, tahira to toya tatihiay a lotok.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44441.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Tahira sato tora tatihiay a lotok, adihay to ko mimingay mahangango’olay a papah manengneng no siri, salipahak sa ko faloco’ nira.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44442.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Sa hamohamot han no siri misatapang komaen, sa aresok sa fahal i ra:ay to, piceli’ to no kolong caayay to pakatengil.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44443.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Mafecol to ko siri, nikaorira caay pakatama cingra toya kolong, caayay to pakatama to sapinokay a lalan.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44444.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Adihay to ko mata’alifay nira a taporo, adihay ko salo’akong a lalan, adihay ko mimingay a fokeloh i fafaed, nikaorira caayay ho pakatama to sapinokay a lalan .",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44445.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Moraraw to lalan ko siri, sa tata’ang sato ko tangic nira.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44446.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Pakatengil to ko ’alilis to tangic, manengneng ko kamoraraw no siri to lalan.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44447.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Kerid hanto no ’alilis ko siri maefer talakakarayan, haen han mangaay nira mihapinang a minengneng.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44448.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Matama to nira koya tata’akay a cascas, ira i kayakay miwakawak to kamay koya kolong.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44449.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Adihay ko kaeso’ay mahangango’olay ho a papah ko mihawikidan no kolong a panokay, tadafangcalay to!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3216/44450.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 2,
+      "language": "泰雅語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "smoya’ balay maniq abaw toyu qu mit, ana ga ki’an nya rgyax qani ga, btenux ru yaqih niqun qu abaw nya.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45114.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "kmayal qu Kacing mha blaq balay niqun qu abaw rgyax thasa hya, rasaw maku qu mit ma.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45115.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "mluw sa Kacing qu Mit, mkaraw pzyux balay na rgyax,",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45116.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "mkzi’ sa tuki’ balay na tuqiy, pzyux balay btunux nya tuqiy qasa uzi.",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45117.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "ktan nha tyaba’ balay ni tgliq hnasun nha qu hongu’ cyux maki’ te gleng na tgliq, ru tehok squ rgyax thasa la.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45118.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "tehok rgyax qasa, pzyux balay tangu’ abaw ktan na mit, memaw mqas balay qu inlungan nya.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，牠好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45119.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "t’aring ga lokah balay maniq qu mit qasa ini nya baqi qsliq nya memaw wal stwahiq balay la, ini nya pongi pinlawa’ na Kacing.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45120.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mtngi maniq qu mit la, ana ga ini nya ’lwi qu Kacing, ini nya ’lwi qu tuqiy ’osa ngasal uzi.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45121.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "pzyux balay qu rgyax hinkngyan nya, pzyux balay hinkyan nya tuqiy uzi, btunux iywaw qu tuqiy qasa, ana ga ini nya ’lwi qu tuqiy ’osa ngasal,",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45122.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "mtkari tuqiy qu mit qasa la, lokah balay mngilis qu hya.",
+          "chinese_text": "山羊迷路了，牠大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45123.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "pongan kwali’ qu hngyang ingisal nya, ru ’lwan nya mintkari na mit la.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45124.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "rasun na kwali’ qu mit ru mlaka sa babaw kayal, memaw nya slwan balay mita.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45125.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "’lwan nya qu krahu balay na tgliq cyux hmuwih qba’ te hongu’ qu Kacing.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45126.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pzyux balay toyu’ abaw naras na Kacing, blaq balay niqun, pqasun balay!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3272/45127.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 3,
+      "language": "賽夏語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Siri’ minowa’ somi’ael ka katnoe’ , ’oka’ nisiya kinrowaSek ka ’oemaeh, biyae’ sopaloy o ’aewhay si’aelen.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45927.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "katin komSa’ hiza kabih koko:ol biyae’ kayzaeh si’aelen, siya kayzaeh maraS ka Siri’ ma’onhael rima’.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45928.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Siri’ tani katin manra:an ila, kalpiza’ ila ka koko:ol,",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45929.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "maray ’ima hinkikoyo’ ka ra:an, ray ra:an ’akoy ka batbato’,",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45930.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "lasiya Sahoero: ka ’ima sopaloy ka poSpoS, maray poSpoS ray kati’aelae’an ka haleb, ’isa: potngor ila.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45931.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "potngor ila hini kabih koko:ol, Siri’ komita’ ’akoey ka katnoe’, siya Siyae’ a tomalan.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45932.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Siri’ somi’ael ila , siya kinrae:aew kinrawaS, ’okay bazae’ noka katin Si’oe’oe: hisiya.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45933.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Siri’ baba:ok ila, ’oka’ o siya ’okay tihoero: ila ka ra:an.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45934.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "siya maray ’ima ’akoy ka koko:ol, ma’ maray ’ima hinkikiyo’ ra:an, babaw ’akoy ka batbato’, siya ’okay tihoero: ila ka ra:an nom lobih .",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45935.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "ka Siri’ ’okay tihoero: ka ra:an, nisiya sopaloy ka hinangih.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45936.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "kowaw baezae’ ka hinangih, Sahoero: ila ’ima hawka’ ka Siri’.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45937.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "kowaw ’ima maraS ka Siri’ homayap ray kawaS babaw, nakhini siya kayzaeh Sakaykayzaeh.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45938.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "siya tomihoero: ila hiza ’ima sobae:oeh ka poSpoS, katin ray haleb babaw ’ima komae:oeh ka hima’.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45939.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "katin malibih ’akoy ka biyae’ kasi’aelen, kayzaeh a tomalan!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3345/45940.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 4,
+      "language": "邵語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "sisi mathuaw mikukaan sa langqaqisusay a filhaq, kanuniza thithu ianan izui a hudun, filhaq mathuaw mara’in numa antu maqitan ya akaanin.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46740.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "qnuan mzai, “miabariz a hudun a filhaq maqitan ya akaanin.”",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46741.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "sisi muntal qnuan mundadaan, sinaranan sa pizaiza wa kuntumbuz,",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46742.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "sinaranan sa pizaiza wa tawkiwar a saran, isa saran ianan manasha sa langqaqisusay a fatu,",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46743.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "thithu mriqaz sa mara’in a qinut, sinaranan qinut tanamuqtha wa farukuz, shawnatusiza sa miabariz a hudun.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46744.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "shawnatusiza tu miabariz a hudun, sisi mriqaz sa manasha wa langqaqisusay a filhaq, mathuaw ma’alah’a thithu.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46745.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "sisi araiza kmaan kmaan, thithu lhmazawan mapakiqualh mingqarayiza makitnahazish, maura thithu tunmaza qnuan palalawa.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46746.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "sisi mabuqthiwiza, kanuniza thithu kilhikilhim qnuan uka, numa kilhikilhim mutaun a saran uka mani.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46747.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "sinaranan thithu pizaiza wa kuntumbuz, numa sinaranan sa pizaiza wa tawkiwar a saran, fafaw ianan manasha sa langqaqisusay a fatu, kanuniza thithu kilhikilhim mutaun a saran uka .",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46748.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "sisi makauka sa saran, mimbabaw thmanit thithu.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46749.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "thmanit a lushkin tmazaan sa kuaw, ungqtuan makauka sa saran a sisi.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46750.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "kuaw kmathu sisi marfaz qali a fafaw, miazithu thithu shduuiza mriqaz miakazakazash.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46751.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "thithu ungqtuan sa huya mara’in a qinut, qnuan isa farukuz a fafaw ma’a’inur sa rima.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46752.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "qnuan kmathu manasha sa maqitan akaanin a langqaqisusay a filhaq mushuqish, “mathuaw maqitan!” sisi ma’alah’a maqiaqia!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，「太好了！」山羊開心地叫！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3418/46753.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 5,
+      "language": "賽德克語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Smkuxul mekan rabu waso biciq ka miric. Ani si, niqul na lmqu nii, paru ba ka waso na ma naqah ba ppuqun duri peni.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47553.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Mrengo ka dapa, siyo lmiqu waga malu ba ppuqun ka waso. Qrasun na ka madis miric msuupu heya musa.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47554.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Snegul dapa musa ka miric. Egu ba ka knksaan na mkkobu ddgiyaq.",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47555.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Knkana ba ka qnqriyan eluw ndaan. Knkana ba ka tasil bcbiciq eluw.",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47556.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Qmita tgelaq paru ka dheya. Moda hako berih tgelaq. Dehuk siyo lmiqu nii di.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47557.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Ni dehuk siyo lmiqu nii di. Knkana qtaan miric ka rabu waso bcbiciq. Knkana ba qnqrasan na heya peni.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47558.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Qndhediq naq mekan ka miric. Tmalang wada kndudul mtheya mekan. Ini bhangi ka dapa waga mlawa heya.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47559.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Mtengi pnuqan na ka miric di. Ani si, wada na ini slai ka dapa di. Ini sdiyan eluw ssaan na sapah duri.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47560.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Egu ba knksaan na mkobu ka ddgiyaq. Egu ba qnqriyan ndaan na ka eluw duri. Knkana ba ka tasil bcbiciq meniq bobo eluw duri. Ani si, uka na slayan ka eluw saan na sapah.",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47561.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Ni mgedang eluw ka miric di! Knkana ba ka lnungisan na brbaro.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47562.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Mbahang lnngisan na ka qdiro. Slayan na ni mgedang eluw ka miric di.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47563.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Desun skiya knbbaro qdiro ka miric. So nii maha na klaun qmita ka heya denu.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47564.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Slayan na ka tgelaq paru ma waga hako baro tmaus baga ka dapa.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47565.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Egu ba nadis na rabu waso biciq ka dapa. Keyan ba knmalu peni!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3491/47566.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 6,
+      "language": "布農語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Mazima sidi maun mas zuszus lisav, haitu katsia saia luduntan, lisav hai madaing at makuang kaunun.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48366.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Tupa hanvang tu mandingalan ludun tu lisav hai masial kaunun, mahtu saia madas sidi kudip.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48367.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Makilavi sidi mas hanvang, lahaib sia supah tu kaludun.",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48368.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Lahaib supah mazaiku tu dan, supahan dan mas lakda.",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48369.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Usaduan naia madaing tu tastas, lahaib tanangaus tastas tu atal, at taunasia mandingalan tu ludun.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48370.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Tauna sia mandingalan ludun, sadu sidi mas supah kaumaikit tu zuszus, manaskal isaicia isang.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48371.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Kitngab sidi ikmangmang maun, cisdadan saia kudahvianin, niin utazan mas hanvang malala saicia.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48372.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "ikabuhin sidi, haitu ni saia ukiliman hanvang, ni amin ukiliman kulumah tu dan.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48373.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Supah ludun ikit lahaiban saicia, aizang supah mukzaikuzaiku tu dan, supahan lakda, haitu ni saia ukiliman kulumah tu dan.",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48374.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Minbuhbuhin sidi, cinmangmang saia tangis.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48375.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Utaazan kukuav mas sintatangis, usaduan minbuhbuh tu sidi.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48376.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Adasun sidi mas kukuav kusbai sia dihanin, mahtuin saia samantuk sadu.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48377.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Inkaduanin saia mas madaing tu tastas, isia hanvang atal makaukvil.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48378.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Madas hanvang supah masial kaunun tu zuszus, tuzatuza tu masial!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3564/48379.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 7,
+      "language": "排灣語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "tjengelay aravac a sizi a keman tua ledelede a asav, ljakua azua a kinaizuanan nimadju a gadu, kakudrakudralan azua a asav ljakua sakuya.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49179.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "sangua’ a asav izua i tuljivar a gadu aya azua a ljuwang, makaya timadju a kemacu ta sizi a semazua.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49180.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "kitavilivilji a sizi tua ljuwang, malipat a kipidanga a gadu,",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49181.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "liyavanga a cinalivatan a dradrukungan a dalan, liyav uta a ’aciljaciljay i kadalanan,",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49182.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "pacun tiamadju tua namalje’aca a taljitiv, nu cemalivat tua tekeza i ’ayav, kipazukeranga tua gadu i lja’edi.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49183.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "ka taljuzua tua gadu, pacun azua a sizi tua kakedrikedriyan saka ledelede a mareka asav, maleva ravac timadju.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49184.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "i zua timadju a keman a pakaliyav, ljiacadacada timadju, inika lemadengadenga tua ljuwang a demawdawlj taimadju.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49185.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mavetuanga aza a sizi, ljakua inika makadumak timadju tua ljuwang, inika makadumak uta tua sisatjuma’ a dalan.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49186.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "liyav a kinalipatan a gadu nimadju, kata drukudrukung a dalan, izua uta a liyav a ’aciljaciljay. ljakua inika makadumak tua sisauma’ a dalan.",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49187.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "mawlavanga tua dalan a sizi, ’emaung a pasi’aca timadju.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49188.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "lemadenga a ’a’a tua ’auwng, kemeljang tu malav tua dalan a sizi.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49189.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "kacuin nua ’a’a a sizi a semakalevelevan, kipacun a ljemaluay timadju.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49190.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "pacun timadju tazua a talji’aca’aca a taljitiv, izua a ljuwang a temuatuap tua lima nimadju.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49191.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pacun timadju tazua a talji’aca’aca a taljitiv, izua a ljuwang a temuatuap tua lima nimadju!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3637/49192.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 8,
+      "language": "魯凱語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kay kisisi madalame kane ku tikiyane sika lrelredeana ku vasaw, ai kay taikayyaneini kay lregelrege, maadrau kay lavasaw si kai kalimemenga lu kane.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/49992.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "kay lwange la iya kay: kay thili kay lregelrege lukaneane ku vasau malimeme, lridulruaku iluku musuane la iya.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/49993.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "kay kisisi la katwase tupapalra ki lwange, ngukakay si lribatenga ki lalregelrege.",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/49994.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "la lribate ki makalra ki sangipipikiw ki kadalranane, ikay ki kadalranane yakay ku tatitiki ku lalrenege.",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/49995.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "kay tadrusa la drele ku maadrau ku tuturane, lu katwasanenga si lribate kay ki taludru cucubungu ki tuturane, laka amaninga kuidra thili ki lregelrege niiyane.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/49996.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "sa kelanga ki thili ki lregelrege, kay kisisi la drele ku makalra ku tatitiki si ka lrelredeana ku lavasaw, ku kidremedremeini la kiraragay.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/49997.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "kay kisisi la pathagilinga kisamula si kanekane, la arumudaydaaili ku takaneaneini si kai makakilalranga lu puvaga ku lwange.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/49998.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "la kabucukunga kay kisisi, ai kai makawadrelenga ki lwange, si kai makakidringaynga ku amutavananane ku kadalranane.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/49999.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "kay kisisi la katwase ngukakay ki makalra ki lregelrege, laka makalra ku sangipipikiw ku kadalranane, kay tangukayyaneini ka belenge la kakalra ku tatitiki ku lalrenege. ai kay kisisi la pakakucingalre silape ku amutavananane ku kadalranane.",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/50000.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "kay kisisi la sakawlraunga ku amutavananae ku kadalranane, si ikaynga kuini kwadrau gelregelrethe si tubitubinga.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/50001.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "ku adrisi la kilalra ku watubitubi ku lingau, si katwase ngipalay, aneane kuini wagelregelrethe si iya, ala patarathingalenga kuini amamama ki kadalranane ka kisisi.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/50002.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "kay adrisi la iluku ki kisisi ngipalay papia belenge, asiluiyane animakadrele tupudriadringay ki kadalranane amiya.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/50003.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "kay kisisi la kidringaynga ikay kavay, yakay ku maadrau ku tuturane. la ikay ki taludru vidrividrividri ku alrimaini ka lwange.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/50004.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "kay lwange yai la iluku ku makalra ku lalrelredeana ku vasau ku akaneane. matharirilringa la iya kay kisisi.",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3710/50005.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 9,
+      "language": "太魯閣語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Smkuxul bi mkan tgbilaq rnabaw sksukay ka mirit, kiya ni nniqan na dgiyaq nii o, tgaaw saw prparu ka rnabaw ni naqih uqun uri.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50805.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Rmngaw ka kacing malu bi uqun ka rnabaw dgiyaq kiyig hiya, tduwa na dsun mseupu musa ka mirit.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50806.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Stghuy kacing musa ka mirit, mnda lala dgiyaq bilaq,",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50807.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Mnda lala bi elug bhruy, duri ni qahur kana ka elug,",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50808.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Qtaan dha ka paru bi tglaq, mnda hakaw ga brah tglaq do, dhqan dha ka dgiyaq kiyig da.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50809.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Dhuq ka dgiyaq kiyig do, qmita lala bi tgbilaq rnabaw sksukay ka mirit do, mqaras balay.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50810.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Ki tngriq qmaba mkan ka mirit, wada smdhiyaq tmalang ni, ini na qbhangi ka pnlawa kacing.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50811.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Mtngi ka mirit da, kiya ni ini na hlayi ka kacing, ini na hlayi ka elug eusa sapah uri.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50812.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Mnda lala bi dgiyaq bilaq ni elug bhruy uri, qahur kana ka elug, kiya ni ini na hlayi ka elug eusa sapah .",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50813.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Ga meydang ka mirit da, pmbaraw lmingis ka hiya.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50814.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Qmbahang hnang lingis ka kjiraw, hlayan na ka mirit mneydang da.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50815.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Dsun na ka mirit ni skaya babaw karat ka kjiraw, kika tduwa pteura bi qmita.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50816.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Hlayan na ka paru bi tglaq ki da, ga tmaus babaw hakaw ka kacing.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50817.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Nii madas lala bi rnabaw sksukay malu bi uqun ka kacing, tayal suyang ki da!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3783/50818.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 10,
+      "language": "噶瑪蘭語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "melizaq qeman tu kikitut lubas ay biRi ya sizi, wanayka ta qaizuwanan na ay naung zau, RaRaya sukaw qanan ya biRi na.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51618.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "semanu ya qabaw ta kinilan ay naung nengi qanan biRi na, qanengi aizipna mazas tu sizi masulun matiw.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51619.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "masulun ti sizi tu qabaw semaqay, melaziw tu utatani ilibeng ay naung semaqay,",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51620.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "semaqay tu melilikaw lazan, yau qaya muwaza bettu na lazan.",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51621.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "matayta na qaniyau Raya ay suysay, semaqay pasa ngayaw na suysay sazan, maseq ti tu ta kinil ay naung.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51622.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "maseq ti tu ta kinil ay naung, taytan na sizi yau muwaza kikitut lalubas ay biRi, melilizaq aizipna.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51623.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "siangatu ti sizi qeman titimuRan na, wiyati pasangyaw ta medaudan, qumRas qabaw mai ti maipil na.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51624.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "bisuR ti sizi, wanayka kemilim tu qabaw mai ti pakalan na, mai ti mekala tu lazan temanan qaya.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51625.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "semaqay melaziw tu utatani ilibeng ay naung, yau qaya melilikaw lazan, muwaza bettu ta babaw, wanayka mai mekala tu tananan lazan .",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51626.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "mengangaw ti sizi, Raya niuRing na.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51627.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "ipilan na ti na qiyul niuRin na, mataytan na ti mengangaw ay sizi.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51628.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "azasan na ti na qiyul sizi manbaseR pasa deddan, nazau paqangi pa nitaytan na.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51629.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "pakalan na ti Raya ay suysay, yau ta sazanan qabaw kemaud tu lima.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51630.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "mazas qabaw tu muwaza lalubas ay biRi temanan, qanengian ti!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3856/51631.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 11,
+      "language": "鄒語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "la na’no emafe to mon’a noe’in’i ci eh ʉng ʉ ’o moat ʉn ʉ, at’inghi ’o isi yoni ci hcuyu tan’e mo faaf’oh ʉ ’o eh ʉng ʉsi ho ’oha mafe.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52431.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "isi yainca to ’uachumu ’o eh ʉng ʉsi to hcuyu ta ciengona mo na’no mafe, ’ate’o peel ʉi hafa ’o moat ʉ’n ʉ ho uhne’e.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52432.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "mo fiho to ’uachumu ’o moat ʉ’n ʉ, sucaefi to a ʉl ʉ ’enepio ci mahcuhcuyu,",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52433.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "sucaefi to yuvaknoknon’i ci ceon ʉ, mion’a man’i ci yuyu’eo ’o ceon ʉ,",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52434.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "ihe aiti ’o meoino suyoi, sucaefi to hiapeoza to tuhcu suyoi, cu s ʉc’ ʉh ʉ to hcuyu to ciengona.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52435.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "s ʉc’ ʉh ʉ to hcuyu to ciengonasi, teol ʉi to moat ʉ’n ʉ ’omo man’i ci mon’a noe’in’i eh ʉng ʉ, a’ ʉmt ʉ na’no kaeb ʉ.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52436.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "micu ahoi eabobon ʉ ’o moat ʉ’n ʉ, ho ausuhcu emomcovhi, o’a isi tal ʉi ’o ’uachumu ho isi eoho’a.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52437.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "micu yose ʉ ’o moat ʉ’n ʉ, at’inghi o’a isi el ʉa ’o ’uachumu, yaeza o’a isi el ʉa ’o ceono maine’e.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52438.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "mo sucaefi tomo man’i hcuyu, ho ito man’i cimo kengkenzu ci ceon ʉ, mion’a man’i ’o yuyu’eosi, at’inghi o’ana isi el ʉa ’o ceon ʉ no maine’e .",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52439.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "cu e ʉngc ʉ to ceon ʉ ’o moat ʉ’n ʉ, mo tmunoi mongsi.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52440.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "isi tal ʉi to eiski ’o fihngau no mongsi, teol ʉi ’omo e ʉngc ʉ ci moat ʉ’n ʉ.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52441.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "isi hafa to eiski ’o moat ʉ’n ʉ ho mei’unu ta pepe, maicac’o tesi peel ʉi husansana.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52442.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "isicu el ʉa ’o meoino suyoi, mo yonto hiapeoza ’o ’uachumu ho eutivteni ’o emucusi.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52443.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "mo mahafo tomo man’i cimo noe’in’i ci eh ʉng ʉ ’o ’uachumu ho mainen’e, a’ ʉmt ʉs’a ʉmn ʉ!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/3929/52444.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 12,
+      "language": "卑南語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "na takullis i, sagar mekan kana mangedengedean kana kakitengan na bira. amawna, tu kinakadruwan na drenan i, dadawanan tu bira aw adri imaran.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53600.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "“na bira kana drenan i makasaninin i, imaran. karuwa ku penillang kana takullis muka.” kema na gung.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53601.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "na takullis i, kurenang kana gung muka. mulibat dra sadru dra mutengatengall.",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53602.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "kemakawang dra sadru dra dalan dra mulikalikaw. sadru a barasa kadri daladalan.",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53603.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "menau dra matrina dra temellesa nadru. makallang i nganguwayan kana temellesa. na kayakay. aw muka kana drenan i makasaninin.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53604.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "meredek kana makasaninin na drenan. na takullis i, menau dra sadru dra mangedengedean aw kakitengan dra bira. salaw semangal.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53605.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "tu pakirebay mekan kana takullis. marekamudawill marekamudawill tu kawang kana takullis. adri lla killengaw dra emauaw na gung.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53606.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "betreker na takullis i, adri pakatrebung kana gung. aw adri pakaaya dratu dalan na uwaburekan.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53607.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "melibat dra sadru dra tengatengall. aw mulikaw dra sadru dra dalan. barasarasa na dalan. amawna, adri pakaaya dratu dalan na uwaburekan.",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53608.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "masaraw lla na takullis. aw pakireb matrangis.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53609.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "killengaw dra trangis na lekep. menau kana masaraw na takullis.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53610.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "na lekep i, tu kasuyaw na takullis mubii kadri langitr. inaba padawill aw paseket menau kema.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53611.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "atrebung lla kandru na matrina na temellesa na takullis. kadru kana kayakay i makasatr penaidr na gung.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53612.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "na gung i, kemasu dra sadru dra mangedengedean dra bira muruma. “wa dra inaba i!” kema na takullis. salaw semangal na takullis.",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4033/53613.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 13,
+      "language": "雅美語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "ikakey no kagling a manganen o mahehma a voong, am o na pivahayan a takey am ya teyrarako o voong a ya macicigzang ya marahet na manganen.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54413.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "maniring o baka am ya apiya do ya asa ka tokon o voong, na kangey no kagling a ya mangey mamangan.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54414.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "macihza o kagling do baka, kapisoposopo da do tokon.",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54415.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "mangonong sira do miciwaniwag am kazakazazakadan a rarahan.",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54416.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "macita da o amyoyo a tomoza ranom, mangonong sira do niparing da a rarahan ka pakaranes da rana do asa ka tokon.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54417.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "makaranes rana sira am, macita no kagling o alilikey a mehma voovoong, ka saray na.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54418.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "mamangan rana o kagling, to mipeyparai, ji na mizing o baka tomawag jya.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54419.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mabsoy rana o kagling am, ji na kala rana o baka, a ji na tenngi o pangonongan na do rarahan.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54420.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "misoposopo do tokon o kagling, aroo miciwaciwag kano kazakazazakadan a rarahan, ori o ji na makakalai so olian na rarahan.",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54421.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "nimavozow o kagling, ka zezezeng na amlavi.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54422.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "tona mizing no manai o amlavi, ori o nipakacitan na rana so nimavozow a kagling.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54423.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "isalap no kangkang o kagling, ka pengkad no citahan na so rarahan.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54424.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "makala na rana o arako a tomoza ranom, amian dodang o baka mapatalatala so lima na.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54425.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "aro o nyahap no baka mehma voovoong. jyarahet a!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4106/54426.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 14,
+      "language": "撒奇萊雅語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "manamuh ku sizi mukan tu mangazuay adidiay a papah, nika ya kakitizaan niza a buyu’, tabaki caay aca kaasu’ kanen ku papah.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55226.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "sakamu hantu nu katalalan, i belaway a buyu’, asu’ kanen ku papah, kapah kita maladay tayza.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55227.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "kilul satu ku sizi tu katalalan muculil, pina tu a buyu’ ku nilakuwitan nuheni.",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55228.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "pina tu a mangiwingiwitay a zazan ku niculilan nuheni, yadah aca ku baetu i zazan.",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55229.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "mazih tu nuheni ku tabakiay a cascas, micaliway tya i ayaway nu cascas a sangaw, a makatukuh tu tya belaway a buyu’.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55230.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "katukuh tu tya belaway a buyu’, mazih tu nu sizi yadah ku adidiay mangizuay a papah, tanunamuh satu ku sizi.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55231.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "bilil satu makan ku sizi tu lutuk, mabatad mabatad ku nikaduba’ nu sizi, caay tu pakatengil tu nipiawaw nu katalalan i cinizaan.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55232.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mabecul tu ku bili nu sizi na mukan, nika caay tu paketepa’ ciniza tu katalalan, maliyuh tu tu sakataluma’ a zazan.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55233.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "pina tu a buyu’ ku niculilan niza, pina tu a mangiwitay a zazan, yadah ku baetu i zazan, nika maliyuh tu ciniza tu sakataluma’ a zazan.",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55234.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "mungangaw tu ku sizi, tanu tuwa’ satu ciniza muangic.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55235.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "makatengil tu ku palang tu angic, iha mungangaw tu ku sizi.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55236.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "zikecen tu nu palang ku sizi bamahel i tapuku, siwatan tu ku nipiazih nu sizi.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55237.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "makazih tu ciniza tya tabakiay a cascas, miwatawat tu ku lima nu katalalan i sangaw.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55238.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "yadah ku nizikecan nu katalalan a mangazuay asu’ay a lutuk, kapah aca!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4179/55239.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 15,
+      "language": "卡那卡那富語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "manmaan kumakʉnʉ ma’u’ura ranʉngʉ takuisi. nakai to’unain cimʉrʉ isi, taatia kavangvang ranʉngʉ, ka’anʉ sa’o’o.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56039.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "makasi karavung, sa’o’o na akini cimʉrʉ ranʉngʉ, muukusa kita ’inia.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56040.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "kipapa karavung sua takuisi. nimaica ’ituumuru ravakuvakunu.",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56041.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "nimaica ’ituumuru tapikuupiku cacanʉ. ravatuvatua cacanʉ.",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56042.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "cinimʉ’ʉra nguani tatia cacan. maica na cuungkucu, makacʉkʉna cu akini cimʉrʉ.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56043.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "cumacʉ’ʉra takuisi ma’u’ura ranʉngʉ. cucuru nguain macangcangarʉ.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56044.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "ka’anʉ cu tarasangai takuisi kumakʉkʉnʉ. ’acuu araceni, koo tinimana ’esi pookari ’inia karavung.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56045.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mavʉcʉrʉkʉ cu takuisi. nakai ka’anʉ cu cʉ’ʉrʉʉn karavung. ka’anʉ atʉnʉ tia pui’i cacanʉ.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56046.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "nimaica nguain ravakuvakunu, tapikuupiku cacanʉ. nimaica kangvang ravatuvatua, nakai ka’anʉ pui’i tanasa cacanʉ.",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56047.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "maroka cacanʉ takuisi. pitatia tumatang!",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56048.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "tumatimana takʉkʉa tangiin. cʉ’ʉrʉʉn cu kee nimaroka takuisi.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56049.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "niarivici takʉkʉa takuisi mungʉcara mingane. taramanʉngʉ cu cumacʉ’ʉra.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56050.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "atʉnʉn cu kee tatia cacan, ’esi cuungkucu karavung mariapʉ.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56051.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "nimavici karavung ’ituumuru ma’u’ura ranʉngʉ. “cucuruana mamanʉng!” macangcangarʉ takuisi marisuusuna!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4252/56052.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 16,
+      "language": "拉阿魯哇語",
+      "page_count": 14,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "tam marumukua ’ukui na uumu rahl ʉng ʉ vuhlu’u, auninika macua paranaisa kani’i vuvulunga, tataisa rahl ʉng ʉisa kusa’au.",
+          "chinese_text": "山羊很喜歡吃小小的嫩葉，但是他住的這座山上，葉子又大又不好吃。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56852.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "amihla kalavungu na ma pat ʉk ʉ ucani vuvulunga sa’au rahl ʉng ʉisa, tuahl ʉa kana’ana mahlava ’ukui ki ʉl ʉs ʉ musa.",
+          "chinese_text": "牛說隔壁山的葉子很好吃，他可以帶山羊一起去。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56853.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "musa ’ukui na m ʉl ʉv ʉ kalavungu na, micaliva matumuhlu cacal ʉa mamaini.",
+          "chinese_text": "山羊跟著牛走，走過好幾個小丘，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56854.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "matumuhlua hliumia mapapikulu sala’a, marumana matumuhlu vatu’u ma sala’a na,",
+          "chinese_text": "走過很多彎的路，路上還有好多小石頭，",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56855.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "tarat ʉahl ʉ a hlakana’ana taisa talasa, hliumia tukusu ahliacuvunga talasa, miangucu aat ʉ ucani vuvulunga.",
+          "chinese_text": "他們看到了很大的瀑布，走過瀑布前面的橋，就到隔壁山了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56856.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "miungucu aat ʉ ucani vuvulunga, tarat ʉahlicu a ’ukui na mamaini tavuhlu’u rahl ʉng ʉ, masasangar ʉa kana’ana.",
+          "chinese_text": "到了隔壁山，山羊看到了好多小小的嫩葉，他好開心。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56857.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "rumiacu a ’ukui na kutumutumuhlu uumu, aramamasaihlacu pakuavavauisa kalavungu na kucuatimahla.",
+          "chinese_text": "山羊開始大吃特吃，他越跑越遠，沒有聽到牛在叫他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56858.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "kuavacukucu a ’ukui na, hla kucu paitat ʉahl ʉ kalavungu, kucu m ʉm ʉa kupiatat ʉahl ʉ sala’a puaili.",
+          "chinese_text": "山羊吃飽了，但是他找不到牛，也找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56859.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "micalivia kana’ana matumuhlu cacal ʉa mamaini, hla matumuhlu mapikulusala’a, matumuhlu vatuvatu’u a mairahlua kana’ana kupaitat ʉahl ʉ salaisa puailisalia.",
+          "chinese_text": "他走過好多小丘，還有很多彎的路，上面有很多小石頭，但是他找不到回家的路。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56860.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "marukacu a ’ukui na, tumatatangicu a kana’ana.",
+          "chinese_text": "山羊迷路了，他大聲的哭著。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56861.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "tumimahla takaukau na tumatatangi, patukarahla ’ukui ka maruka.",
+          "chinese_text": "老鷹聽到了哭聲，發現了迷路的山羊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56862.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "sahlava takaukau ’ukui na mipihlihli langica, aunani ia taramahl ʉmahl ʉngicu a kana’ana.",
+          "chinese_text": "老鷹帶著山羊飛到了天上，這樣他可以看得很清楚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56863.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "tarat ʉahlicu a kana’ana taisa talasa, matukusua kalavungu na malial ʉal ʉp ʉ.",
+          "chinese_text": "他找到了那個很大的瀑布，牛在橋上揮手。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56864.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "mahlava kalavungu na matumuhlu rahl ʉng ʉ tavuhlu’u puaili, tamuucuu mavacang ʉ!",
+          "chinese_text": "牛帶了很多好吃的嫩葉回來，太好了！",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/4325/56865.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/60/14.jpg"
+        }
+      ]
+    }
+  ],
+  "source_urls": {
+    "info": "https://web.klokah.tw/pbc/book/index.php?id=60",
+    "online": "https://web.klokah.tw/pbc/book/online/index.php?id=60"
+  }
+}

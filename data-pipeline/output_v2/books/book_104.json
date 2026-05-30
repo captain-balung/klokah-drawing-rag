@@ -1,0 +1,2308 @@
+{
+  "id": 104,
+  "title": "漁網與太陽",
+  "illustrator": "藍琦雲",
+  "level": "中級",
+  "grammar_focus": "狀態動詞",
+  "summary": "很久以前天上有十個太陽，每天太陽將地面曬得滾燙，人們無法生活，先是派出了男人欲將太陽射下來，人們離開部落很久，太陽卻還是一直在天上。有一個小女孩巴奈想到了辦法要幫忙，卻被大家忽略，最後靠著口才說服大家，最後成功將太陽捕下來，大家得以正常的生活。繪本中太陽很熱、地板很燙等地敘述，練習狀態動詞的句型。",
+  "language_count": 16,
+  "available_languages": [
+    {
+      "lid": 1,
+      "name": "阿美語",
+      "page_count": 16
+    },
+    {
+      "lid": 2,
+      "name": "泰雅語",
+      "page_count": 16
+    },
+    {
+      "lid": 3,
+      "name": "賽夏語",
+      "page_count": 16
+    },
+    {
+      "lid": 4,
+      "name": "邵語",
+      "page_count": 16
+    },
+    {
+      "lid": 5,
+      "name": "賽德克語",
+      "page_count": 16
+    },
+    {
+      "lid": 6,
+      "name": "布農語",
+      "page_count": 16
+    },
+    {
+      "lid": 7,
+      "name": "排灣語",
+      "page_count": 16
+    },
+    {
+      "lid": 8,
+      "name": "魯凱語",
+      "page_count": 16
+    },
+    {
+      "lid": 9,
+      "name": "太魯閣語",
+      "page_count": 16
+    },
+    {
+      "lid": 10,
+      "name": "噶瑪蘭語",
+      "page_count": 16
+    },
+    {
+      "lid": 11,
+      "name": "鄒語",
+      "page_count": 16
+    },
+    {
+      "lid": 12,
+      "name": "卑南語",
+      "page_count": 16
+    },
+    {
+      "lid": 13,
+      "name": "雅美語",
+      "page_count": 16
+    },
+    {
+      "lid": 14,
+      "name": "撒奇萊雅語",
+      "page_count": 16
+    },
+    {
+      "lid": 15,
+      "name": "卡那卡那富語",
+      "page_count": 16
+    },
+    {
+      "lid": 16,
+      "name": "拉阿魯哇語",
+      "page_count": 16
+    }
+  ],
+  "page_count": 16,
+  "pages": [
+    {
+      "page_number": 1,
+      "chinese_text": "很久很久以前，天上有十個太陽。地面被太陽曬得很燙。",
+      "chinese_variants": [
+        {
+          "text": "很久很久以前，天上有十個太陽。大地被太陽曬得很燙。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "很久很久以前，天上有十個太陽，地面被太陽曬得很燙。",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/104/1.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Iti:ya ho matenesay to , moetep ko cidal no kakarayan , mapawali no cidal ko hekal safaedet sa a matarang .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194182.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "sraral mga, maki’ mawpu wagi’ nya’ sa babaw kayal. maymaw mkiluy balay babaw hiyal rngu’ mu’ na wagi’.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203498.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "ray kakhayza’an tomal, ray kawaS hayza’ lampez ka hahila:. rape: tiSngaengaehen naka hahila:.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204066.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "tu kahiwan, qali a fafaw ianan sa makthin a tilhaz. pruq patilhazin mathuaw matata.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204634.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Cbeyo cbeyo, meniq maxal hido ka karac. Kntlexan ba cbuwan hido ka bobo dheran.",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205202.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "masa habas daingazang dau hai , tupa tu aizadau idadaza dihanin cia vali tu mas’an. masmuava dalahin tu taisbahaisun daingaz .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205770.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "kasicuacuayan, izua a tapulu’ a ’adav i kalevelevan. maculju aravac azua a kadjunangan tua drinasiyan nua ’adav.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206338.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "maulaylaylaynga, ka belenge yakay ku mangeale ku vai. la kuvai kaculu kay kadaengane.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206906.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Sbiyaw bi, niqan maxal hidaw ka karat baraw. Kntlxan bi qnqan hidaw ka dxgal.",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207474.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "masang, yau Rabetin sezang ta deddanan. mammaq ti banangan Raysezang.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208042.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "ne na’no auyusi mosola maskʉ ’o hie ta pepe isi hicuveua to hie ’e ceoa .",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208610.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "a awatran driya, kadru a muketrep a kadaw i langitr. salaw bias na dare.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209178.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "no kakoa am , do angit amiyan o asangernan a araw . o teyrahem am nikavalangan a tey makoat .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209746.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "i sumamad, na cacay a bataan ku cilal i tapuku. akuti’ satu ku lala’ mapacilal.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210314.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "miaa miana miana miana. ’una umaan taniarʉ na kakangca.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210882.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "kiariari , maru mahlʉ tahliaria malangica , pasahlikua tahliariana tam macici .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211450.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "chinese_text": "農田乾枯，農作物枯萎，人們沒有辦法生活。",
+      "chinese_variants": [],
+      "image_url": "https://web.klokah.tw/pbc/book/104/2.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Makedal to ko omah , mafa’il to ko pinaloma , awa to ko pakayraan a ma’orip no tamdamdaw .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194183.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "mtkzyay balay qqmayah. mkzyay kwara’ pinbahu. maymaw ini’ kbaq mqyanux kwara’ Tayal.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203499.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "pinatiyay ’ae:’ae:iw, pinamowa’ hayayo’, ma’iyaeh ’aewhay ila ka kin’i’iyaeh.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204067.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "ripnu shiqalhiwiza, pinalhalhuiza mabairiza, thau mathuaw mararabaza ya ininthawan.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204635.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mnddengu ka yqeyaq, mhuqil kana ka pnhmaan. Uka ba bbrahan kkdesun seediq peni.",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205203.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "huma hai matu busluk amin maza sinsusuaz hai matulaizu amin bunun hai mihdi daingaza nii’in haiap tu namikua mihumis .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205771.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "azua a ’uma mincelakanga, malaycanga a ’inuman, iniangaka makaya a marekacawcau a kipakakuda.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206339.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay takauaungane laka mealenga, kikay tapaumanemanane kay taleke laka lraicinga, kay laumaumase la kai pikakua cekecekele.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206907.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Mdngu ka qmpahan, embasur ka pnegalang, ungat bi ka skeudus seejiq.",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207475.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "meluqitqit ti zenna, melaylay ti ni paluluman. mai ti tu saqabinnusan lazat.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208043.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "micu keolo ’o papai , somiʉ ’o heʉm’ʉ , ’anamo meelʉ seikacu ’o yatatiskova .",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208611.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "batrekar na umauma. mabiyar na sinaleman. salaw kakuwallengan tu inuwabaawan dra trau.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209179.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "ya maci o akawan， maayo o ni mowamowa , ma komoan saon pimimasaodan o tao .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209747.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "maacak tu ku umah, mabadi’ tu ku nipaluma, a hicaen nu tademaw mauzip.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210315.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "manaakarʉ ’umoo’uma. masamʉrʉ nimʉmʉka. muru’inasʉ cau siacʉvʉrʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210883.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "araparapa hlipatuaiailia , hlilʉmʉlʉmʉka aranganʉ , uka’a sitahlamiamia cucu’u mangusipi .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211451.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "chinese_text": "阿美族的男人們，決定要去把太陽射下來。",
+      "chinese_variants": [
+        {
+          "text": "鄒族的男人們，決定要去把太陽射下來。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/104/3.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "O fa’ina’inayan no Pangcah , niketon to masasowal tayra mipana’ to cidal .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194184.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "mmlikuy kwara’ na Amis ga, san nha’ smbu’ qu wagi’ lma.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203500.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "Say ’amiS kamamanra:an lasiya, maehraehrang ’am rima’ manae’ ka hahila:.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204068.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Amiis a ayuzi, piazithuiza apanaq sa tilhaz panapruq.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204636.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Rrrseno Amecu, mhedu kari mpcebu ptuting hido.",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205204.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "Amis tu mabananaz hai miliskin tu nakudip manah mas vali cia .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205772.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "pay azua a se’amizuku a u’alja’aljay penenetj tu uri pana’in azua a ’adav.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206340.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Amis kay lasawvalay, la ikay ku kidremedremelini ilala tapua lraily pulebe pana ki vai.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206908.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Dsnaw seejiq Sbnawan, muda pnrngagan mowsa smbu hidaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207476.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "meRunanay na kizaya meniz, semanu ti tu qatiw pa pemani tu sezangn.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208044.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "’o haahocngʉ ta coozoku tehe akoevano snopeoha ’o hie .",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208612.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "tu mainayan kana Amis i, kemuret dra aukayan penanaa kana kadaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209180.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "tao do aimss a mahakey am , tongonongi da tokzosan o araw .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209748.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "u tatama nu Pangcah, pabalucu’ tu a mipana’ tu cilal.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210316.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "pacʉpʉngʉ sasarunai Amis. tia kani pana’ʉn taniarʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210884.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "hlahlahlusa tahlana amiruku , patʉtʉrʉ musa kuricapi tahliria .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211452.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "chinese_text": "有一個小女孩Panay也想跟大家一起去。",
+      "chinese_variants": [
+        {
+          "text": "有一個小女孩panay也想跟大家一起去。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            },
+            {
+              "lid": 7,
+              "name": "排灣語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "有一個小女孩Panai也想跟大家一起去。",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            },
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "有一個小女孩Yukit也想跟大家一起去。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "有一個小女孩paicʉ也想跟大家一起去。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "有一個小女孩Panay，也想跟大家一起去。",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "有一個小女孩Panayi也想跟大家一起去。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "有一個小女孩panai也想跟大家一起去。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/104/4.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Ira ko cecay fafahiyan a wawa ci Panay cifaloco’ sapitooran to ’alomanay malacafay a tayra .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194185.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kya qutux laqi’ knayril Panay. smawya’ musa’ gmluw kwara’ lhga’ musa’.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203501.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "hayza’ ’aehae’ kabina:o’ hi panay ma’ yakina kil saeboeh rima’.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204069.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "ianan sa binanau’az a azazak Panai miku untal pashtay mutantu.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204637.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Niqal kingal laqi mqedil, Panay mksnegul dheya musa duri.",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205205.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "aiza tacini uvaz pingaz tupaun tu Panai asa amin malavi naicia kudip .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205773.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "manu izua aza a kakedriyan a vavayan a ti panay, kivalj uta tu kiayan.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206341.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "yakay ku tangea ku siaPanay ku vavalake ka ababay, mialri apiatupapalra karedele ki mapapangale.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206909.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Mkmtqnay kana seejiq ka kingal laqi kuyuh Panay uri.",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207477.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "yau paqenanem sunis tazungan ti yukit ngid qasulun tu mazemun matiw.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208045.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "mo cihi ’o paicʉ ci okono mamespingi mo mici fiha tomo botngonʉ .",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208613.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "kadru a misasa a babayan. i Panay tu ngalad. maranger kurenang.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209181.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "asa mavakes si panay am ya macyangey macihera jira .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209749.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "cacay a tatayna ci Panay maydih ciniza a tayza mipana’ tu cilal.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210317.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "’una tacini manu nanakʉ Panayi kisʉʉn. tia kani kipapa misee.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210885.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "maru cacihli mamaini ahlaina panai tumua mualʉvʉ .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211453.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "chinese_text": "男人們哈哈大笑地說，妳的個子又瘦又小，在家裡煮飯等我們回來就好。",
+      "chinese_variants": [],
+      "image_url": "https://web.klokah.tw/pbc/book/104/5.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Tatawa sa ko fa’ina’inayan a somowal , miming ma’okak aca kiso , itini to i loma’ mitangtang to hemay tala sa tamiyanan minokay manga’ay to .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194186.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "msyaq kwara’ mmlikuy mha, cikuy su’ ru mhikang su’ iyal. si sami n_ga ngasal phapuy la.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203502.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "kamamanra:an lasiya sawa’ komSa’, So’o kin bali’ o ’ol’olae’an, ray taew’an talek ka pazay ’ayna:a’ ’iyami lobih kayzaeh ila.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204070.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "ayuzi mathathawa mzai, mashikalindish sa mihu a buut, kitaun pit’ia shduuiza ya mitalha yamin mutaun.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204638.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Phlisan rrseno mesa, yxeyux llebu ka hnyegan su, prai ido sapah hini tmara yami meyah maha malu bale wa!",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205206.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "mabananaz hai makinpataz mahahainan tupa tu ;isu lut buan hai kaumaikit tu matukulaz kadaza kasu ilumah cIna   mapit ia   mapastala zami mas haising tu nakaunun .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205774.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "pedjeli azua a marekau’alja’aljay, aicu a su kinakemudan a drikidrikitj saka kuljakuljay, ka iyuma’u a kemesa a takaljava tjanuamen.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206342.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "ala kay lasawvalay la mulralrakay iniane, kusu marilaysu laka tikianesu, ikayya tavanane agaaga si ukalavalava naiyane ka maesaesay.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206910.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Triring mhulis ka dsnaw ni rmngaw, eawing bi ni liwang bi ka hnigan su, asi eniq ruwan sapah mhapuy taga nyahan nami ka isu da.",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207478.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "metatawa ti meRunanay semanu, qiwat isu kitut qaya, qazi ka ta leppawan sammay melana timaimian temanan nengi ti.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208046.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "ihe tuk’ek’evi to haahocngʉ ho yainca miko cʉecʉ ho kʉehoi ’atekoc’o yanta emoo ho pei’i ho totea a’mia .",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208614.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "tu kasaeruway kana mainayan dra, “idriidriwan yu aw makiteng yu. kadru i ruma maresiyuk mengara kaniyam.” tu kayaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209182.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "da kamingan no aroa mahakey koan dam , ka likey ya magolang pa , tokangyan do vahay ta manotong ka nanalahen mo yamen moli .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209750.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "ha ha ha sa amin ku tatama a matawa hini satu, kakupit adidi aca kisu, ka i luma’ kisu misahemay mihalhal tu nikataluma’ niyam.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210318.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "maacaca sasarunai makasi, ta’uici ti’ingai kasu. moon na tanasa kasu po’ucipi maritarʉ kimia misee.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210886.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "macacaa hlahlahlusa mii , mikasʉkasiu hla mirihli , maru salia pahlalangʉia tuahlisacu .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211454.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "chinese_text": "Panay說，我雖然沒有男人強壯，但是聰明又勤勞，讓我一起去吧。",
+      "chinese_variants": [
+        {
+          "text": "panay說，我雖然沒有男人強壯，但是聰明又勤勞，讓我一起去吧。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            },
+            {
+              "lid": 7,
+              "name": "排灣語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Panai說，我雖然沒有男人強壯，但是聰明又勤勞，讓我一起去吧。",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            },
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "Yukit說，我雖然沒有男人強壯，但是聰明又勤勞，讓我一起去吧。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "paicʉ說，我雖然沒有男人強壯，但是聰明又勤勞，讓我一起去吧。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Panay說，我雖然沒有男人強壯，但是聰明又勤勞，讓我一起去吧！",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Panayi說，我雖然沒有男人強壯，但是聰明又勤勞，讓我一起去吧。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "panai說，我雖然沒有男人強壯，但是聰明又勤勞，讓我一起去吧。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/104/6.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Pananay , ano caeca kalecad matiya o fa’inayan a tanohetoh kako , nika malalok citaneng kako , patayraen kako malacafay a tayra .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194187.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Panay mha, ana saku’ ini’ k_yan mmlikuy kinlawkah ga, qngzyat saku’ ru mthaylaw saku’. nway saku’ gmluw simu musa’ ku.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203503.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "panay komSa’, yako ’ana ’okik nak kamamanra:an kin wa’isan, ’oka’ ila yako makakreng o kayzaeh ka tae’oeloeh, papa’onhael ’iyakin.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204071.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Panai mzai, sharaqian uka yaku tu makushwit ya mat ayuzi, kanuniza mathuaw ma’ania numa makarishkish, untaluan yaku ya amutantu.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204639.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mesa ka Panay, ani ku naq ini pntena rseno knkere, ani si malu ku tunux, ma kndrumuc ku bale duri. Adis ku musa namu kini.",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205207.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa Panai tu anatupa saikin tu nitu sika mabananaz tu kaihatban haitu mataiklas saikin at makaskas adasav amin saikin kudip .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205775.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "inika aken a namaya tjanumun a u’alja’aljay a nagamel, ljakua puvarung aken saka madawdav aken, pay pakiyani aken.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206343.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Panay la iya kay, unu kainaku maramau ki sawvalay kagarange, ai malrigilaku la kagetemaku, patupalraili karedele.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206911.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Panay, ana ku ini ksaw snaw mmanang, kiya ka kiya ni tgkla ku bi ni mdrumut ku bi uri, ptqnayi ku musa wa.",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207479.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti yukit, mai iku azu tu Runanay bakes, wanayka mesanem malemes, sulul iku masulun matiw.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208047.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca to paicʉ e’vono o’ami’o mais’a tonʉ no haahocngʉ， mi’o mau’to“tohʉngʉ ho tvaezoya temu’so poa fiho na a’o",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208615.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "kemadri i Panay, “adri ku kamawan dra mainayan marukedrang. amawna, salaw ku inaba dra tranguru aw raemetr ku. pillangu ku a!” kema.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209183.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan na ni panay am tana abo so mahakay a maowyat am , ko mateneng kano mowyat pa , to nio tovoing yaken macilolo an .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209751.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu satu ci Panay, anu cacaay kaku kahiza amu u tatama kakizemu, nika sitangah sikawaw aca kaku, maladay kita tayza.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210319.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Panayi, ’apaco’e ka’anʉ ku mintasʉ, nakai mamacʉrang mataa tamu’iarʉ ku. tia ku kipapa.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210887.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "umalivalʉa panaina , maniaku mainia , maliahlʉaku hla tama’iarʉ , apiliviuaku .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211455.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "chinese_text": "男人們還是不讓Panay一起去，Panay就留在部落跟女人們一起生活。",
+      "chinese_variants": [
+        {
+          "text": "男人們還是不讓panay一起去，panay就留在部落跟女人們一起生活。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "男人們還是不讓Panai奈一起去，Panai就留在部落跟女人們一起生活。",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "男人們還是不讓Panai一起去，Panai就留在部落跟女人們一起生活。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "男人們還是不讓巴奈一起去，panay就留在部落跟女人們一起生活。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "男人們還是不讓Yukit一起去，Yukit就留在部落跟女人們一起生活。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "男人們還是不讓paicʉ一起去，paicʉ就留在部落跟女人們一起生活。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "男人們還是不讓Panayi一起去，Panayi就留在部落跟女人們一起生活。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "男人們還是不讓panai一起去，panai就留在部落跟女人們一起生活。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/104/7.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Caayay patayraen no fa’ina’inayan ci Panay a malacafay tayra , siday sato i niyaro’ ato fafahiyahiyan malacafay a ma’orip .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194188.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "ini’ nha’ psa’ gmluw qu Panay. si kaki’ ngasal gmluw mqyanux sa qalang sa kknayril.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203504.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "kamamanra:an lasiya ma’ kayni’ SitaniSowaw, panay ’isa: kil ’aroma’ minkoringan honay ’asang.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204072.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "ayuzi miaqawan antu mashashduu Panai miasuun mutantu.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204640.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Ini ba srwai maadis Panay ka rrseno. Kika suupu mmqedil meniq alang ka Panay di.",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205208.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "mabananaz hai nitu madas panaicia kudip maza Panai hai sukdu sia asang lumah cia muskun mas maluspingaz kuzakuza mihumis .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205776.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "inika pinakiyan ti panay nua u’alja’aljay, kitawla ti panay i ’inaljan katua zuam a vavayavayan.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206344.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay lasawvalay la kai makapalrayngi ki Panay patupalra, kay Panay la isuru ikay cekele taelre ki laababay cekecekele.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206912.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Ida ini srwai dsnaw mseupu musa ka Panay, asi stguhuy dkuyuh mniq alang ka Panay da.",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207480.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "qawqawman mai sululan na meRunanay ti yukit masulun matiw, mesubulin ti ti yukit ta damuan matapun tu meniz tazungan.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208048.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "o’aihe h’unano poa fiho ’o paicʉ micuc’o no’upu tamo yonta hosa ci maamesingi ho seikacu ’o yangui .",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208616.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "adri muwai pakurenang kan Panay na mainayan. i Panay i, mubilin i drekall kurekasa dra bayabayan kikarun.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209184.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "da raten no aroa mahakay si panay macilolo a macyangay jira , na ka tongyan do ili pimimasaodan do aroa mavakes .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209752.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "makai’ amin ku tatama miladay ci Panayan, i niyazu’ satu ci Panay a mauzip.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210320.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "ka’anʉ pakituru sasarunai. iimua moon cu na tanasa Panayi. arakukunu cucumeni nanakʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210888.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "hlahlahlusana mairahlu kuapualʉvʉisana , marucua panaina miararuma pasaʉlʉsʉ ahlahlaina mangusipi .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211456.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "chinese_text": "每天的天氣都很熱，Panay經常到河邊捕魚，在水裡比較不熱。",
+      "chinese_variants": [
+        {
+          "text": "每天的天氣都很熱，巴奈經常到河邊捕魚，在水裡比較不熱。",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            },
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "每天的天氣都很熱，panay經常到河邊捕魚，在水裡比較不熱。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            },
+            {
+              "lid": 7,
+              "name": "排灣語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "每天的天氣都很熱，Panai經常到河邊捕魚，在水裡比較不熱。",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            },
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "每天的天氣都很熱，Yukit經常到河邊捕魚，在水裡比較不熱。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "每天的天氣都很熱，paicʉ經常到河邊捕魚，在水裡比較不熱。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "每天的天氣都很熱，Panayi經常到河邊捕魚，在水裡比較不熱。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "每天的天氣都很熱，panai經常到河邊捕魚，在水裡比較不熱。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/104/8.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Tadafaedet ko romi’ad to romi’ami’ad , pararid sa tala’alo mifoting ci Pananay , nawhan caayay kafae:det itira i cinanomay .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194189.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "mkilux kayal nya’ krryax. lawkah musa’ llyung psabu’ qulih qu Panay. yalaw gi ini’ kkilux maki’ qsahuy qsya’ hiya’.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203505.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "kawaS sa’sa’ih ka hahila: kin rikrika:, panay rengreng rima’ ba:la’ toma:oS ka ’aelaw, ray ralom ’izo’ kayzaeh ’okik rikrika:.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204073.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "tatata wa qali mathuaw mahnar, Panai miarain mututusi falhaza smapuk sa rusaw, isai sazum a itmaz antu la mahnar.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204641.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Aliali kntlexan ba ka karac, musa mangal qcurux yayung klaali ka Panay, ini hari ktilux ka meniq qsiya truma.",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205209.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "kaupahanian masmuav tu mabahis daingaz panai hai kaupakaupa kusia vahlas matiskan mais ingadah danum hai makanitu maklang .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205777.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "zalangezang sakamaya a kina’adavan a palalaut, saka rusapana ti panay a kici’av, tjainika zalangezang nu i taladj tua zaljum.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206345.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "lukakayya maculu kay vai, kay Panay laka taramuamua ki drakerale tukange, lu ikay ki taaciladhane la kai kadralrangedrange.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206913.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Kntlxan bi kdjiyax ka karat, musa tmqsurux siyaw yayung kdjiyax ka Panay, ini hari ktalux ka ska qsiya.",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207481.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "pitemawaR mammaq ya deddan, pataz matiw sa iRuR ti yukit Raybaut, ta zanuman mai ma mammaq.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208049.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "la huhucmasi na’no mu’ei , la siho uhto c’oeha ’o paicʉ ho ea yoskʉ , o’amo angu mu’ei homo yonto chumu .",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208617.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "salaw bias na wawariwari driya. marayas muka i laliyaban kikurawa i Panay. adri bias kana enay i sabak.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209185.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "mangdey so araraw ya mannget o kakawan , ya mangangey si panay do ayo mangaaap so among , ta marekmeh pa do ranom .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209753.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "akuti’ ku demidemiad. hina tayza i sauwac ci Panay mibuting, caay kaakuti’ i nanum.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210321.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "tantaniara macici. paira parivutuukuru Panayi, sii maraa ka’anʉ macici na canumu.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210889.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "ariaria langica macici , karʉkʉhlʉa panaina mahlukua sakʉrahlʉ parivutukuhlu , maci mʉrʉcʉ sahlumuna kumacici .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211457.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "chinese_text": "過了很久，男人們走到了很遠的地方，但是仍然無法射下太陽。",
+      "chinese_variants": [
+        {
+          "text": "過了很多天，男人們走到了很遠的地方，但是仍然無法射下太陽。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/104/9.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Mate:nes to , tahira to ira:ay a pala koya fa’ina’inayan , nika caayay ho pakapana’ toya cidal .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194190.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "bsyaq lga, wal tay twahiq balay qu mmlikuy. ana yan nasa ga, ini’ nha’ baqi smbu’ na’ wagi’.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203506.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "honaehnge: ila nanaw, kamamanra:an lasiya manra:an ra:waS ila, ’oka’ ila ka kahila: ’oka’ nanaw ’i paShae:ae’i:.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204074.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "mingqarayiza, ayuzi mundadaan munhazish, kanuniza miaqawan antu shduu panaq sa tilhaz panapruq.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204642.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Qbsyaqn ba nsaan di, knthyaan ba ka knksaan na di rseno. Ani si uka ba bbrahan ccbuwan ka hido.",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205210.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "mailbuntu in tu aipaipincin hai maza mabananaza hai iskadahvianin tu dalah haitu maldauk naia tu nitu mahtu upanahan mas valicia .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205778.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "cuacuayanga a cinalivatan, cadanga a dinavacan nua u’alja’aljay, ljakua iniananka pana’in a ’adav.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206346.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "la kaulaynga ku tangilribatane, kay lasawvalay mua adailinga ku tadadavacanelini. ai kaiyana makawatumane pulebe pana ki vai.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206914.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Mnbsiyaq bi do, dhiyaq bi ka dhqan dsnaw, kiya ka kiya ni ida dha ini bui ka hidaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207482.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "melaziw ti tu utatani deddanan, medaud ti nisaqay na meRunanay, wanayka qawqawman mai mapani ya sezang.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208050.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "micu ’aʉnpʉnp noana’o na’nocu emomcovhi ’o haahocngʉ at’inghi o’aihe h’unano peela snopeoha ’o hie",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208618.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "paetreng lla. meredek lla i dawill na mainayan. amawna, adri pakapana kana kadaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209186.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "mahey rana , marai o da ni alaman no aroa mahakay , am da jia tokzosan pa o araw .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209754.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "matenes tu, mabatad tu ku culil nu tatama, nika caay henay kapana’ ku cilal.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210322.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "miaranau cu taniara. ’acuu araceni sasarunai. nakai koo pa mupana’ʉ taniarʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210890.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "rahluua , hlahlahlusana mumasaihlacu , manikia kukuriatʉahlʉ tahliaria .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211458.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "chinese_text": "天上還是一樣有十個太陽，每天都很熱。",
+      "chinese_variants": [],
+      "image_url": "https://web.klokah.tw/pbc/book/104/10.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Matiya ho ira ho koya moetepay a cidal i kakarayan , wata kafaedet to romi’ami’ad .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194191.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "mawpu wagi’ nya’ na’ qu babaw kayal. mkilux kayal nya’ krryax na’.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203507.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "ray kawaS ka hahila: lampez haysiya, sa’sa’ih ka hahila: rikrika: atomalan.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204075.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "qali a fafaw miaqawan tataal inianan sa makthin a tilhaz, mathuaw mahnar ya tatata wa qali.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204643.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Ado naq kihi maxal ka hido ga karac, aliali kntlexan ba ba bale peni.",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205211.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "idadaza dihanin hai maldauk tu mas’an a vali kaupahanian mabahis daingaz .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205779.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "kamayananan a tapulu’ a ’adav i kalevelevan, zalangezang aravac a kina’adavan.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206347.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay belenge laka sadalranana ka mangeale ka vai, lukakayya takaculuane.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206915.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Ida maxal ka hidaw karat baraw, kntlxan bi kdjiyax。",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207483.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "ta deddanan qawqawman yau Rabetin ya sezang, pitemawaR mammaq.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208051.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "mioc’on’a maskʉ ’o hie ne pepe , huhumasi na’no mu’ei .",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208619.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "maumau driya na muketrep na kadaw i langitr. bias na wawariwari driya.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209187.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "ya amiyan pa o asangernan a araw do angit , mangdey so araw a ya matdong .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209755.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "cacay a bataan henay ku cilal i tapuku, akuti’ henay ku demiad.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210323.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "’una pa umaan taniarʉ na kakangca. tantaniara macici.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210891.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "mulavaʉ langica mahlʉ tahliaria , tam macici .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211459.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "chinese_text": "Panay說，男人們沒辦法射下太陽，現在應該換我們女人去了。",
+      "chinese_variants": [
+        {
+          "text": "panay說，男人們沒辦法射下太陽，現在應該換我們女人去了。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            },
+            {
+              "lid": 7,
+              "name": "排灣語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Panai說，男人們沒辦法射下太陽，現在應該換我們女人去了。",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            },
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "Yukit說，男人們沒辦法射下太陽，現在應該換我們女人去了。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "paicʉ說，男人們沒辦法射下太陽，現在應該換我們女人去了。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Panayi說，男人們沒辦法射下太陽，現在應該換我們女人去了。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "panai說，男人們沒辦法射下太陽，現在應該換我們女人去了。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/104/11.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Panay , caayay pakataesel to cidal ko fa’ina’inayan , falicen kami o fafahiyan tatayra anini saan .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194192.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Panay mha, ini’ thzyazi mu’ na mmlikuy lga, nway knayril musa’ la.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203508.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "panay komSa’, kamamanra:an lasiya ’oka’ nanaw paShae:ae’ ka hahila:, ’isahini yami ila ka minkoring ta’oSa’.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204076.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Panai mzai, ayuzi antu shduu panaq sa tilhaz panapruq, shduuiza ita’uan binanau’az mutantu.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204644.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo ka Panay, uka ba bbrahan daha cmebu hido ka rrseno. Saya pryuxe ta ita mmqedi musa da!",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205212.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupaPanai tu nia mabananaz a mahtu upanahan mas vali at na lauvaivan mamita tu maluspingaz kudip .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205780.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "azua a u’alja’aljay inika makapana’ tua ’adav, titjenayanga a vavayavayan. aya ti panay.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206348.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Panay la iya kay, kai makawadulru kay lasawvalay pulebe ki vai, kayasasane nayubalrithinganai ka laabaybay katwase mua.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206916.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Panay, ini dhuq smbu hidaw ka dsnaw do, naa ita dkuyuh ka mririh musa sayang da。",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207484.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti yukit, Rayngu mapani na meRunanay ya sezang, tangi aita pa ti tazungan meliway matiw.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208052.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca to paicʉ ho o’aihe no peela snopeoha ta haahocngʉ si hie ’ateno auska poa usneni ta maamespingi .",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208620.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "kemadri i Panay, “adri pakapana kana kadaw na mainayan. garem i, tayta na babayan na auka lla.”",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209188.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan na ni panay am , da jiapaltog o araw no aroa mahakay , ala papaliten tamo no mavakes sira .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209756.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu satu ci Panay, caay kapana’ nu tatama ku cilal, a ita tu u tatayna ku tayzaay mipana’.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210324.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Panayi, koo sucukʉna sasarunai. tia cu naannakʉ puiri muukusa ’inia.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210892.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla panaina , kupisitahlamiamia hlahlahlusa kuricapi tahliariana , mairahlucua ahlahlainahlamu musa .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211460.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "chinese_text": "大家問她，妳那麼瘦小，要怎麼射太陽呢？",
+      "chinese_variants": [],
+      "image_url": "https://web.klokah.tw/pbc/book/104/12.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Licay han no ’alomanay cingra , matira miming ma’okak kiso , samanen no miso mipana’ sao ?",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194193.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "pqutan nha’ kwara’ hiya’ mha, mhikang ru cikuy su’ iyal. kbaq su’ mu’ wagi’ ga？",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203509.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "saeboeh somingozaw hisiya, So’o kin ’ol’olae’an, ’am nak’ino’ manae’ ka hahila:?",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204077.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "pashtay makikalhi thithu, mashikalindish ihu, amiakuza panaq sa tilhaz?",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204645.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Smiling heya kana ka seediq, \"So nii su knllebu yexeyux qnbbiciq, phuwa su pkesa musa cmebu hido ha?\"",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205213.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "masantupa amin saicia tu iskaupatan kasu tankuisaz namakua kasu na mahtu manah mas valicia .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205781.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "cuni sa su kinakedriyan, uri kemuda sun a penana’ tua ’adav? aya kivada a mapuljat tjaimadju.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206349.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay mapapangale la kivaga iniane, kay marilaysu sika tikianesu, lrimakatumanesu pana ki vai?",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206917.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Smiling hyaan ka kana seejiq, saw su eawing liwang, emphuya msa smbu hidaw hug?",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207485.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu mazemun timaizipana, kitut qiwat isu, naqunian su pa pemani ya sezang?",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208053.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "ihe toehunga tuocosi misu maica ci hia kʉehoi ma teko no yainenu ho snopeoha ’o hie？",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208621.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "tu kiyumallay dra trau i Panay dra, idriidriwan aw makiteng yu. kakakuda yu penana kana kadaw?",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209189.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "da pacicing si panay , ka magolang ya alikey am , makongo ka so anjing tokzosen o araw ya ？",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209757.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "tengilen nu katuuday ciniza, makupit adidi kisu, ahicaen mipana’ ku cilal saw?",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210325.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "kacaua kesoni ’inia. ti’ingai kasu, tia makananu mupana’ʉ taniarʉ?",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210893.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "rianʉa cucu amisana , tiarau maini hla mirihli aunini kuricapi tahliaria .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211461.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "chinese_text": "Panay說，男人會射箭，而我們女人會編織，我們可以編一個很大的魚網，將太陽捕下來。",
+      "chinese_variants": [
+        {
+          "text": "panay說，男人會射箭，而我們女人會編織，我們可以編一個很大的魚網，將太陽捕下來。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            },
+            {
+              "lid": 7,
+              "name": "排灣語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Panai說，男人會射箭，而我們女人會編織，我們可以編一個很大的魚網，將太陽捕下來。",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            },
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "Yukit說，男人會射箭，而我們女人會編織，我們可以編一個很大的魚網，將太陽捕下來。",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "paicʉ說，男人會射箭，而我們女人會編織，我們可以編一個很大的魚網，將太陽捕下來。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Panay說：「男人會射箭，而我們女人會編織，我們可以編一個很大的魚網，將太陽捕下來。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Panayi說，男人會射箭，而我們女人會編織，我們可以編一個很大的魚網，將太陽捕下來。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "panai說，男人會射箭，而我們女人會編織，我們可以編一個很大的魚網，將太陽捕下來。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/104/13.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Panay , mafana’ ko fa’inayan mipana’ , nika kami o fafahiyan mafana’ mikawit , manga’ay niyam mikawit to kakahaday a salil , pasalil han niyam ko cidal sa .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194194.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Panay mha, baq smbu’ mlikuy hiya’. baq sami tminun knayril hiya’. cinun sami qutux krahu’ iyal na kari’ psabu’ qulih. psbwaw myan wagi’.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203510.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "panay komSa’, kamamanra:an ra:am manae’, yami minkoringan ra:am tomnon, yami kayzaeh tomnon ’aehae’ ’ima sobae:oeh ka ’ami’, ’alhae:ae’ ka hahila:",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204078.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Panai mzai, ayuzi mafazaq kmulhpazishan, numa yamin binanau’az mafazaq tunuun, shduu yamin tunuun sa mara’in a dawaz, amasapuk sa tilhaz.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204646.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mesa mrengo ka Panay. \"Mtluhe cmebu budi ka rrseno, ma ita mmqedil mtluhe ta tminun ka ita. Stuno ta kingal kadi qcurux paru, pkdiyun ta hido.",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205214.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa Panai tu mabananaz hai haiap manah ,kata maluspingaz hai haiap macindun mahtu kata macindun mas vavukuldaingaz at tavukulun aminvali a .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205782.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "maca’u a penana’ a u’alja’aljay, ’aw titjen a vavayavayan maca’u itjen a teme’ic, makaya itjen a teme’ic tua kudrakudral a ’ami, sa tja ’ami a pasateku. aya ti panay.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206350.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Panay la iya kay, malrigili lraily kay lasawvalay, ai kunai ka laabaybay malrigilinai tinunu. lridulrunai tutinunu ku maadraw ku aray, si aray pulebe ki vai.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206918.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Panay, mkla smbu buji ka snaw, kiya ni mkla bi tminun ka ita kuyuh, tduwa ta tminun kingal paru kaji srahug qsurux, srhugi ta ka hidaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207486.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti yukit, meRunanay suppaR pemani, aita tazungan suppaR tumnun, qanengi ita tumnun tu ussiq Raya ay salil na baut, salilan ta pa qemapaR ya sezang.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208054.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca to paicʉ la meelʉ totʉ’sʉ ’o haahocngʉ i’e maamespingi lamia meelʉ mooyai yʉteʉ ’a temia no mooyai note meoi no yoi no eayoskʉ ho tofeʉ’si ho epeohi si hie",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208622.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "kemadri i Panay, “saigu penana a mainayan. tayta na babayan i, saigu ta meleutr. meleutra ta dra matrina dra tabukull. ta tabukullaw na kadaw.” kema.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209190.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan na ni panay , sia mateneng mitokzos o mahakay , am tamo mavakes ya matenen manaod , pakapia en tamo o asa ka arakoa tawaz , ka tawaz tamo so araw .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209758.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu sa ci Panay, mipana’ ku tatama, mitenun kita u tatayna tu tabakiay a salil, tabukuden ita ku cilal.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210326.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Panayi, tavara’ʉ sarunai purasini. tavara’ʉ nanakʉ tumata’isi. tia kim tumata’isi tatia sapuarʉ, mariu’u taniarʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210894.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla panaina , macahliana hlahlusa kurivuru , ihlahlamu ahlahlaina macahlia turarapuru , tuahlʉamu tumamahlʉngʉ taisa sapuarʉ .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211462.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "chinese_text": "於是，部落裡的女人們編織了一個很大很大的魚網。",
+      "chinese_variants": [
+        {
+          "text": "於是，部落裡的女人們，編織了一個很大很大的魚網。",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/104/14.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Orasaka , mikawit to ko fafahiyahiyan no niyaro’ to kakaha:day tata’akay a salil .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194195.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "nanu’ yasa. kbalay qutux krahu’ balay na kari’ psabu’ nha’ qulih qu qalang kknayril.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203511.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’isa:, Say ’asang ka minkoringan lasiya tomnon ’aehae’ ’ima sopaloy ka ’ami’.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204079.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "tu minqaraiza, kataunan a binanau’az tinunuuniza sa tata wa mathuaw mara’in a dawaz.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204647.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Kika mmqedil tnalang tminun kingal knpruwan kadi qcurux.",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205215.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tuzatu maza tastu asang maluspingaz hai macindumas vavukul daingaz .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205783.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "pay, teme’ic azua a i ’inaljan a vavayavayan tua kudrakudral a ’ami.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206351.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "saiyanga kuini, kay laababay ki sakacekele la tutinununga ku maadraadraadraw ku aray.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206919.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Kiya ni, tminun kingal paru bi kaji srahug qsurux ka dkuyuh kska alang.",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207487.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "unay, ta damuan ay tazungan tumnun ti tu ussiq Raya Raya ay salil na baut.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208055.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "i’o maamespingi to hosa micu mooyai tomo na’no meoisi ci yoi no yoshʉ .",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208623.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "aw meleutr dra matrina dra tabukull na bayabayan i drekall.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209191.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "am ori o aroa mavakes sia ni manaod so arakoa tawaz .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209759.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "mahinisa, u tatayna nu niyazu’ mitenun tu tabakiay a salil.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210327.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasua cu, ’esi na puraku naannakʉ tumata’isi nguani tatia sapuarʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210895.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "ulavaisaia , ahlahlaina miararuma tumamahlʉngʉ ucani taiisa sapuarʉ .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211463.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "chinese_text": "她們用魚網將七個太陽捕下來，第八個太陽變成月亮，第九個太陽炸開變成天上的星星。",
+      "chinese_variants": [
+        {
+          "text": "她們用魚網將七個太陽捕下來，第八個太陽變成月亮，第九個<br />\n太陽炸開變成天上的星星。",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/104/15.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "O salil ko sapisalil nangra tora pitoay a cidal , oya sakafalo a cidal malafolad , o sakasiwa a cidal mafetas malafo’is to no kakarayan .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194196.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "s’agal nha’ mpitu’ kari’ psabu’ nha qulih. mucing tay mspat wagi’ lga, wal m’byacing qu wagi’ la. tay mqiru’ wagi’ lga, wal mbka’ qu wagi’ ru wal m’bzngah kayal la.",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203512.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "lasiya ’anoka ’ami’ malhae:ae’ SayboSi:o’aehae’ ka hahila:, minay maykaSpat hahila: ma: ka ’ilaS, minay hae’hae’ ka hahila: mobsoeh ma: ka bintoe’an ila.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204080.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "thaythuy pasain dawaz sinapukiza sa pitu a tilhaz, makashpashpat a tilhaz minfuraz, makatanathu a furaz fthiqiza minkilhpuziza isa qali a fafaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204648.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Wada daha qrapun ka mpitu hido, ngalan pryuxan idas ka hido snpegan mmsepac, preqan daha mgpngerah karac baro ka snpegan mngari hido di.",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205216.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "kunian naicia vavukul daingaz matavukul a takupitu tu vali a tasmaivau a vali hai minunimas buan tasmasiva vali hai taipuszakun cinvasvas minuni mas idadaza dihanin tu bintuhan .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205784.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "sema’ami a malap tua pitju a ’adav a pasateku tiamadju, azua a sikamasanvalulj a ’adav masan’iljasanga, ’aw azua a sikamasansivalj a ’adav na bakuhac saka masanvitju’an i kalevelevan.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206352.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kuini laabaybay la arakay ku aray pulebe ku pitu ku vai, ala kuidra muasakavalru ka vai la akabalrithinga adramare, kuidra muasakabangate ka vai la tutatha mauvagavagy sika amaninga kuidra yabelenge ka tariau.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206920.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Dmuuy srahug qsurux smrahug empitu hidaw ka dhiya, wada maa idas ka tg8 hidaw, wada mspruq ni maa pngrah karat baraw ka tg9 hidaw。",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207488.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "salilan na qaniyau qemapaR ya upitu sezang, saqawalu ay sezang meRabulan ti, saqasiwa ay sezang bettuq meRabultedan ti ta deddanan.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208056.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "ihe boeni to meoino yoi no yoskʉ ho epeohi ’omo pitu ci hie i’omo tai haci ci hie mic tmuezuhu feohʉ i’omo tai kiu ci hie mo atofsʉyʉ hocu congeoha",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208624.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "tu tabukullaw na pituwa na kadaw. na pukawalu na kadaw i, mutuwabulan. na pukaiwa na kadaw i, mupalletruk aw muparesis mutuwatriur i langitr.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209192.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "da ni tawazen rana o apitoa ka araw , o ikawao na a araw am to mimamao rana so vehan , ikasiam na araw am ya nizombak ka pimamayoen rana so mata no angit .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209760.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "tabukuden nuheni ku pituay a cilal, malabulad ku sakawalu a cilal, u sakasiwa a cilal mapangku mala bunac nu tapuku.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210328.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "niariu’u nguani upitu taniarʉ. matiaru taniarʉ tuiisua vuanʉ. tupuku sua matisia taniarʉ, tuiisua na kakangca tamtasai.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210896.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "umarumia ahlahlainana taiisa sapuarʉ marasapuarʉ upitu tahliaria , siaualu tahliaria pivulahlʉ , siausia tahliaria umararupu mara’acangʉrahlʉ .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211464.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "chinese_text": "天氣終於變涼快了，阿美族的男人覺得，女人聰明，手藝又好。因此阿美族的男人都非常聽女人的話。",
+      "chinese_variants": [
+        {
+          "text": "天氣終於變涼快了，鄒族的男人覺得，女人聰明，手藝又好。因此鄒族的男人都非常聽女人的話。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "天氣終於變涼快了，阿美族的男人覺得，女人聰明，手藝又好，因此，阿美族的男人都非常聽女人的話。",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/104/16.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sa saemel sato ko romi’ad , o faloco’ sato no fa’inayan , wata kacitaneng no fafahiyan , fangcal aca ko nakamayan . , orasaka mitengil to sowal no fafahiyan ko fa’inayan no Pangcah .",
+          "audio_url": "https://web.klokah.tw/text/sound/15300/194197.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "blaq kayal ru msbayhuy la. knita’ ni mlikuy na Amis ga, blaq tunux na knayril ru mthaylaw qba’ nha’. tan su’ sa pawngan nha’ balay kay’ na knayril nha’ .",
+          "audio_url": "https://web.klokah.tw/text/sound/16203/203513.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "kawaS yae’zaw ila, Say ’amiS kamamanra:an komSa’, minkoringan ra:am ka tae’oeloeh, hima’ ma’ kayzaeh. ’isa: noka ’amiS ka kamamanra:an paka:i’ saeboeh noka minkoringan pina’iyaka:i’.",
+          "audio_url": "https://web.klokah.tw/text/sound/16256/204081.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "minqarayiza qali minhaziwhiwiza, mafazaq sa Amiis a ayuzi, binanau’az mathuaw ma’ania numa ma’ania thaythuy a rima mani, numawan Amiis a ayuzi mathuaw tunduu sa binanau’az a lalawa.",
+          "audio_url": "https://web.klokah.tw/text/sound/16309/204649.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Kiya wada tleetu ka kara di. Rrseno Amecu lmngelung, malu ba tunux, ma malu ba sslmeyan daha ka baga na mmqedil. Kika thiyun daha riyung kari ka mmqedil di.",
+          "audio_url": "https://web.klokah.tw/text/sound/16362/205217.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tuza tu dungzavina dihanin cinkazav Amis mabananaz hai miliskin tupa tu maluspingaz hai mataiklas masa’iu a ima pahasia itu Amis a mabananaz hai masmuav tu ta’a’aza mas itu maluspingaz tu halinga .",
+          "audio_url": "https://web.klokah.tw/text/sound/16415/205785.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "sulapeljanga azua a kina’adavan, pay tiamadju a seAmizuku a u’alja’aljay, pakapuvarung tazua a mareka vavayavayan saka pulimauta. manasika aicu a seAmizuku a u’alja’aljay kilangeda aravac tua kai nua vavayavayan.",
+          "audio_url": "https://web.klokah.tw/text/sound/16468/206353.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay vai ala kirimunga arukasasevere, kay Amis kay lasawvalay la ikay ku takidremedremanelini, alamalrigili kay laabaybay, lutuatumane la kathariri, kay Amis kay lasawvalay la ngualay kuini tangimiane si kilalra ku vaga ki laabaybay ku taiyanelini.",
+          "audio_url": "https://web.klokah.tw/text/sound/16521/206921.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Qlqulung dhuq mtleetu ka karat da, msa lmnglung ka dsnaw seejiq Sbnawan, tgkla bi ka kuyuh, mkla bi mseusa uri. Manu saw kiya do mnegthiyi bi kari kuyuh ka dsnaw seejiq Sbnawan.",
+          "audio_url": "https://web.klokah.tw/text/sound/16574/207489.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "tuRuz na qasaRu pa ti ya deddan, semanu ya meRunanay na kizaya, mesanem ya tazungan, nengi ya qenaliman na qaya. Raqana mipil tu sikawman na tazungan ya meRunanay na kizaya.",
+          "audio_url": "https://web.klokah.tw/text/sound/16627/208057.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "micu petohʉyʉ aezuhu coheʉcʉ yainca no to’hʉngʉ ta haahocngʉ no cou mo mau’to’tohʉngʉhe ’e maamespingi，ho meemealʉ mouyoyai ’ko’kola tmaayaezoyʉhe ta maamespingi ’e haahocngʉ ta cou",
+          "audio_url": "https://web.klokah.tw/text/sound/16680/208625.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "adri lla bias na wari. tu mainayan dra Amis i, “panaan inaba dra tranguru aw bulay tu nilimayan dra babayan.” kema. driyama, killengaw dratu ngai dra babayan tu mainayan dra Amis.",
+          "audio_url": "https://web.klokah.tw/text/sound/16733/209193.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "nimamayoen o kakawan ya na masazowsaw , tao do Amiss o mahakay am minaknakem a , matetenen o mavakes , matenen pa manaod so tawaz . ori o mahakay do Amiss sia mangamizing so ciriciring no mavakes .",
+          "audio_url": "https://web.klokah.tw/text/sound/16786/209761.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "banihyu satu ku demiad, mitapal ku tatama nu pangcah, sitangah ku tatayna, kapah aca ku nalimaan. kyu mitengil ku tatama nu Pangcah tu kamu nu tatayna.",
+          "audio_url": "https://web.klokah.tw/text/sound/16839/210329.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "ka’anʉ cu macici taniara. pacʉpʉngʉ sasarunai Amis. cucuru macʉrang tamu’iarʉ sua naannakʉ. iimua Amis tamna sasarunai. cucuru tumatimana nanakʉ tamna kari.",
+          "audio_url": "https://web.klokah.tw/text/sound/16892/210897.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "ulavaisa aratahlʉkʉtikicua , amihla hlahlahlusa amiruku , tam pacʉcʉpʉngʉ ahlahlaina , macahlia takuamia . kuhlaisai tam tararianʉa hlahlusa amiruku kari ahlaina .",
+          "audio_url": "https://web.klokah.tw/text/sound/16945/211465.mp3"
+        }
+      ]
+    }
+  ],
+  "source_urls": {
+    "info": "https://web.klokah.tw/pbc/book/index.php?id=104",
+    "online": "https://web.klokah.tw/pbc/book/online/index.php?id=104"
+  }
+}

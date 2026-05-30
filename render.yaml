@@ -1,0 +1,21 @@
+# Render Blueprint — 後端查詢服務（長駐型，支援 SSE 與 prompt caching）
+# 部署：Render Dashboard → New → Blueprint → 連到本 repo，套用此檔。
+# ⚠️ 人類確認點：ANTHROPIC_API_KEY 與 CORS_ORIGINS 須在 Dashboard 手動填（sync:false）。
+services:
+  - type: web
+    name: zuyu-rag-backend
+    runtime: python
+    plan: free # 先用免費方案測試（閒置會休眠、首次請求冷啟動）；測通後在 Dashboard 升級 starter 常駐
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn query:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false # 在 Dashboard 填入金鑰，不進版控
+      - key: CORS_ORIGINS
+        sync: false # 前端部署後填入 Vercel 網域，如 https://xxx.vercel.app
+      - key: CLAUDE_MODEL
+        value: claude-sonnet-4-6 # 成本控制；可改 claude-opus-4-8
+      - key: PYTHON_VERSION
+        value: 3.12.8

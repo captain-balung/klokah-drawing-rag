@@ -1,0 +1,24 @@
+# 機密：金鑰一律走 .env，嚴禁進版控（spec.md 工程紅線）
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 前端（Phase 3）
+node_modules/
+dist/
+.vercel/
+
+# Playwright / 驗證截圖暫存
+.playwright-mcp/
+/fe-*.png
+/docs-*.png
+
+# OS / 編輯器
+.DS_Store
+Thumbs.db

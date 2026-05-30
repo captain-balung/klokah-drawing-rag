@@ -1,0 +1,2175 @@
+{
+  "id": 111,
+  "title": "機器狗",
+  "illustrator": "劉玥彤",
+  "level": "中高級",
+  "grammar_focus": "動態動詞",
+  "summary": "未來世界裡充斥著許多機器人，它們能做許多事情，甚至做得比人類更快，更 好。Sanpuy的爸爸在牠小的時候買了一隻機器狗給牠，機器狗陪他玩耍學習，陪著他一起長大。有一天，機器狗壞掉了，Sanpuy的問機器狗怎樣才能修好他，但機器狗卻告訴他買一個新的就好。傷心的Sanpuy決定自己想辦法修好機器狗。Sanpuy對機器狗充滿感情依依不捨，但機器狗卻不會知道這種感情，也不知道人和機器有什麼不同。繪本中我們可以學習焦點系統的句型，例如，「人們用電腦計算」、「請為我唱一首歌」、「我忘記他的名字了」",
+  "language_count": 16,
+  "languages": [
+    {
+      "lid": 1,
+      "language": "阿美語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "No to’as ho itiya i , o talodo’ ko sapisa’osi no tamdamdaw to sasa’osien .",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194582.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Ikor to , masanga’ to no tamdamdaw ko tingnaw , manga’ay to malosakatayal ko tingnaw to manmaan a demakan .",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194583.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Anohakowaay to ko hekal i , masanga’ to mapalatamdaw ko tingnaw , manga’ay to matayal to adihayay tatayalen no tamdamdaw .",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194584.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Yo kaemang ho ci Lekal , ma’aca no mama nira ko cecay no kikay tasalamaan a waco ci wangwang ko ngangan nira .",
+          "chinese_text": "Lekal小的時候，他爸爸就為他買了一隻機器狗Wangwang。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194585.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Sahonihoni han ni Lekal a somowal kora ci wangwang , “ Katomireng ! kamaro’ ! paradiwen kako to cecay a radiw . ” han nira .",
+          "chinese_text": "Lekal經常對Wangwang 說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194586.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Tada mitengil to sowal ni Lekal kora ci wangwang , maolah paradiw to masamaanay kaolahan ni Lekal mitengil a radiw , mafana’ aca a paca’of to masamaanay a demak ni Lekal .",
+          "chinese_text": "Wangwang非常聽從Lekal的話。他為Lekal唱任何他想聽的歌，也會回答Lekal的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194587.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Samaanen paloma to hana ? samaanen a mirepet to ’adipangpang ? tahakowa ko raay no la’ed ato kita ko cidal ? han ni Lekal milicay ci Wangwang .",
+          "chinese_text": "Lekal問Wangwang怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194588.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "O manmaan maemin mafana’ ci wangwang , maemin mafana’ paca’of to licay ni Lekal ci wangwang .",
+          "chinese_text": "wangwang什麼都知道，Wangwang什麼都會為Lekal解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194589.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Yo cecay a romi’ad macicih to ko wa’ay ni wangwang .",
+          "chinese_text": "有一天Wangwang的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194590.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Licay han ni Lekal ci wangwang a somowal , :“ Wangwangaw , paca’ofen ho kako , macicih to ko wa’ay no miso , samaanen a misanga’ ? ”",
+          "chinese_text": "Lekal問Wangwang說：「Wangwang，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194591.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Paca’of sa ci Wangwang a somowal , “ O sapisanga’ to wa’ay tosa so’ot ko payso , ano sapi’aca han to cecay faelohay a Wangwang cecay so’ot ko ’aca ,, manga’ay falah hanca iso kako , ta mi’aca to cecay faelohay . ”",
+          "chinese_text": "Wangwang回答說：「用來修理腳的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194592.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Patoor ho a somowal ci wangwang , “ I ’ayaw to kafalah no mako , ano o maan ko nano nilicayan iso a demakan , ano o maan ko kaolahan iso a tatayalen , maemin pakafana’en ako koya faelohay kikay a waco . ”",
+          "chinese_text": "Wangwang繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194593.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Pakatengil ci Lekal tada mararom ko faloco’ , awa’ay to ko sapilicayaw nira ci Wangwangan , sa adihay han nira mi’aca ko sakatayal a lalosidan , malosapisanga’ nira ci Wangwangan .",
+          "chinese_text": "Lekal聽了很難過，不再繼續問Wangwang了。他自己去買了很多材料，用那些材料修理Wangwang。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194594.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Pasowal han nira ci Wangwang , “ Caay katawal no mako , to nano pasifana’an no miso takowanan samanen a mirepet to ’adipangpang . ”",
+          "chinese_text": "他跟Wangwang說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194595.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Somowal ho cingra , “ Caayay ko mamatawal no mako , toya yo pilaplapay no miso toya mamikalat a waco i takowanan . ”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194596.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Sowal sa ci Lekal , “ O manmaan maemin mafana’ kiso , nika caayay kafana’ kiso naw caay falahen no mako kiso . ”",
+          "chinese_text": "Lekal說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/15337/194597.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 2,
+      "language": "泰雅語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "sraral ga, mutux nha’ s’agal tluling qba’ lmpu.",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203880.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "babaw nya’ lga, kbalay tennaw qu squliq lga, rmaw ptzywaw sa kwara’ zayzywaw qu tennaw la.",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203881.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "babaw nya’ qnxan babaw cinbwanan ga, kblayan nha’ tennaw m_yan squliq sinrxan na kikay. mwah rmaw mtzywaw ita’ ssquliq.",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203882.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "sa cikuy na’ qu Suyan ga, sbaziy ni yaba’ nya’ qutux knalay na kikay na huzil.",
+          "chinese_text": "Suyan小的時候，他爸爸就為他買了一隻機器狗huzil。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203883.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "si tryaxi tmu’ na Suyan qu huzil nya’ mha : “ tuliq ! tama’ ! pqawsani saku’ qutux qwas. ”",
+          "chinese_text": "Suyan經常對huzil說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203884.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "mung kay’ iyal na Suyan qu huzil. spqwas nya’ ana nanu’ sawyan mung qwas na Suyan. baqun nya’ smyuk kwara’ pinpaqut na Suyan uzi.",
+          "chinese_text": "huzil非常聽從Suyan的話。他為Suyan唱任何他想聽的歌，也會回答Sayun的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203885.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "pqutan ni Suyan qu huzil mha, sun nanu’ muhi’ phpah？ sun nanu’ kmzyap kpayray？ ktwa’ kintwahiq nya’ kahul sa ita’ mucing sa wagi’？",
+          "chinese_text": "Suyan問huzil怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203886.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "baqun kwara’ na huzil. cbaqan nya’ Suyan kwara’.",
+          "chinese_text": "huzil什麼都知道，huzil什麼都會為Suyan解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203887.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "maki’ qutux ryax. yaqih kakay na huzil la.",
+          "chinese_text": "有一天huzil的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203888.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "pqutan nya’ huzil qu Suyan mha : “ huzil, kyali saku’. swa’ nyux yaqih kakay su’ la. psun nanu’ kbalay la ! ”",
+          "chinese_text": "Sanpuy(換成男子名)問huzil說：「huzil，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203889.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "smyuk qu huzil mha : “ mha ni san saku’ kbalay ga, phiriq su’ rusa’ kbhul pila’. maziy su’ qutux giqas na kikay huzil ga kbhul pila. si saku’ blngani ru baziy sa qutux giqas nu la.”",
+          "chinese_text": "huzil回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203890.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "kmal lawzi huzil mha : “ kwara’ pinaqut su’, sawyan su’ na kayqaya’ ga, zik na sbuling saku’ ga, cbayqanay maku’ kwara’ giqas na kikay huzil. ”",
+          "chinese_text": "huzil繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203891.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "yaqih qsliq pawngan ni Suyan. ini’ nya’ pquci huzil la. musa’ maziy pzyux iyal kaykaya’ nnanu’. wahan nya’ kbalay huzil.",
+          "chinese_text": "Suyan聽了很難過，不再繼續問huzil了。他自己去買了很多材料，用那些材料修理huzil。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203892.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "kyalun nya’ huzil nya’ mha, “ iyat maku’ zngyan cinsbaq saku’ sun nanu’ kmzyap kpayray. ”",
+          "chinese_text": "他跟huzil說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203893.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "kmal lawzi hiya’ mha, “ iyat maku’ bahun mungi’. qutux ka aki’ kmat kuzing na huzil ga, wal su’ shriqan. ”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203894.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "kmal Suyan mha, “ baqun su’ kwara’ ana nanu’ zywaw. aw’ ga, iyat su’ baqun mha swa’ misu’ ini’ blngani. ”",
+          "chinese_text": "Suyan說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16238/203895.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 3,
+      "language": "賽夏語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kakhayza’an, mae’iyaeh ’anoka hima’ Somepe:.",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204448.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "bi:il ila, mae’iyaeh hayza’ ila ka tiyanaw. tiyanaw kayzaeh Sipowa’ ka kanokano’ howaw.",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204449.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "mayhael ray hini ’aehae’ ’oemaeh, tiyanaw Sipaskayzaeh ka mae’iyaeh noka kikay, nom matawaw no mae’iyaeh.",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204450.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "taboeh haysiya ’ima ’ol’olae’an, ni yaba’ Sibae:iw ’aehae’ ’aehoe’ noka kikay Sintamani’in.",
+          "chinese_text": "taboeh小的時候，他爸爸就為他買了一隻機器狗’aehoe’。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204451.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "taboeh rengreng SiSkatamani’ komSa’: “ ’in’itol! Sa:eng! pa:tol ’iniman. ”",
+          "chinese_text": "taboeh經常對’aehoe’說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204452.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "tamani’ bazae’ a tomal ni taboeh ka pinayaka:i’. tamani’ ra:am ma:tol ni taboeh ’iyapinbazae’ ka kapatol, ma’ ra:am tiSkobih ni taboeh ka siningozaw.",
+          "chinese_text": "’aehoe’非常聽從taboeh的話。他為taboeh唱任何他想聽的歌，也會回答taboeh的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204453.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "taboeh somingozaw ka tamani’ nak’ino’ mamowa’ ka pongaeh? nak’ino’ romakep ka papa:o’? hahila: ki yami koza’ kinrawaS?",
+          "chinese_text": "taboeh問’aehoe’怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204454.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "ni tamani’ ’ana kano’ ra:amen saeboeh, tamani’ ’ana kano’ ma’ ra:am tiSkobae:oeh.",
+          "chinese_text": "’aehoe’什麼都知道，’aehoe’什麼都會為taboeh解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204455.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "hayza’ ’aehae’ hahila: noka tamani’ ’ae’ay ’aewhay ila.",
+          "chinese_text": "有一天’aehoe’的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204456.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "taboeh somingozaw ka tamani’ komSa’: “ tamani’, niSo’ ’ae’ay ’aewhay ila, ’am nak’ino’ paskayzaeh? tiSkobae:oeh ’iyakin! ”",
+          "chinese_text": "taboeh問’aehoe’說：「’aehoe’，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204457.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "tamani’ tiSkobae:oeh komSa’: “ So: tal’izaeh am roSa’ kinkaboehoel rayhil, mari’ ka ’ima SaSo’ ’aehae’ kinkaboehoel, So’o kayzaeh boloe’ ’iyakin, bae:iw ka ’ima SaSo’. ”",
+          "chinese_text": "’aehoe’回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204458.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "tamani’ mayaka:i’ naehan: “ niSo’ siningozaw howaw, kinhinowa’an, yako ’i’ini’ boloe’i, kapakra:am saeboeh ka ’ima SaSo’ ka ’aehoe’ noka kikay. ”",
+          "chinese_text": "’aehoe’繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204459.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "taboeh bazae’ ’omahowiS a tomalan, ’okay singozaw ila ka tamani’. siya nonak rima’ bae:iw ’akoy ka nom tal’izaeh, ’am paskayzaeh ka tamani’.",
+          "chinese_text": "taboeh聽了很難過，不再繼續問’aehoe’了。他自己去買了很多材料，用那些材料修理Suwan。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204460.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "siya mayaka:i’ ka tamani’ komSa’: “ yako ’amkay ngowip, niSo’ tinortoroe’ ’iyakin nak’ino’ romakep ka papa:o’. ”",
+          "chinese_text": "他跟’aehoe’說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204461.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "siya mayaka:i’ naehan: “ yako ma’ ’makay ngowip, So’o ’ina Somowaw ka hiza ’aehoe’ ’ina ’iyakaka:as ’iyakin. ”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204462.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "taboeh komSa’: “ niSo’ ’ana kano’ ra:amen, o So’o ’amkik ra:am yako ’ampowa’ kayni’ boloe’ ’iSo’on. ”",
+          "chinese_text": "taboeh說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16291/204463.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 4,
+      "language": "邵語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kahiwan, thau pasain rima wa filhaq lhmupish.",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205016.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "tu mingqaraiza, thau ininfazaq sa tian-nau. shduu pasain tian-nau kmalawa sa mathauw manasha numanuma wa palhkakrikriw.",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205017.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "ya kahiza sa az’az a pruq, pasain tian-nau kmalawa sa qi-kii a thau, mia’awan thau kmalawa sa manasha wa palhkakrikriw.",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205018.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Shulay tu azazakuan, thithu a ama munsai thithu fariw sa latata wa qi-kii a atu Pili.",
+          "chinese_text": "Shulay小的時候，他爸爸就為他買了一隻機器狗Pili。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205019.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Shulay miarain munsai Pili mzai, “ilhilhi! ilhungqu! munsai iamin paqaquyash latata wa quyash.”",
+          "chinese_text": "Shulay經常對Pili說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205020.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Pili mathuaw tunduu Shulay a lalawa. thithu munsai Shulay maqaquyash sa thithu ya miku tunmaza sa numanuma wa quyash, numa ashuntaam mani sa Shulay numanuma wa lalawa.",
+          "chinese_text": "Pili非常聽從Shulay的話。他為Shulay唱任何他想聽的歌，也會回答Shulay的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205021.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Shulay makikalhi Pili amiakuza malhuiza sa bukay? amiakuza smapuk sa kurari? tilhaz lapiza ya mapakihazish iamin?",
+          "chinese_text": "Shulay問Pili怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205022.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Pili az’az la mafazaq, Pili ya numanuma az’az shuntaam ti Shulay.",
+          "chinese_text": "Pili什麼都知道，Pili什麼都會為Shulay解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205023.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "ianan tata wa qali Pili a kuskus murubuziza.",
+          "chinese_text": "有一天Pili的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205024.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Shulay makikalhi Pili mzai, “Pili shtaam iakin, mihu a kuskus murubuziza, apiakuzan kashiqitan?”",
+          "chinese_text": "Shulay問Pili說：「Pili，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205025.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Pili shuntaam mzai, “pasain kashiqitan a tuali tusha shaba, pasain fariw qi-kii a atu a tuali tata shaba, shduu qawriwa ihu iakin, uqtha fariw sa latata wa faqlhu.”",
+          "chinese_text": "Pili 回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205026.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Pili muqtha mzai, “minakikalhiza ihu sa numanuma wa kalawan, ihu madaduu sa numanuma wa aniamin, ya mihala qawriwa iakin tu isisua, az’az afuilh sa faqlhu qi-kii a atu.”",
+          "chinese_text": "Pili 繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205027.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "tunmaza ti Shulay mathuaw maqarman a shnaw. niza tu makikalhi sa Pili. thithu finariw sa manasha wa aniamin, pasain sa izai a aniamin kashiqitan sa Pili.",
+          "chinese_text": "Shulay聽了很難過，不再繼續問Pili了。他自己去買了很多材料，用那些材料修理Pili 。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205028.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "thithu munsai Pili mzai, “ani iaku tu minaura, pininfazaq ihu iakin amiakuza ya smapuk sa kurari.”",
+          "chinese_text": "他跟Pili說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205029.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "thithu muqtha mzai, “ani iaku tu minaura mani, ihu shminashaw sa huya wa aqmirqir iakin a atu.”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205030.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Shulay mzai, “az’az mafazaq ihu, kanuniza ihu kauraan minu antu qawriwan iaku ihun.”",
+          "chinese_text": "Shulay說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16344/205031.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 5,
+      "language": "賽德克語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Cbeyo hayan, mangal kixil baga smepu ka seediq.",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205584.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Bobo na, marah tennaw ka seediq. Ani mmaanu dhekan na smmalu ka tennaw.",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205585.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Yyahan bobo na dungal, slmeyan seediq kikai ka tennawm mooda oda tlengun na seediq peni/",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205586.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Slaqi Sapu, brigan kingal huling kikai Batu tama na ka heya.",
+          "chinese_text": "Sapu小的時候，他爸爸就為他買了一隻機器狗Batu。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205587.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Kesun mrengo Sapu klaali ka Batu, :“ Tutuy! Tloung! Pyasi ku kingal uyas! ”",
+          "chinese_text": "Sapu經常對Batu說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205588.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Thei ba kari na Sapu ka Batu. Pyasan ani mmaanu uyas kuxul na ka Sapu ma, cyukun na mllamu snlingan kari duri.",
+          "chinese_text": "Batu非常聽從Sapu的話。他為Sapu唱任何他想聽的歌，也會回答Sapu的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205589.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Smiling Batu huwa mesa mhuma phepah? Huwa mesa qmerac plale? Wada knhenu tnhyaan na ita ka hido?",
+          "chinese_text": "Sapu問Batu怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205590.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Ani mmaanu klaan na ka Batu, ani mmaanu stgesa na ka Sapu.",
+          "chinese_text": "Batu什麼都知道，Suwan什麼都會為Sapu解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205591.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Niqal kingal ali, naqah papak na Batu di.",
+          "chinese_text": "有一天Batu的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205592.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Smiling Batu ka Sapu mesa, :“ \"Batu, tgsai ku, naqah papak su, huwa kesun smmalu? ”",
+          "chinese_text": "Sapu問Batu說：「Suwan，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205593.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Cmiyuk Batu, mesa, :“ Sslmeyan maha daha kbekuy pila. Maruy kingal bgurah huling kikai ge, kingal kbekuy. Malu sqada saku, brigi naq kingal bgurah na dungal. ”",
+          "chinese_text": "Batu回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205594.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Ini alix mrengo ka Batu, :“ Ani mmaanu snlingan su, mmaanu ka kuxul su. berih na sqada saku hayan, stgesa mu huling kikai bgurah kana ka nii. ”",
+          "chinese_text": "Batu繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205595.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Mbahang Sapu naqah ba ka kuxul na, lixan na smiling Batu. Musa maruy knkana qyqeya, sslmeyan na Batu peni.",
+          "chinese_text": "Sapu聽了很難過，不再繼續問Batu了。他自己去買了很多材料，用那些材料修理Suwan。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205596.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Mrengo Batu mesa, :“ Uka mu cchngiyan tngsaan saku mhuwa pkesa qmerac plale.”",
+          "chinese_text": "他跟Batu說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205597.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Mesa mrengo dungal ka heya, :“ Uxe chngiyun duri, sliwaq saku mqiguc yaku ka huling kiya. ”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205598.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Mrengo Sapu, :“ Ani maanu ka klaun su, ani si, uxe su pgkela, hmuwa sumu uxe sqada. ”",
+          "chinese_text": "Sapu說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16397/205599.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 6,
+      "language": "布農語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "habasang mailantangus bunun hai maku uni tanuduh masipul .",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206152.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "masa aipincin bunun hai kingkiu in mas malka unu tinnau at, mahtu in maku uni tinnau kuzakuza ka uni vaivivaivi tu iskuzakuza .",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206153.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "mais habashabas in, isia siakaicin maza tinnau hai , namahtu ka uni kikai tu bunun at namahtu cisuni bunun kuzakuza mas supah tu iskuzakuza .",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206154.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Samingaz masa kaumaikitang hai isbaliv isaicia tu tama mas mai uni kikai tu asu .",
+          "chinese_text": "Samingaza小的時候，他爸爸就為他買了一隻機器狗asu。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206155.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Samingaza hai kaupahanian malka asu cia tupa tu : “ mindldula ! malanuhua ! cis unia mazaku kahuzasa . ”",
+          "chinese_text": "Samingaza經常對asu說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206156.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "asu a hai ta’aza mas itu Samingaz tu halinga cisuni saia Samingaz cia kahuzas mas isaicia asaun ta’aza tu huzas at antalam mas isaicia tu halinga .",
+          "chinese_text": "asu非常聽從Samingaza的話。他為Samingaza唱任何他想聽的歌，也會回答Samingaza的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206157.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Samingaz hai tupa mas asu cia tu pikun lipuahan masuaz ? makua mais madamu mas balikuan ? sikamaza kaidahdan mamita mas vali cia ?",
+          "chinese_text": "Samingaza問asu怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206158.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "asua hai uka mas nitu ha’iapun saicia sikaupa tu hansiap hai uka mas nitu ha’iapun saicia sikaupa  hai ha’iapun amin saicia antalam .",
+          "chinese_text": "asu什麼都知道，asu什麼都會為Samingaza解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206159.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "aiza tu tastu hanian minkuangin a itu asu cia bantas .",
+          "chinese_text": "有一天asu的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206160.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Samingaz hai tupa mas asucia tu :“ asu minkuangin isu bantas an hai tahuav saikin tu napikun kahna ? ”",
+          "chinese_text": "Samingaza問asu說：「asu，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206161.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "asu hai antalam tupa tu :“ mais mapakahna hai na dusatu saba mais mabaliv bahlu tu kikai hai kaz tastu saba at mahtu kasu istakunavavin saikin at mabaliva mas bahlu tu kikai . ”",
+          "chinese_text": "asu回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206162.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "tupa asu tu “ maza istupasu ? maza kazimaun su? isia na takunavun su tu tanangaus cin hai natahuanku kasu mas bahlu tu kikai asu . ”",
+          "chinese_text": "asu繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206163.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "samingaz masa ta’aza hai makuang isang nin muhna tupa saicia kudi saia mabaliv mas supah tu vaivivaivi tu haimangsut at kananakan saicia kahna mapisial a asu a .",
+          "chinese_text": "Samingaza聽了很難過，不再繼續問asu了。他自己去買了很多材料，用那些材料修理asu。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206164.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "tupaun saicia asu a tu : “ nani saikin sipungul masu , aupa maisnava kasu mazaku tu makua madamu mas balkuan . ”",
+          "chinese_text": "他跟asu說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206165.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "antalam amin saia tupa tu :“ naini amin saikin sipungul su tu cinis uni kasu mazaku mapusbai mas nakalat ku tu asu cia . ”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206166.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Saminaz hai tupatu :“ ha’iapun su amin ,haitu nikasu haiap tu mavia saikin tu nitu mahtu matakunav su i . ”",
+          "chinese_text": "Samingaza說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16450/206167.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 7,
+      "language": "排灣語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kasicuayan, semagaljawgavan a cawcau a semupu tua sasupuan.",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206720.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "kavililjanga, ven’ac a cawcau tua tinnaw. ’aw aicu a tinnaw makaya a sikasengseng tua nemenemanga a sengsengan.",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206721.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "azua a tjaivililj a kacawan, uri sancawcauin a kikay a tinnaw, makaya a pusaladj tua cawcau a kipusengsengan.",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206722.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "ka kakedriyananan ti vikung, siniveli timadju nua kama tua vatu a kikay.",
+          "chinese_text": "vikung小的時候，他爸爸就為他買了一隻機器狗vatu。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206723.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "nu aya ’ivu ti vikung tua vatu a, “gacalju! ’iladju! senayu!”",
+          "chinese_text": "vikung經常對vatu說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206724.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "kiladenga aravac tua kai ni vikung azua a vatu. semenay a vatu tua kinatjengelayan ni vikung a senay, maca’u uta a temevela tua kananema a kinivada’ ni vikung.",
+          "chinese_text": "vatu非常聽從vikung的話。他為vikung唱任何他想聽的歌，也會回答vikung的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206725.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "kivada’ ti vikung tua vatu a kemuda a temalem tua hana? kemuda a djemame’ tua kalabiabi? namakuda a tja pinacacadan katua ’adav?",
+          "chinese_text": "vikung問vatu怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206726.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "kemeljang tua kananemanga a vatu, makaya a tjemevela tua sinikivada’ a nemanga ni vikung a vatu.",
+          "chinese_text": "vatu什麼都知道，Suwan什麼都會為vikung解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206727.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "izua ka makatalj maljekuya a kula na vatu.",
+          "chinese_text": "有一天vatu的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206728.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "kivada’ ti vikung tua vatu, “vatu, pay tevelau aken, nu maljekuya a su kula, uri su kudain a ljemengua’?”",
+          "chinese_text": "vikung問vatu說：「vatu，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206729.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "“nu sivaik a paljengua’ uri drusa a iday, ’aw nu veneli tu ita ta va’uan uri itaiday, makaya su siveric aken, sa su veneli a mumalj tua va’uan.” aya a vatu.",
+          "chinese_text": "vatu回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206730.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "’ivuanan a vatu, “anemanga a su sinikivada’, su kinatjengelayan, nu uri su siveric aken, uri ku sipasemalav tua su va’uan a kikay a vatu.”",
+          "chinese_text": "vatu繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206731.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "saljivalav ti vikung ka lemadenga tua kai na vatu, iniangaka kivada’. vaik timadju a veneli tua maretimaljimalji a turivecan tu sipaljengua’ tua vatu nimadju.",
+          "chinese_text": "vikung聽了很難過，不再繼續問vatu了。他自己去買了很多材料，用那些材料修理Suwan。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206732.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "’ivu ti vikung tua vatu nimadju a, “inika aken a uri maljim, napatuluanga sun tjanuaken a kemuda a djemame’ tua kalabiabi.”",
+          "chinese_text": "他跟vatu說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206733.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "’ivu uta a, “inika aken a namaljim, tuazua su sinisau tuazua a uri kemac tjanuaken a vatu.”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206734.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "’ivu ti vukung, “kemeljang sun tua kananemanemanga, ljakua, inika sun a kemeljang tu ’akuazua a inika ku siveric sun!”",
+          "chinese_text": "vikung說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16503/206735.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 8,
+      "language": "魯凱語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "sakasidrumane, aragalawgaw asipi ki pacase kay laumaumase.",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207288.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "sakabilrilanenga, kay umaumase la kirimu paedalenga ki tingnau. kikay tingnau laka wadulru arakay ku maiyakaykay makaelaela ka laaungane.",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207289.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "lukabibilrilinga kay yakaumasane, kudra tingnau lrikitukikai aumaumase, la lrikakalra ku apasikaiyane ki umaumase kipuaungane.",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207290.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "sakalruladhana kay Pagare, ku tamaini la pasikay iniane langay ku vaeva ku nitutawpungane ka kikai.",
+          "chinese_text": "Pagare小的時候，他爸爸就為他買了一隻機器狗tawpungu。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207291.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "kikay Pagare la kauarivariva ki tawpungu iya kikay, “ acegecega! nenea! alasenadha pakilalra nakuane. ”",
+          "chinese_text": "Pagare經常對tawpungu說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207292.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "kay tawpungu la kilalra turamuru ku takaurivane ki Pagare. la pasikay ki Pagare senay ku apikilalraini ku sanaka senay, maiyalri ka wathingale tubalre ki Pagare ku sanaka kaika thingaleini.",
+          "chinese_text": "tawpungu非常聽從Pagare的話。他為Pagare唱任何他想聽的歌，也會回答Pagare的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207293.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "kikay Pagare la kivaga ki tawpungu watumanemadu lredreke ki bengelray? watumanemadu pwalra ki takulralrava? ku vai laka thaini inu ku tamadadaylaneta?",
+          "chinese_text": "Pagare問tawpungu怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207294.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "kay tawpungu wathingale sanakamanemane, kay tawpungu sanakamanemane wadulru tubalre ki Pagare.",
+          "chinese_text": "tawpungu什麼都知道，tawpungu什麼都會為Pagare解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207295.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "yakay ku nimakavalane, kay drapale ki tawpungu la kalisinga.",
+          "chinese_text": "有一天tawpungu的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207296.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "kay Pagare la kivaga ki tawpungu iya kikay, “ tawpungu, alatubalrea nakuane, kuini malisinga ku drapalesu, la lritumanemadu pudriadringay? ”",
+          "chinese_text": "Pagare問tawpungu說：「tawpungu，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207297.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "kikay tawpungu la tubalre iya kikay, ‘ drusa ka idai ku paisu ku saarakaiyane tupudriadringay, laka idai ku paisu lualrane langay ku bavane ku nitutawpungane ka kikai, lridulrusu cilri nakuane, la tupela langay ku bavane. ’",
+          "chinese_text": "tawpungu回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207298.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "kikay tawpungu la pacungulana iya kikay, “ manemane ku kivagangasu ku kakulrungusu, manemane ku kadalamesu ku satumanane, sa kaisu cilriyana nakuane yai lridulruaku pelaela kuidra ki bavane ka nitutawpungane ka kikai. ”",
+          "chinese_text": "tawpungu繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207299.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "sakilalranga kay Pagare la kasalrivalrau, la kai apikivaganga ki tawpungu. la ngikakamani katwase langay ku satwatumane, arakay kuini satwatumane si tupudriadringay ki tawpungu.",
+          "chinese_text": "Pagare聽了很難過，不再繼續問tawpungu了。他自己去買了很多材料，用那些材料修理tawpungu。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207300.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "kay lasu la kikauriva ki tawpungu iya kikay, “ kainaku lrisakaulrau musuane, nawabulrusu nakuane watumanemadu pwalra ki takulralrava. ”",
+          "chinese_text": "他跟tawpungu說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207301.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "kay lasu la kauriva iya kikay, “ maiyalri kainaku lrisakaulrau musuane, napasiakaysu nakuane pakatwase kuidra ki napasanakace nakuake kudra tawpungu. ”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207302.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "kay Pagare la iya kikay, “ wathingalesu sanakamanemane, ai kaisu wathingale kuidra kaika tacilrianeli musuane. ”",
+          "chinese_text": "Pagare說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16556/207303.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 9,
+      "language": "太魯閣語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Knxalan sbiyaw ga, dmuuy tluling baga smpug spgun ka dseejiq.",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207856.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Babaw na do, mnarah smmalu patas samaw ka dseejiq. Tduwa djiyun quri lala bi klgan euda ka patas samaw nii.",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207857.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Babaw dxgal hici ga, wada smluun seejiq maa kikay ka patas samaw, lala bi qneepah na quri sjiqun.",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207858.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Laqi bilaq siida ka Sanpuy ga, sbarig tama na kingal huling maa kikay Suwan ka hiya.",
+          "chinese_text": "Sanpuy小的時候，他爸爸就為他買了一隻機器狗Suwan。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207859.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Rngagan Sanpuy kjiyax ka Suwan“ Tutuy! Tluung! Pyasi saku kingal uyas.”",
+          "chinese_text": "Sanpuy經常對Suwan說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207860.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Thiyi bi kari Sanpuy ka Suwan. Ana manu ka uyas mqmbhangun Sanpuy o speuyas na kana, ana manu ka slingun Sanpuy o syukun na kana uri.",
+          "chinese_text": "Suwan非常聽從Sanpuy的話。他為Sanpuy唱任何他想聽的歌，也會回答Sanpuy的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207861.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Smiling Suwan ka Sanpuy huya ksun mhuma ka phpah? Huya ksun qmrak ka klaway? Khnu qnthyaqan na ita ka hidaw?",
+          "chinese_text": "Sanpuy問Suwan怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207862.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Mkla kana ana manu ka Suwan, pgklaun na Sanpuy kana ana manu ka Suwan.",
+          "chinese_text": "Suwan什麼都知道，Suwan什麼都會為Sanpuy解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207863.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Niqan kingal jiyax wada naqih ka qaqay Suwan da.",
+          "chinese_text": "有一天Suwan的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207864.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Smiling Suwan ka Sanpuy“ Suwan, syuki saku, wada naqih ka qaqay su da, emphuya ksun smmalu hug?”",
+          "chinese_text": "Sanpuy問Suwan說：「Suwan，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207865.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Smiyuk ka Suwan“ Dha kbkuy pila ka jiyun smmalu, kingal kbkuy pila ka tduwa marig kingal bgurah huling maa kikay, tduwa saku sqada, barig kingal bgurah duri.”",
+          "chinese_text": "Suwan回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207866.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Plutut rmngaw ka Suwan“ Manu ka snlingan su, manu ka snkxlan su, brah wada saku sqada siida, pgklaun bgurah huling maa kikay kana.”",
+          "chinese_text": "Suwan繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207867.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Naqih bi kuxul na embahang saw nii ka Sanpuy, ini siling Suwan uri da. Musa marig lala bi qngqaya smluun ka hiya nanak, djiyun na smmalu Suwan.",
+          "chinese_text": "Sanpuy聽了很難過，不再繼續問Suwan了。他自己去買了很多材料，用那些材料修理Suwan。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207868.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Rngagan na ka Suwan“ Aji mu shngiun, wada saku tgsaun huya ksun qmrak ka klaway.”",
+          "chinese_text": "他跟Suwan說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207869.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Rmngaw duri ka hiya“ Aji mu shngiun uri, wada saku rwaqun ka huling rubang empqiyut knan.”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207870.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Rmngaw ka Sanpuy“ Klaun su kana ka ana manu, kiya ka kiya ni aji su empkla hmuya ma ku ini qada sunan.”",
+          "chinese_text": "Sanpuy說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16609/207871.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 10,
+      "language": "噶瑪蘭語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "ta masangan, subidang lazat izan na tu tenuded subidang.",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208424.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "tuRuz na, yau ti tiyennaw nikakasianeman na lazat. tiyennaw qanengi alan semasangi kelawkaway tu naququni ay.",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208425.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "qusazui ta tenub na banang, tiyennaw sangian na tu kikay lazat, manmu tu lazat semangsangi kelawkaway tu muwaza naququni ay.",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208426.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "kiyapama ti buya, meRasa tama na tu ussiq kikay ay wasu ti kulu bula timaizipana.",
+          "chinese_text": "buya小的時候，他爸爸就為他買了一隻機器狗kulu。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208427.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "pataz semanu ti buya ti kuluan, : “qiRi! qaded! satezay ka pa ipil timaikuan.”",
+          "chinese_text": "buya經常對kulu說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208428.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "mipil tu sikawman ni buya ti kulu. ngid ipil tu naquni ay satezayan ti buya satezayan ti pa ipil, suppaR pibud tu naququni ay lanas ni buya qaya.",
+          "chinese_text": "kulu非常聽從buya的話。他為buya唱任何他想聽的歌，也會回答buya的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208429.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "ipilan ni buya naqunian ta meluma tu simau? qemapaR tu pulaw? utani qadaud na sezang timaitan?",
+          "chinese_text": "buya問kulu怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208430.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "suppaR tu nianiana ti kulu, suppaR semanu tu qenaRayngu ni buya ti kulu.",
+          "chinese_text": "kulu什麼都知道，kulu什麼都會為buya解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208431.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "yau ussiq deddan maRapesi ti zapan ni kulu.",
+          "chinese_text": "有一天kulu的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208432.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "ipilan ni buya ti kulu, : “kulu, sanu iku, maRapsi ti zapan su, naquni aka semangi?”",
+          "chinese_text": "buya問kulu說：「kulu，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208433.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "semanu ti kulu, : “Ribang na sasangian uzusa Rasibu kelisiw, saRasan tu tasu kikay ay wasu Rasibu kelisiw, nengi isu baqsiw timaikuan, muman meRasa tu tasu ay.”",
+          "chinese_text": "kulu回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208434.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "muman semanu ti kulu, : “sumanu isu tu niana lanas, melizaq isu tu niana lanas, qangid isu baqsiw tamaikuan, niz ika semanu tu tasu kikay wasu.”",
+          "chinese_text": "kulu繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208435.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "ipilan ni buya taRaw anem na, mai ti muman mipil ti kuluan. matiw ti meRasa tu muwaza Ribang na sasangian, ’nay nani Ribang na sasangian ti kuluan.",
+          "chinese_text": "buya聽了很難過，不再繼續問kulu了。他自己去買了很多材料，用那些材料修理kulu。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208436.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "semanu aizipna ti kuluan, “mai iku kalingun, temud isu timaiku tu naqunian ta qemapaR tu pulaw.”",
+          "chinese_text": "他跟kulu說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208437.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "semanu muman aizipna, : “mai iku kalingun qaya, mubuRaw isu tu ngid qaRat timaikuan ay wasu.”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208438.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "semanu ti buya, : “suppaR isu tu nianiana meniz, wanayka Raynguan su manna mai iku ngid baqsiw timaisuan.”",
+          "chinese_text": "buya說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16662/208439.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 11,
+      "language": "鄒語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "ne oana’o mosola boemi ta lulku ho tmasvʉtʉ .",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/208992.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "ta’esi mohcula mooyai ta tengnao ’e yatatiskova . hocu titha mooyai tomo mav’ov’o cila hioa .",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/208993.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "no ataveisi ’e sekai , te boemi ta tengnao ho mooyai yatiskova no kikai， ho hioa na mahihioa ta yatatikova .",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/208994.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "ne moson’a oko ’e voyu osi phinineni to ua av’ua ci kula .",
+          "chinese_text": "voyu小的時候，他爸爸就為他買了一隻機器狗kulo。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/208995.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "i’e voyu lasi asngʉcva mi’usni ’o kulo ho yainca :“ yac’ʉ ! yusuhngu ! tekon’a pasunaeno te’o talʉi . ”",
+          "chinese_text": "voyu經常對kulo說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/208996.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "la na’no tmaolalʉ ’e kulo . la pasunaeno ho poa talʉneni ta voyu . ho yaeza yut’inga’oisi tuucocosi .",
+          "chinese_text": "kulo非常聽從voyu的話。他為voyu唱任何他想聽的歌，也會回答voyu的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/208997.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "tuocosi ta voyu ’o kulo ho yainca cuma na bʉvnʉ ? cumana na tʉtpʉtʉ no tokeuya ? mo mainenu na hia covhi a’to si hie ?",
+          "chinese_text": "voyu問kulo怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/208998.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "isi acʉha cohivi to kulo . lasi acʉha peela yut’inga ’oisi tuocosi ta voyu .",
+          "chinese_text": "kulo什麼都知道，kulo什麼都會為voyu解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/208999.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "moso cono hie mo kuzo ’o t’ango to kulo .",
+          "chinese_text": "有一天kulo的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/209000.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "isi tuocosi ta voyu ’e kulo ho yainca :“ tekon’a yut’inga a’o , mo kuzo si t’angosu , te yainenu honci teovahi ? ”",
+          "chinese_text": "voyu問kulo說：「Suwan，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/209001.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "mo yut’ingi si kulo ho yainca honci teovahi te se’eicha ci peisu , honcisu msʉʉe nomo faeva tec’o se’conia , ’a tekoeno ciha a’o ho msʉʉe nomo faeva . ”",
+          "chinese_text": "kulo回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/209002.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "mo i’vaho mainca ’o kulo :“ ’o osucula tuocosi ho i’olako ʉmnʉa ci hioa ho o’amocu teko ciha a’o ta’u acʉha eʉsvʉta tomo faeva ci kulo ”",
+          "chinese_text": "kulo繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/209003.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "na’no nac’o ne isi talʉi to voyu , ’ana isi i’vaha tuocosi ’o kulo . micu smuman’i tote titha moteovaho ci macucuma ho teovahi ’o kulo .",
+          "chinese_text": "voyu聽了很難過，不再繼續問kulo了。他自己去買了很多材料，用那些材料修理kulo。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/209004.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "mo mi’usnu to kulo ho yainca :“ o’ate’o tapayo’a ne osula pa’cohivi tʉtpʉtʉ to tokeuya . ”",
+          "chinese_text": "他跟kulo說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/209005.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "ho i’vaha yainca :“ o’ate’os’a ta’payo’a ne osula peobanga ’omo mici boecʉ a’o ci av’u . ”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/209006.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "yainca :“ to voyu lako acʉha cohivi at’inghi o’aiko cohivi manci i’os’a o’te ciha na suu . ”",
+          "chinese_text": "voyu說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16715/209007.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 12,
+      "language": "卑南語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "a awatr driya. tu aipanay kantu dariwaewaan a trau.",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209560.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "likudran i, parebuwa dra tinnaw a trau. na tinnaw i, maruwa kikarun dra marekamenimeni dra kiyakarunan.",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209561.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "ta wabaawan i likudran i, tu dadawai na tinnaw dra robat pututratrau. patallu dra trau kikarun dra sadru dra kiyakarunan.",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209562.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "a makiteng driya i Sangpuy i, tu trimaanay kan temamataw dra robat dra suwan. tu pungaladay kan Suwan.",
+          "chinese_text": "Sangpuy小的時候，他爸爸就為他買了一隻機器狗Suwan。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209563.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "i Sangpuy i, marayas marengay kan Suwan dra, “karetigir! katengadraw! senay driya!” kema.",
+          "chinese_text": "Sangpuy經常對Suwan說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209564.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "salaw killengaw dra ngay i Suwan. semenay dratu marangeran killengaw na senay kan Sangpuy. saigu temubang dratu kiniumallan kan Sangpuy.",
+          "chinese_text": "Suwan非常聽從Sangpuy的話。他為Sangpuy唱任何他想聽的歌，也會回答Sangpuy的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209565.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "i Sangpuy i, kiyumall kan Suwan dra, “kemudakuda ta semalem dra aputr? kemudakuda ta dremimutr dra aribangllangllawan? munuma tu ikaadawill kanta na kadaw?” kema.",
+          "chinese_text": "Sangpuy問Suwan：怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209566.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "na manay driya tu kalladramaw kan Suwan. maruwa temubang dratu kiniumallan kan Sangpuy.",
+          "chinese_text": "Suwan什麼都知道，Suwan什麼都會為Sangpuy解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209567.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "kadru a saya wari. mukuwatis tu dapall kan Suwan.",
+          "chinese_text": "有一天，Suwan的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209568.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "kiumall kan Suwan i Sangpuy, “Suwan, rengayu ku driya! mukuwatis nu dapall i, ti kudayaw semeket?”",
+          "chinese_text": "Sangpuy問Suwan說：「Suwan，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209569.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "temubang i Suwan dra, “nu paseketanay ku i, karuwa dra druwaya leman paisu. na bekalan na robat na suwan i, saleman paisu. atelran ku aw trima dra bekalan.” kema.",
+          "chinese_text": "Suwan回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209570.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "“nu kiniumallan kanku; nu kinasagaran na manay driya. an nu atellanay ku i, ku babatii na bekalan na robat na suwan.” kema marengay i Suwan:",
+          "chinese_text": "Suwan繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209571.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "killengaw i Sangpuy i, salaw kuwatis tu wanger. adri lla kiyaumall kan Suwan. taytaw na muka tremimaa dra pamamanayan aw tu seketaw i Suwan.",
+          "chinese_text": "Sangpuy聽了很難過，不再繼續問Suwan了。他自己去買了很多材料，用那些材料修理Suwan。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209572.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "kemadri kan Suwan aw, “adri ku kaabalu kanu. nu paladamaw ku kemudakuda dremimutr dra aribangllangllawan.”",
+          "chinese_text": "他跟Suwan說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209573.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "“adri ku kaabalu kanu. nu bauyaw idru na kakaratr kanku na suwan.”.",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209574.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "“malladram yu dra manay driya. amawna, maulid yu dra daw adri ku atellani yu.” kema i Sangpuy.",
+          "chinese_text": "Salan說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16768/209575.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 13,
+      "language": "雅美語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "no kakoa am ,gazagaz no tao o tanoro da vilangen ya apira .",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210128.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "mownay rana ，o tao am nimipareng so tiennaw .aroa vazay apia pivazaing na no tiennaw .",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210129.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "no simakoa do karawan am,o tiennaw ito am ya ni mamareng so kikay a tao ，na sidongen tao do aroa vazay .",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210130.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "no kalialikey na pa ni ngeskes am，si ama nam ni manarang so asa kikay a ino .",
+          "chinese_text": "ngeskes小的時候，他爸爸就為他買了一隻機器狗ino。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210131.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "si ngskes am neypanpanci do ino na “ tanek key ! lisna ! pianoanood ey . ”",
+          "chinese_text": "ngeskes經常對ino說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210132.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "o ino am na amizingen o ciriciring na ni ngekes . ya miazoanood so na ikakza a anood ni ngskes ya na tovisan o ciring ni ngskes .",
+          "chinese_text": "ino非常聽從ngeskes的話。他為ngeskes唱任何他想聽的歌，也會回答ngeskes的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210133.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "si ngskes na pacici o ino na makongo mowahen o hana ? makongo rakepen o pahapahad no anito ? apira karairai na no araw jiaten ?",
+          "chinese_text": "ngeskes問ino怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210134.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "aro o na katengan no ino , mamiming patotoaw na patovisan o nakem na .",
+          "chinese_text": "ino什麼都知道，ino什麼都會為ngeskes解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210135.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "asa araw am ni mapated ai na no ino .",
+          "chinese_text": "有一天ino的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210136.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "koan na ni ngeskes do ino am “ mo ino ni mapated o ai mo am makongo ka avavawon ？ ”",
+          "chinese_text": "ngeskes問ino說：「ino，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210137.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "koan na no ino am “ pakapiaen o ai am adowa ranaw , manarang so vayo kikay a ino am asa ranaw ,apia rana to mo wasik ka yaken , ka panarang mo pa so asaka ka vayo a kikay . ”",
+          "chinese_text": "ino回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210138.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "mizizyak pa o ino “ ikongo ya mo ni pacicing yaken ，ikongo mo ikakza,no mo pa jiwasik yaken am ，mamimin ipanci ko do vayo a ino an . ”",
+          "chinese_text": "ino繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210139.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "mamizing ni ngskes o ciriciring nam ya mazokaw ，na jipacicing rana o ino . ya ni manarang so vayo a pzapzatan，na ka pakapiaen sia so ino .",
+          "chinese_text": "ngeskes聽了很難過，不再繼續問ino了。他自己去買了很多材料，用那些材料修理ino。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210140.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "panci ni ngskes do ino am “ ji ko aawan mo ni nanaon jiyaken makongo manrakep so pahapahad so anito . ”",
+          "chinese_text": "他跟ino說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210141.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "ney panci pa “ kano ji ko awawan ，mo ni voyaw o ni songit yaken a ino . ”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210142.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "ngskes “ aro o mo katengan ，am ta mo katengan ta ikongo ko jiwaisk an jimo . ”",
+          "chinese_text": "ngeskes說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16821/210143.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 14,
+      "language": "撒奇萊雅語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "yu sumamad, u taludu’ nu lima ku sausien.",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210696.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "satu, misanga tu ku tademaw tu teynnaw. cacanan a kawaw u teynnaw tu mikawaway.",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210697.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "anuayaw, a misanga tu kikay a tademaw ku teynnaw, a mikutay tu tademaw misakakawaw.",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210698.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "yu wawa henay ci Sanpuy, namicakay tu ci ama niza tu kikay a wacu ci Suwan.",
+          "chinese_text": "Sanpuy小的時候，他爸爸就為他買了一隻機器狗Suwan。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210699.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "sawsawni hini han ni Sanpuy ci Suwan :“ mutizeng! mueneng! pudadiw i takuan. ”",
+          "chinese_text": "Sanpuy經常對Suwan說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210700.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "mitengil tu kamu ni Sanpuy ci Suwan. mudadiw ciniza tu kaydihan ni Sanpuy a mitengil a dadiw, patuelib aca tu cacanan ni tengilan ni Sanpuy a kawaw i cinizaan.",
+          "chinese_text": "Suwan非常聽從Sanpuy的話。他為Sanpuy唱任何他想聽的歌，也會回答Sanpuy的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210701.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "tengilen ni Sanpuy ci Suwan, :“ hicaen paluma ku balu? hicaen mizakep ku adipapang? hacica ka batad nu cilal i titaan saw? ”",
+          "chinese_text": "Sanpuy問Suwan怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210702.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "cacanan matineng tu ci Suwan, cacanan patubelien tu ni Suwan ci Sanpuy.",
+          "chinese_text": "Suwan什麼都知道，Suwan什麼都會為Sanpuy解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210703.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "cacay a demiad, daecus ku kuku’ ni Suwan.",
+          "chinese_text": "有一天Suwan的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210704.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "tengilen ni Sanpuy ci Suwan, :“ Suwan, sakamuen kaku, daecus ku kuku’ isu, a hicaen misiwli saw? ”",
+          "chinese_text": "Sanpuy問Suwan說：「Suwan，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210705.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "patubili han ni Suwan, :“ anu siwlien tusa a lasubu ku kalisiw, anu micakay tu baluhay a kikay wacu cacay a lasubu ku aca, kapah tu bakahen isu kaku, micakay aca tu baluhay. ”",
+          "chinese_text": "Suwan回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210706.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "musakamu aca ci Suwan, :“ na u canan ku tingilen isu, u canan ku kanamuhan isu a kawaw, caay henay bakahen isu kaku, a hamin han aku pasubana’ tu baluhay a kikay a wacu. ”",
+          "chinese_text": "Suwan繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210707.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "malalum ci Sanpuy makatengil, caay tu pisakamu ciniza ci Suwanan. sakaku satu ciniza micakay tu tuud, a sapisiwli niza ci Suwanan.",
+          "chinese_text": "Sanpuy聽了很難過，不再繼續問Suwan了。他自己去買了很多材料，用那些材料修理Suwan。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210708.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "sakamu han niza ci Suwan, :“ caay kaku kapawan, tu nipasubana’ isu hicaen mizakep tu adipapang. ”",
+          "chinese_text": "他跟Suwan說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210709.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "musakamu aca ciniza, :“ caay kaku kapawan, nabahbahen isu kiza a mikalatay a wacu itakuan. ”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210710.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "sakamu sa ci Sanpuy, :“ matineng amin kisu tu cacanan, nika maliyuh kisu kya caay bakahen aku kisu. ”",
+          "chinese_text": "Sanpuy說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16874/210711.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 15,
+      "language": "卡那卡那富語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "miaa miana miana miana. ’urupaca cau tavini sumasʉpʉrʉ.",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211264.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "macuvungu, ara’una cu tienau. ’itumuru tavara’ʉn tienau kamanʉngʉ.",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211265.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "nuari tamna mamane, tia kamanʉngʉ kikai cau. muranʉ cau putukio.",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211266.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "miaa ti’ingai pa Pani. nipu’a comin ucani kikai tacau.",
+          "chinese_text": "Pani小的時候，他爸爸就為他買了一隻機器狗tacau。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211267.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "paira pasiʉn Pani sua tacau: “aratakaraa! tupurua! paracania!”",
+          "chinese_text": "Pani經常對tacau說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211268.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "cucuru tumatimana tacau kari Pani. paracani ’apatimana Pani. marivari kesonia pani.",
+          "chinese_text": "tacau非常聽從Pani的話。他為Pani唱任何他想聽的歌，也會回答Pani的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211269.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "kesoniʉn Pani na tacau, makananu mumʉkʉ vungavung? makananu matisa’ʉ ta’anna? makananu sikaraceni taniarʉ?",
+          "chinese_text": "Pani問tacau怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211270.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "tavara’ʉn kavangvang tacau. arivariʉn kavangvang nikesonia Pani.",
+          "chinese_text": "tacau什麼都知道，tacau什麼都會為Pani解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211271.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "’una ucani taniara. niaraka kikai tacau tamna ’acipi.",
+          "chinese_text": "有一天tacau的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211272.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "kesoniʉn Pani na tacau makasi: “tacau, niaraka ’acipi musu, tia pakʉnnanu mati’ʉnʉ’ʉna?”",
+          "chinese_text": "Pani問tacau說：「tacau，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211273.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "marivari tacau: “siarupaca mati’ʉnʉ’ʉna ia, tia cusa mʉna vaantuku. pu’a vo’orua kikai tacau ia, cani mʉna. tainio sua iku, pu’a vo’orua.”",
+          "chinese_text": "tacau回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211274.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "macuvungu tacau makasi: “sua nikesonia musu. ka’anmana musu. noo koo pa tumataini ’ikua, tia tuturuʉn kavangvang na vo’orua kikai tacau.”",
+          "chinese_text": "tacau繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211275.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "tumatimana Pani, aka cʉpʉngʉ. koo cu kesoni na tacau. takacicini pu’a nonoman, mati’ʉnʉ’ʉna tacau iisua.",
+          "chinese_text": "Pani聽了很難過，不再繼續問tacau。他自己去買了很多材料，用那些材料修理Suwan。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211276.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "pasiʉn kee tacau: “ka’anʉ ku tia roimi, tinituru kasu ’ikua makananu matisa’ʉ ta’anna.”",
+          "chinese_text": "他跟tacau說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211277.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "makasi pa: “ka’anʉ ku kangvang roimi, nipucanʉ musu natia rumara’isi ’ikua tacau.”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211278.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "makasi Pani: “tavara’ʉn musu kavangvang, nakai ka’anʉ kasu tavara’ʉ, neni vanai ka’anʉ ku tumataini kasua.”",
+          "chinese_text": "Pani說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16927/211279.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 16,
+      "language": "拉阿魯哇語",
+      "page_count": 16,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kiariari , cucu’una umaruamia pingiramucu umaricacani .",
+          "chinese_text": "古代的時候，人們用手指頭數數字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211832.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "rahlua rumahlaʉ , cucu’una patʉahlʉ tennau . tennauna tuahlʉ arumiaʉ tarʉtatʉkʉhlʉ taiara .",
+          "chinese_text": "後來，人類發明了電腦。電腦可以用來做各式各樣的事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211833.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "sasaruanana cucuari , tennauna maraatamahlʉnga hlumanʉ cucu’u , marapihli cucu’u taku’i’iarʉ .",
+          "chinese_text": "未來的世界裡，電腦被製作成機器人，為人類做很多事情。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211834.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "’Avina akuisa mainimana , amaisa marapihlisana pu’a ucani hlituhlumahlumanʉ a tasau .",
+          "chinese_text": "’Avina小的時候，他爸爸就為他買了一隻機器狗tasau。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211835.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "’Avina karʉkʉhlʉ umahlikua tasauna maluliri apusiri ! patupuru ! marapihli ihlaku pahlucani sahli .",
+          "chinese_text": "’Avina經常對tasau說：「站起來！坐下！請為我唱一首歌。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211836.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "tasauna tamuucu tararianʉ ’Avina kari . pahlusahli arumukaisa tumimahla sahli , umaliavalʉ mʉmʉa pahluamiaisa ’Avina .",
+          "chinese_text": "tasau非常聽從’Avina的話。他為’Avina唱任何他想聽的歌，也會回答’Avina的任何問題。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211837.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "’Avina pakisuahlai tasauna auninia lumalʉmʉkʉ tavahlihla ? auninia matiasangalʉ tapu’ai ? tainini a atʉisa tahliariana ihlata ?",
+          "chinese_text": "’Avina問tasau怎麼種花？怎麼捉蝴蝶？太陽距離我們有多遠？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211838.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "tasauna acahlisa mʉmʉa , macahlia mʉmʉa marapihli ’Avina umalivalʉ .",
+          "chinese_text": "tasau什麼都知道，Suwan什麼都會為’Avina解答。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211839.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "maru ucani aari marakakacu a sapahlʉisana .",
+          "chinese_text": "有一天tasau的腳壞掉了。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211840.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "’Avina pakisuahlai tasauna : “ alivaliuaku ， marakaka sapahliuna akuaini matingahlangahla ?”",
+          "chinese_text": "’Avina問tasau說：「tasau，請回答我，你的腳壞掉了，要怎麼修理？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211841.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "umalivalʉ a tasauna : “ liuhlu hlipatangahlangahlanaia usua hlimiungu aruamia , pucani varu’u kikai tasauna vahlitukuia hlimiungu , tuahliu malivilau ihlaku pungahlangahla ucani varu’u .”",
+          "chinese_text": "tasau回答說：「用來修理所的錢是200元，用來買一個新機器狗的錢是100元，你可以把我丟掉，再買一隻新的。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211842.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "pihlusuhlusu a tasauna : “ hlipakisuahlaiu misaini pahluamia , ngasa arumukau pahlivinga , maku apatavilau mualualuia , kiahlahlamu varu’u kikai tasauna . ”",
+          "chinese_text": "tasau繼續說：「你問過什麼問題，你喜歡什麼事物，在我被丟掉之前，都會告訴新的機器狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211843.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "tumimahla ’Avina tam takuliacʉ a tʉkʉisa , kucu pakisungahlangahla tasauna . musa kana’ana pu’a matumuhlu aruamia pahlivinga , aruamiaisa matingahlangahla tasauna .",
+          "chinese_text": "’Avina聽了很難過，不再繼續問tasau了。他自己去買了很多材料，用那些材料修理tasau。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211844.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "kihlamuhlamu a kana’ana tasauna : “ kuaku asapu , hlitumuturu ihlaku aunini a matiasangalʉ tapu’ai .”",
+          "chinese_text": "他跟tasau說：「我不會忘記，你曾經教我怎麼捉蝴蝶。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211845.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "amimana kana’ana : “ kuaku mʉmʉa asapu ， hlimarapihliu palitatalalu umaracʉ ihlaku tasau . ”",
+          "chinese_text": "他又說：「我也不會忘記，你曾經為我趕走那隻要咬我的狗。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211846.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "amihla ’Avina : “ acahliu mʉmʉa , ucani kuacahliu tiaraku maliavilau . ”",
+          "chinese_text": "’Avina說：「你什麼都知道，但是你不知道為什麼我不會丟掉你。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/16980/211847.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/111/16.jpg"
+        }
+      ]
+    }
+  ],
+  "source_urls": {
+    "info": "https://web.klokah.tw/pbc/book/index.php?id=111",
+    "online": "https://web.klokah.tw/pbc/book/online/index.php?id=111"
+  }
+}

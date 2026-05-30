@@ -1,0 +1,3257 @@
+{
+  "id": 147,
+  "title": "思樂本的種子",
+  "illustrator": "莊則言",
+  "level": "中高級",
+  "grammar_focus": "動態動詞",
+  "summary": "Selep 很喜歡種子。她常常在路上撿拾不同植物的種子。家裡也有各種大大小小的種子，每一顆都紀錄著不同的故事。她認為種子總是可以帶給她力量。只要握著種子，什麼困難都會迎刃而解。她即將要面對傳統領袖的繼承，種子能給予她力量去面對嗎？\n繪本的重點語法為動態動詞。同時加入了排灣族語及文化的相關概念，像是一詞多義的vusam（長嗣、種子）、zangilj的衍生詞（ma-zangilj女王蜂和maza-zangilj-an傳統領袖）及相關的文化概念，從不同角度認識排灣族傳統領袖的繼承文化。故事中也加入了性別元素，讓讀者可以思考性別、能力與身分間的關係。",
+  "language_count": 16,
+  "available_languages": [
+    {
+      "lid": 1,
+      "name": "阿美語",
+      "page_count": 16
+    },
+    {
+      "lid": 2,
+      "name": "泰雅語",
+      "page_count": 16
+    },
+    {
+      "lid": 3,
+      "name": "賽夏語",
+      "page_count": 16
+    },
+    {
+      "lid": 4,
+      "name": "邵語",
+      "page_count": 16
+    },
+    {
+      "lid": 5,
+      "name": "賽德克語",
+      "page_count": 16
+    },
+    {
+      "lid": 6,
+      "name": "布農語",
+      "page_count": 16
+    },
+    {
+      "lid": 7,
+      "name": "排灣語",
+      "page_count": 16
+    },
+    {
+      "lid": 8,
+      "name": "魯凱語",
+      "page_count": 16
+    },
+    {
+      "lid": 9,
+      "name": "太魯閣語",
+      "page_count": 16
+    },
+    {
+      "lid": 10,
+      "name": "噶瑪蘭語",
+      "page_count": 16
+    },
+    {
+      "lid": 11,
+      "name": "鄒語",
+      "page_count": 16
+    },
+    {
+      "lid": 12,
+      "name": "卑南語",
+      "page_count": 16
+    },
+    {
+      "lid": 13,
+      "name": "雅美語",
+      "page_count": 16
+    },
+    {
+      "lid": 14,
+      "name": "撒奇萊雅語",
+      "page_count": 16
+    },
+    {
+      "lid": 15,
+      "name": "卡那卡那富語",
+      "page_count": 16
+    },
+    {
+      "lid": 16,
+      "name": "拉阿魯哇語",
+      "page_count": 16
+    }
+  ],
+  "page_count": 16,
+  "pages": [
+    {
+      "page_number": 1,
+      "chinese_text": "Selep 很喜歡蒐集不同植物的種子。有一次，Selep 看到路上有月桃的種子。她興奮地跑過去，卻不小心跌倒了。",
+      "chinese_variants": [
+        {
+          "text": "Selep 很喜歡蒐集不同植物的種子。有一次，Selep看到路上有月桃的種子。她興奮地跑過去，卻不小心跌倒了。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Selep 很喜歡蒐集不同植物的種子。有一次，Selep 看到路上有月桃的種子。她興奮地跑過去，卻不小心跌倒了。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Lubi 很喜歡蒐集不同植物的種子。有一次，Selep 看到路上有月桃的種子。她興奮地跑過去，卻不小心跌倒了。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "selep很喜歡蒐集不同植物的種子。有一次，selep看到路上有月桃的種子。她興奮地跑過去，卻不小心跌倒了。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "Selrep 很喜歡蒐集不同植物的種子。有一次，Selrep 看到路上有月桃的種子。她興奮地跑過去，卻不小心跌倒了。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Srepen 很喜歡蒐集不同植物的種子。有一次，Srepen 看到路上有月桃的種子。她興奮地跑過去，卻不小心跌倒了。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "selep很喜歡蒐集不同植物的種子。有一次，selep看到路上有月桃的種子。她興奮地跑過去，卻不小心跌倒了。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "sʉlopʉn 很喜歡蒐集不同植物的種子。有一次，sʉlopʉn 看到路上有月桃的種子。她興奮地跑過去，卻不小心跌倒了。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Selep 很喜歡蒐集不同植物的種子。有一次，Selep 看到路上有月桃的種子。她興奮地跑過去，卻不小心跌倒了。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Sʉrʉp很喜歡蒐集不同植物的種子。有一次，Sʉrʉp 看到路上有月桃的種子。她興奮地跑過去，卻不小心跌倒了。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "selep很喜歡蒐集不同植物的種子。有一次，selep 看到路上有月桃的種子。她興奮地跑過去，卻不小心跌倒了。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/1.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926315.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Tada maolah misa’opo to caayay ka lecad a pinalengaw a sapal ci Selep. Yo kinacecay paka’araw i lalan ira ko sapal no lengac ci Selep. Salipahak sa comikay a miraod, nika caay pina’on matolo’.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926364.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "smoya balay lmamu ghap ana nanu qu Selep. txan ga, mita’ ghap bsyaw cyux maki babaw tuqi qu Selep. mqas iyal mqzinah musa ru ini’ baq qsliq mtakuy la.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926413.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "Selep minowa’ romoton ka ’inokik hingha’ ka tatokoeh. monhal, Sayta’ komita’ ray ra:an hayza tatokoeh noka ’iyetaw. siya Siyae’ ’ae’ae:aew rima’, ’okay ’iya’azem ngizo’ ila.",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926463.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shilup mathuaw miku pakinsuunin sa antu tataal a fafinshiq. ianan tata wa qali, Shilup mriqaz isa saran ianan razu a fafinshiq. maqaran thithu malalia mu’iutu, kanuniza antu miaramaz taubukbuk.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926512.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Smkuxul smmeli mllamu rehak sphuma ka Selep. Niqal texan, moda eluw qmita rehak bsiyo. Kana ba qnqaras na tmalang musa, ni muwa mtakur di peni.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926561.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "selep hai mazima masaimushul mas vaivivaivi tu ismut tu auhsa, aiza tu musan, selep hai sadu mas isia daan tu Sizu tu auhsa. manas kal saia cisdadan tu nakudi nitu mananulu hai mucingkul saia.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926610.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "tjengelay aravac ti selep a ljemulju ta maretimaljimalji a talem a vat. izua ka kintalj, pacun ti selep tu izua a vat nua ngat i kadjalanan. namasilevan timadju a semazua, ini ka nakipapawlingav manu matjani.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926659.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "madalame kay Selrepe sarubu kuidra makaelaela ku sapaivay ki lawacebecebe. yakay sakakingivalane, kay Selrepe la dreele ikadalranane ku sapaivay ki sali. la kiraragay lrabwale papia kuini, ai kai kiapapawlringaw la nguadreke.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926708.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Mnegsmli bi klgan ghak hmut hmnru ka Srepen. Niqan pxal, qmita niqan ghak bsiyaw gaa elug ka Srepen. Mqaras tmalang musa ka hiya, ini qlahang ni mtakur da.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926757.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "melizaq semapun tu tatezuma ay tissan na penaluman ti selep. yau kelisa, mataytan na ni selep ta lazanan yau ussiq tissan na naned. melizaq aizipna meRaRiw matiw. mai satawaR mesuRaw ti.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926806.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "sʉlopʉn la kaebʉ homo ’apʉpʉyʉ to tutu no mav’ov’o ci cacʉfea. ’i nʉskʉ, sʉlopʉn baito tomo yonto ceonʉ ci tutu no kitposa. mita aveoveoyʉ ho toe’unu maita’e, ma mita o’te buebealʉ ho smopcuku.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926855.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "sagar emapetr dra marekamenimeni dratu bini dra semaseberan i Selep. a riyasalr driya, menau i dadalan dratu bini dra rengas i Sakap. tu semangalan i, kabekas muka. amawna, adri temaranapaw aw, malladu.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926904.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "si Selep am na ikakza mangpeh so macitarek a vottow no tametamek. ipisa, si Selep do rarahan am macita na o vottow no azngas. masaray a malalayo mangey, am to jialektek.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926953.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "manamuh ci Selep misupet tu cacanan a sapaluma nu langaw, cacay a demiad makazih ci Selep tu sapaluma nu lalengac. tanu namuh sa ciniza maduba’ tayza, nika caay pihaymaw mapulin.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927002.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "manmaan Sʉrʉp marikʉpʉ karananana rapʉ karukarua. ’una makaan cumacʉ’ʉra Sʉrʉp na cacanʉ ’una tapa tamna rapʉ, macangcangarʉ nguain arapana’ʉ mukusa ’inia, nakai koo matangiri musutupuku.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927051.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "marumuku a selep mariapucu tarʉtatʉatʉkʉhlʉ tutumasukiu’u. hlimungahlʉ, taratʉahlʉ a selep ma sala’a pi tututapaʉ. masasangarʉ a kana’ana tapikakuaisana, kupaiatuhluhlu milakupu.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927100.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "chinese_text": "「Selep 跑步也會跌倒，也太弱了吧！」男同學取笑 Selep。雖然 Selep 很不開心，但她沒有說話。握著種子，回家了。",
+      "chinese_variants": [
+        {
+          "text": "「Selep跑步也會跌倒，也太弱了吧！」男同學取笑 Selep。雖然 Selep 很不開心，但她沒有說話。握著種子，回家了。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "「Selep 跑步也會跌倒，也太弱了吧！」男同學取笑 Selep。雖然 Selep 很不開心，但她沒有說話。握著種子，回家了。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "「selep跑步也會跌倒，也太弱了吧！」男同學取笑selep。雖然很不開心，但她沒有說話。握著種子，回家了。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "「Selrep 跑步也會跌倒，也太弱了吧！」男同學取笑 Selrep。雖然 Selrep 很不開心，但她沒有說話。握著種子，回家了。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "「Srepen 跑步也會跌倒，也太弱了吧！」男同學取笑 Srepen。雖然 Srepen 很不開心，但她沒有說話。握著種子，回家了。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "「selep跑步也會跌倒，也太弱了吧！」男同學取笑selep。雖然selep很不開心，但她沒有說話。握著種子，回家了。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "「sʉlopʉn 跑步也會跌倒，也太弱了吧！」男同學取笑 sʉlopʉn。雖然 sʉlopʉn 很不開心，但她沒有說話。握著種子，回家了。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "「Selep 跑步也會跌倒，也太弱了吧！」男同學取笑 Selep。雖然 Selep很不開心，但她沒有說話。握著種子，回家了。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "「Sʉrʉp 跑步也會跌倒，也太弱了吧！」男同學取笑 Sʉrʉp。雖然 Sʉrʉp 很不開心，但她沒有說話。握著種子，回家了。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "「selep跑步也會跌倒，也太弱了吧！」男同學取笑 selep。雖然 selep 很不開心，但她沒有說話。握著種子，回家了。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/2.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926316.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "“Comikay ho matolo’ to ci Selep, o tadancaay ito!” O tatawaen to no fa’inayan a kapot mitilid cingra. Matiyatiya caayay kalipahak ci Selep, nika awa ko sasowalen ningra. Mitatoy toya sapal, minokay to.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926365.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "psyaqan seto’ mlikuy Selep mha, “ana qzinah mtakuy qu Selep. mozyay iyal la!” ana ini’ pqas Selep ga, ini’ syang. meng ghap wayal ngasal la.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926414.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "“Selep ’ae’ae:aew ngizo’! ’ah! kin ’okaS!” kamama’onhal kamakiSka:at sawa’ hi Selep. Selep ’ana ’imahowiS, ma’ siya ’okay payaka:i’ ka kano’. ’ima taSitatokoeh, lobih ila.",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926464.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "“Shilup ya malalia ataubukbuk dai, antu makundur!” Shilup kafazaan tataal lhmupish a huruy, sharaqian Shilup antu ma’alah’a, kanuniza thithu antu malhinuna. hmadu thithu sa fafinshiq manataun.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926513.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "“Ani tikuh tmalang mtakur ka Lubi, Ye uka ba bbeyax na!” Phlisan mgeexan na ka Selep. Ani naq ini qqaras ka Selep. ini rrengo mmaanu ka heya. Dooyun na ka rehak wada sapah na di.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926562.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "selep mais cisdadan hai mucingkulang amin. masmuavin aupa tu mavai daingaz! aluskunan tu mabananaz hai mahainan saicia sakulaz mas selep cia, anatupa saia tu Nniitu manas kala isang haitu niia saia antalam palinanutu kaza malishut saia maldikus mas auhsa cia kulumah.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926611.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“nu ka mintjulu’ matani uta ti selep, parut aravac!” aya pedeli a u’alja’aljay tjay selep. uwi tu madudu ti selaep, ljakua ini ka nanema aya timadju. ginemegem sakamaya a vat, sa vaik a tjuma’.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926660.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "“kay Selrepe adravane lu lrabwale nguadreke, alatuaramuru na!\" la mulralrakay ki Selrepe kay papalraini kay lasawvalay. unu kay Selrepe kai kiaragay, ai kadrua ku kawrivaini. la gemegeme ki sapaivay si katwase mutavanane.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926709.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "“Ma ana tmalang mtakur ka Srepen, msuqi ungat brax kida!” Mhulis Srepen ka dsnaw tnhiyan na matas. Ana yaa ini qqaras ka Srepen, kiya ka kiya ni ini squwaq ka hiya. dmuuy ghak, wada sapah da.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926758.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "“meRaRiw ti selep mesuRaw qaya, ququduq ti dames qaya!” patawan na Runanay ay kaput temaqsi ti selep. mai melizaq anem ni selep, wanayka mai sikawma aizipna. qepeRan na tissan, temanan ti.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926807.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "“sʉlopʉn maezo smopcuku ho mita peayofʉ, mita angu yoyoi’u!” cocvi to lahen’i tmahmʉhmʉskʉ ’e sʉlopʉn. ’e sʉlopʉn mita ’evono ’oha kaebʉ, at’inghi o’a mitas’a ya’ei. pxta si tutu, hocu maine’e.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926856.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“arusay an kabekas i, mallalladu driya i Selep. adri makesekeser i!” kema aw tu kasaeruway kantu risarisan na mainayan i Selep. adri inaba tu anger kan Selep. amawna, adri marengay dra mamanamanay. tu dikesay na bini aw muruma.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926905.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "ey ya to jialektek si Selep, ya abowta so angangayan eya! si Selep am da ikaming no kapalangayan na a mahakay. tana ya marahet so onooned si Selep am a ikongo pa o ciriciring na. kemkemen o vottow, moli rana do vahay.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926954.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "“maduba’ ci Selep mapulin tada ahemi’ tu” katawaen nu tatama a cabay ci Selep, caay kalipahak ku balucu’ ni Selep, nika caay pisakamu ciniza. kapeten niza kya sapaluma, taluma’ tu.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927003.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "“Sʉrʉp ’inmamia arapana’ʉ musutupuku kangvang, cucuruana kacaraini!” pacacaʉn sasarunai sua Sʉrʉp, ’apaco’e ka’anʉ manʉng cʉpʉngʉ Sʉrʉp, nakai koo pokarikari, mukʉrʉ rapʉ pui’i tanasa.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927052.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "mialakupu mʉmʉa selep maci mitahlahlʉ, pacaca laʉlaʉvʉisa hlahlusana selep, maniki takuliacʉ a tʉkʉisa selep, ucanika kuaruliri a kana’ana. matipungu tutu’u puaili salia.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927101.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "chinese_text": "Selep 把種子放到書桌上的小盒子裡。裡面放著大大小小的種子，有一顆是木棉的種子。",
+      "chinese_variants": [
+        {
+          "text": "Selep把種子放到書桌上的小盒子裡。裡面放著大大小小的種子，有一顆是木棉的種子。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Selep 把種子放到書桌上的小盒子裡。裡面放著大大小小的種子，有一顆是木棉的種子。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "她把種子放到書桌上的小盒子裡。裡面放著大大小小的種子，有一顆是木棉的種子。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "Selrep 把種子放到書桌上的小盒子裡。裡面放著大大小小的種子，有一顆是木棉的種子。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Srepen 把種子放到書桌上的小盒子裡。裡面放著大大小小的種子，有一顆是木棉的種子。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "selep把種子放到書桌上的小盒子裡。裡面放著大大小小的種子，有一顆是木棉的種子。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "sʉlopʉn把種子放到書桌上的小盒子裡。裡面放著大大小小的種子，有一顆是木棉的種子。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Selep 把種子放到書桌上的小盒子裡。裡面放著大大小小的種子，有一顆是木棉的種子。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Sʉrʉp 把種子放到書桌上的小盒子裡。裡面放著大大小小的種子，有一顆是木棉的種子。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "selep 把種子放到書桌上的小盒子裡。裡面放著大大小小的種子，有一顆是木棉的種子。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/3.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926317.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Paroen to ni Selep ko sapal i mimingay a hako miteli i tongroh no parad. Mateli ko kahirahira a sapal i laloma’, ira ko cecay o sapal no parok a kilang.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926366.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "syun nya zik kulu sa babaw haray ghap qu Selep. ini’ ktnaq hupa’ ki cipuq na ghap sni’ nya zik. cyux qutux ghap na sbus.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926415.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "tatokoeh ni Selep ’aSkanen ray talka: babaw ka hakhako’ ’i:zo’. ’isa:a’ ’i:zo’ ka tatokoeh hayza ’ima sopaloy ’ima ’ol’olae’an, hayza ’aehae’ ’noka mo’miyan a ka tatokoeh",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926465.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shilup pusai fafinshiq isa marutaw pangka wa fafaw langqisusay a qurup. itmaz puilin sa mara’in numa langqaqisusay a fafinshiq, ianan tata mua ribush a fafinshiq.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926514.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Spoosa na kulu biciq truma ka rehak na Selep, ma psaun na bobo pptasan. Truma na niqal prparu, bcbiciq ka rehak. Niqal kingal rehak na Mumen.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926563.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "pisainun saicia auhsa sia pangkaka tu haku ikit at pidadazaun saicia masangkun.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926612.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "pizuain a vat i tua kedrikedri a haku ni selep. izua a kakudrakudralan, kakedrkedrian a vat, izua a ita a na puluc a vat.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926661.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Selrepe la malra kuini sapaivay pibelenge ki cukui ki lailangiane. kuini yaadringi la pikay ku taadradraw tatitiki ku sapaivay, yakay ku vaeva ku sapaivay ki calrathay.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926710.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Pnsaan Srepen ruwan kulu bilaq babaw tluan ka ghak. Ana manu ghak ka ga psaan kska hiya, niqan kingal ka ghak qhuni dmayi.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926759.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "sepezan na ni selep ta takanan ta kitut ay Raku ya tissan. ta teReq na Raku yau RaRaya kikitut ay tissan ni sepezan. yau ussiq tissan na kepuwa.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926808.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "sʉlopʉn is sia tamo yonta tposno pangka ci oko no hako si tutu. ’aemonassi sii tamo maamtanʉ ’o’o’kosi ci tutu, mo meheacni si tutu no evinokʉyʉpa.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926857.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "tu retraanay na bini kana trabak i papadraran kan Selep. kana trabak i sabak i, ullaya a dadawanan lla, a kakitengan lla a bini. ullaya a saya tu bini dra takumull.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926906.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "si Selep am nipangey o vottow do kavahayan a ipivatvatkan. amian so alilikey a ka no ararako a vottow do kavahayan, amian so asaka vottow no kayo.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926955.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "patayzaen ni Selep i pabaw nu takal i labu a didiay a haku, i labu sa izaw ku adidiay tabakiay a sapaluma, izaw ku nu mubeyn a sapaluma.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927004.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "araʉn Sʉrʉp rapʉ musʉ’ʉ na pangka ’inia vu’a. ’una ’inia tatia ma’ura rapʉ, ’una ucani ia uata tamna rapʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927053.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "saikua selep tutu’u ava ma ahlahlapa tasuhlatʉa. rʉrʉmanʉ pi tarʉtatʉatʉkʉhlʉ tutu’u amamaini, pi ucani palungana tutupatalungutungukuan.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927102.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "chinese_text": "「我可以用這顆種子跟你交換玩具車嗎？」Selep 問。「不行！玩具車是男生的玩具，女生不能玩！」弟弟說。",
+      "chinese_variants": [
+        {
+          "text": "「我可以用這顆種子跟你交換玩具車嗎？」Selep 問。「不行！玩具車是男生的玩具，女生不能玩！」弟弟說。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "「我可以用這顆種子跟你交換玩具車嗎？」selep問。「不行！玩具車是男生的玩具，女生不能玩！」弟弟說。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "「我可以用這顆種子跟你交換玩具車嗎？」Selrepr 問。「不行！玩具車是男生的玩具，女生不能玩！」弟弟說。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "「我可以用這顆種子跟你交換玩具車嗎？」Srepen 問。「不行！玩具車是男生的玩具，女生不能玩！」弟弟說。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "「我可以用這顆種子跟你交換玩具車嗎？」selep問。「不行！玩具車是男生的玩具，女生不能玩！」弟弟說。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "「我可以用這顆種子跟你交換玩具車嗎？」sʉlopʉn 問。「不行！玩具車是男生的玩具，女生不能玩！」弟弟說。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "「我可以用這顆種子跟你交換玩具車嗎？」Selep 問。「不行！玩具車是男生的玩具，女生不能玩！」弟弟說。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "「我可以用這顆種子跟你交換玩具車嗎？」Sʉrʉp 問。「不行！玩具車是男生的玩具，女生不能玩！」弟弟說。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "「我可以用這顆種子跟你交換玩具車嗎？」selep 問。「不行！玩具車是男生的玩具，女生不能玩！」弟弟說。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/4.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926318.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Licay sa ci Selep. “Manga’ay kako toni a sapal mifalic to tasalamaan a paliding i tisowanan?” Sowal han no safa fa’inayan. “Tatiih! no fa’inayan a tasalamaan koni a paliding, tatiih ko fafahiyan a misalama!",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926367.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "maqut Selep mha, “yugaw maku ghap qani qu pzi’an torak su ma?” smyuk sswe’ mlikuy mha, \"iyat! pzi’an na mlikuy qu torak. ini’ pzwi’ qani kneril hiya.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926416.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "“yako kayzaeh ay ’anoka binSi’ sasapih ki So’on ka ka’aymo’on?” Selep manabih. “kayni’! hini ’inoka kamamanra:an a ka’aymo’on, minkoringan ’izi’ ’aymo’ ka ’inakhini’an!” minayti’ manabih.",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926466.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "“shduu iaku pasai haya wa fafinshiq puriri mihu a patinhina wa barimbin qa?” makikalhi Shilup. antu! patinhina barimbin sa auyzi a patinhina wa aniamin, binanau’az antu patinhina!” shashauzi ayuzi mzai.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926515.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "“Ye ini huwa pryuxun mu rulu tthiqun su ka rehak nii?” Smiling Selep. “Uxe! Rrngayun rrseno ka qyqeya nii. Ini ptlengi mmqedil.”",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926564.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa selep tu adu mahtu saikin maku uni andi tu auhsa tan mapa uvaiv mas ashailangun tan? antalam isaicia nauba nanaz tu ai ! niitu mahtu ,aupa maluspingaz hai niitu mahtu mashailang saicin.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926613.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“makaya aken a kivalit tjanusun tua su vangavangan a zidusia tuaicu a vat?” aya ti selep. “ini! vangavangan nua u’alja’aljay a zidusia, ini ka makaya a vavayan a kivangavang!” aya azua a tjaljaljak a kaka.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926662.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "“lridulruaku arakay kay sapaivay kibalrithi musuane kuini vavangane ka tukutuku?” Selrepe ka kiavaga. “ini! vavangane ki sawvalay kuini tukutuku, kaidu sivavavangane ka ababay!” amia kay agiini.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926711.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "“Pryuxun ta ghak nii ka tdruy rngayun su hug?” Smiling ka Srepen. “Ini tduwa! Rngayan laqi snaw ka tdruy rngayun, ini tduwa rngayun laqi kuyuh!” Rmngaw ka swayi snaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926760.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "pasanu ti selep “qanengi ku medaiyung tu tissan zau simsedas tu qitun qawRatan ni?” “qasukaw! qawRatan qitun nani qawRatan na Runanay, sukaw mawRat tazungan!” zin na semanu Runanay ay suani.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926809.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "“te`o peela titha ’e tutu ho peʉezeni si lako titha peispak’i ci kuyai?” isi tuocosi ta sʉlopʉn. “o’a! ’ala titha ta haahocngʉ si kuyai no peispak’i, o’a te peela titha ta maamespingi!” yainca ta ohaesa.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926858.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“idri na bini i, ti drulunanay kanu kalalinayan na palidring maw?” kema kiyumall i Selep. “adri karuwa! na kalalinayan na palidring i, nantu kalalinayan dra mainayan. adri karuwa malinay a babayan!” kema temubang tu wadi na mainayan.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926907.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "“koan ni Selep amian so asaka vottow ji yaken apia ka papalitan ko jimo so aleleh?” koan ni wari a mahakay “tosya! alalam no mahakay o aleleh, ta pialalam no mavakes ya!”",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926956.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "“kapah kaku uyni a sapaluma mibalic i tisuan tu aidangan a kazizeng haw?” han ni selep mitengil. “daecus! u nu tatama a aidangan ku kazizeng, daecus ku tatayna midang.” sa ku sabama.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927005.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "“tʉni kara ku ’urupaca rapʉ isi mairi kasua muarʉ kuruma?” kesoni sua Sʉrʉp. “aka! sua muarʉ isi ia sarunai tamna muarʉ, aka nanakʉ sima’ʉ ’inia!” makasi kanarua sarunai.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927054.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "“tuahliku i umaru kani’i tutu’una puliuhlu hlitulikilikihla ahlamʉ?” pakisuahlai a selep. “kuacahli hlitulikilikihla ahlamʉna ia tuahlahlama hlahlusa, ku tuahlahlama ahlaina!” amihla hlimilavaʉ hlahlusa.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927103.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "chinese_text": "每顆種子都有故事。Selep 不開心的時候，就會看著這些種子。她相信種子能給她勇氣，所以捨不得丟掉。",
+      "chinese_variants": [
+        {
+          "text": "每顆種子都有故事。Selep 不開心的時候，就會看著這些種子。她相信種子能給她勇氣，所以捨不得丟掉。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "每顆種子都有故事。Selep不開心的時候，就會看著這些種子。她相信種子能給她勇氣，所以捨不得丟掉。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "每顆種子都有故事。selep不開心的時候，就會看著這些種子。她相信種子能給她勇氣，所以捨不得丟掉。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            },
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        },
+        {
+          "text": "每顆種子都有故事。Selrep 不開心的時候，就會看著這些種子。她相信種子能給她勇氣，所以捨不得丟掉。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "每顆種子都有故事。Srepen 不開心的時候，就會看著這些種子。她相信種子能給她勇氣，所以捨不得丟掉。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "每顆種子都有故事。selep不開心的時候，就會看著這些種子。她相信種子能給她勇氣，所以捨不得丟掉。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "每顆種子都有故事。sʉlopʉn 不開心的時候，就會看著這些種子。她相信種子能給她勇氣，所以捨不得丟掉。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "每顆種子都有故事。Selep 不開心的時候，就會看著這些種子。她相信種子能給她勇氣，所以捨不得丟掉。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "每顆種子都有故事。Sʉrʉp 不開心的時候，就會看著這些種子。她相信種子能給她勇氣，所以捨不得丟掉。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/5.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926319.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Maemin ira ko kakimaden no kahacecay no sapal. Ano caay ka lipahak ko faloco’ ni Selep, minengneng to tonininini a sapal. Pakaso’elin cingra paini to sakacicodah no faloco’ ko sapal saan, orasaka tango’or mifalah cingra.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926368.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "cyux nanak pin’aras ke nqu llamu’ ghap. trang ini’ pqas Selep ga, yasa ngayan nya ghap qani. snhyun nya baq miq rngu’ qu ghap. nanu yasa lngisan nya balay muling.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926417.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’aehae’ ’aehae’ ka tatokoeh hayza saboeh ka kapanpanabih. Selep hayza ’imahowiSa, ’isa:a’ komita’ ka hiza tatokoeh siya paka:i’ ka tatokoeh mobay ka wa’is hisiya, ’isa:a’ siya Sobaeh kayni’ boloe’.",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926467.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "tatata wa fafinshiq ianan sa kahiwan a lalawa. Shilup ya antu ma’alah’a, numa mriqaz haya wa fafinshiq. tmara thithu fafinshiq apiakundur thithu, numawan masuzay ya qawriwan.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926516.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Knkingal rehak niqal naq ka ndaan daha. Naqah kuxul na Selep de, qtaan na ka kana rehak nii. Snhei ba mesa mmeege knremun heya ka rehak nii. Kiya krwahun na ini qdaani.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926565.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "maza vaivivaivi tu auhsa hai aizan aimin mas ispalihabasan tu kanadan, maza selep mais nitu manaskal hai mashailang saia masivit mas auhsa cia, latuza saia tu namahtu auhsa an masaiv saicia mas tamasaz pahasia kadimaunun saicia at nitu istakunav saicia.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926614.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "azua a vat tjara izuazua a tjawcikel. nu ini ka nasarungua’ a varung ni selep, pacun sakamaya taicu a mareka vat. masalu timadju tu makaya a papupicul tjaymadju azua a vat, sika ini ka sivulju’ nimadju a vat.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926663.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "sanakasapaivay tarayakay kuidra tinuabubulruane. sa kai katharithariri ku kidremedremeini ki Selrepe, la malra kuini sapaivay si dredredreele. kay alisu kiapautenga kay sapaivay lridulru pasapukuane iniane, la kaamani kuidra kaika apicilriini.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926712.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Niqan ndaan kana ka kngkingal ghak. Ini qqaras siida ka Srepen o, dmhaw ghak dnii. Snhiyun na tduwa mgay mrmun hyaan ka ghak, kika kmrawah bi ini sruwa qmada.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926761.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "nizu yau kungku na tissan meniz. qumnut ti selep nani, temayta ti tu tissan zau. sazemaken aizipna tu tissan zau bula timaizipana tu qataRuzan, Raqana meninan mai walinan na.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926810.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "’emo macocono tutu mo acʉhʉ yaa ehohanva a. sʉlopʉn hola ’oha kaebʉ, tasicu mi’usni ’emo pio ci tutu. isi ta’uiva ’e tutu tesi pela pafi no tonʉ, ko’ko o’alasi secʉ’ha ciha.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926859.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "ullaya tu batibatiyan kana karesayasaya na bini. an ullaya tu sepellan kan Selep i, tu nauway nadri na binibini. pakupanaan dra, tu puwakedrangi ku kanadri na bini kema tu anger. driyama, llaman dra aatell.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926908.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "jingyan so pipipangayan no vottow eya. no mazokaw so onooned si Selep am, singkadan o vottow. na katengan amian so ipakowyat na a, am ori na ji wasik nya.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926957.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "izaw amin ku kungku nu sapaluma, anu caay kakapah ku balucu’ ni Selep, miazih tu tina sapuluma ciniza, patatenga’ ciniza a paicelang ku sapaluma i cinizaan. kyu dangidi mibakah ciniza.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927006.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "cancani rapʉ ’una kavangvang ’ʉna. noo aka cʉpʉnʉ Sʉrʉp, cumacʉ’ʉra cu rapʉ isi, putucucuru nguain tʉni rapʉ movua ’inia ’intasʉ, imua koo pacʉpʉngʉ tia tumataini ’inia.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927055.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "aucaucani tutu’u pi sikisuahlahlama. maci takuliacʉ tʉkʉisa selep ia, kumakikita kani’i tutu’una. tuahlʉ tutu’una paravacangʉ tʉkʉisa, kuhlaisai manaʉ malivilauisana.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927104.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "chinese_text": "不知不覺，種子已經多到放不下了。房間裡到處都是 Selep 蒐集的種子。",
+      "chinese_variants": [
+        {
+          "text": "不知不覺，種子已經多到放不下了。房間裡到處都是 Selep 蒐集的種子。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "不知不覺，種子已經多到放不下了。房間裡到處都是Selep蒐集的種子。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "不知不覺，種子已經多到放不下了。房間裡到處都是蒐集的種子。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "不知不覺，種子已經多到放不下了。房間裡到處都是 Selrepe 蒐集的種子。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "不知不覺，種子已經多到放不下了。房間裡到處都是 Srepen 蒐集的種子。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "不知不覺，種子已經多到放不下了。房間裡到處都是selep蒐集的種子。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "不知不覺，種子已經多到放不下了。房間裡到處都是sʉlopʉn 蒐集的種子。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "不知不覺，種子已經多到放不下了。房間裡到處都是 Selep 蒐集的種子。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "不知不覺，種子已經多到放不下了。房間裡到處都是 Sʉrʉp 蒐集的種子。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "不知不覺，種子已經多到放不下了。房間裡到處都是 selep 蒐集的種子。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/6.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926320.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Talifahalan sa, adihay to caay to kaedeng ko patelian ningra to sapal. Saheto to o misa’opoan a sapal ko kafoti’an ni Selep.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926369.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "ini’ baq qsliq lga, pzyux balay ghap memaw ungat syan la. zik ’byan cyux ki’an lnamu’ ghap na Selep kwara.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926418.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’okik ra:ami, tatokoeh ’akoy ila rinoton ’am ’oka’ ila ka’aSkanan. ray pino’azis ’i:zo’ ’ana hayno’ ma’ ni Selep rinoton ka tatokoeh",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926468.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "mulhumzaw, antu shduu fafinshiq puil. itmaz ianan kakaririan sa Shilup pakinsuunin a fafinshiq.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926517.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Ini klai, wada stngayan uka ppsaan ka rehak di. Stngayan rehak lnmuwan na Selep kana ka sapah na truma.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926566.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "nitu haiaphaiap, maza auhsa hai manadidip tu minsusus, maza sapalan hai matusin tu azaz tu auhsa.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926615.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "ini ka kemeljakeljang, inianga ka makaya a pasazuan i tua kindraljum a vat, a masa liavan nua vat. sedelj anga a vat i tua vangvang ni selep.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926664.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kai wathingathingale, kuini sapaivay la kakalranga sika kaduanga ku apikaiyane. salraelrenga ki daane kuini nisarubuane ki Selrepe kuini sapaivay.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926713.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Ini klai, knlala ni ini hqli pha ka ghak da. Ghak smnli Srepen kana ka ruwan tqian sapah.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926762.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "Raynguan na, muwaza ti tissan Rayngu ti qasepez. ta qinpanan na ni selep niz ti nisapunan na tu tissan.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926811.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "o’a isi cohivi, ’e tutu micu na’no man’i acʉhʉ no uk’a na ci isi sii. ’o aemana ta emoo zou cu acʉhʉ ’oisi ’apʉ’pʉya to sʉlopʉn ci tutu.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926860.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "adri malladram dra, esadru lla dradru tu inapetr na bini aw uniyan lla dra raretraan. a binibini lla tu kiyaedrengan kan Selep.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926909.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "miratateng am, ya ji makanet o vavahay no vottow. inana vottow do ireyrayan na ni Selep.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926958.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "matenes tu, caay tu kataneng patalabu tu sapaluma, i bacal i cuwacuwa u u ni saupuan ni Selep a sapaluma.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927007.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "koo pacʉpʉngʉ, ’itumuru cu rapʉ ’akia cu tasʉ’ʉa. ’esi na ’aravang kuratumuru cu niarikʉpʉa Sʉrʉp rapʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927056.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "kuacacahli, kucu tapuani ikuaʉ tutu’una, tatarana rianicu hliaripucuisa selep tutu’u.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927105.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "chinese_text": "Selep 今天又出門撿種子。她想要撿一顆欒樹的種子，送給生病的爸爸，希望他趕快好起來。",
+      "chinese_variants": [
+        {
+          "text": "Selep 今天又出門撿種子。她想要撿一顆九芎樹的種子，送給生病的爸爸，希望他趕快好起來。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "Selep 今天又出門撿種子。她想要撿一顆欒樹的種子，送給生病的爸爸，希望他趕快好起來。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Selep今天又出門撿種子。她想要撿一顆欒樹的種子，送給生病的爸爸，希望他趕快好起來。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "selep今天又出門撿種子。她想要撿一顆欒樹的種子，送給生病的爸爸，希望他趕快好起來。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            },
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        },
+        {
+          "text": "Selrepe 今天又出門撿種子。她想要撿一顆欒樹的種子，送給生病的爸爸，希望他趕快好起來。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Srepen 今天又出門撿種子。她想要撿一顆欒樹的種子，送給生病的爸爸，希望他趕快好起來。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "selep今天又出門撿種子。她想要撿一顆欒樹的種子，送給生病的爸爸，希望他趕快好起來。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "sʉlopʉn今天又出門撿種子。她想要撿一顆欒樹的種子，送給生病的爸爸，希望他趕快好起來。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Selep今天又出門撿種子。她想要撿一顆欒樹的種子，送給生病的爸爸，希望他趕快好起來。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Sʉrʉp今天又出門撿種子。她想要撿一顆欒樹的種子，送給生病的爸爸，希望他趕快好起來。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/7.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926321.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Anini romi’ad masadak ho mipodpod to sapal ci Selep. Sapikiliman to sapal no lalidec cingra, sapafeli to adadaay a mama, nanay kalamkam maadah ko adada ningra saan.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926370.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "wal tanux lmamu ghap lozi qu Selep soni. aki musa lmamu qutux ghap na qlilang. sbiq nya cyux mnbu’ yaba. aki helaw lokah hi nya ma.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926419.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "Selep kaysa’an rima’ naehan romokrok ka tatokoeh. siya ’iyakina romokrok ’aehae’ ’inoka lowanSo’ a tatokoeh, sasa’oe’ ’ini yaba’ ’ima ’ayaeh, kinSiwa’ nisiya basang kayzaeh makSa’.",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926469.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shilup muqthawan musaran tmaniza sa fafinshiq. mangqtu thithu atmaniza sa qasimsim a fafinshiq, pansha panshizan a ama, pinbahi thithu muhiaw maqitan.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926518.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Wada lmamu rehak nganguc saya ka Selep dungal. Mkmusa mangal kingal rehak na baras, sbege na tama ga mnarux. Psmyahun na nleelu pkmalu ka heya peni.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926567.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "selep a aip tu hanian hai mun apav sia ilav kunata tu namindia mas vaivivaivi tu auhsa, miliskin saia tu nakilim mindia mas Halus tu lukis tu auhsa, naisav mas madahpa tu tamacia, aupa makasang saia tu mahtuang tama a ma aipi mindadu a dahpa.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926616.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "uri vaik uta casav ti selep a ljemulju tua vat. kivalj tu ljemulju tua ralji a vat, uri sivai taza sa’etju’etju a kama, ulja merakac a kirimu aya.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926665.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kaykameane kay Selrepe la katwasenga mulatadre siludu ku sapaivay. kay alisu yakay ku kidremedremeini si nawsiludu ku sapaivay ki pace iya, si satedre baai kudra ki macaeme ka tamaini, ani saramudringay amiamia.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926714.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Mlatat musa lmamu ghak duri ka Srepen sayang. Mkmlmamu kingal ghak banar hunat ka hiya, biqun na tama gaa mnalux, tai saw aji biyaw mha malu ka hiya.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926763.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "setangi muman melusit ti selep kemizamet tu tissan. ngid kizamet tu ussiq tissan na lan ay paRin, sabulan na tu metaRaw ay tama, maRengad tu meqasiR pa nengi aizipna.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926812.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "sʉlopʉn mo ivaho emoyafo ho matmʉtʉ to tutu. mo mici matmxtx to tutu no evno pcʉʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926861.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "a uninan i, muka driya emadruka dra bini i Selep. maranger emadruk dra saya dratu bini dra idrereman. a baberay kan temamataw na kualeng. maruwaya arei inaba tu kualengan kema.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926910.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "sicyaraw am ya mangey pa miyoyo manpeh so vottow si Selep. koan nam mangpeh ko so asaka vottow no kayo (欒樹), itoro ko do ya meyngen si ama, inaoy makeykai apia rana.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926959.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "ayza ademiad tahekal tu ci Selep misaput tu sapaluma. maydih ciniza misaput tu 欒樹 a sapaluma, sapabeli niza tu imelangay a ama niza, kaydihan niza sa hangay kalamkam mangaay ci ama niza.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927008.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "maka’ʉna soni Sʉrʉp arapipiningi maramʉ rapʉ. pacʉpʉngʉ nguain tia maramʉ tanarapʉ tamna rapʉ, tia vuʉn ’esi musukʉmʉ cuma, kamʉcʉ kani tʉni makacang aramanʉngʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927057.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "musalamana arinani a selep marisʉmʉtʉ tutu’u. hlamariasʉmʉtʉ a kana’ana ucani tutu’u hlapa’icihli, avuraisa macarʉmʉ ama’a, ahliki’ai makacani aramahlʉngʉ kana’ana.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927106.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "chinese_text": "Selep 發現欒樹下有一群蜜蜂在飛來飛去。原來，女王蜂死了。Selep 覺得很奇怪，立刻趕回家。",
+      "chinese_variants": [
+        {
+          "text": "Selep 發現九芎樹下有一群蜜蜂在飛來飛去。原來，女王蜂死了。Selep 覺得很奇怪，立刻趕回家。",
+          "used_by": [
+            {
+              "lid": 1,
+              "name": "阿美語"
+            }
+          ]
+        },
+        {
+          "text": "Selep 發現欒樹下有一群蜜蜂在飛來飛去。原來，女王蜂死了。Selep 覺得很奇怪，立刻趕回家。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Selep發現欒樹下有一群蜜蜂在飛來飛去。原來，女王蜂死了。Lubi 覺得很奇怪，立刻趕回家。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "selep發現欒樹下有一群蜜蜂在飛來飛去。原來，女王蜂死了。selep覺得很奇怪，立刻趕回家。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "Selrepe 發現欒樹下有一群蜜蜂在飛來飛去。原來，女王蜂死了。Selrepe 覺得很奇怪，立刻趕回家。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Srepen 發現欒樹下有一群蜜蜂在飛來飛去。原來，女王蜂死了。Srepen 覺得很奇怪，立刻趕回家。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "selep發現欒樹下有一群蜜蜂在飛來飛去。原來，女王蜂死了。selep覺得很奇怪，立刻趕回家。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "sʉlopʉn 發現欒樹下有一群蜜蜂在飛來飛去。原來，女王蜂死了。sʉlopʉn覺得很奇怪，立刻趕回家。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Selep發現欒樹下有一群蜜蜂在飛來飛去。原來，女王蜂死了。Selep 覺得很奇怪，立刻趕回家。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Selep 發現欒樹下有一群蜜蜂在飛來飛去。原來，女王蜂死了。Selep覺得很奇怪，立刻趕回家。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Sʉrʉp發現欒樹下有一群蜜蜂在飛來飛去。原來，女王蜂死了。Sʉrʉp 覺得很奇怪，立刻趕回家。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "selep 發現欒樹下有一群蜜蜂在飛來飛去。原來，女王蜂死了。selep覺得很奇怪，立刻趕回家。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/8.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926322.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Makera ni Selep ko lalidec adihay ko ’odal saefeefer sa i laeno. Hinam han, mapatay to ko tapang no ’odal. Safaheka sa ci Selep, tangsol to mitakop a minokay.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926371.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "ktan Selep cyux msbzih mlaka zik qlilang qu hzing. aw baq mhuqil qu yaya hzing. swa minanak iyal qsliq mha Selep. ru helaw balay wal ngasal.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926420.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "Selep Sahoero: ray lowanSo’ waehoer hayza ka walwalo’ homayhayap. ’i:wa’ hiza ka ka’ina’an masay ila. Selep siya ’aewhay ka hin’az’azem bazae’en, siya ’omam’amoeh lobih.",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926470.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shilup mriqaz isa qasimsim a bangqir ianan qbit a fulhia mapa’arfazfaz. baa, mara’in a fulhia mathayza dai. minu qa amiazithu, numa muhiaw thithu mutaun.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926519.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Qtaan na meniq walu ga skiya toma na qhuni baras. Kela naq wada mhuqil ka bubu daha walu di. Ye mesa kingal naq qtaan ka Selep, asi nugaaguh musa sapah.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926568.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "sadu a selep ua tu itanngadah lukis hai supahan mas vanu tu kusbabai, amuhangsia i matazina inaicia pingaz sasbinaz tu vanu a, makaming selep a miliskin tu min pakaliva aupa sain, macinsu saia musuhis kulumah.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926617.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "pacun ti selep tua mareka tjainan a miperperper i tjaiteku tua ralji. manu macayanga a mazangilj. pacacarak ti selep, sa pakirimu a tjuma’!",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926666.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Selrepe la patarathingale kuini tailebe ki pace yai, yakay ku latumu ngipapapalay. alaka wapacaynga kuidra tinatina ka talialalay ki tumu. kay Selrepe la ikay ku takalrupianeini, si kirarimu mutavanane.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926715.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Qmita niqan kingal qpuring walu gaa skiya truma pusu qhuni ka Srepen. Kla sa, wada mhuqil ka bubu walu da. Saw skluwi ka Srepen, asi mhraw musa sapah.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926764.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "matayta ni selep ta liyab na lan ay paRin yau muwaza penay manbabaseR. mepatay ti tazungan ay RuR na penay. manna nayau zin na ni selep, Rutem temanan.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926813.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "sʉlopʉn isi aiti ’o skufu to evno pcʉʉ mo yaa meiavovei ci teongo. ’iama, mo mcoi’o peongsisi.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926862.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "i Selep menau kana idrereman i makadare i, ullaya a salepunan a gerger ballibiiyan. a! minatray na walluwalluwan.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926911.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "macita ni Selep o aroa tapipi ya somalap sira do teyrahem no kayo. valia ikongo nimazakat rana o ina da. iyak ni Selep, makeykai moli do vahay.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926960.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "mazih ni Selep i sasa nu 欒樹 belen sa ku wadu bahelbahel sa, alaw mapatay ku wina nuheni. mabiyalaw ci Selep, kalamkam satu ciniza taluma’.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927009.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "cumacʉ’ʉra Sʉrʉp na nakʉnakʉ tanarapʉ ’una anu ’esi mingangane. nguaiava sii mamacai anu tamna ra’ani. tumatamparu misee sua Sʉrʉp, makacang pui’i tanasa.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927058.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "pausu’ulu a selep ma kalahlapa hlapa’icihlina ahlu’u miapipihlihli. usuanganaiau, maci’icu inaahlu’una. pitacacuruna selep tatʉkʉhlʉ, makacani puaili salia.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927107.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "chinese_text": "Selep 來到爸爸的房間，發現大家都在哭。她看著爸爸躺在床上，動也不動了，也大哭了起來。",
+      "chinese_variants": [
+        {
+          "text": "Selep來到爸爸的房間，發現大家都在哭。她看著爸爸躺在床上，動也不動了，也大哭了起來。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Selep 來到爸爸的房間，發現大家都在哭。她看著爸爸躺在床上，動也不動了，也大哭了起來。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Selep 來到爸爸的房間，發現大家都在哭。她看著爸爸躺在床上，動也不動了，Lubi也大哭了起來。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "selep來到爸爸的房間，發現大家都在哭。她看著爸爸躺在床上，動也不動了，也大哭了起來。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "Selrepe 來到爸爸的房間，發現大家都在哭。她看著爸爸躺在床上，動也不動了，也大哭了起來。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Srepen 來到爸爸的房間，發現大家都在哭。她看著爸爸躺在床上，動也不動了，也大哭了起來。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "selep來到爸爸的房間，發現大家都在哭。她看著爸爸躺在床上，動也不動了，也大哭了起來。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "sʉlopʉn 來到爸爸的房間，發現大家都在哭。她看著爸爸躺在床上，動也不動了，也大哭了起來。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Selep來到爸爸的房間，發現大家都在哭。她看著爸爸躺在床上，動也不動了，也大哭了起來。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Kuatʉ 來到爸爸的房間，發現大家都在哭。她看著爸爸躺在床上，動也不動了，也大哭了起來。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "selep 來到爸爸的房間，發現大家都在哭。她看著爸爸躺在床上，動也不動了，也大哭了起來。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/9.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926323.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Tangasa i kafoti’an ni mama nira, maemin to tomangic ko ’alomanay. nengneng han nira mawakang i kafoti’an ko mama nira, caayay to ka dademademak, sa tata’ang sato ko tangic nira.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926372.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "mzyup ’byan yaba qu Selep. mita’ cyux mngilis kwara. ktan nya yaba tgayaw babaw sakaw ini’ nangi pzywi’. ru si hwaw mngilis uzi.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926421.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "Selep mowa:i’ kan yaba’ ray kapae’reman, kita’en ’ima hoemangih saboeh. siya komita’ hi yaba’ minaywawa:ak ray halapaw, ’okay kakoway ila, ma’ hoemangih ila ’oyeh.",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926471.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shilup munai ama wa laqup, mriqaz pashtay mapaqiaqia, mriqaz thithu a ama isa laqup miataknar, shidadaukiza, numa maqiaqia thithu mani.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926520.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Remux sapah tqiyam na tama ka Selep. Ni lmingis kana ka tnsapah. Ga bobo tqiyan na ka tama. Ini klgelu ani tntikuh. Ma kana ka lngisan na Lubi duri.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926569.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "taunasiana selep sia itu tama tu sapalan hai sadu saia tu masan tatangis. saduan saicia tama tu malsasabah sia sapalan. nitu bizakbizak at cinmanmamng amin saia tangis.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926618.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "mangetjez i tua vangvang nua kama ti selep, tjara tu ’emaw’aung a mapuljat. pacun timadju tua kama a na’emereng i ’erengan, inianga ka migaguagua, pageric a ’emaung uta.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926667.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "sa kela kay Selrepe kuini ki taapeapecane ki tamaini, la patarathingale kay mapapangale ka makituatubitubi. kay alisu ala dreele ki tamaini ka waapece ikay ki taapeapecane, kai makangiavevevelenga, si akuaadrawnga tubitubi.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926716.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Miyah dhuq tqian tama ka Srepen, qmita sa gaa lmingis kana ka seejiq. Qtaan na ka tama gaa ksaraw babaw srakaw, ana klilug ini klilug da, mjiras lmingis ka hiya uri da.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926765.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "matiw sa qinpan na tama ti selep, taytan na yau muRin meniz. taytan na siqulin tama na ta qinpanan, mai ti temintingiw, muRin ti aizipna qaya.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926814.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "uhto lasi yoni oengʉtʉ to aomo ’o sʉlopʉn, teolʉi mo acʉhʉ mongsi. isi aiti ’o amosi homo oevoi to hoposi, o’te ma ake’i aot’ou, maezo tmu’upu mongsi.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926863.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "meredek kantu kiyaedrengan kan temamataw i Selep i, menau dra matratrangis a trau peniya. menau kan temamataw dra miedreng i saesa. adri lla maguwagu aw pakireb matrangis i Selep.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926912.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "makaranes si Selep do irayan ni ama na, sia mamimin amlavi. macita si ama na ji migonagonay do ititkehan am, lavian na rana.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926961.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "tayza ci Selep i bacal ni ama niza muangic ku katuuday, mudaang tu ci ama i kakabian niza, caay tu pisaungay, muangic tu ciniza.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927010.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "mukusa Sʉrʉp na ’aravang cuma, kacaua cau ’esi tumatang. cʉ’ʉrʉʉn kee cuma matasa’ai na tatarʉ ka’anʉ mangaringari, masitatia kangvang tumatang.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927059.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "mʉcʉkʉhlʉ selep mahlukua tataraisa ama’a, pausu’ulu tumakakuakucu tumangi, kumita ama’a hlimatasa’ai taarʉ kukuatitipa, tumulalicicu tumangi.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927108.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "chinese_text": "第二天，親戚們來到了 Selep 家，討論接下來繼承傳統領袖的儀式。大家正在熱烈地討論。",
+      "chinese_variants": [
+        {
+          "text": "第二天，親戚們來到了 Selep 家，討論接下來繼承傳統領袖的儀式。大家正在熱烈地討論。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "第二天，親戚們來到了Selep家，討論接下來繼承傳統領袖的儀式。大家正在熱烈地討論。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "第二天，親戚們來到了selep家，討論接下來繼承傳統領袖的儀式。大家正在熱烈地討論。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "第二天，親戚們來到了 Selrepe 家，討論接下來繼承傳統領袖的儀式。大家正在熱烈地討論。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "第二天，親戚們來到了 Srepen 家，討論接下來繼承傳統領袖的儀式。大家正在熱烈地討論。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "第二天，親戚們來到了selep家，討論接下來繼承傳統領袖的儀式。大家正在熱烈地討論。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "第二天，親戚們來到了 sʉlopʉn 家，討論接下來繼承傳統領袖的儀式。大家正在熱烈地討論。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "第二天，親戚們來到了Selep家，討論接下來繼承傳統領袖的儀式。大家正在熱烈地討論。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "第二天，親戚們來到了 Selep家，討論接下來繼承傳統領袖的儀式。大家正在熱烈地討論。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "第二天，親戚們來到了Sʉrʉp 家，討論接下來繼承傳統領袖的儀式。大家正在熱烈地討論。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "第二天，親戚們來到了 selep家，討論接下來繼承傳統領袖的儀式。大家正在熱烈地討論。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/10.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926324.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sakatosa a romi’ad, ’aloman to ko malinaay talaloma’ ni Selep, masasowal to to sapidotoc to kakitaan a lekakawa. faedet ko faloco’ no ’alomanay a masasowal.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926373.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kinsuxan lga, nyux mwah ngasal Selep kwara qu gluw ki lpyung. cyux pkayal gaga s_yunaw qbuli’. trang nyux lokah mpphsi mbkal qu hga.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926422.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’ima roSa’ hahila:, ’aeh’aehael mowa:i’ kan Selep ray taew’an, papnabih kataSilotoran howaw. saboeh ma’ ’akoy kapapnabih.",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926472.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "muqtha tata wa qali, piathauthaun munai Shilup a taun, malhkaktha pashatalhan sa daduu a kazash. malhkakaktha pashtay.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926521.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mkdaha ali, dehuk sapah Selep kana ka dadan. Mpprengo mpslutuc Mdudul. Kana ba ka pnprngagan daha peni.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926570.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "taipus’anin hai minsuma amin a pantas anun kusia seleptu lumahcia mapaliuni tu nasima lauvaiv minuni mas lavian? tuza tu malmananu amin mapatahu tu namakua.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926619.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "ka sipakapusalj, mangetjez a mareka kaka a sema tjaya selep, maljavar tua patara patavelak tua mazazangiljan a saliman. izua tiamadju a mare’aivuivu.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926668.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "saka samakapusale, la kelanga mudaane kay laretesanelini ki Selrepe, madrekadrekase ku tapiiyaiyanelini mapapatarumara ku amucungulane kuini ki akatalialaladhane. la icengecenge kay mapapangale pakaculu pakadrareange kuini ki tamadrekadrekasane.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926717.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Saw saman, miyah sapah Srepen ka ltlutut. pprngaw quri babaw na ptgaya rmirih mangal bukung nrudan. Gaa mtbiyax bi pprngaw kana.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926766.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "saqazusa deddan, mawtu ti qenasuani sa leppaw na qaniselep, simsanu tu sangian tu masang ay sinanganan na pazasan tu damu ay waway. qitu melaliyaz simsanu meniz.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926815.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "cu hucma, acʉhʉ uhto lasi yoni to sʉlopʉn ’o ma’o’oahngʉsi, toʉsvʉsvʉtʉ note meesi no tiuski no tela h’oceona tayaezoi ci hia. mon’a seolʉa no meoino toʉsvʉsvʉtʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926864.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "dra dadaman i, druwa lla a nirumaenan kantu ruma kana Selep. madrayadrayar dratu llemak dra kiyatralian kana taudrung na bulletrenganan. tu trau paseket madrayadrayar.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926913.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "ikadoa na araw am mai rana aroa zipos ni Selep do vahay da, misirisiring sira sino amoamooni so mangaes no makaikailian. aro o tao maciranod ya patovisen o ciriciring da.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926962.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "u cila tu, iniw tu amin ku laluma’an, masasukamu tu a sanulaylayen ku kawaw, matatengil tu ku katuuday tina kawaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927011.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "akini taniara. iavatu kincaucaua na tanasa Sʉrʉp. makarikari neni tia atiuma tuisua ra’ani. musucikiciki cau makarikari.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927060.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "siausua aari, mʉcʉkʉhlʉ a cucucua mahlukua salia selep, kicunguhlu makarikari kilaliali mualiuhlu kapitanʉ. pasamanganʉ mʉmʉa makarikari.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927109.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "chinese_text": "Selep 認為弟弟比較有能力繼承傳統領袖。躲在房間，不知所措，握著昨天撿到的種子，睡著了。",
+      "chinese_variants": [
+        {
+          "text": "Selep認為弟弟比較有能力繼承傳統領袖。躲在房間，不知所措，握著昨天撿到的種子，睡著了。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            },
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Selep 認為弟弟比較有能力繼承傳統領袖。躲在房間，不知所措，握著昨天撿到的種子，睡著了。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "selep認為弟弟比較有能力繼承傳統領袖。躲在房間，不知所措，握著昨天撿到的種子，睡著了。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "Selrepe 認為弟弟比較有能力繼承傳統領袖。躲在房間，不知所措，握著昨天撿到的種子，睡著了。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Srepen 認為弟弟比較有能力繼承傳統領袖。躲在房間，不知所措，握著昨天撿到的種子，睡著了。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "selep認為弟弟比較有能力繼承傳統領袖。躲在房間，不知所措，握著昨天撿到的種子，睡著了。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "sʉlopʉn 認為弟弟比較有能力繼承傳統領袖。躲在房間，不知所措，握著昨天撿到的種子，睡著了。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Selep 認為弟弟比較有能力繼承傳統領袖。躲在房間，不知所措，握著昨天撿到的種子，睡著了。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Sʉrʉp認為弟弟比較有能力繼承傳統領袖。躲在房間，不知所措，握著昨天撿到的種子，睡著了。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "selep 認為弟弟比較有能力繼承傳統領袖。躲在房間，不知所措，握著昨天撿到的種子，睡著了。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/11.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926325.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "O faloco’ ni Selep o safa fa’inayan ko ci’icelay mamidotoc to rayray malokakitaan saan. Limek sa cingra i kafoti’an, awaen to pakayraan, metmet han nira koya mipodpodan nira inacila a sapal, maleda’ to.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926374.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "mnglung Selep lokah qpzing na sswe’ mlikuy ru aki hiya s’yunaw qbuli. ini’ nya baqi phswa ru si hakas tlqing zik ’byan. ming lnamu’ nya ghap hera phey m’abi la.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926423.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "Selep pakoSa’ minayti’ ’am hayza a ka wa’is nom taSilotor ka kintatini’an kamamarmaraS. hoSa:il ray halapaw, ’okik ra:am ’am nak’ino’, kahiya’ rinokrok ka tatokoeh pinakme: ray hima’, maSnga’nga’ ila.",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926473.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shilup mzai shiruan shashauzi ayuzi ya pashatalhan sa daduu. mungkuruz thithu isa laqup, maura thithu apiakuzan, hmadu thithu tilha sa tminaniza wa fafinshiq malhusiza.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926522.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "“Swai rseno maha kmmekul mpslutuc Mdudul.” mesa lnlungan na ka Selep. Mgleing tqiyan na ini kela mphuwa. Dooyun na baga ka rehak lnmuwan na ciga, ma ni mtaqi di.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926571.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "miliskina selep a tu nasia nauba nanaz cia masidadu lauvauv minuni lavian aupa istamasazan saia, tunghabin saia sia sapalan nitu haiaphaiap tu maldikusa ima mas itu takna tu inindia tu halus lukis tu auhsa at masabahin.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926620.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "tjasedjaljep a ku kaka a cemavulid tua sengsengan nua mazazangiljan aya ti selep. saka naki’ilja i vangvang a namagagalj, ini ka puligalingaw, saka djinadjas a ljinulju a vat nimadju katiaw, a nasekata’edanga.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926669.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Selrepe ku kidremedremeini, kay agili sapupukuane nakuane mucungulu ki talialalay laiya. la kibalay ikay ki taapeapecane, kai wathingale ku atumanane, si gemegeme ku siluduini kuiya ku sapaivay, ala kasipelrengenga.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926718.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Swayi snaw ka tgbrax bi tduwa rmirih mangal bukung nrudan msa lmnglung ka Srepen. Tgkliing kska tqian, hmut meydang, dmuuy ghak lnamu na shiga, ni mtaqi da.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926767.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti selep metaRuz ma Runanay ay suani na sinangan tu Rapazasan. temalumbi ti ta qinpanan, Raynguan na tu qunian ti, qepeRan na nikizametan siRab tissan, maynep ti.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926816.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "isi yainca to sʉlopʉn ’e ohaesasi nate yaatonʉ no tiuski no h’oceona tayaezoi. totoefʉngʉ to emoo, uk’a ci isi cohivi, mxpxtx ta isi patmʉta ne hucma ci tutu, micu m’oosu. ’u",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926865.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“maramikedrang ku wadi na mainayan. kirepauwa kitrali kana taudrung na bulletrenganan.” kema tu anger kan Selep. mullasedr i kiyaedrengan. amawna, maulid dra kakakuda. tu arimetremetraw tu inadruk na bini a daman. parunus lla allupe.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926914.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "minakenakem si Selep jiapiapia pa ka to na pivazayan ni wari a mahakay o mangaes no makaikailian. mitomayo do vahay na, jiatengi o aaapan sya, to na kemkeman nipeh na o vottow no kakyab a, tongitkeh rana.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926963.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "u sabama ku tanengay mililid tu laylayay a angangan. milimek i bacal, maliyuh ku balucu’, mikapet tu nisapudan nacila a sapaluma, mabi’ tuaca.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927012.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "pacʉpʉngʉ Sʉrʉp, kanarua sarunai sua musutampʉ tuisua ra’ani. mitʉvʉngʉ na ’aravang, ka’anʉ tavarʉ’ʉ tia makananu. ukʉrʉn kee niaramʉ miʉra rapʉ, makasua si’icʉpʉ cu.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927061.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "pi tʉkʉ selep tuahlʉ hlimilavaʉ hlahlusana matialu kapitanʉ. mitalʉvʉngʉ ʉlʉkʉna tatara, mamʉmʉkʉ, pitilavaʉ tutu’una matusuru.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927110.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "chinese_text": "Selep 醒來後，看見桌上有一張紙條，旁邊放著小米種子。",
+      "chinese_variants": [
+        {
+          "text": "Selep 醒來後，看見桌上有一張紙條，旁邊放著小米種子。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Selep醒來後，看見桌上有一張紙條，旁邊放著小米種子。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            },
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "selep醒來後，看見桌上有一張紙條，旁邊放著小米種子。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "Selrepe 醒來後，看見桌上有一張紙條，旁邊放著小米種子。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Srepen 醒來後，看見桌上有一張紙條，旁邊放著小米種子。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "selep醒來後，看見桌上有一張紙條，旁邊放著小米種子。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "sʉlopʉn 醒來後，看見桌上有一張紙條，旁邊放著小米種子。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Selep 醒來後，看見桌上有一張紙條，旁邊放著小米種子。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Sʉrʉp 醒來後，看見桌上有一張紙條，旁邊放著小米種子。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "selep 醒來後，看見桌上有一張紙條，旁邊放著小米種子。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/12.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926326.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Talipa’elal ci Selep, pakanengneng i tongroh no parad ira ko cecay tatipelok, tatihi mateli ko sapal no hafay.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926375.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "tuliq lhaw qu Selep lga, ktan nya babaw hanray cyux qutux lban. syaw nya cyux syan ghap trakis.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926424.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "Selep hekla’, komita’ ray talka: hayza ka kina:at, kabih ’inaSkan ka tata’",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926474.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Shilup minpulhiziza, mriqaz isa marutaw a pangka ianan tata wa pinatash a qahil, ishirshir pisa kamar a fafinshiq iutu.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926523.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mtkela ka Selep, qtaan na niqal kingal patis bobo pptasan, psaan rehak macu ka ssiyo na.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926572.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "selep a masa minkailasin hai sadu saia mas idadaza pngkaka tu paitasan at mandinglan hai padangian mas maduh tu auhsa.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926621.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "ka paceged ti selep, pacun tua vecik i tua cekui, izua a vat nua va’u i tjuljivar.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926670.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "sa pacungunga kay Selrepe, la dreele ki cukui, yakay ku pinapacasane ku senate, kuini talithili la pikay ku sapaivay ki becenge.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926719.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Babaw mtutuy ka Srepen, qtaan na ka kingal lblak gaa babaw tluan, gaa psaan siyaw hiya ka ghak masu.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926768.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "masuwat ti ti selep, mataytan na yau ussiq nisudadan tepuluk ta takanan, ta kinilan na yau niseppawan tu tissan na luzay.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926817.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "cu peihsasmome ’e sʉlopʉn, aiti ’omo yonto pangka ci saiptuku, sii to tutu no ton’u ’o ciengonasi.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926866.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "marebutrell i Selep i, menau dra ullaya a tinilill a kadupu kana papadraran. i saninin i, niretra dratu bini dra dawa.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926915.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "mayokay rana si Selep am, macita na o nivatvatek a vakong, amian do peyvatvatekan, do pais nam amian so vottow no kadai.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926964.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "mapacikil tu ci Selep mazih niza ku cudad i takal, i tapiingan izaw ku nu habay a sapaluma.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927013.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "aramia’ʉ Sʉrʉp, cʉ’ʉrʉʉn kee na pangka ’una ucani sinatʉ, nimusʉ’ʉ na ciciri in rapa vina’ʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927062.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "takʉmʉ’aʉ a selep rumahlaʉ, taratʉahlʉ ahlahlapa tuu’u maaru ucani suhlatʉ, ma patʉkʉisa pi suliʉvʉcʉngʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927111.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "chinese_text": "「Selep，你是長嗣，是家裡第一個看見太陽的孩子，以後要好好照顧家裡。」",
+      "chinese_variants": [
+        {
+          "text": "「Selep，你是長嗣，是家裡第一個看見太陽的孩子，以後要好好照顧家裡。」(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "「selep，你是長嗣，是家裡第一個看見太陽的孩子，以後要好好照顧家裡。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            },
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        },
+        {
+          "text": "「Selrepe，你是長嗣，是家裡第一個看見太陽的孩子，以後要好好照顧家裡。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "「Srepen，你是長嗣，是家裡第一個看見太陽的孩子，以後要好好照顧家裡。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "「selep，你是長嗣，是家裡第一個看見太陽的孩子，以後要好好照顧家裡。」(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "「sʉlopʉn，你是長嗣，是家裡第一個看見太陽的孩子，以後要好好照顧家裡。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "「Selep，你是長嗣，是家裡第一個看見太陽的孩子，以後要好好照顧家裡。」(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "「Sʉrʉp，你是長嗣，是家裡第一個看見太陽的孩子，以後要好好照顧家裡。」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/13.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926327.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "“Selepaw, o sakakaay a teloc kiso, sarakat paka’araway to cidal a wawa noni a loma’, ikor to safangcal han to midipot koni a loma’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926376.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "“Selep, ’laqi’ qsuyan balay isu hiya. isu qsu balay mita’ wagi nqu qutux qbuli ta. babaw lga blaq mlahang qutux nniqan ta.”",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926425.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "“Selep, So’o minatini’ So’o ’ima mininSa’la’ Sahoero: ka hahila:, mayhal pakayzaeh kalahang ka taew’an.”",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926475.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "“Shilup, tantuqash a azazak ihu, makintata lhmazawan mriqaz sa tilha isa mita wa taun a azazak, piaqitan lhungqizi mita wa taun.”",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926524.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "“Selep, laqi su ba qnbrsanan ka isu. Laqi su mgeela qmnita hido tnsapah nii. Bleyaq ba qmlahang su sapah wa!”",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926573.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "selep! kasu hai masituhas at kasuhai isia lumah cin malngangau tu mailalangna, saitangus sadu mas vali tu uvaz. mais habasin hai asa kasu tu mapisial saipuk mas tastu lumah cin.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926622.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“selep, vusam sun i tjuma’, tisun a sangasangasan a pacun tua ’adav i tua tjakinacemekeljan a kakedrian, sika tisun a uri djemadjas tua i tjuma’ a sengsengan.”",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926671.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "“kusu ka Selrepe, tinuapanesu, amanisu kuidra aswalalanga dreele ki vai ikay kikay ki daane, lubibilrili la tupudriadringaymadu kisasusu kay ki daane.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926720.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "“Srepen, qmbsranan ka isu, laqi pnlealay qmita hidaw ruwan sapah, empklawa ruwan sapah hici.”",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926769.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "“selep, qaqaqa aisu, ta leppawan saqayaw ay temayta tu sezang ay sunis, qusazui paqangi ika mediatip ya leppaw.”",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926818.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "“sʉlopʉn, zou sotva’esi no ohaeva, mohtala asonhoi baito to hie ci oko, takola ʉnmʉ ci aʉt’ʉca ’e emoo.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926867.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“Selep a! a maramaidraidrang yu. na llallak kanta ruma i sabak i, amau yuyu na pallibak menau dra kadaw. likudran i, kirungetru i sabak.”",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926916.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "mo Selep, imo am neyrakeh na anak am, manma nicikdawen no araw a kanen so aspangi, imo am makapia ka apzaten o kavahayan ta.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926965.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "“u sakakaay kisu nu luma’ u sayaway makazih tu cilal a adiwawa, a sakapahen isu midiput ku lalabu nu luma’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927014.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "“Sʉrʉp, tanasa mita ikasu mata’uru cumacʉ’ʉra taniarʉ, nuari patimanʉngʉo miacara tanasa”.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927063.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "“selep, ihlau ia ahlalua, ihlaisa hlitalalualu tahliaria mamaini, maiatuhluhlukia ariari salia.”",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927112.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "chinese_text": "「那是爸爸為你準備的禮物。Selep，不要害怕，你會成為最棒的傳統領袖。」媽媽說。",
+      "chinese_variants": [
+        {
+          "text": "「那是爸爸為你準備的禮物。Selep，不要害怕，你會成為最棒的傳統領袖。」媽媽說。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "「那是爸爸為你準備的禮物。selep，不要害怕，你會成為最棒的傳統領袖。」媽媽說。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            },
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        },
+        {
+          "text": "「那是爸爸為你準備的禮物。Srelrepe，不要害怕，你會成為最棒的傳統領袖。」媽媽說。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "「那是爸爸為你準備的禮物。Srepen，不要害怕，你會成為最棒的傳統領袖。」媽媽說。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "「那是爸爸為你準備的禮物。selep，不要害怕，你會成為最棒的傳統領袖。」媽媽說。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "「那是爸爸為你準備的禮物。sʉlopʉn，不要害怕，你會成為最棒的傳統領袖。」媽媽說。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "「那是爸爸為你準備的禮物。Selep，不要害怕，你會成為最棒的傳統領袖。」媽媽說。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "「那是爸爸為你準備的禮物。Sʉrʉp，不要害怕，你會成為最棒的傳統領袖。」媽媽說。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/14.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926328.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "“O patalaan sapanocay no mama koraan. Selepaw, aka katalaw, maedeng malasafangcalay malakakitaan no rayray kiso.” han no wina a somowal.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926377.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "“bniq yaba sunan qu qasa. laxi kngungu Selep. baq su betunux balay na mrhuw.” mha yaya.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926426.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "“hiza ni yaba’ tinal’awan ka sasa’oe’. Selep, ’izi’ tikot, So’o ’am ma: ka ’ima tabin ka kamamarmaraS.” ’oya’ manabih.",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926476.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "“huya ama munsai ihu sa piaruruun a pinansha. Shilup, ata tu shkash, shiruan ihu minlamaqitan a daduu.” ina mzai.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926525.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "“Knrnaman snbleqan sbege na tama su isu ka nii. Selep, iya kiicu! Mmaha su knmalu ba qbsuran Mdudul ka isu.” mesa ka kari bubu.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926574.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "sain hai itu tama tu sinkasanus naisav su tu sinpaska, tupa cina tu, selep kakatu mapising nasua a mamananu tu masi dadu lauvaiv minuni sauhabashabas tu Lavian.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926623.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“mavan a sinipadjele ni tjama tjanusun aicu, maya a marekutj selep, tjara sun a tjaljapuvarungan a sika mazazangiljan!” aya azua a kina.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926672.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "“kuini nipadulruane ki tamasu pasikay musuane ka saceacebe. Selrepe, madha ukulukuludru, lritarakaamanisu kuidra nitusanianianganenga ka talialalay.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926721.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "“Bnegay pnsramal sunan tama ka gaga. Srepen, iya kiisug, mha su maa tgkala bi bukung nrudan.” Rmngaw ka bubu.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926770.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu tina “’nay nani nipasayan na tama su umiagi sa bulan timaisuan. selep, naRin maytis, qanengi ay aisu Rapazasan na masang ay.”",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926819.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "“ma osic’o la ayocneni to amo ci teonghia. sʉlopʉn, ’ote ngoheʉngeʉ, ’a teko ahtuo’te sotva’esi yaa tonʉa ci h’oceona tayaezoi.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926868.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“idru i, tu pinadangan kan temama na pakulliyames a baberay kanu. Selep, adri kiyanedang! likudran i, amau yuyu na marasaiguigu kana taudrung na bulletrenganan.” kema i ina.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926917.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni ama o ito am ko irara jimo makavoos ka an, mo Selep, imo am neymaizay ka saon do mangaes no makaikailian.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926966.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "“u nipilasul ni ama isu a umiyagey.. akakatalaw Selep, a u sakapahay kisu a laylayan a angangan.” hini han ni ina ciniza.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927015.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "“sua isua ia, niati’arangʉa cuma movua kasua, Sʉrʉp, ’akuni ma’icʉpʉ, tia kasu tuisua purangrangʉʉn ra’ani.” misee sua cina.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927064.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "“kana’ana ia hliparapihla ihlau ama’ana maialalangʉ sitahliasasangara pahlivingi. selep, kukia uruahlʉ, tuahliu marahliulavalava kapitanʉ.” amihla ina’ana.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927113.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "chinese_text": "「我會努力的。」Selep 對媽媽說。她把小米種子放進小瓶子，做成一條項鍊。",
+      "chinese_variants": [
+        {
+          "text": "「我會努力的。」Selep 對媽媽說。她把小米種子放進小瓶子，做成一條項鍊。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "「我會努力的。」Selep對媽媽說。她把小米種子放進小瓶子，做成一條項鍊。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "「我會努力的。」selep對媽媽說。她把小米種子放進小瓶子，做成一條項鍊。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "「我會努力的。」Selrepe 對媽媽說。她把小米種子放進小瓶子，做成一條項鍊。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "「我會努力的。」Srepen 對媽媽說。她把小米種子放進小瓶子，做成一條項鍊。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "「我會努力的。」selep對媽媽說。她把小米種子放進小瓶子，做成一條項鍊。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "「我會努力的。」sʉlopʉn 對媽媽說。她把小米種子放進小瓶子，做成一條項鍊。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "「我會努力的。」Selep對媽媽說。她把小米種子放進小瓶子，做成一條項鍊。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "「我會努力的。」Sʉrʉp 對媽媽說。她把小米種子放進小瓶子，做成一條項鍊。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "「我會努力的。」selep 對媽媽說。她把小米種子放進小瓶子，做成一條項鍊。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/15.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926329.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Pasowal han ni Selep ko wina nira, “Mafana’ kako a misa’icel.” Pacomod han to nira i mimingay a talid koya sapal no hafay, sa solsolen to malo cangaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926378.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "“klokah saku.” smyuk yaya mha qu Selep. tkron nya cikuy yuyut qu ghap trakis. skalay nya qutux snyuw.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926427.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "“yako ’am komilwa’is.” Selep SiSi hi ’oya’. nisiya ka tata’ ’aSkanen ray ’ima ’oel’oelae’an ka binbiniSitan, paskayzaehen ka Siloe’.",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926477.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "“amakarishkish iaku.” Shilup fuilh ina mzai. thithu pusai kamar a fafinshiq putuan langqisusay a pan. pinlina tata.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926526.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "“Maha ku kndrumuc bale.” mesa cmiyuk bubu ka Selep. Spoosa na rusuq biciq truma ka rehak macu, snlmeyan na kingal pcequr.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926575.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "antalamun selep cia cina tu, namalmananu saikin. pinga dahun saicia maduh auhsa sia pan ikit at tusulun saicia, pinuniun saicia mas haulus.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926624.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“tjara aken a kisamulja, kina!” aya ti selep tua kina. sa pasatua kindraljumin a vat nua va’u a uri sanzanga’en.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926673.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "“akisamulaneli.” Selrepe ka taiyaneini ki tinaini. kay alisu la malra kuini sapaivay ki becenge puadringi kuini ki kingdralumu, si pwa tuvaeva tusilu.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926722.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "“Pkbiyax ku.” Rmngaw quri bubu ka Srepen. Psaan na ruwan bilaq lungaw ka ghak masu, smlaan na kingal sirug waru.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926771.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti selep tu tina na “qapadames iku.” sepezan na ti ta peRaskuan ya tissan na luzay, sangian na tu ussiq itus.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926820.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "“te’ola pnanfi.” mi’unu to inosi ’o sʉlopʉn ho yainca. isi so`aemona to pania ’o tutu no ton’u, moyai conci skuu.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926869.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“karaemetr ku!” kema kan ina i Selep. tu abakaw kana dalill tu bini kana dawa. aw tu sangaaw dra drana.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926918.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni Selep ji ina nam cyaha ta makaowyat ko. pangaing na o kadai do valanga, ka pakapia na parengen so asaka zaka.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926967.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "“a misaicelang kaku” han ni Selep ci ina. patalabu hantu niza ku sapaluma nu habay i cungal, sapisanga’ niza tu cael.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927016.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "“tia ku kipatʉsʉ.”marivari Sʉrʉp na cina. araʉn kee rapʉ vina’ʉ mapusikarʉ na pania, kamanʉngʉn kee ucani sasanga.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927065.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "“pasamanganʉaku.” umahlikua selep ina’a amihla. saiku suliʉvʉcʉngʉ talangahlʉ mainina, tucani ihlu’u.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927114.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "chinese_text": "自此之後，Selep 每天都會戴著這條項鍊，提醒自己，不管是男生還是女生，都有能力做好每一件事，做好傳統領袖的角色。",
+      "chinese_variants": [
+        {
+          "text": "自此之後，Selep 每天都會戴著這條項鍊，提醒自己，不管是男生還是女生，都有能力做好每一件事，做好傳統領袖的角色。(Selep換為各族女名)",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "自此之後，Lubi 每天都會戴著這條項鍊，提醒自己，不管是男生還是女生，都有能力做好每一件事，做好傳統領袖的角色。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "自此之後，selep每天都會戴著這條項鍊，提醒自己，不管是男生還是女生，都有能力做好每一件事，做好傳統領袖的角色。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            },
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        },
+        {
+          "text": "自此之後，Selrepe 每天都會戴著這條項鍊，提醒自己，不管是男生還是女生，都有能力做好每一件事，做好傳統領袖的角色。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "自此之後，Srepen 每天都會戴著這條項鍊，提醒自己，不管是男生還是女生，都有能力做好每一件事，做好傳統領袖的角色。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "自此之後，selep每天都會戴著這條項鍊，提醒自己，不管是男生還是女生，都有能力做好每一件事，做好傳統領袖的角色。(Selep為排灣族名字)",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "自此之後，sʉlopʉn 每天都會戴著這條項鍊，提醒自己，不管是男生還是女生，都有能力做好每一件事，做好傳統領袖的角色。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "自此之後，Selep每天都會戴著這條項鍊，提醒自己，不管是男生還是女生，都有能力做好每一件事，做好傳統領袖的角色。(Selep為排灣語名字)",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "自此之後，Selep每天都會戴著這條項鍊，提醒自己，不管是男生還是女生，都有能力做好每一件事，做好傳統領袖的角色。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "自此之後，Sʉrʉp 每天都會戴著這條項鍊，提醒自己，不管是男生還是女生，都有能力做好每一件事，做好傳統領袖的角色。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/147/16.jpg",
+      "audio_url_chinese": "https://web.klokah.tw/text/sound/66495/926330.mp3",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Nano itiya i, caay to sawaden nira a misacangaw to romi’ami’ad, patalipaelal to tireng to, ano o fafahiyan to anca o fa’inayan to, maemin ira ko ’icel a misafangcal to manmaan a demakan, misafangcal mala kakitaan no rayray a tamdaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/66501/926379.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kahul nasa lga, squzi nya krryax qu snyuw qani. nyux plhaw hiya nanak. ana mlikuy ru kneril ga, maki qpzing nha thuyay mtzywaw nnanu na zyaw. baq mblaq mrhuw qbuli.",
+          "audio_url": "https://web.klokah.tw/text/sound/66507/926428.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "minay’isa:a’, Selep sa’sa’ih ka hahila: ’ima Siloe’ nanaw ka hini kapSiloe’, patinekla’ hi nonak, ’ana kamamanra:an a minkoringan, hayza ka wa’is saboeh nom komonrowa’ ka howaw, pakayzaeh noka kintatini’an ka kamamarmaraS.",
+          "audio_url": "https://web.klokah.tw/text/sound/66513/926478.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "tu isisua, Shilup tatata wa qali shizuqan sa izai tata wa lina, malalawa ananak, mamzai ya ayuzi ya bananau’az, az’az shiruan ya piaqitan tatata wa kalawan, piaqitan sa daduu a numanuma.",
+          "audio_url": "https://web.klokah.tw/text/sound/66519/926527.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Kndalax ciida, aliali srigan na pcequr ka Selep. Ptutuy pgkela heya mesa, Anaq rseno, anaq mqedil, niqal beyax mooda knkingal ddaun. Sblequn ddaun knkingal ooda Mdudul peni.",
+          "audio_url": "https://web.klokah.tw/text/sound/66525/926576.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "paiskatudip tu hanian selep hai kaupakaupa hanian tausdidip mas haulus cia, mapishahaiap saicia tu anatupa tu maluspingaz kasu anis mabananaz hai mahtu amin kuzakuza mas sikaupa tu iskuzakuza mahtu amin minuni mamananu tu Lvian.",
+          "audio_url": "https://web.klokah.tw/text/sound/66531/926625.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "kemasizua, sinizanga’ ni selep a ljemita tu ’adav azua a zanga’. a papa’enetj a kimadju tu ini ka puvavayan ini ka puu’aljay, tjara izua a sivala a pase’etj tua kana sengsengananga, saka napasedjaljep tua ’iniladjan na mazazangiljan.",
+          "audio_url": "https://web.klokah.tw/text/sound/66537/926674.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "la twalaynga kuini, kay Selrepe lukavaivai, la itarasisilu, ngikakipapaulringaw, adravane luka sawvalay luka ababay, lritaradulru tuthariri ki sanakaaungane, tupudriadringay pakadringelrese ku takatalialaladhaneini.",
+          "audio_url": "https://web.klokah.tw/text/sound/66543/926723.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Paah siida do, smirug sirug waru nii kjiyax ka Srepen, pkeiyaw hiya nanak, ana snaw ana kuyuh uri, ida niqan brax dhuq qmeepah kngkingal euda kana, tduwa dhuq maa bukung nrudan.",
+          "audio_url": "https://web.klokah.tw/text/sound/66549/926772.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "maqezi ta unnayan, pitemawaR siitusan na ni selep ya itus zau, semanu timaizipana, pakedada Runanay uu tazungan, nizu yau uRat na paqangi tu meniz lazas, paqangian tu waway na Rapazasan na masang.",
+          "audio_url": "https://web.klokah.tw/text/sound/66555/926821.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "ahoi ne mio, tanivu huhucmasa hafa ’e skuu eni, asngʉcva eʉsvʉta ta iachi, ’upena na hahocngʉ hocieno mamespingi, acʉhʉ yaa tonʉa ho teoʉlʉlʉi ’emo macocono hioa, ʉmnʉ ci peihcʉ’hi na h’oceona tayaezoi.",
+          "audio_url": "https://web.klokah.tw/text/sound/66561/926870.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "kemay adru i, tu pidranaaw idri na drana kan Selep kana wawariwari. temuru kantu dradrek, a mainayan lla, a babayan lla i, mikedrang kemirungetr kana kiyakarunan peniya. maruwa pakaarekedr dratu kinaretikiran kana taudrung na bulletrenganan.",
+          "audio_url": "https://web.klokah.tw/text/sound/66567/926919.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "ori rana, mangdey so araw a mizaka si Selep, iozay so nakem na, tana mahakay an ano mavakes an, to mitaretarek makapia so vazavazay saon am, makaowyat mivazay do mangaes no makaikailian.",
+          "audio_url": "https://web.klokah.tw/text/sound/66573/926968.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "namakayza, sacael han niza kya cael tu dedemiad, a sapacekil tu uzip, u tatama u tatayna aca kapahtu, kapahtu milaylayay malaangangan.",
+          "audio_url": "https://web.klokah.tw/text/sound/66579/927017.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "aranai mesua, tantaniara Sʉrʉp ariviviciʉn sasanga isua, masimia’ʉ takacicini, avara’e sarunai nanakʉ, ’una kavangvang ’intasʉ matimanʉngʉ putukioa, tuisua mamanʉng ra’ani.",
+          "audio_url": "https://web.klokah.tw/text/sound/66585/927066.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "angahlicuisana, aariaari a selep umiihlu kani’i ihlu’una, pilavaʉpilavaʉ ihlaisa takacicihli, maniki a hlahlusa ahla ahlaina, rianʉ pimanganʉ takuvacangʉ aucaucani ta’iara, takuavacangʉ sitakuamia kapitanʉ.",
+          "audio_url": "https://web.klokah.tw/text/sound/66591/927115.mp3"
+        }
+      ]
+    }
+  ],
+  "source_urls": {
+    "info": "https://web.klokah.tw/pbc/book/index.php?id=147",
+    "online": "https://web.klokah.tw/pbc/book/online/index.php?id=147"
+  }
+}

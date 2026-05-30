@@ -1,0 +1,2303 @@
+{
+  "id": 113,
+  "title": "人臉辨識",
+  "illustrator": "顏學偉",
+  "level": "中級",
+  "grammar_focus": "時間詞",
+  "summary": "主角從小生長在海邊的一個小部落，長大後到台北工作，在都市裡生活了很多年。一個偶然的機會，他回家鄉參加祭典。都市裡很多新奇的科技，像是人臉辨識的技術，讓他的媽媽覺得很驚奇。他的媽媽希望他能夠回到部落生活，因為阿公的年紀大了，會忘記各種事情，需要人照顧。主角見到了多年不見的阿公，結果發生了令人非常驚奇的事情。繪本的語法重點為時間詞的運用，讀者可以學習到與時間相關的詞句敘述。",
+  "language_count": 16,
+  "languages": [
+    {
+      "lid": 1,
+      "language": "阿美語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Yo kaemang ho ci Kacaw , hakelongen ni akong cingra malacafay minengneng to riyar .",
+          "chinese_text": "Kacaw小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406246.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Mato’as to ci Kacaw , tayra to i Taypak matayal miliyas to loma’ .",
+          "chinese_text": "Kacaw大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406247.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Tosa to polo’ ma’orip i Taypak ci Kacaw , tada ma’ilol to to riyar no niyaro’ .",
+          "chinese_text": "Kacaw在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406248.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Minokay talaniyaro’ mikapot to ilisin ci Kacaw , tayra i siyataw ci ina militemoh cingraan .",
+          "chinese_text": "Kacaw 回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406249.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Palenaken ni Kacaw i wanglu ko nisasingan , ’aloman ko widang mipeni’ a mipahemek .",
+          "chinese_text": "Kacaw 將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406250.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Sowal sa ci ina , “ Naw mafanafana’ ko tinnaw ci Panay ko ngangan ako , wata ka caloway cingra saw ? ”",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作Panay，它那麼厲害？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406251.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Sowal sa ci Kacaw , “ Manga’ay no tinnaw mihapinang to pising no tamdaw , saka tayra matayal kami anini matini to kafawah no fawahan . ”",
+          "chinese_text": "Kacaw 說：「電腦可以做人臉辨識，現在我們上班也都這樣開門」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406252.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Sowal sa ci Kacaw , “ O katengilan , i roma a kitakit , manga’ay sapisasing ko tinnaw , sapihapinang , anoca sapitefoc . ”",
+          "chinese_text": "Kacaw 說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406253.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Sowal sa ci Panay , “ O pinokay iso ko nga’ayay , i niyaro’ ma’orip ko fangcal . ”",
+          "chinese_text": "Panay 說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406254.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Sowal sa ci Panay , “ Matini mato’as to ci akong , o malongocay to tamdaw mamidipot cingraan . anini sa pararid sa i 文化健康站 no niyaro’ cingra . ”",
+          "chinese_text": "Panay說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406255.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Sowal sa ci Panay , “ Roma i Dongi han nira miceli kako , roma i pakacipiyaw takowanan . ”",
+          "chinese_text": "Panay 說：「有時候他會叫我Dongi，有時候他會以為我是Piyaw。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406256.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Sowal sa ci Panay , “ O roma i , ano masadak cingra mafokil to minokay . ”",
+          "chinese_text": "Panay 說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406257.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Sowal sa ci Panay , “ Mangalef o waco to nira , caayay to kafana’ cingra . ”",
+          "chinese_text": "Panay 說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406258.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Tangasa to i loma’ sowal sa ci Kacaw , “ Akong , minokay to kako , mafana’ kiso takowanan haw ? ”",
+          "chinese_text": "到家以後，Kacaw 說：「阿公，我回家了，你記得我是誰嗎？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406259.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Sowal sa ci akong , “ Kacaw , minokay to kiso ? naw fokil nosa kako to pising iso , Kacaw ? ”",
+          "chinese_text": "阿公說：「Kacaw，你回來啦？我怎麼會不認得你的臉呢，Kacaw？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406260.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Tatapal sa mananengneng tatosa , lalecad sa makaeka’ matawa .",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406261.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "Nengneng han , ko pising ni Kacaw , mafohat to ko nifaloco’an ni akong .",
+          "chinese_text": "看起來，Kacaw的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24131/406262.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 2,
+      "language": "泰雅語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "trang cikuy na’ i Pasang hga, rasung krryax ni yutas nya’ musa’ mita’ bsilung.",
+          "chinese_text": "Pasang小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406294.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "krahu’ Pasang lga, mshriq ngasal nya’ musa’ Taypaq la.",
+          "chinese_text": "Pasang長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406295.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "mpusal kawas inaki’ Taypaq ni Pasang la. s’nun nya’ balay kinhulan na bsilung nya’.",
+          "chinese_text": "Pasang在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406296.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "musa’ gmluw smyus na qalang nya’ i Pasang. ’san magal glgan basu’ na yaya’ nya’.",
+          "chinese_text": "Pasang回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406297.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "pawsun nya’ tay wanglu’ qu syasing nya’ i Pasang. pzyux rangi’ nya’ ’san nha’ mhut mha blaq balay.",
+          "chinese_text": "Pasang將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406298.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "kmal yaya’ mha, “ swa’ baqun na tenaw mha Yaway lalu’ maku’, talagay kinbaq pi ? ”",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作Yaway，它那麼厲害？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406299.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "kmal Pasang mha, “ baqun smpung na tenaw mha rqyas ima’. misu qani musa’ sami mtzywaw ga, sun nya’ sqani ptgyah blihun uzi. ”",
+          "chinese_text": "Pasang說：「電腦可以做人臉辨識，現在我們上班也都這樣開門」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406300.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "kmal Pasang mha, “ pawngan ga, kya kruma’ cinqalang baq psyasing qu tenaw ru baq smpung mha ima’ su’. mutux cgabil uzi. ”",
+          "chinese_text": "Pasang說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406301.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "kmal Yaway mha, “ mwah su’ ga, musa’ blaq hazi’ cikay. blaq cikay qnxan qalang. ”",
+          "chinese_text": "Yaway說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406302.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "kmal Yaway mha, “ bnkis yutas la. siki kya tayal mwah mlahang hiya’ la. si tryax musa’ maki’ squ pslyan smlawkah hi’ na baybnkis tay qalang. ”",
+          "chinese_text": "Yayaw說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406303.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "kmal Yaway mha, “ kruma’ ga, Amuy sun saku’ nya’. kruma’ ga, si nya’ ga Atay saku’. ”",
+          "chinese_text": "Yayaw說：「有時候他會叫我Amuy，有時候他會以為我是Atay。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406304.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "kmal Yaway mha, “ kruma’ musa’ tetanux qu hiya’ ga, zngyan nya’ mwah ngasal la. ”",
+          "chinese_text": "Yaway說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406305.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "kmal Yaway mha “ ana huzil nya’ uzi ga, ini’ nya’ baqi la. ”",
+          "chinese_text": "Yayaw說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406306.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "tayhuk ngasal lga, kmal qu Pasang mha, “ yutas! tayhuk saku’ ngasal la. baqun su’ ima’ kuzing hiya’ ?”",
+          "chinese_text": "到家以後，Pasang說：「阿公，我回家了，你記得我是誰嗎？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406307.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "kmal yutas mha, “ Pasang, nyux su’ lga？ baha maku’ ini’ baqi rqyas su’ la, Pasang ?”",
+          "chinese_text": "阿公說：「Pasang，你回來啦？我怎麼會不認得你的臉呢，Pasang?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406308.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "mkkita’ sazing hi’ nha’. msyaq la.",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406309.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "ktan qu rqyas na Pasang ga, giwan cyux nya’ tgyahan inlungan na yutas la.",
+          "chinese_text": "看起來，Pasang的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24136/406310.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 3,
+      "language": "賽夏語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kalih haysiya ’ima ’ol’olae’an, baki’ rengreng maraS hisiya ma’onhael rima’ komita’ ka wasal.",
+          "chinese_text": "kalih小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406342.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "kalih ’ibabaw ila, rima’ ila taypei matawaw.",
+          "chinese_text": "kalih長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406343.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "kalih ’i’iyaeh ray taypei Sam’iyaeh tinal’oemaeh, siya maSriyae’ ray ’asang ka wasl.",
+          "chinese_text": "kalih在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406344.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "kalih lobih ray ’asang paSbaki’, ’oya’ rima’ ray ka’inta’ni’an noka kalihapoyan mari’ hi siya.",
+          "chinese_text": "kalih回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406345.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "kalih nisiya ka ’inalingo’ ’aSkanen ray wanglo’, haba:en mae’iyaeh pa’iri:i’ ka babaki’.",
+          "chinese_text": "kalih將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406346.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "’oya’ komSa’: “ tiyanaw ’ampowa’ ra:am Sa’ yako Sin paza’en, kin wa’isan ?”",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作paza’，它那麼厲害?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406347.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "kalih komSa’ :“ tiyanaw ra:am pakSekla’ ka kinmae’iyaehan, ’isahini yami ray kapatawawan ma’ nakhini homawaeh ka kateSnenan. ”",
+          "chinese_text": "kalih說：「電腦可以做人臉辨識，現在我們上班也都這樣開門」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406348.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "kalih komSa’ :“ kinbazae’, hayza’ ’aroma’ ka ’aehae’ ’oemaeh, tiyanaw ra:am ’omalingo’, Sekla’, ’isa:a’ Sowaboson. ”",
+          "chinese_text": "kalih說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406349.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "paza’ komSa’: “ So’o lobih kayzaeh, ray ’asang kin’i’iyaeh kayzaeh. ”",
+          "chinese_text": "paza’說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406350.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "paza’ komSa’: “ o baki’ ma’ tatini’ ila, ma’ ’am ’iyakina hayza’ ka mae’iyaeh nom malahang hi siya. siya haysani rengreng ray ’asang noka tatini’ kaprarotonan. ”",
+          "chinese_text": "paza’說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406351.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "paza’ komSa’: “ mak’aehae’ siya ’omoe’oe: ’iyakin Sa’ ’amoy, mak’aehae’ siya pakoSa’ yako hi ’api’. ”",
+          "chinese_text": "paza’說：「有時候他會叫我’amoy，有時候他會以為我是’api’。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406352.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "paza’ komSa’: “ siya mak’aehae’ rima’ ’ila’ino’ ma’ mangowip ila lobih. ”",
+          "chinese_text": "paza’說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406353.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "paza’ komSa’: “ ’ana ’in siya’ nonak a ka ’aehoe’, siya ma’ ’okik Sekla’ ila. ”",
+          "chinese_text": "paza’說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406354.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "potngor ila ray taew’an, kalih komSa’: “ baki’, yako lobih ila, So’o Sekla’ ay yako hiya’ ? ”",
+          "chinese_text": "到家以後，kalih說：「阿公，我回家了，你記得我是誰嗎?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406355.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "baki’ komSa’: “ kalih, So’o lobih ila? yako papowa’ ’okay Sekla’ ka kinmae’iyaehan niSo’, kalih? ”",
+          "chinese_text": "阿公說：「kalih，你回來啦？我怎麼會不認得你的臉呢，kalih?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406356.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "roSa’ mae’iyaeh kakita’kita’, sawa’ ila saeboeh.",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406357.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "kita’en, ni kalih kinmae’iyaehan, homawaeh ila ni baki’ ray hin’az’azem ’i:zo’ ka kateSnenan.",
+          "chinese_text": "看起來，kalih的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24141/406358.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 4,
+      "language": "邵語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Qarbash tu azazakuan, apura’in miaqay kmathu thithu musuun mriqaz sa wazaqan.",
+          "chinese_text": "Qarbash小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406390.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Qarbash minra’iniza, mushaiza thithu a taun mutusi Tai-paak malhkakrikriw.",
+          "chinese_text": "Qarbash長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406391.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Qarbash itusi Tai-paak minthau mapushaziza wa kawash, mangqtuqtu thithu sa kataunan a wazaqan.",
+          "chinese_text": "Qarbash在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406392.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Qarbash mushaiza kataunan matudahip sa kazakazash, ina musui ilhalhungquan sa barimbin mashduu thithu.",
+          "chinese_text": "Qarbash 回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406393.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Qarbash a pashtiruqan smasaas sa dawaz a saran, manasha sa huruy kmakiskis maqitan.",
+          "chinese_text": "Qarbash 將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406394.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "ina mzai: “minu kafazaqin sa tia-nau iaku zain Anai, mathuaw ma’ania thithu?”",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作Anai，它那麼厲害？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406395.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Qarbash mzai: “shduu pasain sa tia-nau shunurun sa thau a shaqish, thuini iamin ya malhkakrikriw mizithu mani tmana sa pitaw”",
+          "chinese_text": "Qarbash 說：「電腦可以做人臉辨識，現在我們上班也都這樣開門」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406396.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Qarbash mzai: “tinunmaza mzai, isai suma wa katautaunan, tia-nau apashtiruq, shunurun, numa fadin sa tuali.”",
+          "chinese_text": "Qarbash 說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406397.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Anai mzai: “miaqawan ihu ya mutaun amaqitan, kataunan amaqitan ya ininthauan.”",
+          "chinese_text": "Anai 說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406398.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Anai mzai: “numa apura’in mintuqatuqashiza, a’ianan sa thau lhungqizi thithu. miarain thithu thuini inai kataunan a kazakazash makalingkinan.”",
+          "chinese_text": "Anai 說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406399.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Anai mzai: “thithu ya tu suma malalawa iakin Tumi, ya tu suma kazaiku iaku sa Ali.”",
+          "chinese_text": "Anai 說：「有時候他會叫我 Tumi，有時候他會以為我是Ali。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406400.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Anai mzai: “ya tu suma ya musaran in’auraan thithu ya mutaun.”",
+          "chinese_text": "Anai說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406401.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Anai mzai: “numa miazaiwan thithu a atu, antu shnurun thithu.”",
+          "chinese_text": "Anai 說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406402.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "mutauniza, Qarbash mzai: “apura’in, itiza iaku, mafazaq ihu iakin qa tima iaku?”",
+          "chinese_text": "到家以後，Qarbash 說：「阿公，我回家了，你記得我是誰嗎？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406403.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "apura’in mzai: “Qarbash, itiza ihu? minu iaku antu qa ya shunuru mihu a shaqish, Qarbash?”",
+          "chinese_text": "阿公說：「Qarbash，你回來啦？我怎麼會不認得你的臉呢，Qarbash？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406404.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "thaithuy latusha mapariqaz, musuun mathathawa.",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406405.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "riqazan, Qarbash a shaqish, tanaiza mani sa apura’in a shnaw a pitaw.",
+          "chinese_text": "看起來，Qarbash 的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24146/406406.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 5,
+      "language": "賽德克語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Slaqi Awi, dsdesun tama na rudan musa theyaq heya qmita rcilung.",
+          "chinese_text": "Awi小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406438.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Paru kndkilan na Awi de, musa meepah Taype, ini eniq sapah di.",
+          "chinese_text": "Awi長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406439.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Mpusan knkawas niqul na Taype ka Awi, Lnlungun na ba rriyung rciling sapah na peni.",
+          "chinese_text": "Awi在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406440.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Musa alang tuuman Dmahur ka Awi, Saan snterung luwan rulu bubu na ka heya.",
+          "chinese_text": "Awi回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406441.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Spoosa na wangru ka sasing na Awi. Hbaro ba ka seediq musa mepux can!",
+          "chinese_text": "Awi將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406442.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Mrengo bubu. “ Keyan bele! Ma mkela Padiq ngayan mu ka tennaw? ”",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作Padiq，它那麼厲害?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406443.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "mrengo Awi. “ Mkela saanak dqeras ka tennaw, so kiya musa miyan sangpan remux neluk truma traguh ka neluk duri. ”",
+          "chinese_text": "Awi說：「電腦可以做人臉辨識，現在我們上班也都這樣開門」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406444.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mrengo Awi. “ Niqal duma knlangal, mkela psasing, saanak ma, mangal hbangan sqrnutan tennaw mesa wa. ”",
+          "chinese_text": "Awi說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406445.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "mrengo Padiq. “ Malu meyah su naq sapah ka isu, hmeri naq malu ka meniq alang. ”",
+          "chinese_text": "Padiq說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406446.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "mrengo Padiq. “ Ma rudan ka baki di, Asi ka sqlhang. Musa Unhuwacenkangcan alang klaali ka heya saya di. ”",
+          "chinese_text": "Padiq說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406447.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Padiq. “ Mncugil plwanun kuna Uma ma, mncugil plwanun kuna Awe. ”",
+          "chinese_text": "Padiq說：「有時候他會叫我Uma，有時候他會以為我是Awe。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406448.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Padiq “ Mncugil musa nganguc de, cmhungi meyah sapah duri. ”",
+          "chinese_text": "Padiq說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406449.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Padiq. “Ani kana huling na ini na klai di. ”",
+          "chinese_text": "Padiq說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406450.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Meyah Awi, mrengo. “ Baki rudan, nii ku da, klaun saku ima ”",
+          "chinese_text": "到家以後，Awi說：「阿公，我回家了，你記得我是誰嗎？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406451.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "mrengo Baki. “Awi, nii su di? Hmuwa maha mu lux ini klai qmita ka dqeras su di peni, Awi.”",
+          "chinese_text": "阿公說：「Awi，你回來啦？我怎麼會不認得你的臉呢，Awi?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406452.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Mddaha mqqita, kana ba ka hulis daha peni.",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406453.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "Lnlungun, dqeras na Awi, pntraguh neluk lhebun truma na baki rudan duri na!",
+          "chinese_text": "看起來，Awi的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24151/406454.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 6,
+      "language": "布農語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Talum masa uvazang hai,aadasun mas tamahudas taskun sadu mas ning’av .",
+          "chinese_text": "Talum小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406486.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Talum masa minmadaingin hai , sidahda mas lumah kusia Taihuku kuzakuza .",
+          "chinese_text": "Talum長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406487.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Talum hai isia Taihuku mihumis kuzakuza tu punmapusanin tu painsanan , mililiskin saia mas isia asang tu ning’av .",
+          "chinese_text": "Talum在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406488.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Talum hai musuhis kusia asang minamu lusan , cina hai kusia undazan basu ampasdu saicia .",
+          "chinese_text": "Talum回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406489.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Talum hai mapakasia uanglu mapunapav mas sinpacidanum, supaha kaviaz matumashing aimin saicia .",
+          "chinese_text": "Talum將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406490.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "tupa Cina tu: mavia tinnau tu haiap inak tu ngan tupauntu Uvau tu , mamananuhangsia tu?",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作Uvau，它那麼厲害？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406491.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "tupa Talum tu tinnau hai mahtu amin mapinaiza bunun tu dahis saduan , laupaku kaimin mais sangpan hai maupacia amin matua ilav .",
+          "chinese_text": "Talum說：「電腦可以做人臉辨識，現在我們上班也都這樣開門。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406492.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "tupa Talum tu tai aza mas isia vaivi asang tu kukka hai , makuuni tinnau mapacidanum pasahal haitu aipincin hai sisaisan dau mas sui .",
+          "chinese_text": "Talum說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406493.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "tupa Uvau tu : mastan masial mais musuhis kasu kusia asang cin mihumis kuzakuza .",
+          "chinese_text": "Uvau說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406494.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "tupa Uvau tu : musasu tu madaingazin isu tamahudas hai ,na asatu aiza malhahaipu saicia . saia laupaku hai takisisa asang tu dadangian madadaingacia pinhahatba mas lutbu .",
+          "chinese_text": "Uvau說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406495.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "tupa Uvau tu mintanan saia mais mala’la kuhai tupaunsaikin tu Samingaz mintanan saia mais makasang tu saikin hai Abus .",
+          "chinese_text": "Uvau說：「有時候他會叫我Samingaz，有時候他會以為我是Abus。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406496.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "tupa Uvau tu: mintanan saia mais munapav kunata hia sipungulin musuhis kulumah .",
+          "chinese_text": "Uvau說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406497.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "tupa Uvau  tu: sausia isaicia tu asu hai nin amin saia sahal .",
+          "chinese_text": "Uvau說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406498.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "taunalumahin hai tupaTalum tu: tamahudas minsumin saikin , aduhaiapang kasu tu sima saikin ?",
+          "chinese_text": "到家以後，Talum說：「阿公，我回家了，你記得我是誰嗎？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406499.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Talum i, tupa tamahudas tu : minsumin kasu? : namavia saikin tu nanitu sahal isu tu dahis i! Talum",
+          "chinese_text": "阿公說：「Talum，你回來啦？我怎麼會不認得你的臉呢，Talum？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406500.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "mapatusiahut naia dadusa at makinpataz mahahainan.",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406501.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "saduan hai Talum tu dahis ,maszang mas situain mas itu tamahudas isang tu ilav .",
+          "chinese_text": "看起來，Talum的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24156/406502.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 7,
+      "language": "排灣語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "ka kakedriyananan ti baru, rukacuin timadju nua vuvu a pacun tua vaung.",
+          "chinese_text": "baru小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406534.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "ka me’acanga ti baru, vaik i tjuma’ a semataihuku a kipusengsengan.",
+          "chinese_text": "baru長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406535.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "drusanga a pulu’a a cavilj i taihuku ti baru, singelitanga aravac timadju tuazua i ’inaljan a vaung.",
+          "chinese_text": "baru在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406536.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "vaik a semauma’ ti baru a kiayan tua palisi, semapubasuan a kina a kicavevung tjaimadju.",
+          "chinese_text": "baru回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406537.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "azua a sinipasiasisiasing ni baru, pasazuain i tua fb nimadju, tjuruvu a mareka’ali a marekadravadrava nimadju a nazemenger.",
+          "chinese_text": "baru將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406538.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "“’aku a kemeljang a tinnaw tu ti muni a ku ngadan, maca’u aravac?” aya a kina.",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作muni，它那麼厲害？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406539.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "“aicu a tinnaw makaya a pa’ayam tua mudingan nua cawcau, tucu nu vaik amen a masengseng, matazua a kipa’aym sa semu’eljev tua paljing.” aya ti baru.",
+          "chinese_text": "baru說：「電腦可以做人臉辨識，現在我們上班也都這樣開門。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406540.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "“naselangeda aken uta tuazua a maljiyan nu kuniyan, azua tinnaw makaya a pasiasing, kipa’ayam, sa temavung tua paysu.” aya ti baru.",
+          "chinese_text": "baru說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406541.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "“tjanangua’ sun a semauma’, tjasace’alj a talju’inaljan.” aya ti muni.",
+          "chinese_text": "muni說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406542.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "“maya a vuluvulunganga ti su vuvu, nakuya nu neka nu kirapalj tjaimadju. rusapuvavulungananga ti su vuvu tucu.” aya ti muni.",
+          "chinese_text": "muni說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406543.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "“izua nu pakati kain aken, izua nu pakati laylain aken.” aya ti muni.",
+          "chinese_text": "muni說：「有時候他會叫我kai，有時候他會以為我是laylay。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406544.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "“izua nu sasav timadju malimanga a tjuma’.” aya ti muni.",
+          "chinese_text": "muni說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406545.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "“nuka vatu nimadju, alimenanga nimadju.”aya ti muni.",
+          "chinese_text": "muni說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406546.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "ka mangetjez i tjuma’, “vuvu mangetjezanga aken, pa’enetj sun tu tima aken?” aya ti baru.",
+          "chinese_text": "到家以後，baru說：「阿公，我回家了，你記得我是誰嗎?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406547.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "“baru mangetjezanga sun ayau, ’akuazua a inika aken a pa’enetj tjanusun baru?” aya azua a vuvu.",
+          "chinese_text": "阿公說：「baru，你回來啦？我怎麼會不認得你的臉呢，baru?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406548.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "marepapacun tiamadju sa pedjeli a meseljang.",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406549.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "nu tja pacunan, azua a mudingan ni baru, semu’eljev angauta tua varung na vuvu.",
+          "chinese_text": "看起來，baru的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24161/406550.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 8,
+      "language": "魯凱語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "sakavavalakeana kay Kalrimadraw, ku tumuini tarailiiluku iniane tarudrusa drele ki laveke.",
+          "chinese_text": "Kalrimadraw小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406582.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "sakaadraunga kay kalrimadraw, la kitukudha ki daaneini muTaihuku kaaungu.",
+          "chinese_text": "Kalrimadraw長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406583.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "kay kalrimadraw laka taramapusalenga ki cayli ku taikaiyaneini ka Taihuku cekecekele, la kabarengere ki nacekeleini kuidra ki laveke.",
+          "chinese_text": "Kalrimadraw在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406584.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "kay kalrimadraw la mubalriu kipaelre ki tualrisisi, ku tinaini la katwase kidredresenge iniane mutazidusiane.",
+          "chinese_text": "Kalrimadraw回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406585.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "kay kalrimadraw la malra kuini sasingi si pwa ki tamararairaisane ki wanglru, la takalra ku talrailragiini ku makituaramethe si alamathariri iyaiya.",
+          "chinese_text": "Kalrimadraw將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406586.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "ku ina la iya kay, “ kay tingnau ani kirimu thingale ka siaPaelresaku, alamaparamuru na! ”",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作Paelresaku，它那麼厲害？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406587.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "kay Kalrimadraw la iya kay, “ kay tingnau wadulru tulringau ki umaumase si pathingale, kikay mialri ka lu muanai ki takaauaungane ngiamamuelebe. ”",
+          "chinese_text": "Kalrimadraw說：「電腦可以做人臉辨識，現在我們上班也都這樣開門。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406588.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "kay Kalrimadraw la iya kay, “ ku kilalrali, yakay ku makaelaela ku cacekelane, kudra tingnaulini wathingale sasingi, patuthingale, la kirimu pathavungu. ”",
+          "chinese_text": "Kalrimadraw說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406589.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "kay Paelrese la iya kay, “ maesaesaysu kaynangay mubalriu, mathaithariri luikaiyane kay balriu cekecekele.”",
+          "chinese_text": "Paelrese說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406590.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "kay Paelrese la iya kay, “ si kay tumusu tarudrawdrangenga, maiyalri ka muarikaynga ku akisirapalane. kikaynga la ikaykaynga kay cekele kuidra tamuamuane ki tarudrawdrange tuthariri ki kinaumasane ku kai apasuludranane si kai angirudranganane. ”",
+          "chinese_text": "Paelrese說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406591.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "kay Paelrese la iya kay, “ yakay Ziluanesu iya nakuane, yakay luiya kay, Aruaisu iya nakuane.”",
+          "chinese_text": "Paelrese說：「有時候他會叫我Ziluane，有時候他會以為我是Aruai。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406592.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "kay Paelrese la iya kay, “ yakay lukatwase mulatadre la karimuru mutavanane. ”",
+          "chinese_text": "Paelrese說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406593.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "kay Paelrese la iya kay, “ adravane ku tawpunguini, marimurunga iniane. ”",
+          "chinese_text": "Paelrese說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406594.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "sa kelanga tavanane, kay Kalrimadraw la iya kay, “ umu, muatavananengaaku, ngualringavanasu ka aneanaku? ”",
+          "chinese_text": "到家以後，Kalrimadraw說：「阿公，我回家了，你記得我是誰嗎？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406595.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "kay umu la iya kay, “ Kalrimadraw, wakelangasu? watumanaku si kai thingale kuini ki lringausu, kusu ka Kalrimadraw? ”",
+          "chinese_text": "阿公說：「Kalrimadraw，你回來啦？我怎麼會不認得你的臉呢，Kalrimadraw？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406596.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "la madradrele kay tadrusa si masilange tukadrakadre.",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406597.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "ludreelane, kudra lringau ki Kalrimadraw, maiyalri muaelebenga ku kidremedreme ki tumuini.",
+          "chinese_text": "看起來，Kalrimadraw的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24166/406598.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 9,
+      "language": "太魯閣語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Bilaq siida ka Kasaw o, dsan baki mseupu musa dmhaw gsilung kdjiyax.",
+          "chinese_text": "Kasaw小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406630.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Paru siida ka Kasaw do, tealax sapah musa qmpah Taypey.",
+          "chinese_text": "Kasaw長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406631.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Empusal hngkawas nniqan na Taypey ka Kasaw da, gsilung alang ka lnglungun na bi.",
+          "chinese_text": "Kasaw在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406632.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Miyah teumal smiyan smapuh alang ka Kasaw, musa smtrung hyaan ppyaan tdruy ka bubu.",
+          "chinese_text": "Kasaw回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406633.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Wada psaun babaw kaji samaw Kasaw ka sasing, suyang bi msa mrut kana ka lplupung qmnita.",
+          "chinese_text": "Kasaw將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406634.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Rmngaw ka bubu“ Ma mkla sa Panay hangan mu ka patas sasaw, tayal kngkla na?”",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作Panay，它那麼厲害?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406635.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Rmngaw ka Kasaw“ Tduwa pseanak qmita dqras seejiq ka patas sasaw, ida saw nii rmawah rhngun kana uri ka musa nami qmpah sayang da.”",
+          "chinese_text": "Kasaw說：「電腦可以做人臉辨識，現在我們上班也都這樣開門。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406636.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Rmngaw ka Kasaw“ Bhangan o, duma isil klwaan ga, tduwa psasing, pseanak qmita ni psahug pila ka patas sasaw.”",
+          "chinese_text": "Kasaw說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406637.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Rmngaw ka Panay“ Nuqu malu miyah su sapah kida, nuqu malu ka kndsan alang.”",
+          "chinese_text": "Panay說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406638.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Rmngaw ka Panay“ Aki knrudan ka baki uri da, asi ka pklwaun taxa ka hiya uri da. Ttama Sapah Kmlawa Drudan kdjiyax ka hiya sayang.”",
+          "chinese_text": "Panay說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406639.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Rmngaw ka Panay“ Mseuwil ksun kuna Imuy, mseuwil ngalang kuna Aduh.”",
+          "chinese_text": "Panay說：「有時候他會叫我Imoy，有時候他會以為我是Adoh。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406640.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Rmngaw ka Panay“ Mlatat do mseuwil mshungi miyah sapah ka hiya da.”",
+          "chinese_text": "Panay說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406641.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Rmngaw ka Panay“ Ana huling na nanak, ini na klai kana uri da.”",
+          "chinese_text": "Panay說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406642.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Dhuq sapah do, rmngaw ka Kasaw“ Baki, nii ku sapah da, ima ka yaku klaun su hug?”",
+          "chinese_text": "到家以後，Kasaw說：「阿公，我回家了，你記得我是誰嗎?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406643.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Rmngaw ka baki“ Kasaw, miyah su da? Ma ku lu ini kla ka dqras su da, Kasaw?”",
+          "chinese_text": "阿公說：「Kasaw，你回來啦？我怎麼會不認得你的臉呢，Kasaw?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406644.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Mqqita dowriq taxa ka dha hiyi nii, rngring mhulis kana.",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406645.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "Ksun haya qmita do, dqras Kasaw ga, wada rmawah rhngun qsahur baki uri da.",
+          "chinese_text": "看起來，Kasaw的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24171/406646.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 10,
+      "language": "噶瑪蘭語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "kiyapama ti buli , pataz azasan na baqi na matiw temayta tu zin.",
+          "chinese_text": "Buli小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406678.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Raya ti ti buli nani, matanaq ti tu leppaw matiw sa taypaq kelawkaway.",
+          "chinese_text": "Buli長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406679.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "uzusa betin ti tasaw ti buli ta taypaqan qemizuan, sizenges aizipna tu lazing na damu.",
+          "chinese_text": "Buli在台北生活了二十年，他很想念故鄉的海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406680.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "temanan ti buli melabu tu seppawan na damu, matiw sa teqezan na qitin tina na semuna timaizipanan.",
+          "chinese_text": "Buli回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406681.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "paqatiwan ni buli nipaninguan na ta wangluan, nizu nengi zin na mazemun kaput.",
+          "chinese_text": "Buli將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406682.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "semanu ti tina, “manna suppaRan na iku na tinnaw tu ti abas, manna mesatuRin aizipna?”",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作Abas，它怎麼那麼厲害？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406683.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "semanu ti buli, “suppaR ya tinnaw mezin tu zais na lazat, tangi kelawkaway imi nizu nazau temangan tu tangn na ineb .”",
+          "chinese_text": "Buli說：「電腦可以做人臉辨識，現在我們上班也都這樣開門。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406684.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "semanu ti buli, “umipil iku, yau zuma ay lawlaw, suppaR meningu ya tinnaw, mezin, muman nani paquwad tu kelisiw.”",
+          "chinese_text": "Buli說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406685.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "semanu ti abas, “qangi ma isu temanan qanengi ma, nengi ma qenabinnus na damu.”",
+          "chinese_text": "Abas說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406686.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "semanu ti abas, “yau qaya baqian ti ti baqi, qayau a lazat mediyatip timaizipana qawka. tangi aizipna pataz yau ta qizuanan na qanengian na waway na izip.”",
+          "chinese_text": "Abas說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406687.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "semanu ti abas, “yau zuma imuy zin na iku qumRas, yau zuma ipay zin na iku qumRas qaya.”",
+          "chinese_text": "Abas說：「有時候他會叫我Imuy，有時候他會以為我是Ipay。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406688.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "semanu ti abas, “yau zuma melusit kalingun ti temanan aizipna.”",
+          "chinese_text": "Abas說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406689.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "semanu ti abas, “seRay wasu na, mai ti mazin na.”",
+          "chinese_text": "Abas說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406690.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "masseq tu leppaw, semanu ti buli, “baqi, temanan ti iku, suppaRan su pama aiku ni?”",
+          "chinese_text": "到了家，Buli說：「阿公，我回家了，你記得我是誰嗎？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406691.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "semanu ti baqi, temanan ti isu ka? quni pa mai qazin ku zais su, buli?”",
+          "chinese_text": "阿公說：「Buli，你回來啦？我怎麼會不認得你的臉呢，Buli？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406692.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "simtayta kinnawsa, Raya nipatawa na.",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406693.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "taytan ta, zais ni buli, tanganan na ti ya tangan na anem ni baqi.",
+          "chinese_text": "看起來，Buli的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24176/406694.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 11,
+      "language": "鄒語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "ne mosona’ala oko ’e pasuya osila asngʉcva hafa to ak’i ho yuuso baito to etʉpʉ .",
+          "chinese_text": "pasuya小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406726.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "mohcu sasmoyʉskʉ ’e pasuya, mohcula mongoi to emoo ho uhne taipahu ho yaahioa.",
+          "chinese_text": "pasuya長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406727.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "micu tongpuska homo yonta taipahu ’e pasuya, lasi na’no talʉa ’o etʉpʉ ne hosa.",
+          "chinese_text": "pasuya在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406728.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "moso maine’e ’e pasuya ho i’upu meesi, isi yungeova to eki to ino.",
+          "chinese_text": "pasuya回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406729.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "isi sasing ta pasuya ho sia to oanglu, na’no botngonʉ ’omo himkaebʉ.",
+          "chinese_text": "pasuya將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406730.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "yainca to ino ’e tanivu :“ maincis’a cohivi ta tengnao ho tanivu a’o maka’ʉc’o meemealʉ? ”",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作tanivu，它那麼厲害?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406731.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "yainca ta pasuya :“ la peela aiti ta tengnao ’o sapci ta yatatiskova, ho lamia yaahioa la yaica ho paavi .”",
+          "chinese_text": "pasuya說：「電腦可以做人臉辨識，現在我們上班也都這樣開門。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406732.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "yainca ta pasuya :“ tmalʉ to la yainca, panola maica ci ’ko’ka, ho boemi no tengnao ho sasing hocu tmuhnoi. ”",
+          "chinese_text": "pasuya說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406733.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "yainca ta tanivu : “ te ʉmnʉhe honcisu yuovei, mo ʉmnʉhe ’e seikaku ta hosa. ”",
+          "chinese_text": "tanivu說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406734.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "yainca ta tanivu :“ micu avahocu mameoi ’e ak’i mooteo no tela aʉt’ʉcʉ. lacuc’o nochʉmʉ to pulo cengkangcang. ”",
+          "chinese_text": "tanivu說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406735.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "yainca ta tanivu : “ lasi aasvʉta yainca motayʉ na a’o tasimiho hu’usnano paicʉ na a’o. ”",
+          "chinese_text": "tanivu說：「有時候他會叫我motayʉ，有時候他會以為我是paicʉ。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406736.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "yaica ta tanivu: “ la miho emoyafo ho ta’payoʉ momaine’e. ”",
+          "chinese_text": "tanivu說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406737.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "yainca ta tanivu: “ lasi miho o’te honga ’o av’usi. ”",
+          "chinese_text": "tanivu說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406738.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "yainca ta pasuya:“ ne micu yonto emoo: ak’i mi’ocu yuovei, ikon’a talʉa zou sia a’o? ”",
+          "chinese_text": "到家以後，pasuya說：「阿公，我回家了，你記得我是誰嗎?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406739.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "yainca ta ak’i :“ pasuya mantes’a o’te honga si sapcisu? ”",
+          "chinese_text": "阿公說：「pasuya，你回來啦？我怎麼會不認得你的臉呢，pasuya?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406740.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "yupa mi’usnu ho tuk’ek’eo.",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406741.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "ho isi aiti ta pasuya si mi’ausnasi, isicu paavi na ’tohʉngʉ ta ak’i.",
+          "chinese_text": "看起來，pasuya的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24181/406742.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 12,
+      "language": "卑南語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "a makiteng driya i Ingkay i, marayas tu pillangaw kan temuetaw na mainayan muka menauwa dra ine.",
+          "chinese_text": "Ingkay小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406774.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "a matrina lla i Ingkay i, tu burekay i ruma muka i Taipe kikaruna.",
+          "chinese_text": "Ingkay長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406775.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "makabetraan lla amiyan tu kinadruwan i Taipe. salaw masupeng kana ine i drekall.",
+          "chinese_text": "Ingkay在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406776.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "muruma i drekall druwa kurenanga dra llegiyan i Ingkay. aw muka i siyataw kitrebunga i tinataw.",
+          "chinese_text": "Ingkay回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406777.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "tu paatedranay dra wang-lu na siyasing kan Ingkay. kadruwan tu alialian tu nirumaenan na semakal.",
+          "chinese_text": "Ingkay將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406778.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "“daw malladram na tinnaw dra i Raden ku? saigu i!” kema i tinataw.",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作Raden？它那麼厲害喔！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406779.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "kemadri i Ingkay aw, “na tinnaw i, maruwa pakumau dratu trangar dra trau. an mauka mi kikaruna garem i, kemadri mi dar trematruwall dra alleban.” kema.",
+          "chinese_text": "Ingkay說：「電腦可以做人臉辨識，現在我們上班也都這樣開門。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406780.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "“kinillengawan i, ullaya a druma a kanatal. saigu semiyasasing, pakumau aw pasabung dra paisu tu tinnaw.” kema i Ingkay.",
+          "chinese_text": "Ingkay說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406781.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "kemadri i tinataw aw, “inaba yu lla muruma a! marainaba driya ta inubaawan i drekall.”",
+          "chinese_text": "Raden說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406782.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "“aw maidrang lla i temuu na mainayan. maaya ta dra trau dra aair kantaw. garem i, marayas muka kana cien-kang-can i drekall.”",
+          "chinese_text": "Raden說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406783.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "“an numa i, Imuy kema emauaw kanku. an numa i, i Agam kema kanku.”",
+          "chinese_text": "Raden說：「有時候他會叫我Imuy，有時候他會以為我是Agam。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406784.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "“an mupatraran i, ababalu dar muruma.”",
+          "chinese_text": "Raden說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406785.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "“arusay tu suwan i, adri lla malladram. ” kema.",
+          "chinese_text": "Raden說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406786.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "meredek i ruma i, tu auaway i temuetaw kan Ingkay, “mumu, muruma ku lla. malladram yu dra i manay ku?”",
+          "chinese_text": "到家以後，Ingkay說：「阿公，我回家了，你記得我是誰嗎？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406787.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "“Ingkay, muruma yu lla! kemuda ku dra maulid kanu! i Ingkay yu maku!” kema temubang i temuetaw na mainayan.",
+          "chinese_text": "阿公說：「Ingkay，你回來啦！我怎麼會不認得你的臉呢！Ingkay嘛！」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406788.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "masaseer aw karasaeru nadru na maretemuwan.",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406789.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "a! menau ta i, amau tu trangar kan Ingkay na trematruwall kantu anger kan temuetaw.",
+          "chinese_text": "看起來，Ingkay的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24186/406790.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 13,
+      "language": "雅美語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "no ka lialikey na pa ni manongsong am , masanib si akey na yangey siya do awa .",
+          "chinese_text": "Manongsong小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406822.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "makaveyvo rana si manongsong am , komaro do vahay da a kangey na mivazay do Taipei .",
+          "chinese_text": "Manongsong長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406823.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "si Manongsong am kasikaroa a kawan atongyan do Taipei , mowney am ikapaw na o awa do pongso da .",
+          "chinese_text": "Manongsong在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406824.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "ya ni mangey rana do pongso da ka paciranod na mivaci , na tazapiaen ni ina na do pananalaen so aleleh .",
+          "chinese_text": "Manongsong回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406825.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "si manongsaong am na ni pangaing do tennaw o siasin , apia koan da no aroa tao.",
+          "chinese_text": "manongsaong將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406826.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "koan ni ina : “ asio ta ikongo na tokatengan ney jia o ngaran ko sinan.manongsong no tinaw , ka tenetenen na ? ”",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作sinan.manongsong，它那麼厲害?<br />\n」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406827.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "koan ni manongsong : “ na kasingkadan o moimoing a tao no tinaw , sicyawan am makoan san saon no namen mivazay tonaiwangen . ”",
+          "chinese_text": "manongsong說：「電腦可以做人臉辨識，現在我們上班也都這樣開門。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406828.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "koan ni manongsaong :“ nimamizing , do asaka maataw am , o tinaw na katengan sivaen singkadan , ka patoroan」so nizpi . ”",
+          "chinese_text": "manongsong說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406829.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "koan ni Panigen :“ to ka na ngai rana an , apiapia saon do ili .”",
+          "chinese_text": "Panigen說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406830.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Panigen :“ ya mararakeh rana si akey ,amiyan so tao mansidongen siya. ya masanib na kangey do ikalovot no aroa tao .”",
+          "chinese_text": "Panigen說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406831.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Panigen :“ no tomatakaw am na panci yaken si Kasomran , no tomatakaw am si Tahaen koan na yaken .”",
+          "chinese_text": "Panigen說：「有時候他會叫我Kasomran，有時候他會以為我是Tahaen。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406832.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Panigen :“ no tomatakaw na toarian rana kangey do vahay .”",
+          "chinese_text": "Panigen說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406833.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Panigen :“ tana o ino nam ,na jiatengi rana . ”",
+          "chinese_text": "Panigen說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406834.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "amiyan rana do vahay am :“ akey , ko na ni mai , mo katenga pa yaken ?”",
+          "chinese_text": "到家以後，Panigen說：「阿公，我回家了，你記得我是誰嗎?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406835.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "koan ni akey :“ mo Manongsong ka na ni mai ? ta ji koa singkad ni sya so moing mo, Manongsong ? ”",
+          "chinese_text": "阿公說：「manongsong，你回來啦?我怎麼會不認得你的臉呢，manongsong?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406836.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "to milingalinay sira to sia mikamika’ming a .",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406837.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "citaen o moing ni Manongsong am , ikasarovaz rana ni akey na .",
+          "chinese_text": "看起來，Panigen的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24191/406838.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 14,
+      "language": "撒奇萊雅語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "u wawa henay ci Kacaw, sawsawni ladayen ni baki ciniza tabayu.",
+          "chinese_text": "Kacaw小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406870.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "balakitu ci Kacaw, tayza tu i Taypak misakakawaw.",
+          "chinese_text": "Kacaw長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406871.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "tusa a bataan tu a mihca ci Kacaw i Taypak mauzip, mabulah tu ciniza tu bayu nu niyazu’.",
+          "chinese_text": "Kacaw在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406872.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "taluma’ ci Kacaw i niyazu’ milihiza milisin, tupinen ni ina niza ciniza taluma’.",
+          "chinese_text": "Kacaw回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406873.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "patayzaen niza ku syasing i wanglu, kapah sa amin ku cabay.",
+          "chinese_text": "Kacaw將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406874.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "hini sa ci ina, “ kya matineng ku teynnaw ci Panay ku ngangan aku, micidek haw? ”",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作Panay，它那麼厲害？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406875.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "hini han ni Kacaw, \"matineng ku teynnaw tu bihid nu tademaw, mahini ayza kami tayza misakakawaw a miwahwah tu panan.\"",
+          "chinese_text": "Kacaw說：「電腦可以做人臉辨識，現在我們上班也都這樣開門。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406876.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "hini sa ci Kacaw, \"u tingil, u zuma a kanatal, matineng misasing ku teynnaw, misiteked, tu mibaking.\"",
+          "chinese_text": "Kacaw說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406877.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "sakamu sa ci Panay, \"taluma’ kisu ku kapahay, kapah tu ku kauzip nu niyazu’.\"",
+          "chinese_text": "Panay說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406878.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "hini sa ci Panay, balakitu ci baki, a izaw ku midiputay cinizaan, ayza tayza sa ciniza i pidiputan tu babalaki a kakitizaan nu niyazu’.\"",
+          "chinese_text": "Panay說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406879.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "hini sa ci Panay, \"alahicaan ci Imoy han niza kaku, alahicaan ci Adoh han niza kaku.\"",
+          "chinese_text": "Panay說：「有時候他會叫我Imoy，有時候他會以為我是Adoh。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406880.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "hini sa ci Panay, \"taputah ciniza makatawal taluma’.\"",
+          "chinese_text": "Panay說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406881.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "hini sa ci Panay, “ u wacu tu niza, kaliyuhan tu niza . ”",
+          "chinese_text": "Panay說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406882.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "taluma’ tu, hini han ni Kacaw, “ baki taluma’ kaku, matineng henay kisu i takuan haw?”",
+          "chinese_text": "到家以後，Kacaw說：「阿公，我回家了，你記得我是誰嗎？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406883.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "hini sa ci baki, “ kacaw, taluma’ tu kisu, tadu maliyuh kaku tu bihid isu haw? ci Kacaw. ”",
+          "chinese_text": "阿公說：「Kacaw，你回來啦？我怎麼會不認得你的臉呢，Kacaw？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406884.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "masasuazih tatusa, tanutuwa sa matawa.",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406885.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "azihen isaw, ya bihid ni Kacaw, mawawah ku balucu’ ni baki.",
+          "chinese_text": "看起來，Kacaw的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24196/406886.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 15,
+      "language": "卡那卡那富語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "miaa tati’ingi pa Pani. paira ariviciʉn tamu cumacʉ’ʉra ’umi.",
+          "chinese_text": "Pani小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406918.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "aratatia cu Pani, aratʉkʉnʉ tanasa mukusa Taipe putukio.",
+          "chinese_text": "Pani長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406919.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "nimoon cu na Taipe cumacʉvʉrʉ sua Pani, mapusan vangata cenana. pacʉpʉngʉn kee tanasʉn tamna ’umi.",
+          "chinese_text": "Pani在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406920.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "pui’i tanasʉn sua Pani, tia matipa kaisisi. mukusa tatupurua kisia cina in matʉnʉsʉ ’inia.",
+          "chinese_text": "Pani回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406921.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "’apusikarʉn Pani na wangru sua ’aningu meesua. kacaua cau matakici manʉng misee!",
+          "chinese_text": "Pani將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406922.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "makasi cina: “miseni tennau tavara’ʉ sua nganai maku ia Pi’i?”",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作Pi’i，它那麼厲害？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406923.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "makasi Pani: “tarakanangʉ tennau cau tamna cimi’i. to’unaa mia sangpan, ’apaica isi putu’ʉnʉvʉ.”",
+          "chinese_text": "Pani說：「電腦可以做人臉辨識，現在我們上班也都這樣開門」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406924.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "makasi Pi’i: “na cucumeni kuka. ’una kani ’urupaca tennau patara’aningu, tarakanangʉ, mapacu vaantuku.”",
+          "chinese_text": "Pani說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406925.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "makasi Pi’i: “tia kara manʉng pui’i kasu. cumacʉvʉrʉ na tanasʉn, maraa mamanʉng.”",
+          "chinese_text": "Pi’i說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406926.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "makasi Pi’i: “mataa marangʉ cu tamu, tia ’una cau miacara ’inia. masini tantaniara nguain monoon na wʉnhua cienkangcan.”",
+          "chinese_text": "Pi’i說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406927.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "makasi Pi’i: “’apanapa nguain marisusuna ’ikua Paicʉ misee. ’apanapa Kuatʉ misee ’ikua.”",
+          "chinese_text": "Pi’i說：「有時候他會叫我Paicʉ，有時候他會以為我是Kuatʉ。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406928.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "makasi Pi’i: “’apanapa arapipiningi, roimi tia pui’i tanasa.”",
+          "chinese_text": "Pi’i說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406929.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "makasi Pi’i: “’apanapa ka’anʉ cu tarakanangʉ nguain tamna tacau.”",
+          "chinese_text": "Pi’i說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406930.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "makacʉkʉna tanasa. makasi Pani: “tamu, nipui’i cu ku. atʉnʉngʉ kara kasu, neni sua iku?”",
+          "chinese_text": "到家以後，Pani說：「阿公，我回家了，你記得我是誰嗎？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406931.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "makasi tamu: “Pani nipui’i cu kasu! miseni ka’anʉ ku tia tarakanangʉ capai musu, Pani?”",
+          "chinese_text": "阿公說：「Pani，你回來啦？我怎麼會不認得你的臉呢，Pani？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406932.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "’arupacʉ’ʉra nguani, masitatia maacaca.",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406933.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "manasʉ Pani tamna capai, makai putuvʉrʉkʉʉn cu tamu tamna cʉpʉngʉ.",
+          "chinese_text": "看起來，Pani的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24201/406934.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 16,
+      "language": "拉阿魯哇語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "akuisa mainimana ’Avina , karʉkʉhlʉ tamuisa ruavici kana’ana kumita tʉnʉmʉ .",
+          "chinese_text": "’Avina小的時候，阿公經常帶他一起看海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406966.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "arataisacua ’Avina , musa mahlukua taipakʉ taku’i’iarʉ .",
+          "chinese_text": "’Avina長大了以後，離開家到台北去工作。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406967.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "maruaru ’Avina taipakʉ mapuahlʉ caihli mangusipi , tam malʉngʉngʉ a kana’ana tʉnʉmʉ miararuma .",
+          "chinese_text": "’Avina在台北生活了二十年，他很想念故鄉的海。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406968.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "puaili ’Avina miararuma tumalʉlʉvʉ kurarau kilaliali , musa ina’ana mahlukua tautarungusa likihli tarucuvunguisana .",
+          "chinese_text": "’Avina回故鄉參加祭典，媽媽到車站接他。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406969.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "salua ’Avina ’ahlingu mikua salasapuarʉ , tumahlaʉ tukucu miamʉnʉmʉnʉ taumurahla .",
+          "chinese_text": "’Avina將照片傳到網路，很多朋友都按讚。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406970.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "amihla ina’a : “ tiaraisa tennauna macahlia ngahlaku Vanau , tam hliulavalava ? ”",
+          "chinese_text": "媽媽說：「電腦怎麼知道我叫作Vanau，它那麼厲害?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406971.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "amihla ’Avina : “ tennauna macahlia pi’ahlingu sapi cucu’u , kihlahlamu maci taku’i’iarʉia mairahlu hliarupangʉhlʉva sipangʉhlʉvana .”",
+          "chinese_text": "’Avina說：「電腦可以做人臉辨識，現在我們上班也都這樣開門。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406972.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "amihla ’Avina : maru hlitimahla , maru kuka usumanʉ , tennauna macahlia pia’ahlingu ， macahlia palavalʉ minisuacu pirasavungu .",
+          "chinese_text": "’Avina說：「聽說，在有些國家，電腦會拍照、辨識，然後罰錢。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406973.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "amihla Vanauna : “ mavacangiu maci puaili , mavacangʉ siangusipi a miararuma . ”",
+          "chinese_text": "Vanau說：「你還是回來比較好，部落的生活比較好。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406974.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "amihla Vanauna :“ hla hlamamacu a tamu’una hlahlusa tumuacu mʉmʉa maiatuhluhluisana karʉkʉhlʉ a kana’ana mahlukakua parana takuamahlatʉrana .”",
+          "chinese_text": "Vanau說：「而且阿公老了，也需要有人照顧他了。他現在常常都待在部落文化健康站。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406975.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "amihla Vnauna : “ apahlapa makuvauku Apʉ , apahlapa kana’ana Uai amii . ”",
+          "chinese_text": "Vanau說：「有時候他會叫我Apʉ，有時候他會以為我是Uai。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406976.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "amihla Vanauna : “ apahlapa kana’ana musa kipuhlu kucuatʉhlʉngʉ puaili .”",
+          "chinese_text": "Vanau說：「他有時候出門就忘了回家。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406977.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "amihla Vanauna : “ minisuacu tasausana , kucu mʉmʉa pautuahlangʉ .”",
+          "chinese_text": "Vanau說：「甚至連他的狗，他都不認識了。」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406978.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "miungu salia rumahlaʉ amihla ’Avina : “ papu’u hlahlusa puailicuaku salia , atʉhlʉngiumanai ?”",
+          "chinese_text": "到家以後，’Avina說：「阿公，我回家了，你記得我是誰嗎？」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406979.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "amihla tamu’u hlahlusa : “ puailicui ’Avi ? tiaraku maci kupautuahlangi sapiu , ’Avi ? ”",
+          "chinese_text": "阿公說：「’Avina，你回來啦？我怎麼會不認得你的臉呢，’Avina?」",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406980.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "arupahliakua , mʉtʉlʉsʉ macaca .",
+          "chinese_text": "兩個人看著對方，一起大笑。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406981.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "kitaʉia , sapisa ’Avina , arapangʉhlʉvacua mʉmʉa tʉkʉisa tamu’u hlahlusa .",
+          "chinese_text": "看起來，’Avina的臉孔，也打開了阿公心裡的門。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/24206/406982.mp3",
+          "audio_url_chinese": "",
+          "image_url": "https://web.klokah.tw/pbc/book/113/17.jpg"
+        }
+      ]
+    }
+  ],
+  "source_urls": {
+    "info": "https://web.klokah.tw/pbc/book/index.php?id=113",
+    "online": "https://web.klokah.tw/pbc/book/online/index.php?id=113"
+  }
+}

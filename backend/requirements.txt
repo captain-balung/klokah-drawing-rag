@@ -1,0 +1,9 @@
+# 後端（線上查詢服務）依賴
+fastapi
+uvicorn
+anthropic
+python-dotenv
+pydantic
+
+# test_query.py 用
+requests

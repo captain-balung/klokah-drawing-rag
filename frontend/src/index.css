@@ -1,0 +1,33 @@
+:root {
+  /* 中性色為主，點綴色低調（設計語言：乾淨的閱讀工具） */
+  --text: #2b2b30;
+  --text-soft: #6b6b73;
+  --bg: #faf9f7;
+  --surface: #ffffff;
+  --border: #e6e4e0;
+  --user-bg: #2b6b62; /* 低調點綴：呼應自然/土地的綠 */
+  --user-text: #ffffff;
+  --assistant-bg: #ffffff;
+  --accent: #2b6b62;
+
+  /* 字型需涵蓋族語羅馬拼音變音符號（ʉ ʔ ə ’）：Noto / system 字型涵蓋良好 */
+  --sans: 'Noto Sans TC', 'Noto Sans', system-ui, 'Segoe UI', 'Microsoft JhengHei',
+    'PingFang TC', Roboto, sans-serif;
+
+  font: 16px/1.6 var(--sans);
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}

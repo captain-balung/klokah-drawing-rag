@@ -1,0 +1,2183 @@
+{
+  "id": 146,
+  "title": "我們的名字",
+  "illustrator": "翁雅德",
+  "level": "中級",
+  "grammar_focus": "代名詞",
+  "summary": "1994年8月1日這一天的歷史變化是從何而來的呢？原本住在台灣的祖先居住在山林裡，但是300多年前荷蘭人入侵，之後是鄭成功來了，接下來是日本統治時期，最後就是國民政府來台，各個階段他們對於「原住民」有不同的稱呼；要改變人們的習慣和觀念並不容易。經過10年的辛苦，終於在1994年8月1日，台灣的憲法正式把名稱改為「原住民族」。",
+  "language_count": 16,
+  "languages": [
+    {
+      "lid": 1,
+      "language": "阿美語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "U tuas nu mita, i lutulutukan ku aru’ i naayaw, i tepateparan nu liyaliyalan ku ruma.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，有的住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975850.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "U lumaluma’a:ntu nu mita kina sera.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975851.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "I lutulutukan kami a misavekavekac, pasayira i veriw sananay a vali minanam a maanen ku radiw.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975852.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "I liyaliyalan kami a midanguy, pasayira i tapelik(laying) minanam a maanen ku keru.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975853.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "I aayaw nu tuluway a patekenan amihcaan, makalunan ku Helan a talacuwacu:wa, makamelaw tu sera nu mita, siangi’ ku heni, suwal saan u “Fuarmosa!” u vangcalay a kitakit.",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975854.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Tayinitu ku Helan, u nu “Ungayay a laylay” han kita a miangang nu heni.",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975855.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Tayinitu ci Ceng cengkong, vahvahentu nu heni ku Helan. U “Caayay hen kasatamdaw.” han kita a miangang nu heni.",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975856.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Tayinitu ku Ripun, u “I lutukay a vinacadan.” han kita a miangang nu heni.",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975857.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Tayinitu ku cengfu nu Hulam, papisumaden nu heni kami a sanu Hulamen ku ngangan “U i lutukay a vinawlan” han kami a miangang nu heni.",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975858.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Itiya i 1984tay amihcaan, malingatu tu kami a papisumad tu alumanay tu sapiangang itamiyan.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975859.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Caay kadayum a misumad tu nanam nu tamtamdaw atu nisimsiman. Mataelivtu ku muketepay a mihcaan, silahecitu ku nangeruan nu mita.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975860.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "U siyenfa nu Taywan, patatudungentu ku nipiangang ititaan, u “Yencumincu” han ku nipiangang i 1994tay amihcaan 8way avulad cacayay aremiad.",
+          "chinese_text": "1994年的8月1日，台灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975861.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Hatini ku adihay a nikacaay kalecad nu nipiangang nu tamtamdaw ititaan, a cimaci:ma’ han saw kita? A maanen saw nu mita a miangang ku tireng nu urip",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975862.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "U saayaway a vinawlan kita a maru’ i tina seraan.",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975863.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "I:ta kiyami ku saayaway a maru’ i tina seraan.",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975864.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Inaayaw, u “Pangcah” han nu tuas nu mita a miangang ku tireng nu urip, anini, u Hulam u Taywan u Ngayngay a cavay amin nu mita, \"U Yencumin\" han kita a miangang, inamahiniyay amin u ngangan amin nu mita.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「阿美族」，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975865.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "Ayi tini:tu kita itina seraan, a semuwal patenak tu kungku nu mita.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70290/975866.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 2,
+      "language": "泰雅語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "O tato’asan no mita, na i lotok, i lawac no riyar a ma’orip iti:ya ho^.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975968.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "O ka’oripan ita kona kanatal.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975969.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "I lotok kami a misalama^, minanam kami to fali^ a romadiw.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975970.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "I pariyaran kami a midangoy, minanam kami to riyar a masakero^.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975971.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "I ’ayaw no tolo^ li’an no mihecaan, mirarakat a pakalonan ko He-lan a finacadan; yo paka’araw tona kanatal ita i, faheka’ sa cangra a somowal, “For-mo-sa! makapahay a kanatal!”",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975972.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Tayni sato ko He-lan a finacadan i, o ye-ren han nangra kita.",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975973.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Yo tayni sato ci Cen-ceng-kung i, folawen nangra ko He-lan a finacadan. O Fan-ren han nangra kita.",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975974.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Yo tayni sato ko Ripon i, o Ta-ka-sa-ku^ han nangra kita.",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975975.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Yo tayni sato ko Holam i, kao no Holam to ko ngangan no namo saan i titaanan, o sa-ti-tong-paw han nangra kita.",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975976.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Itiya, i 1984 a mihecaan, misatapang kita a papifalic to pipangangan nangra i titaanan.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975977.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Caay ko rahodayay a mifalic to pinangan ato harateng no tamdaw. Mata’elif ko mo^tep a mihecaan to nikaroray, ta ciepoc ko nikarorayan.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975978.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "I 1994 a mihecaan sakafalo^ a folad sakacecay a romi’ad, o “Yuen-cu-min-cu” han to ko pipangangan i titaanan i salaloma’ no satakara:way a holic no Taywan.",
+          "chinese_text": "1994年的8月1日，台灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975979.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Hatini ka adihay ko pipangangan no tamdamdaw i titaanan, nika o cima^ kita? Maan han no mita ko pipangangan i titaanan ta matatodong?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975980.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "O sangara’ay kita a mora’ tona kanatal.",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975981.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Kita ko sangara’ay a maro’ tona kanatal.",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975982.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "I ’a:yaw, o ’Amis han no tato’asan kita, anini^ haw i, o “Yuen-cu-min” han no Payrang kita, nika o malecaday a ngangan no mita konini.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「阿美族」(改各族名稱)，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975983.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "O mamarayray kita a maro’ tonini a kanatal, parayray to kongko^ no mita.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70302/975984.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 3,
+      "language": "賽夏語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "O tato’asan niyam, itiya ho i lotolotokan a maro’, i riyariyaran a maro’.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927778.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Itini tona sera ko loma’ niyam.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927779.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "I lotolotokan misacikacikay kami, samanen a romadiw sa misi’ayaw to fali a minanam kami.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927780.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Itini tona kakahaday a riyar midangoy kami, samanen makero sa misi’ayaw to tapelik a minanam kami.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927781.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "’Ayaw no tolo so’ot a mihecaan, itini i riyar talacowacowa misacikacikay ko Holan a tamdaw, paka’araw to sera no mita safaheka sa a somowal, Fu-a-mu-sa saan! o tadafangcalay a kanatal sanay.",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927782.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Tayni to ko Holan a tamdaw, “O lotolotong to a tamdaw” saan ko pangangan nangra kitanan.",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927783.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Tayni to ci Cen-ceng-kon, malaplap to nangra ko Holan a tamdaw. “O Caay ho ka palatamdaw a tamdaw”. saan a pangangan kitanan cangra.",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927784.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Tayni to ko Ripon, “O i lotokay a finacadan” han nangra pangangan kita.",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927785.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Tayni to ko ceng-fo no Holam, papifalic kitanan to no Holam a ngangan cangra, pangangan han nangra kita “I lotolotokay a tamdamdaw”.",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927786.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Tangasa to i 1984 mihecaan, misatapang to kita papifalicen ko ’alomanay to sapangangan i kitanan.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927787.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Caay ko lahoday papifalic to pinangan no tamdamdaw ato nisafaloco’an. mata’elif ko moetep mihecaan ko roray, ta ira ko heci to pisa’icel no mita.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927788.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Tangasa to i 1994 miheca sakafalo folad sakacecay romi’ad, mapangangan to kita to “ Yincominco ” maparo itini i Tatapangan a ceding no Taywan.",
+          "chinese_text": "1994年的8月1日，臺灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927789.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Wata kaadihay kasasiroma ko pangangan no tamdamdaw i kitanan, a matira aca cima kita? Samanen no mita a pangangan i kitanan to saw?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927790.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "O sa’ayaway kita maro’ tona sera a finawlan.",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927791.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "O sa’ayaway maro’ itini tona sera kita.",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927792.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Itiya ho, o Pangcah/’Amis han no tato’asan a pangangan kita, anini sato, o “ Yincomin ” han to no Holam a pangangan kita, sahto to o ngangan no mita konini.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「阿美族」，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927793.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "O a itiniay sato kita tona sera , a parayray kita to nakimadan no tato’asan a kimad .",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66668/927794.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 4,
+      "language": "邵語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "O liteng no mita, namaro’ay to i lotolotokan, namaro’ay to i riyariyalan.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976086.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "O pipalomaloma’an haca naitiya koni pala.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976087.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Micacikay i lotolotokan kita, pakifali a mihatatanam to sasamaanen a romadiw.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976088.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Midangoy i riyariyalan kita, pakitapelik a mihatatanam to sasamaan a makero.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976089.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "I ’ayaw no tolo so’ot a mihecaan, mitano tamina a mirarakat ko Helan a tamdaw talacowacowa, manengneng ko pala no mita, faheka’ sa cangra a somowal, “Foemosa! O makapahay a kitakit.”",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976090.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Tayni to ko Helan i, pakasi “Yelen” han nangra kita a pangangan.",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976091.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Tayni to si Cengcenkong i, laplapen to nangra ko Helan. pakasi “Fanlen” han nangra kita a pangangan.",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976092.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Tayni to ko Dipong i, pakasi “Kawsaco” han nangra kita a pangangan.",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976093.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Tayni to ko Kowaping i, papifalic cangra i kitanan to ngangan a papisano kowaping a ngangan, pakasi “Santitongpaw” han nangra kita a pangangan.",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976094.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "I cecay lefot siwa so’ot falo polo’ ira ko sepat a mihecaan i, misatapang to kita a papifalic to pipangangan i kitaanan ko alomanay.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976095.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Cowa ka lahoday ko papifalic to waywayan ato harateng no tamdamdaw, matinako ko nikaroray toni a mo^tep a mihecaan, nga ira sa to ko naikoran.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976096.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "I cecay lefot siwa so’ot siwa polo’ ira ko sepat a mihecaan sakafalo a folad sakacecay a romi’ad, patilidan to no salikec no Taywan kita a pakasi “Yencominco” hananay to.",
+          "chinese_text": "1994年的8月1日，台灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976097.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Hatini ko kaadihay no pipangangan no tamdamdaw i kitaanan, o cima ko soelinay ita saw? Samaanen ita a pangangan to niyah to a tireng aki?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976098.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "O sa’ayaway a maro’ toni a pala a tamdaw kita.",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976099.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "O kita ko sa’ayaway a maro’ toni a pala.",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976100.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "I ’ayaw, pakasi “’Amis” hananay no liteng a pangangan to tireng no niyah to, anini, pakasi “Yencomin” hananay no Holam a widang no mita kita, sahetoay o ngangan no mita koni a maemin.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「阿美族」，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976101.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "O aitinitini aca a ma’orip kita tona pala, padotoc a somowal to kimad no mita.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70314/976102.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 5,
+      "language": "賽德克語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Itiyaho, i lotok ato riyar ko ’aro no tato’asan ita.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976204.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Onini a kitakit i, o kita aca ko maro’ay a misaloma’.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976205.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Comikay kami i lotolotokan, milolod to radiw no fali.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976206.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Itiniay kami i riyar a minayar, samaanen a minanam to kero no teperik.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976207.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Iayaw no tolo so’ot a mihecaan ira ko Holam a tamdaw mikitamina tayni i pala no mita safaeheka sa a minengneng a somowal, “watah! kona kakapah nona Foermosa.”",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976208.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Ira tayni ko Holam a tamdaw, yi-len han nangra a pangangan kitaanan.",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976209.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Ira tayni ci Ceng-ceng-kong a Paylang, laplapen nangra ko Holam a tamdaw, Howana han nangra a pangangan kitaanan.",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976210.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Ira tayni ko Dipong a tamdaw, Kaw-sa-co han nangra a pangangan kitaanan.",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976211.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Ira tayni ko Kowaping a tamdaw, o “San-ti-tong-paw” han nangra a pangangan kitaanan.",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976212.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "I 1984 a mihecaan, papifalicen no mita cangra to pipangangan i kitaanan.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976213.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "mo^tep a mihecaan ko pisa’icel to pifalic to piharateng ato pinangan no tamdaw i titaanan.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976214.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "1994 a mihecaan saka cecay a romi’ad no saka falo a folad, panganganen no Taywan a rikec kita to no Yincomin a ngangan.",
+          "chinese_text": "1994年的8月1日，台灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976215.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Aloman ko pipangangan no tamdaw kitaanan, o cima kita? samaanen ita a pangangan kitaanan?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976216.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "O saayaway kita a ciloma’ itini tona sera a tamdaw.",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976217.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "O kita ko saayaway a ciloma’ itini tona sera.",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976218.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Iayaw, o ’Amis han no malitengay a pangangan kitaanan, anini i, o Yencomin han to no payrang kita a pangangan, o ngangan no mita a maemin koni.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「阿美族」，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976219.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "Wa itini kita a ma’orip tona sera tahila i da’oc, palosiyangen ko kimad ita.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70326/976220.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 6,
+      "language": "布農語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "binkisan ta ita. minaki’ sa hlhlahuy sraral. minaki’ squ syaw krahu bsilung.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927874.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "qalang myan krryax qu rhzyal qani.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927875.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "mqzinah ta qsahuy hlahuy ga, psulung ta mthhuy na behuy mqwas.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927876.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "lmngyaq ta ska bsilung ga, psulung ta sbas na bsilung m’yugi’.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927877.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "300 kawas sraral ga, mhmut lmosay n’inu qu talah tunux. ktan nha rhzyal ta ru memaw nkux kmal mha, “Fermosa! talagay kinbetunux na rhzyal.”",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927878.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "mwah talah tunux lga, son ta nha “squliq qanux”.",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927879.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "mwah Ceng_cn_kun lga, ssagun nha talah tunux. son ta nha “squliq qnhyun”.",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927880.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mwah qu Gipun lga, son ta nha “ssquliq rgyax”.",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927881.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "mwah qu Kokumin sebu’ lga, yugun nha lalu theluw qu lalu ta. son ta nha “Sanpaw”.",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927882.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "kawas 1984 lga, t’aring ta kmayal ssquliq squ yugun tlalu lalu ta.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927883.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "iyat bahun ’myuw lhani’ ru innglung na ssquliq. wal m’guy 10 kawas ru nyux knluh pincyogan ta la.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927884.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "1994 kawas te 8 byacing ru 1 ryax. gaga sinpngan qalang na Taywan son ta nya “Gencuminzok”.",
+          "chinese_text": "1994年的8月1日，臺灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927885.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "nyux yan qani piyux lalu tlalu ita qu ssquliq. nanu yasa ima’ qu ita hiya pi? aki ta son ima qu lalu ta nanak hiya ga?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927886.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "ita qsu balay maki’ babaw rhzyal qani na ssquliq.",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927887.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "qsu balay naki’ babaw rhzyal qani qu ita ru.",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927888.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "sraral hiya ga, “Tayal” son ta ita nanak qu binkisan ta. misuw qani lga, rangi ta Kmukan son ta na “Gencyumin”. kwara lalu qani ga, lalu ta kwara.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「泰雅族」，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927889.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "si ta kaki’ babaw rhzyal qani krryax. pqzyu’ pin’aras ke ta.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66680/927890.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 7,
+      "language": "排灣語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "binkisan ta ga. mnaki sa lhlahuy slaliy. mnaki sku syaw rahu bsilung.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976322.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "alang myan krryax ku raxayan hani.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976323.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "mpbhyaw ta sahuy lhlahuy ga, kba’an ta mthuway na behuy m’uwas.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976324.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "mlngya ta ska bsilung ga, kba’an ta sabus na bsilung m’yugi’.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976325.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "300 kayan ryax slali ga, mhmut lmosay n’inu ku mtanah snunux. txan nha raxayan ta ru memaw mnkux kmayan mha, “Fermosa! talagay kinbetunux balay na raxayan.”",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976326.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "muwah mtanah snunux lga, son ta nha “ss’uli sinuw.”",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976327.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "muwah Ceng_cn_kun lga, psalun nha mtanah snunux. son ta nha “ss’uli lhlahuy.”",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976328.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "muwah ku Gipun lga, son ta nha “ss’uli rgyax.”",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976329.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "muwah ku Kokumin sebu lga, yugun nha lalu sehu ku lalu ta. son ta nha “Sanpaw.”",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976330.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "kayan 1984 lga, t’aring ta kmayan s’uli sku yugun tlalu lalu ta.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976331.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "‘yat ba’un ’myuw lhani ru innglung na ss’uli. wayan m’bux 10 kayan ru niya knluh pincyogan ta la.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976332.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "1994 kayan te 8 byacing ru 1 ryax. gaga sinpngan alang na Taywan son ta nya “Gencuminzok.”",
+          "chinese_text": "1994年的8月1日，台灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976333.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "maha kani piyux lalu tlalu ita ku ss’uli. nanu yasa ima ku ita hiya pi? nki ta son ima ku lalu ta nanak hiya pi?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976334.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "ita ku balay maki babaw raxayan hani na ss’uli .",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976335.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "maki babaw raxayan hani ga ita ss’uli .",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976336.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "binkisan ta slali lalu ta ga tayan, soni hani lga rawun ta sehu son ta nya Gencyumin.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「泰雅族」，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976337.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "musa sami mki raxayan hani ana knuwan pin’yu yuwaw slali miyan.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70338/976338.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 8,
+      "language": "魯凱語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "nanabakis niyam cu cunga’ ga maqiyanux i lahulahu, maqiyanux i siyag na baru’.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976440.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "tiku kaykian niyam hani ga imuwag niyam.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976441.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "maktaliyum cami i lahulahu,makibaq cami cku bayhu i maquwas.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976442.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "lumanguy cami cku siyag na baru,makibaq cami cku baru i yugi’.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976443.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "tiku aruwa’ ka tugal kabhul ka kaal,gulu cu parnah ku Hlan ru humakay anainu’, talan niya ku rawrawq ta’ ru kumal maha’:hurmosa! balayq talan ka kaykian.",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976444.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "uniyan ku Hlan, “yeren” salun ta’ naha’.",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976445.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "uniyan i “Cen Can Kung”, papagiyalun niya ku Hlan. ”Ban” calun ta’ naha’.",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976446.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "uniyan ku Gipun, “Kawsa” calun ta’ naha’.",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976447.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "uniyan ku Kuwmin Sevu,glu cami ku ralu’ maha’, “Santitungbaw” calun ta’ naha’.",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976448.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "kaal ka 1984, mana’aring ta’ maha’ iyu ku ralu’ niyam.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976449.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "yugun ku linganglung na cuquliq ga ayhung cubalay, tayhuk cu magalpu cu kaal la ru, suwalun ku rngu’ ta’.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976450.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "kaal ka 1994 ru ti mamaspat buwating ru ti qutux riax, “yencumin” calun ta’ naku siyeba na Taiwan.",
+          "chinese_text": "1994年的8月1日，台灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976451.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "payux ku sinralu’ na cuquliq i ita’, ima’ ta’ cubalay? hacuwalun ta’ sumralu’ i ita’ nanak pisa?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976452.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "ita’ ku manaqhin maqiyanux cku rawq hani.",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976453.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "manaqhin maqiyanux cku rawq hani ga ita’.",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976454.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "cucunga’, sinralu’ naku nanabakis ita’ nanak ga “Itaal”, kahani laga “yencumin” calun ta’ naku rawin ta’ na “Tuiya’.”",
+          "chinese_text": "從前，我們的祖先稱呼自己為泰雅族，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976455.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "anakanuwan ga kakaal ta’ ku wawwaw ta’ ka uniyan cku rawrawq hani.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70350/976456.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 9,
+      "language": "太魯閣語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "minki’ nanahi’, syaw na wacilung ka kinnabkisan ta’ rali’.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976558.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "kinlalayan ta’ tanmoṟow sani ka ita’.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976559.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "tumalang ta’ nanahi’, sunbaba’ ta’ mawas ci behuṟ.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976560.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "lumanguy ta’ wacilung, sunbaba’ ta’ ci ṟaṟuy na wacilung.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976561.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "matul kabhul ingkaṟalan galeng ni, mama’ tunayuw wacilung bawi’ ka ci’uli’ Holan, matox cika raxal ta’ ga, minakux maha“ hu’aṟmosa! mabatunux na Alang ma.”",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976562.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "moh ka ci’uli’ Holan laga, “ci’uli’ maṟaṟe’” sun ta’ naha malawa’.",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976563.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "moh ka Cng cung kong laga, papageran naha ka ci’uli’ Holan lu “ci’uli’ huwan” sun ta’ naha malawa’.",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976564.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "moh ka Tanah tunux laga “kawsacu” sun ta’ naha malawa’.",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976565.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "moh ka komin cunghu laga, yuw ci ralu’ na Taluw sun ta’ naha, “santi tongpaow” ma malawa’ itan.",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976566.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "1984 ingkaṟalan ci kaca, yunagi ka papalawa’ mamu caminan la sun ta’ ka ci’uli’ la,",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976567.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "ṟaṟihung caṟung ka yumunaw ci insa’ lu gagaṟux na ci’uli’, malapṟow ingkaṟalan ka pintabuk ta’, kaca ka cumik ci ramas na insa’. la.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976568.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "1994 ingkaṟalan buṟating maspat, rex utux, wal tani satuxan tiralu’ ci “Yencumincu” na senhwa Taywan la.",
+          "chinese_text": "1994年的8月1日，台灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976569.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "ini’ pintana’ kora’ ka papalawa’ na ci’uli’ itan, ima’ ta’ caṟung ka ita’? sun ta’ no nak malawa’ ka ita’?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976570.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "ita’ ka galengan caṟung maki’ sani.",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976571.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "galengan caṟung maki’ cika raxal sani ga, ita’.",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976572.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "rali’, “Itaṟal” ma tiralu’ nak itan ka kinnabkisan ta’. micuw, “Yencumin” sun ta’ malawa’ na rangi’ Pamukan, ralu’ ta’ kora’ ka hani.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「泰雅族」，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976573.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "maki’ ta’ cika raxal sani, ana nanu kanon, pakaṟal ta’ ci insa’ ta’.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70362/976574.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 10,
+      "language": "噶瑪蘭語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "cyunga binheci ta ga, minqyanux kya cka rgyax , minnaki kya bih umi.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976676.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "roq qani ga mica kya kni’an ta garing cyunga.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976677.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "mktlyung cami kya cka rgyax, tqbaq cami behuy maha son nanu mqwas qwas.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976678.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "lmngyaq cami kya cka umi, tqbaq cami uba umi maha son nanu miyuy.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976679.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "akya tyugan kbhul kawas wayan, Talah tunux qani ga si giway mhkangi kya babaw umi. ktalan naha qa roq ta lga, memaw mqas kmayal maha “fomosa! betunux calay na kki’an.”",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976680.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "nyan mwah Talah tunux la, “yern” son ta naha cinlalu.",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976681.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "nyan mwah Cn ceng kong la, wal nya pson Talah tunux ru “xwanna” kson ta naha cinlalu.",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976682.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mwah Ipun lga, “kawsa rok” son ta naha cinlalu.",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976683.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "mwah sexu kokumin lga, yuxi lalu na thelu qa lalu mamu maha. “santitongpaw” son ta naha cinlalu.",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976684.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "te qutux seng mqesu kbhul spat mpux pgan payat kawas lga, p’yuxi qa cinlalu mamu cami qani qa son myan qabax naha.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976685.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "k’ihung calay na yaw musa miyux pintyawan ru inlungan na ccquliq hiya la. hminas mpux kawas qa sinlokah ta, mica qa maki kbwayan nya qa pintyawan ta la.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976686.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "ryax kya qutux seng mqesu kbhul qesu mpux pgan payat kawas spat byaling qutux ryax, horit na Taywan ga halan ta nya tlalu maha “gencyumin rok” son ta nya.",
+          "chinese_text": "1994年的8月1日，台灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976687.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "minananq qabax cinllwan ta naha qani. ima calay qa ita? kson ta nanu clalu qa ita nanaq?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976688.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "ita hminas mgaring minaki cqa qutux roq qani.",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976689.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "ita calay hminas mgaring minnaki cqa qutux roq qani.",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976690.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "cyunga hiya ga, “Tayal” son ta nya cinlalu qa binheci ta. mwani hiya lga, “gencyumin” son ta naha cinlalu qa lpyung ta kahat hiya. qabax cinllwan qani ga lalu ta qabax ta.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「泰雅族」，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976691.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "si ta giway mqyanux kya babaw roq qani. pqiyu ta pinqiywan na yaw ta nanaq.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70374/976692.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 11,
+      "language": "鄒語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "bnkesan ta ga, mnaki cka lahuy ku knkyan naha lela, mnaki syaw bcilung ku knkyan naha uyi.",
+          "chinese_text": "我們的祖先，過去曾居住在山林裡，也曾居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976794.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "uraw hani ga kkyan sku sali ta krryax.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976795.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "mlaka cami mt’enah beh cka rgyax, mkura sku behuy tkba sku maha kenu m’was.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976796.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "mlngya cami cka na hopa bcilung, mkura sku ssbas ’sya tkba sku maha kenu myugiy.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976797.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "payat kbhun kawas wayan lela ga, moyaw ana inu bcilung ku c’oli na Putawya, texan naha uraw ta ga, mnkux kmayan maha, Huamosa! betunux na uraw bcilung.",
+          "chinese_text": "400多年前，葡萄牙人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976798.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "mwah c’oli na Holan lga, naha cmi lalu ita maha “c’oli na ksinu.”",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976799.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "mwah Cencengkong lga, pson naha c’oli na Holan. naha cmi lalu ita maha “c’oli na hwana.”",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976800.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "mwah c’oli na Nipun lga, naha cmi lalu ita maha “Kawsazoku.”",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976801.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "mwah kokumingsexu lga, yugun naha ke Ckoku ku lalu ta, naha cmi lalu ita maha “santitongpaw.”",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976802.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "tehok sku 1984 kawas lga, t’aring ta yugun lalu na skyalan ta nya c’oli la.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976803.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "yihung calay mosa yugun sku luhay naha ru knita na c’oli. hmenas sku knwiran na mpu kawas lga, yaca mkbway sku pntyawan ta la.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976804.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "1994 kawas ru te spat byacing te utux ryax ga, gaga kenpo na Taywan ga trhuw nya cmi sku lalu ta ga “Genzyuminzoku.”",
+          "chinese_text": "1994年的8月1日，台灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976805.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "piyux ci bne ta nya lalu kahun binah c’oli, calay ci ga ima ita la? san ta kenu kmayan lalu ta nanak la?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976806.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "ita ga pu’ing calay glang maki sku uraw hani na c’oli.",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976807.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "pu’ing calay siyang maki sku babaw uraw hani ga ita.",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976808.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "lela calay ga, bnkesan ta kmayan sku lalu naha nanak ga “Tayal”, micu lga, bi’an ta nya lalu kahun lpyung na Tewan ga “Genzyumin”, kwara kwani ga lalu ta kwara.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「泰雅族」，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976809.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "mosa ta siy kaki sku uraw hani, pgayang ta kmayan sku yaw lela na ita Tayal.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們泰雅族的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70386/976810.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 12,
+      "language": "卑南語",
+      "page_count": 2,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "",
+          "chinese_text": "",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/0/1229318.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Itiya ho, caay ka matini ko kakahad no kacomikayan no Hay-ta a pitilidan, nawhan, o lawac ho no riyar kona kacomikayan, o pifalahan no Si-fu to fafalahen a lakaw. Wata ko kafangcal no lawac no riyar, adihay ko pidangoyan no tamdamdaw, makapah ko lawac no riyar a fakeloh, matiya to o ko-ing no Ho-ping-taw ko kakapah ningra.",
+          "chinese_text": "",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/0/1229319.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 13,
+      "language": "雅美語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "mita’ tatini’, kakhayza’an rowaSekan ray ’oes’oeso’an rowaSek ray wasal langi:.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927970.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "hini ka ’oemaeh ’ana’inowan ’anmita’a ka taew’an.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927971.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "yami ray ’oes’oeso’an ’ae’ae:aew, tatoroe’ ki ba:i’ nak’ino’ ma:tol.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927972.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "yami ray wasal ’i:zo’ lalangoy, tatoroe’ ki lalowa: nak’ino’ homlal.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927973.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "to:o’ kinkaboehoel ila ka tinal’oemaeh, Say he:lan ka mae’iyaeh maray wasal ’ila’in’ino’, komita’ ka ’oemaeh mita’, lasiya homSeS komoSa:, fomoSa:! ’ima kayzaeh kita’en ’oemaeh.",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927974.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Say he:lan mae’iyaeh mowa:i’ ila, yami nasiya koSa’en ka “ ye:ren”",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927975.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "zheng cenkong mowa:i’ ila, lasiya Somowaw ka Say he:lan. yami nasiya koSa’en ka “fanren”.",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927976.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "ripon mowa:i’ ila, yami nasiya koSa’en ka “kawSazo:”.",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927977.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "kominto: ka to’oya’ mowa:i’ ila, lasiya komoSa: pakhingha’ ki lasiya ka ’am romo:o’, yami nasiya koSa’en ka “Santi’ tongpaw”",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927978.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "’ima 1984 tinal’oemaeh, yami ’isa:a’ somapih ila ka niya’om karo:o’an.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927979.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "’am somapih ka kinwa:a’ ila ka hin’az’azem noka mae’iyaeh ma’ ma:is a tomal. ’am langpez tinal’oemaeh o hayza’ kapinanra:anan, niya’om kinhoepayan ma’ Sahoero:on ila.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927980.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "ray 1994 tinal’oemaeh maykaSpat ’ilaS o ’aehae’ hahila:, ray taywan ka ’ima ’ibabaw pinapoe’oe’ kina:at ’isa:a’ yami koSa’en ila ka “yenzomin”.",
+          "chinese_text": "1994年的8月1日，臺灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927981.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "yami nasiya kin ’akoy ’inokik hingha’ karo:o’an, soka yami hiya’? ’ita’ ’am nak’inio’ romo:o’ hi nonak?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927982.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "’ita’ koSa’en ’ima minSa’la’ rowaSek ray hini ’aehae’ ’oemaeh ka mae’iyaeh.",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927983.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "mininSa’la’ rowaSek rini ray ’oemaeh mina yami.",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927984.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "kakhayza’an, mita’ tatini’ romo:o’ hi nonak ka SaySiyat, ’isahini, yami noka Say kabih no wasal koSa’en ka “yenzomin”, hini saboeh ma’ ’inmita’a saboeh ka raro:o’.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「賽夏族」，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927985.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "yami ’am rini ray ’oemaeh tabin mayhal, papnabih mita’ ka kinbazae’an.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66692/927986.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 14,
+      "language": "撒奇萊雅語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "mita wa tanatuqash. initusi tuqash, initusi wazaqan a shirshir.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928066.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "izai a pruq nauriza mita wa kataunan.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928067.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "malalia ita isa tuqash, minfazaq munsai langqaqisusay a fari amiakuza ya maqaquyash.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928068.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "mrauz ita isa wazaqan, minfazaq munsai wazaqan a shiqamish amiakuza ya minparaw.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928069.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "turuiza shaba wa kawash, Huraan isa wazaqan munruza munwawawaz, mriqaz mita wa pruq, thaithuy mzai baa Formosa! lamaqitan lhunbaha wa pruq.",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928070.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "itiza Huraan, iamin palalawan thaithuy mzai “lhkaribush a thau”.",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928071.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "itiza Zin-shing-qung, thaithuy shmashaw sa Huraan. iamin palalawan thaithuy mzai “Faan”.",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928072.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "itiza Li-puun, iamin palalawan thaithuy mzai “Qu-sua-zuu”.",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928073.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "itiza Qu-miin zing-huu, iamin palalawan thaihuy ingqtha Shpuut a lhanaz, iamin palalawan thaithuy mzai “san-ti-tung-pau”.",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928074.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "1984 a kawash. lhmazawan iamin palalawan pashtay mingqtha ya zain iamin.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928075.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "ingqtha sa thau a shisasaz masa minangqtu antu pidazah, munsai makthin a kawash a shkuda, maqa makarishkish iamin numawan mingqarayza ianan sa makabunlhaz.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928076.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "1994 a kawash makashpashpat a furaz tata wa qali, Tai-waan a Hian-faat mudadu iamin mzai “miniahala inai a thau a qbit”.",
+          "chinese_text": "1994年的8月1日，臺灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928077.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "iamin palalawan sa thau manasha mashashu a lhanaz, tima iamin qa? amiakuza iamin ya malalawa ananak a lhanaz?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928078.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "miniahala lhkananai a pruq a thau ita.",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928079.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "miniahala lhkananai a pruq ita.",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928080.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "kahiwan mita wa tanatuqash malalawa ananak mzai “Thau ”, thuini, mita wa Shpuut a huruy malalawa iamin mzai “miniahala inai a thau”, haya az’az mita wa lhanaz.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「邵族」，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928081.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "amintamar iamin isa inai a pruq, malhinuna sa mita wa kahiwan a lalawa.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66704/928082.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 15,
+      "language": "卡那卡那富語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "Rdrudan ta cbiyaw pa hay, mniq kcka lmiqu, mniq siyaw ucilung.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976912.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Ida nanaq kiya alang nami balay ka ddxral ni.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976913.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Mniq nami cka lmiqu tmalang ka yami, mquri bwihur smluhay hmuya nchaya muyas.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976914.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Mniq nami cka beyhing ucilung tmapaq ka yami, mquri neyras ucilung smluhay rmweri.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976915.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Turu kbkuy kngkawas brah cida, sediq Nederland pa mniq babaw ucilung tapa asu mquri ana inu, wada qmita dxral nami, mkluy balay rmngaw ka dhiya, “Formosa! Laway bay knmalu qtan dxral kcka ucilung wah.”",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976916.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Miyah ka sediq Nederland da, plwanun nami dha “Sediq bbuyu” ka yami.",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976917.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Miyah ka Cngsn da, wada dha lwaqun ka sediq Nederland da, plwanun nami dha “Hwanna” ka yami.",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976918.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Miyah ka sediq Tanah Tunux da, plwanun nami dha “Takasago” ka yami.",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976919.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Miyah ka seyhu Kokominto Cyokaminkoku da, pkixun nami dha priyux dmuwi hangan Telu ka yami, plwanun nami dha “Sediq lmiqu” ka yami.",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976920.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Kngkawas maxal mngari kbkuy mspac kmxalan spac cida hay, prading nami muda pknpriyux splawa dha mnan kana ka dhiya.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976921.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Uxay mslxan ka muda knpriyux lnhayan mi qnita ssediq. Spoda nriqan maxal kngkawas, kiya ka hana mnduwa mhiyi ka nriqan nami.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976922.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "Kngkawas maxal mngari kbkuy mngari kmxalan spac idas mspac diyax kingal cida pa, kengpo Taiwan hay wada mnduwa bay lmawa yami “Sediq tnpusu.”",
+          "chinese_text": "1994年的8月1日，台灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976923.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "Ou bay kluwanan tnhngangan dha mnan ka ssediq, ima ta balay ka ita hu? Mphuya ta nchaya tmhangan ita nanaq hu?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976924.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Ida ta nanaq sediq tnpusu mneniq dxral ni ka ita.",
+          "chinese_text": "我們是原來居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976925.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "ida nanaq tnpusu mneniq dxral ni pa, kiya ka ita.",
+          "chinese_text": "原來居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976926.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Cbiyaw han pa, “Sediq” mnchaya tmhangan ita nanaq ka rdrudan ta, saya da hay, thnganan ta dha “Sediq tnpusu” ka dangi ta sediq Holo, hangan ta kana ka dni.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「賽德克族」，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976927.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "Ida nami nanaq mpniq dxral ni ka yami, lmutuc rmngaw pnngalan kari nami.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/70398/976928.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    },
+    {
+      "lid": 16,
+      "language": "拉阿魯哇語",
+      "page_count": 17,
+      "pages": [
+        {
+          "page_number": 1,
+          "indigenous_text": "nRudan ta ita cbeyo, mmeniq lmiqu truma, ma ssiyo rcilung.",
+          "chinese_text": "我們的祖先，過去居住在山林裡，居住在大海邊。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928162.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927682.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/1.jpg"
+        },
+        {
+          "page_number": 2,
+          "indigenous_text": "Sapah tanaq kndalax ncbeyo ka dheran nii.",
+          "chinese_text": "這塊土地一直是我們的家園。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928163.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927683.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/2.jpg"
+        },
+        {
+          "page_number": 3,
+          "indigenous_text": "Tmalang ta qlmiqu, ma snegul ta bgihur slluhe mhuwa mesa ka muuyas uyas.",
+          "chinese_text": "我們在山林裡奔跑，向微風學習怎麼歌唱。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928164.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927684.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/3.jpg"
+        },
+        {
+          "page_number": 4,
+          "indigenous_text": "Lmanguy ta rcilung truma, ma mquri ta bula slluhe mhuwa mesa ka kmeeki.",
+          "chinese_text": "我們在大海裡游泳，向海浪學習怎麼舞蹈。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928165.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927685.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/4.jpg"
+        },
+        {
+          "page_number": 5,
+          "indigenous_text": "Berih 3 kbekuy knkawas ciida, snkuxul ba taapa asu musa niinu rcilung ka seediq Horan. Kana ba Snklwiyan daha qmita dheran ta nii niqun hini. Mesa, “Fuarmusa! Knbtunux ba dheran gnyusan rcilung.”",
+          "chinese_text": "300多年前，荷蘭人在海上到處航行，看到我們的土地，他們驚訝地說：福爾摩莎！美麗的島嶼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928166.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927686.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/5.jpg"
+        },
+        {
+          "page_number": 6,
+          "indigenous_text": "Dnhekan na seediq Horan, tnngayun tana daha mesa, “Seediq uxe mnuuyas!”.",
+          "chinese_text": "荷蘭人來了，他們稱呼我們為「野人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928167.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927687.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/6.jpg"
+        },
+        {
+          "page_number": 7,
+          "indigenous_text": "Dnhekan na Cung Cungkong, Sliwaq daha ka seediq Horan. Tnngayun tana mesa, “Seediq uka Gaya.”",
+          "chinese_text": "鄭成功來了，他們趕走了荷蘭人。他們稱呼我們為「番人」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928168.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927688.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/7.jpg"
+        },
+        {
+          "page_number": 8,
+          "indigenous_text": "Dnhekan na Tanah Tunux de, tnngayun tana daha mesa “Kawsacu”.",
+          "chinese_text": "日本人來了，他們稱呼我們為「高砂族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928169.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927689.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/8.jpg"
+        },
+        {
+          "page_number": 9,
+          "indigenous_text": "Dnhekan na Kuoming Cungfu, pryuxun tana ngayan Telu, tnngayun tana daha mesa, “Santi Tongpaw”.",
+          "chinese_text": "國民政府來了，他們要我們改用漢名，他們稱呼我們為「山地同胞」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928170.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927690.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/9.jpg"
+        },
+        {
+          "page_number": 10,
+          "indigenous_text": "Knkawas 1984 ciida, Prdingan tana spriyux ka ngayan ta di.",
+          "chinese_text": "1984年的時候，我們開始請大家改變對我們的稱呼。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928171.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927691.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/10.jpg"
+        },
+        {
+          "page_number": 11,
+          "indigenous_text": "Uxe ba leexan ka pkriyux pntlhayan, daha ka slngelung. Wada dehuk 10 knkawas ka qnbqresan, qulung ta naq ba qtaan ndaan ta ka ratuc ta nii di.",
+          "chinese_text": "要改變人們的習慣和觀念並不容易。經過10年的辛苦，我們的努力才有了結果。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928172.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927692.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/11.jpg"
+        },
+        {
+          "page_number": 12,
+          "indigenous_text": "1994 knkawas 8 idas ma 1 ali, pheyu tmngayan “Yencuming” ita ka Senfa Taiwan.",
+          "chinese_text": "1994年的8月1日，臺灣的憲法正式把我們稱為「原住民族」。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928173.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927693.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/12.jpg"
+        },
+        {
+          "page_number": 13,
+          "indigenous_text": "So nii knegeeguw bale ka wada tana daha tnngayun, ima si bale babale ka ita ha? Mhuwa ta pkesa ka tmngayan tanaq ka ita?",
+          "chinese_text": "人們對我們有這麼多不同的稱呼，到底我們是誰呢？我們應該如何稱呼自己呢？",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928174.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927694.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/13.jpg"
+        },
+        {
+          "page_number": 14,
+          "indigenous_text": "Ita si bale babale mgeela ka tndheran nii.",
+          "chinese_text": "我們是最早居住在這塊土地上的人們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928175.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927695.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/14.jpg"
+        },
+        {
+          "page_number": 15,
+          "indigenous_text": "Mgeela ba ncbeyo naq meniq ta hini ka ita di.",
+          "chinese_text": "最早居住在這塊土地上的就是我們。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928176.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927696.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/15.jpg"
+        },
+        {
+          "page_number": 16,
+          "indigenous_text": "Ncbeyo naq mneniq hini ka rudan ta ita Seediq. Saya, kana dangi ta Telu tnngayun tana “Yencuming”. Nii kana ka ngayan ta ita.",
+          "chinese_text": "從前，我們的祖先稱呼自己為「賽德克族」，現在，我們的漢人朋友們稱呼我們為「原住民」，這些都是我們的名字。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928177.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927697.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/16.jpg"
+        },
+        {
+          "page_number": 17,
+          "indigenous_text": "Mmeeniq tanaq ddheran ta hini ka ita, ma splutuc ta naq ka kari ndaan ta nii.",
+          "chinese_text": "我們會一直在這塊土地上，傳說我們的故事。",
+          "audio_url_indigenous": "https://web.klokah.tw/text/sound/66716/928178.mp3",
+          "audio_url_chinese": "https://web.klokah.tw/text/sound/66656/927698.mp3",
+          "image_url": "https://web.klokah.tw/pbc/book/146/17.jpg"
+        }
+      ]
+    }
+  ],
+  "source_urls": {
+    "info": "https://web.klokah.tw/pbc/book/index.php?id=146",
+    "online": "https://web.klokah.tw/pbc/book/online/index.php?id=146"
+  }
+}

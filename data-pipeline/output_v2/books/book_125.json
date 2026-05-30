@@ -1,0 +1,3461 @@
+{
+  "id": 125,
+  "title": "蘋果不見了",
+  "illustrator": "藍維星",
+  "level": "初級",
+  "grammar_focus": "狀態動詞",
+  "summary": "apin開心地背著書包，準備把好吃的蘋果帶到學校跟大家一起分享。到了學校之後，她發現蘋果不見了!apin到處尋找他的蘋果，卻怎麼也找不到，apin心想，該不會蘋果是被拿走的吧? 繪本重點學習語法為狀態動詞，在補充例句我們可以學習描述味道「李子是酸的。」、「蘋果不甜。」。包含兩個狀態詞的句型描「我的蘋果又大又紅。」、「我的桌子又大又重。」 相信大家都有東西失蹤的經驗，但是小朋友對於東西的遺失往往更容易疑神疑鬼，質疑周遭人的方式也更直接純粹。教師可以和學生討論，如果東西不見了可以怎麼做，又可以怎麼和周遭的人反應呢?",
+  "language_count": 16,
+  "available_languages": [
+    {
+      "lid": 1,
+      "name": "阿美語",
+      "page_count": 15
+    },
+    {
+      "lid": 2,
+      "name": "泰雅語",
+      "page_count": 15
+    },
+    {
+      "lid": 3,
+      "name": "賽夏語",
+      "page_count": 15
+    },
+    {
+      "lid": 4,
+      "name": "邵語",
+      "page_count": 15
+    },
+    {
+      "lid": 5,
+      "name": "賽德克語",
+      "page_count": 15
+    },
+    {
+      "lid": 6,
+      "name": "布農語",
+      "page_count": 15
+    },
+    {
+      "lid": 7,
+      "name": "排灣語",
+      "page_count": 15
+    },
+    {
+      "lid": 8,
+      "name": "魯凱語",
+      "page_count": 15
+    },
+    {
+      "lid": 9,
+      "name": "太魯閣語",
+      "page_count": 15
+    },
+    {
+      "lid": 10,
+      "name": "噶瑪蘭語",
+      "page_count": 15
+    },
+    {
+      "lid": 11,
+      "name": "鄒語",
+      "page_count": 15
+    },
+    {
+      "lid": 12,
+      "name": "卑南語",
+      "page_count": 15
+    },
+    {
+      "lid": 13,
+      "name": "雅美語",
+      "page_count": 15
+    },
+    {
+      "lid": 14,
+      "name": "撒奇萊雅語",
+      "page_count": 15
+    },
+    {
+      "lid": 15,
+      "name": "卡那卡那富語",
+      "page_count": 15
+    },
+    {
+      "lid": 16,
+      "name": "拉阿魯哇語",
+      "page_count": 15
+    }
+  ],
+  "page_count": 15,
+  "pages": [
+    {
+      "page_number": 1,
+      "chinese_text": "Sonay說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+      "chinese_variants": [
+        {
+          "text": "Yayut說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "’api’說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "apin說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Aking說：「我的蘋果又大又甜! 我要跟大家一起吃這好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Aping說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "vavauni說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Aruai說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Agil說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Api說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "tanivu說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Unping說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "salang說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Panay說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Na’u說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "’Apʉʉna說：「我的蘋果又香又甜! 我要跟大家一起吃好吃的蘋果。」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/1.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Sonay, “Tada fangsis micedem ko lingko ako! malacafay kako ato ’alomanay komaen to kaeso’ay a lingko.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605763.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Yayut mha, “shhya’ ru sbing rin_go’ maku’. squnaw ta’ maniq blaq niqun na rin_go’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/605992.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’api’ komoSa: “ma’an ka lingo’ kayazaeh sazeken o ’anhil! yako ’am ki saboeh mae’onhal somi’ael ka ’ima kayzaeh si’aelen ka lingo’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606221.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Apin mzai: “naak a ping-quu mathuaw madahun numa makanshuz! iaku amusuun pashta kmaan sa maqitan kaanin a ping-quu.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606450.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo Aking. Paru ma mssibus ka ringgo mu yaku. Spuun mu dheya mekan knmalu ba ppuqun ringgo nii.",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606679.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa Aping tu inak lingku hai madavus at ma ansum! namus kun saikin mamu maun mas mansum tu lingku tan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606908.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“salum saka ’aljeme’em a ku cadja’! uri keman itjen a mapuljat tua sanguangua’ a cadja’.” aya ti vavauni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607137.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Aruai kauariva iya kay, “sangualreme si kalimeme kay pingkuli! lritaelreta makanaelre kaane kay malimeme kay pingku.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607366.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Agil “Ssupaw knux na ni ssibus ka supaw mu! Tghuy ku kana seejiq mseupu mkan supaw malu bi uqun.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607595.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti api, “bangsis, datebus, ya linggu ku! qatapun pa iku tu mazemun qeman tu nengi qanan ay linggu.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607824.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta tanivu, “mo na’no namusngu ho cohʉmʉ ’e lingngoo’u te’o toehungneni muu ho ana ’emo mafe ci lingngoo.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608053.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“ullingull aw dalleu ku linggo. uwakasa ku kanemu mekan kana imaran na linggo.” kema i Unping.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608282.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni salang, “ya maganinam a ya maangno o lingko ko! namen koman so ya apia a lingko.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608511.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "hini sa ci Panay, “bangsis aca sicedam aca ku lingo aku! a maladay kaku tu katuuday a mukan tu asu’ay a lingo.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608740.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Na’u, “rinko maku, sa’o’o matavi’isi. tia ku arakukunu kacaua cau kumakʉnʉ sa’o’o rinko.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608969.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla ’Apʉʉna, “asupiku ia samahlʉmahlʉngʉ hla maami! hlatumuaku kuaʉlʉsʉ mʉmʉa uumu sa’au ’asupina.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609198.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "chinese_text": "男子說：「賣蘋果囉! 又大又甜的蘋果!」",
+      "chinese_variants": [
+        {
+          "text": "男子說：「賣蘋果囉！又大又甜的蘋果！」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/2.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa koya pa’acaay a fa’inayan, “O lingko! o lingko! o tata’akay micedemay a lingko!” saan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605764.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal mlikuy mha, “tbazi rin_go’ la, msbing ru hopa’ qu rin_go’!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/605993.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "kamamanra:an komoSa:, “tibae:iw ka lingo’ o ! ’ima sopaloy o ’anhil ka lingo’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606222.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "ayuzi mzai: “fariwin ping-quu! mara’in numa madahun a ping-quu.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606451.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo ka rseno. “Gnbaruyi ringgo wa! Knparu ba ma knssibus bale! peni!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606680.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa mabananaz tu mabaliva lingku tan! madavus at madaing tu lingku u!",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606909.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“uzanga a paveliveli tua cadja’! kudrakudral saka ’aljem’em a cadja’!” aya azua a u’aljay.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607138.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay sawvalay la iya kay, “bwala langadha kay pingku! maadrau si kalimeme kay pingku!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607367.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka snaw “Msbarig supaw! Supaw paru ni ssibus!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607596.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu Runanay, “baliw tu linggu ya! Raya datebus ay linggu!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607825.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta oko no hahocngʉ, “mhia lingngoo! meoisi ho cohʉmʉ ci lingngoo!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608054.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“menaniwan ku dra linggo a! matrina aw dalleu na linggo.” kema emuiuy na mainayan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608283.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan no mahakay, “manazang so lingko! ya maganinam a ya rakoa a lingko!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608512.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "hini sa ku tatama, “pacakay tu lingo u! tabaki sicedam aca a lingo!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608741.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi sarunai: “mapu’a rinko! taatia matavi’isi rinko!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608970.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla hlahlusana, “mi’a’a ’asupi! taisa hla maami a ’asupina!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609199.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "chinese_text": "Sonay的蘋果不見了。",
+      "chinese_variants": [
+        {
+          "text": "Yayut的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "’api’的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Apin的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Aking的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Aping的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "vavauni的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Aruai的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Agil的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Api的蘋果不見了!",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "tanivu的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Unping的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "salang的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Panay的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Na’u的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "’Apʉʉna的蘋果不見了。",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/3.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Kafahalan awaay to ma’araw ko lingko ni Sonay.",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605765.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "mskongat qu rin_go’ na Yayut la.",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/605994.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "ni ’api’ lingo’ hawka’ ila.",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606223.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Apin a ping-quu makauka.",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606452.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Uka ringgo na ka Aking di.",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606681.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "is uka itu aping cia lingku.",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606910.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "meneka a cadja’ ni vavauni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607139.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "ala kaulraunga kudra pingku ki Aruai.",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607368.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Ungat taan ka supaw Agil da.",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607597.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "api mai ti ya linggu!",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607826.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "o’tena aiti ’o lingoo ta tanivu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608055.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "uniyan tu linggo kan Unping.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608284.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni salang, “abo rana o lingko.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608513.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "inayay tu ku lingo ni Panay.",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608742.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "niara’akia Na’u tamna rinko.",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608971.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "marukacu a ’asupisa ’Apʉʉna.",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609200.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "chinese_text": "Sonay說：「Kaliting的外套很長，蘋果一定在那裡。",
+      "chinese_variants": [
+        {
+          "text": "Yayut說：「Atay的外套很長，蘋果一定在那裡。",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "’api’說：「tiwaS的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Apin說：「Tumi的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Aking說：「Bakan的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Aping說：「Samingaz的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "vavauni說：「muakay的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Aruai說：「Samiange的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Agil說：「Rabay的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Api說：「Ipay的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "tanivu說：「naa’u的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Unping說：「Angiyu的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "salang說：「Nani的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Panay說：「Bahi的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Na’u說：「Pi’i的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "’Apʉʉna說：「Pi’ina的外套很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/4.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Sonay, “Kakaya ko kafafang ni Kaliting, caykanca itira koya lingko saan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605766.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Yayut mha, “qruzyux balay wagi’ na Atay. cyux kya balay qu rin_go’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/605995.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’api’ komoSa:, “ni tiwaS ka katoeh ’inaro’, lingo’ haysaso ’i:zo’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606224.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Apin mzai: “Tumi a maka’apaw a hulus mathuaw maquliush, ping-quu iutu painan.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606453.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mreng Aking. “Qndisan ba pnlukus na ka Bakan. Ga bale hii ka ringgo da.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606682.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa Aping tu madulu a itu Samingaz cia paka apavun hai napingadahun saici lingku.",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606911.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“ladruadru’ azua a sipakatjaivavavavav ni muakay, tjaraizua a cadja’.” aya ti vavauni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607140.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Aruai la kauriva iya kay, “malragi kay zangba ki Samiange, lritaraikay kikay ku pingku.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607369.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Agil “Bbaraw bi ka lukus mgbaraw Rabay, ida gaga hiya ka supaw.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607598.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti api, “maRung ya qudus ni ipay, qawman yau tayan ya linggu.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607827.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta tanivu, “na’no tacvoh’i ta yʉsʉ ta naa’u ’amo ahtuo’te yonta’e ’o lingngoo.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608056.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "kemadri i Unping aw, “belakas tu patratreell kan Angiyu. adrikaadri ullaya kadru na linggo.” kema.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608285.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni salang, “ya manaro o ayob ni Nani o lingko am jingyan dang a.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608514.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "hini sa ci Panay, “tanayu’ ku zanpa ni Bahi, itiza tu ku lingo.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608743.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Na’u: “macasʉ Pi’i tamna pananapa. ’esi ’inia sua rinko.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608972.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla ’Apʉʉna, “mʉlʉngʉsʉ a pariahlahlapaisa Pi’ina, maisana ’asupi tʉtʉrʉ.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609201.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "chinese_text": "Kaliting說：「橘子很甜，你要不要吃橘子?」",
+      "chinese_variants": [
+        {
+          "text": "Atay說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "tiwaS說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Tumi說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Bakan說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Samingaz說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "muakay說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Samiange說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Rabay說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Ipay說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "naa’u說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Angiyu說：「橘子很甜，你要不要吃橘子？」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Nani說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Bahi說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Pi’i,說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "Pi’ina說：「橘子很甜，你要不要吃橘子?」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/5.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Kaliting, “Micedem ko mami’, saka komaenan to mami’ kiso?” saan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605767.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Atay mha, “sbing balay qu yutak. qaniq su’ yutak ga?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/605996.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "tiwaS komoSa:, “’iyok ’anhil a tomal, So’o ’am somi’ael ay ka ’iyok?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606225.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Tumi mzai: “rithkuy mathuaw madahun, antu ihu kmaan rithkuy?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606454.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo ka Bakan. “Msibus ba ka mudu. Ye su uxe meekan mudu?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606683.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa samingaz tu madavus tu izuk adu namaun kasu izuk tan?",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606912.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“’aljem’em aravac sa tjianes, keman sun tua tjianes?” aya ti muakay.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607141.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Samiange la iya kay, “malimeme kay tianese, lrikaanesu ini kay tianese?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607370.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Rabay “Ssibus bi ka mami, aji su mkan mami?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607599.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti ipay, “datebus ya mulu, ngid isu qan tu mulu?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607828.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta naa’u, na’no, “cohʉmʉ ’e huv’o. teko bonʉ ta huv’o?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608057.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“dalleu na asiru. aekan yu dra asiru?” kema i Angiyu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608286.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "kaon ni Nani, “ya maganinam o vazacinok, koman ka so vazacinok?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608515.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "hini sa ci Bahi, “sicedam ku kama, maydih kisu mukan tu kama haw?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608744.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Pi’i, “sa’o’o vʉ’ʉ, tia kara kasu kumakʉnʉ vʉ’ʉ?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608973.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla Pi’ina, “tam maami a vaakʉna, uumauu i vaakʉ?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609202.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "chinese_text": "Sonay說：「Hekaw的帽子很大，蘋果一定在那裡。",
+      "chinese_variants": [
+        {
+          "text": "Yayut說：「Batu’的帽子很大，蘋果一定在那裡。",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "’api’說：「kalih的帽子很大，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Apin說：「Tuba的帽子很大，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Bakan說：「Awi的帽子很大，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Aping說：「Dahu的帽子很大，蘋果一定在那裡。",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "vavauni說：「baru的帽子很大，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Aruai說：「Paidrisi的帽子很大，蘋果一定在那裡。",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Agil說：「Lowking的帽子很大，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Api說：「Utay的帽子很大，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "tanivu說：「mo’o的帽子很大，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Unping說：「Giyagi的帽子很大，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "salang說：「Yoki的帽子很大，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Panay說：「Bahi的帽子很大，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Na’u說：「Pani的帽子很大，蘋果一定在那裡。",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "’Apʉʉna說：「Palina的帽子很大，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/6.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Sonay, “Tata’ak ko kafong ni Hekaw, caykanca itira koya lingko.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605768.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Yayut mha, “hupa’ balay qbubu’ na Batu’. cyux kya balay qu rin_go’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/605997.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’api’ komoSa:, “ni kalih ka kin tatpo’ sopaloy, lingo’ haysaso ’i:zo’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606226.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Apin mzai: “Tuba wa tamuhun mathuaw mara’in, ping-quu iutu painan”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606455.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo Bakan. “Paru ba bunuh na Awi. Ga bale hiya ka ringgo da!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606684.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa aping tu madaing isu Dahu tamung hai na ingadah cia lingku a.",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606913.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“kudrakudral aravac a tjalupun ni baru, tjaraizua a cadja.” aya ti vavauni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607142.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Aruai la kauriva iya kay, “maadrau kay talrupunu ki Paidrisi, lritaraikay kikay ku pingku.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607371.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Agil “Paru bi ka qbubu Lowking, ida gaga hiya ka supaw.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607600.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti api, “Raya kubu ni utay, qawman yau tayan ya linggu.",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607829.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta tanivu, “na’no meoisi ta ceopngu ta mo’o, ’amo ahtuo’te yanta’e ’o lingngoo.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608058.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "kemadri i Unping aw, “matrina tu kabung kan Giyagi. adrikaadri ullaya kadru na linggo.” kema.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608287.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni salang, “arako o sakop ni Yoki jingyan dang o lingko a.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608516.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "hini sa ci Panay, “tabaki ku tupel ni Bahi, itiza tu ku lingo.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608745.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Na’u, “tatia Pani tamna carapung. ’esi ’inia sua rinko.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608974.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla ’Apʉʉna, “tam taisa a sarapunguisa Palina, maisana ’asupi tʉtʉrʉ.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609203.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "chinese_text": "Hekaw說：「桃子很甜，你要不要吃桃子?」",
+      "chinese_variants": [
+        {
+          "text": "Batu’說：「桃子很甜，你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "kalih說：「桃子很甜，你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Tuba說：「桃子很甜，你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Awi說：「桃子很甜!你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Dahu說：「桃子很甜，你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "baru說：「桃子很甜，你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Paidrisi說：「桃子很甜，你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Lowking說：「桃子很甜，你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Utay說：「桃子很甜，你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "mo’o說：「桃子很甜，你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Giyagi說：「桃子很甜，你要不要吃桃子？」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Yoki說：「桃子很甜，你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Bahi說：「桃子很甜，你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Pani說：「桃子很甜，你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "Palina說：「桃子很甜，你要不要吃桃子?」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/7.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Hekaw, “Micedem ko lopas, saka komaenan kiso to lopas?” saan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605769.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Batu’ mha, “sbing balay qu qwirux. qaniq su’ qwirux pi?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/605998.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "kalih komoSa:, “’a:im a pizosan ’anhil, So’o ’am somi’ael ay?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606227.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Tuba mzai “qalup mathuaw madahun, antu ihu kmaan qalup?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606456.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo Awi. “Msibus ba ka aring! Ye su uxe meekan aring?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606685.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa Dahu tu madavus tu halupan adu namaun kasu halup tan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606914.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“’aljem’em aravac sa ’udis, keman sun tua ’udis?” aya ti baru.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607143.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Paidrisi la iya kay, “malimeme kay mumu, lrikaanesu ini kay mumu?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607372.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Lowking “Ssibus bi ka qlupas, aji su mkan qlupas?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607601.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti utay, “datebus ya lupas, ngid isu qan tu lupas?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607830.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta mo’o, “mo na’no cohʉmʉu’e bʉnʉvhʉ no yam’um’a, teko bonʉ ta bʉnʉvhʉ no yam’um’a?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608059.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“dalleu na lupas. aekan yu dra lupas?” kema i Giyagi.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608288.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni Yoki, “ya maganinam o asiasi no kayo, koman ka so asiasi no kayo?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608517.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "hini sa ci Bahi, “sicedam ku lupas, maydih kisu mukan tu lupas haw?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608746.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Pani, “matavi’isi mamiriki. tia kara kasu kumakʉnʉ mamiriki?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608975.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla Palina, “tam maami a mimiliki ’ukuhlucuna, uumauu i mimiliki ’ukuhlucu?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609204.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "chinese_text": "Sonay說：「Kofi的書包很澎，蘋果一定在那裡。」",
+      "chinese_variants": [
+        {
+          "text": "Yayut說：「Cilaw的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "’api’說：「kizaw的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Apin說：「Ali的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Awi說：「Obing的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Aping說：「Samingaz的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "vavauni說：「selep的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Aruai說：「Cakere的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Agil說：「Suking的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Api說：「Pipis的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "tanivu說：「kavangsi的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Unping說：「Nawinaw的書包鼓起來(很澎)，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "salang說：「Sakay的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Panay說：「Ciyun的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Na’u說：「Paicʉ的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "’Apʉʉna說：「Hla’una的書包很澎，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/8.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Sonay, “Mafeso ko kafang ni Kofi, caykanca itira koya lingko.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605770.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Yayut mha, “su’un balay kabang na Cilaw. cyux kya balay qu rin_go’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/605999.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’api’ komoSa:, “ni kizaw ka katiSkina:atan ponpo’po’, lingo’ haysaso ’i:zo’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606228.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Apin mzai: “Ali a antutuan patashan mathuaw shunra’in, ping-quu iutu painan.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606457.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo Awi. “Ga mkobu ba ka lubuy patis na Oning. Ga bale hiya ka ringgo wa!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606686.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa aping tu makaspala itu savi kabangan at naisain cia aupa lingku a.",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606915.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“namekudral a kabang ni selep, tjaraizua a cadja’.” aya ti vavauni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607144.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Aruai la kauriva iya kay, “aningisanga kaadraw kay kabange ki Cakere, lritaraikay kuini ku pingku.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607373.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Agil “Mllabu bi ka aba patas Suking, ida gaga hiya ka supaw.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607602.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti api, “bitutuq ya lubus ni pipis, qawman yau tayan ya linggu.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607831.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta tanivu, “na’no puncuke ta kavangsi, ’amo ahtuo’te yanta’e’o lingngoo.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608060.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "kemadri i Unping aw, “bentrukur tu kabang kan Nawinaw. adrikaadri ullaya kadru na linggo.” kema.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608289.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni salang “ya mapno o kabang ni Sakay jingyan dang o lingko a.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608518.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "hini sa ci Panay, “matumes ku kabang ni ciyun, itiza tu ku lingo.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608747.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Na’u, “ravukunu Paicʉ tamna kapang. ’esi ’inia sua rinko.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608976.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla ’Apʉʉna, “taisa tasuhlatʉaisa Hla’una, maisana ’asupi tʉtʉrʉ.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609205.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "chinese_text": "Kofi說：「柿子不澀，你要不要吃柿子?」",
+      "chinese_variants": [
+        {
+          "text": "Cilaw說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "kizaw說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Ali說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Obing說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Samingaz說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "selep說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Cakere說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Suking說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Pipis說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "kavangsi說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Nawinaw說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Sakay說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Ciyun說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Paicʉ說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "Hla’una說：「柿子不澀，你要不要吃柿子?」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/9.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Kofi, “Caay ka cipelak ko ’alopal, saka komaenan to ’alopal kiso?” saan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605771.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Cilaw mha, “ini’ kqmupang qu qapu’. qaniq su’ qapu’ ga?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/606000.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "kizaw komoSa:, “pakal ’okik pakez, So’o ’am somi’ael ay ka pakal?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606229.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Ali mzai “khi-laa antu makatar, antu ihu kmaan khi-laa?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606458.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo Obing, “Ini pmepang ka bluqun. Ye su uxe meekan bluqun?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606687.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa Samingaz tu niia hadupazan masampat adu na maun kasu hadupaz tan?",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606916.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“inika kudjepal sa varivu, keman sun tua varivu?” aya ti selep.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607145.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Cakere la iya kay, “kai makedepalre kikay madru ki angatu, lrikaanesu ini kikay madru ki angatu?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607374.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Suking “Ini qupang ka apu, aji su mkan apu?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607603.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti pipis, “mai sapeRet ya inupal ngid isu qan?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607832.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta paicʉ, “o’amos’a mac’i ’e kaki teko bonta kaki?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608061.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“adri asepa na dupar. aekan yu dra dupar?” kema i Nawinaw.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608290.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni Sakay, “ya jiamasapzid o asiasi no kayo, koman ka so asiasi no kayo?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608519.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu sa ci Ciyun, “caay ka cupelak ku alupal, maydih kisu mukan tu alupal haw?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608748.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Paicʉ, “ka’anʉ mapakacʉ mʉngʉcʉ. tia kara kasu kumakʉnʉ mʉmgʉcʉ?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608977.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla Hla’una, “kuapalicupucu a arʉʉna, uumauu i arʉʉ?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609206.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "chinese_text": "Sonay說：「Nangoy的褲子很長，蘋果一定在那裡。」",
+      "chinese_variants": [
+        {
+          "text": "Yayut說：「Tazil的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "’api’說：「ba’ay的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Apin說：「Huqu的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Obing說：「Temu的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Aping說：「Talum的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "vavauni說：「cingul的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Aruai說：「Palripilripi的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Agil說：「Ukaw的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Api說：「Buya的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "tanivu說：「pasuya的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Unping說：「Kaliyaban的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "salang說：「Nagat的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Panay說：「Dilay的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Na’u說：「’Angai的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "’Apʉʉna說：「Sʉkʉna的褲子很長，蘋果一定在那裡。」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/10.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Sonay, “Kakaya ko kafer ni Nangoy, caykanca itira koya lingko.” saan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605772.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Yayut mha, “qruzyux balay yopun na Tazil. cyux kya balay qu rin_go’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/606001.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’api’ komoSa: “ni ba’ay ka haehngae’ kin ’inaro’, lingo’ haysaso ’i:zo’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606230.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Apin mzai: “Huqu a sasuakun mathuaw maqulish, ping-quu iutu painan.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606459.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo Obing. “Qndisan ba caic na Temu. Ga bale hiya ka ringgo wa!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606688.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa aping tu Talum madulu itu dahucia sisvahun hai naingadah cia aupa lingku a.",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606917.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“ladruadru’ aravac a zubung ni cingul, tjaraizua a cadja’.” aya ti vavauni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607146.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Aruai la kauriva iya kay, “malragi kay kasui ki Palripilripi, lritaraikay kuini ku pingku.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607375.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Agil “Bbaraw bi ka ribul Ukaw, ida gaga hiya ka supaw.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607604.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti api, “maRung kun ni buya, qawman yau tayan ya linggu.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607833.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta tanivu, “na’no tacvoh’i ta pooyoyo ta pasuya, ’amo ahtio’te yanpa’e’o lingngoo.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608062.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "kemadri i Unping aw, “belakas tu katrakatr kan Kaliyaban. adrikaadri ullaya kadru na linggo.” kema",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608291.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni salang, “ya manaro o abtan ni Nagat jingyan dang o lingko a?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608520.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "hini sa ci panay, “tanayu’ ku calaped ni Dilay, itiza tu ku lingo.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608749.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Na’u, “macasʉ ’Angai tamna vankavuka. ’esi ’inia sua rinko.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608978.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla ’Apʉʉna, “mʉlʉngʉsʉ vanukanukaisa Sʉkʉna, maisana ’asupi tʉtʉrʉ.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609207.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "chinese_text": "Nangoy說：「李子不酸，你要不要吃李子?」",
+      "chinese_variants": [
+        {
+          "text": "Tazil說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "ba’ay說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Huqu說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "路人Temu說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Talum說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "cingul說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Palripilripi說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Ukaw說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Buya說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "pasuya說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Kaliyaban說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "Nagat說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Dilay說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "’Angai說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "Sʉkʉna說：「李子不酸，你要不要吃李子?」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/11.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Nangoy, “Caay ka ’acicim ko manowad, saka komaenan to manowad kiso?” saan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605773.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Tazil mha, “ini’ kngihuy qu kaway. qaniq su’ kaway pi?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/606002.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "ba’ay komoSa:, “’a:im ’okik ’aehis, So’o ’am somi’ael ay ka ’a:im?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606231.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Huqu mzai “lhuzush antu manishir, antu ihu kmaan lhuzush?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606460.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo Dkis. Ini kngihun ka brkawe. Ye su uxe meekan brkawe?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606689.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa Talum tu niia bununzan mahaizu at adu namaun kasu bununaz tan?",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606918.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“inika ’ateliv a sumumu, uri keman sun tua sumumu?” aya ti cingul.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607147.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Palripilripi la iya kay, “kai maalriu kay munwadhe, lrikaanesu ini kay munwadhe?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607376.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Ukaw “Ini kbasi ka busuq, aji su mkan busuq?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607605.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti buya, “mai qaRim ya sinsuli, ngid isu qan tu sinsuli?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607834.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta pasuya, “o’amos’a masʉecʉ ’e bʉnʉ,vhʉ teko bonʉu ta bʉvnʉvhʉ?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608063.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“adri aresem na kanuwad. aekan yu dra kanuwad?” kema i Kaliyaban.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608292.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni Nagat, “ya jialanget o asiasi no kayo, koman ka so asiasi no kayo?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608521.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu sa ci Dilay, “caay ka cilemin ku sunsuli, maydih kisu mukan tu sunsuli haw?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608750.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi ’Angai, “ka’anʉ mami’arʉ mamiriki. tia kara kasu kumakʉnʉ mamiriki?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608979.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla Sʉkʉna, “kuritu’a a mimilikina, uumauu i mimiliki?”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609208.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "chinese_text": "男子說：「水果很甜，大家快來吃!」",
+      "chinese_variants": [
+        {
+          "text": "男子說：「水果很甜，大家快來吃！」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/12.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa koya fa’inayan, “Micedem ko losay, kalamkamen tayni komaen kita!” saan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605774.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal mlikuy mha, “sbing balay qu bway. hay hazi’ uwah maniq kwara’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/606003.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "kamamanra:an komoSa:, “boway kin ’anhil, ’am’amoeh wa’ila si’ael saboeh!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606232.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "ayuzi mzai: “ribush a bunlhaz mathuaw madahun, pashtay munai kmaan!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606461.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo rseno. “Msibus ba puqun ka hei qhuni! Eyah mekan kana wa!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606690.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa uvaz nanaz tu madavusa kaununkaunun an mabaliva amin maun.",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606919.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“’aljeme’em aravac a kudamunu, kelju kani a mapuljat!” aya zaua a u’aljay.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607148.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay sawvalay la iya kay, “malimeme kay madru ki angatu, bwala takirarimu kaane!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607377.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka snaw “Ssibus bi ka hiyi qhuni, iyah nhari mkan kana!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607606.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu Runanay, “datebus ya suyqu, qalazuk ka mawtu qeman meniz!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607835.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta hahocngʉ, “na’no cohʉmʉ ’e beaci, acʉhʉ uhta’e ho bonʉ!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608064.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“dalleu na kalimudan. alamu ekan muymu peniya!” kema na mainayan.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608293.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan no mahakay, “ya maganinam o asiasi no kayo, key ai kamo rana koman!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608522.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu sa ku tatama, “sicedam ku heci, katuuday awza mukan.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608751.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi sarunai, “matavi’isi macu’u. ivata kumakʉnʉ!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608980.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla hlahlusana, “tam maami a masukiu’una, muara pasakulai uumu mʉmʉa!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609209.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "chinese_text": "Sonay說：「這裡有好多蘋果。」",
+      "chinese_variants": [
+        {
+          "text": "Yayut說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "’api’說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Apin說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Aking說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Aping說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "vavauni說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Aruai說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Agil說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Api說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "tanivu說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Unping說：「這裡有好多蘋果啊！」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "salang說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Panay說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Na’u說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "’Apʉʉna說：「這裡有好多蘋果。」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/13.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Sonay, “Adihay ko lingko itini.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605775.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Yayut mha, “cingay balay qu rin_go’ sqani.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/606004.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’api’ komoSa:, “hini hayza ’akoy ka lingo’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606233.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Apin mzai: “inai mathuaw manasha wa ping-quu.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606462.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo Aking. “Keyan ba ka ringgo hini.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606691.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa aping tu supaha isaincin lingkuan tu!",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606920.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“liav aravac a cadja’ i maza.” aya ti vavauni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607149.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Aruai la kauriva iya kay, “makalra kay lapingku ikay kikay.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607378.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Agil “Lala bi supaw ka hini.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607607.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti api, “yau muwaza linggu tazian.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607836.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta tanivu, “mo man’i ’e lingngoo tan’e.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608065.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“sadru a linggo kadri i!” kema i Unping.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608294.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni salang, “ya aro o lingko do jia.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608523.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu sa ci Panay, “yadah ku lingo itini.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608752.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Na’u, “’itumuru nesi rinko.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608981.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla ’Apʉʉna, “maru matumuhlu ’asupi ma naani.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609210.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "chinese_text": "Sonay說：「我的蘋果不紅，這些不是我的蘋果。」",
+      "chinese_variants": [
+        {
+          "text": "Yayut說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "’api’說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Apin說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Aking說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Aping說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "vavauni說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Aruai說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Agil說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Api說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "tanivu說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Unping說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "salang說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Panay說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Na’u說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "’Apʉʉna說：「我的蘋果不紅，這些不是我的蘋果。」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/14.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Sonay, “Caayay ka kahngan ko lingko ako, caayay ko mako a lingko koninian.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605776.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Yayut mha, “ini’ ktalah rin_go’ maku’. iyat maku’ rin_go’ qani hiya’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/606005.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’api’ komoSa:, “ma’an ka lingo’ ’okik ngangilaehan, hini ’okik ’anmana’a ka lingo’.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606234.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Apin mzai: “naak a ping-quu antu maqulha. haya wa ping-quu antu naak.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606463.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo Aking. “Ini ktanah ka ringgo mu yaku. Uxe naku ka ringgo nii.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606692.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa aping tu inaka lingku hai madanghas niasain inak tu lingku.",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606921.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“inika ’udjidjilj aravac a ku cadja’, inika niaken aicu a marekacadja’.” aya ti vavauni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607150.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Aruai la iya kay, “kaika maduli ku pingkuli, kikay kaika pingkuli.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607379.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Agil “Ini kbanah ka supaw mu, aji supaw mu ka dnii.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607608.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti api, “mai tebaRi ya linggu ku, ussa linggu ku zau.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607837.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta tanivu, “o’amos’a fʉhngoya ’o lingngoo’u. o’as’a lingngoo’u eni.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608066.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“adri midrarang ku linggo. amelli ku linggo nadrini.” kema i Unping.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608295.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni salang, “ya jiamabazangbang o lingko ko, o lingko ko am beken a yaken ya.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608524.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu sa ci Panay, “caay kasumanah ku lingo aku, caay ka u nu maku kina lingo.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608753.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Na’u, “ka’anʉ masinang rinko maku. ka’anʉ rinko maku sua isi.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608982.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla ’Apʉʉna, “’asupiku ia kuatavuhliu, kuihlaisa ’asupiku kani’ina.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609211.mp3"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "chinese_text": "Sonay說：「這是我的蘋果!我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+      "chinese_variants": [
+        {
+          "text": "Yayut說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 2,
+              "name": "泰雅語"
+            }
+          ]
+        },
+        {
+          "text": "’api’說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 3,
+              "name": "賽夏語"
+            }
+          ]
+        },
+        {
+          "text": "Apin說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 4,
+              "name": "邵語"
+            }
+          ]
+        },
+        {
+          "text": "Aking說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 5,
+              "name": "賽德克語"
+            }
+          ]
+        },
+        {
+          "text": "Aping說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 6,
+              "name": "布農語"
+            }
+          ]
+        },
+        {
+          "text": "vavauni說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 7,
+              "name": "排灣語"
+            }
+          ]
+        },
+        {
+          "text": "Aruai說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 8,
+              "name": "魯凱語"
+            }
+          ]
+        },
+        {
+          "text": "Agil說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 9,
+              "name": "太魯閣語"
+            }
+          ]
+        },
+        {
+          "text": "Api說說：「這是我的蘋果!我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 10,
+              "name": "噶瑪蘭語"
+            }
+          ]
+        },
+        {
+          "text": "tanivu說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 11,
+              "name": "鄒語"
+            }
+          ]
+        },
+        {
+          "text": "Unping說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 12,
+              "name": "卑南語"
+            }
+          ]
+        },
+        {
+          "text": "salang說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 13,
+              "name": "雅美語"
+            }
+          ]
+        },
+        {
+          "text": "Panay說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 14,
+              "name": "撒奇萊雅語"
+            }
+          ]
+        },
+        {
+          "text": "Na’u說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 15,
+              "name": "卡那卡那富語"
+            }
+          ]
+        },
+        {
+          "text": "’Apʉʉna說：「這是我的蘋果!<br />\n我的蘋果又大又綠，吃起來酸酸又甜甜的。」",
+          "used_by": [
+            {
+              "lid": 16,
+              "name": "拉阿魯哇語"
+            }
+          ]
+        }
+      ],
+      "image_url": "https://web.klokah.tw/pbc/book/125/15.jpg",
+      "audio_url_chinese": "",
+      "indigenous_versions": [
+        {
+          "lid": 1,
+          "language": "阿美語",
+          "text": "Sowal sa ci Sonay, “O lingko ako konini! tata’ak kangdaw ko lingko no mako, kaen han ’acicim micedem.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38483/605777.mp3"
+        },
+        {
+          "lid": 2,
+          "language": "泰雅語",
+          "text": "kmal Yayut mha, “rin_go’ maku’ qani hiya’. hupa’ ru mtasiq qu rin_go’ maku’. mngihuy hazi’ ru msbing niqun.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38501/606006.mp3"
+        },
+        {
+          "lid": 3,
+          "language": "賽夏語",
+          "text": "’api’ komoSa:, “hini ’anmana’a ka ligo’! ma’an ka lingo’ sopaloy o hes’ezan, si’aelen ’aeh’aehisan o ’an’anhilan.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38519/606235.mp3"
+        },
+        {
+          "lid": 4,
+          "language": "邵語",
+          "text": "Apin mzai: “haya naak a ping-quu! naak a ping-quu mathuaw mara’in numa madishdum, manishir numa madahun ya kaanin.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38537/606464.mp3"
+        },
+        {
+          "lid": 5,
+          "language": "賽德克語",
+          "text": "Mrengo Aking. “Nii ka ringgo mu yaku! Paru ma mgsama, mbasi ma mssibus puqun.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38555/606693.mp3"
+        },
+        {
+          "lid": 6,
+          "language": "布農語",
+          "text": "tupa aping tu andiitan inak lingku, inaka lingku hai madaing at masanglav mais kaunun hai mahaizuhaizu tu madavusdavus.",
+          "audio_url": "https://web.klokah.tw/text/sound/38573/606922.mp3"
+        },
+        {
+          "lid": 7,
+          "language": "排灣語",
+          "text": "“ku cadja’ aicu, kudrakudral saka liljualjuas a ku cadja’, nu tja kanen sa’ateliteliv saka ’aljem’em’em.” aya ti vavauni.",
+          "audio_url": "https://web.klokah.tw/text/sound/38591/607151.mp3"
+        },
+        {
+          "lid": 8,
+          "language": "魯凱語",
+          "text": "kay Aruai la kauriva iya kay, “kikay pingkuli.” maadrau si kasalesese kay pingkuli, lukaneane maalriu si kalimeme.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38609/607380.mp3"
+        },
+        {
+          "lid": 9,
+          "language": "太魯閣語",
+          "text": "Rmngaw ka Agil “Supaw mu ka nii! Paru ni mgpajiq ka supaw mu, tbasi ni ssibus uqun.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38627/607609.mp3"
+        },
+        {
+          "lid": 10,
+          "language": "噶瑪蘭語",
+          "text": "semanu ti api, “linggu ku zau! Raya puli ya linggu ku, meqaqaRim datetebus qanan.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38645/607838.mp3"
+        },
+        {
+          "lid": 11,
+          "language": "鄒語",
+          "text": "yainca ta tanivu, “’a lingngoo’u eni i’o lingngo’u ’amo meoisi ho enghoova masʉecʉ no cohʉmʉ ho isi ana.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38663/608067.mp3"
+        },
+        {
+          "lid": 12,
+          "language": "卑南語",
+          "text": "“nanku linggo idrini a! matrina aw miraaraat ku linggo. emareseresem aw demalleulleu an mekan ta.” kema i Unping.",
+          "audio_url": "https://web.klokah.tw/text/sound/38681/608296.mp3"
+        },
+        {
+          "lid": 13,
+          "language": "雅美語",
+          "text": "koan ni salang, “lingko ko ya! ya mowgaraw a ya arako o lingko ko, ya maganinam a ya malanget saon no kanen!”",
+          "audio_url": "https://web.klokah.tw/text/sound/38699/608525.mp3"
+        },
+        {
+          "lid": 14,
+          "language": "撒奇萊雅語",
+          "text": "sakamu sa ci Panay, “nu maku kina lingo! tabaki landaway aca ku lingo aku, cilemin sicedam aca a kanen.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38717/608754.mp3"
+        },
+        {
+          "lid": 15,
+          "language": "卡那卡那富語",
+          "text": "makasi Na’u, “rinko maku sua isi. rinko maku taatia, tavacuku, kʉnʉn mami’arʉ, matavi’isi.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38735/608983.mp3"
+        },
+        {
+          "lid": 16,
+          "language": "拉阿魯哇語",
+          "text": "amihla ’Apʉʉna, “kani’i ia ’asupiku! ’asupiku ia taisa hla malangihlu, maci anʉa ia tarituritu’a hla tamamami.”",
+          "audio_url": "https://web.klokah.tw/text/sound/38753/609212.mp3"
+        }
+      ]
+    }
+  ],
+  "source_urls": {
+    "info": "https://web.klokah.tw/pbc/book/index.php?id=125",
+    "online": "https://web.klokah.tw/pbc/book/online/index.php?id=125"
+  }
+}
