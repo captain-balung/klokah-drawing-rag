@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState, type KeyboardEvent } from 'react'
+import { useEffect, useRef, useState, type CSSProperties, type KeyboardEvent } from 'react'
 import { displayText, streamChat, type Msg } from '../api'
 
 // 判斷一則訊息是否要顯示成對話氣泡（略過內部的 tool_result user 訊息與空白回合）
@@ -6,6 +6,18 @@ function renderable(m: Msg): boolean {
   if (m.role === 'user') return typeof m.content === 'string'
   if (m.role === 'assistant') return displayText(m).trim().length > 0
   return false
+}
+
+// 對話字級（無障礙：使用者多為有老花的老師，可自行調整並記住設定）
+const FONT_MIN = 18
+const FONT_MAX = 40
+const FONT_DEFAULT = 28
+const FONT_STEP = 2
+const FONT_KEY = 'chatFontSize'
+
+function loadFontSize(): number {
+  const saved = Number(localStorage.getItem(FONT_KEY))
+  return saved >= FONT_MIN && saved <= FONT_MAX ? saved : FONT_DEFAULT
 }
 
 export default function ChatView() {
@@ -17,6 +29,13 @@ export default function ChatView() {
   const [error, setError] = useState('')
   // 連線失敗時保存當輪歷史，供「重試」用（不重複 append 使用者訊息）
   const [retryHistory, setRetryHistory] = useState<Msg[] | null>(null)
+
+  const [fontSize, setFontSize] = useState<number>(loadFontSize)
+  useEffect(() => {
+    localStorage.setItem(FONT_KEY, String(fontSize))
+  }, [fontSize])
+  const biggerFont = () => setFontSize((s) => Math.min(FONT_MAX, s + FONT_STEP))
+  const smallerFont = () => setFontSize((s) => Math.max(FONT_MIN, s - FONT_STEP))
 
   const bottomRef = useRef<HTMLDivElement>(null)
   useEffect(() => {
@@ -88,7 +107,16 @@ export default function ChatView() {
   const visible = messages.filter(renderable)
 
   return (
-    <div className="view">
+    <div className="view" style={{ '--chat-font-size': `${fontSize}px` } as CSSProperties}>
+      <div className="chat__toolbar">
+        <span className="chat__toolbar-label">字級</span>
+        <button onClick={smallerFont} disabled={fontSize <= FONT_MIN} aria-label="縮小字級">
+          A−
+        </button>
+        <button onClick={biggerFont} disabled={fontSize >= FONT_MAX} aria-label="放大字級">
+          A＋
+        </button>
+      </div>
       <main className="chat">
         {visible.length === 0 && !streaming && (
           <div className="chat__empty">

@@ -59,6 +59,37 @@
 }
 
 /* ---- 對話 ---- */
+.chat__toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+  padding: 8px 20px;
+  border-bottom: 1px solid var(--border);
+}
+.chat__toolbar-label {
+  font-size: 13px;
+  color: var(--text-soft);
+  margin-right: 2px;
+}
+.chat__toolbar button {
+  font: inherit;
+  font-size: 15px;
+  min-width: 42px;
+  padding: 4px 10px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+}
+.chat__toolbar button:hover:not(:disabled) {
+  border-color: var(--accent);
+}
+.chat__toolbar button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
 .chat {
   flex: 1;
   overflow-y: auto;
@@ -87,6 +118,7 @@
   white-space: pre-wrap;
   word-break: break-word;
   line-height: 1.7;
+  font-size: var(--chat-font-size, 28px); /* 由對話工具列 A−/A＋ 控制；預設 28px */
 }
 .bubble--user {
   align-self: flex-end;
