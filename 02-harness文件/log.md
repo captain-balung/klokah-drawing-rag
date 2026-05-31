@@ -340,3 +340,12 @@
 - **範圍與摘要**：AI 一度將「CORS 白名單」表述為 `spec.md` 的要求；使用者質疑後查證：`spec.md` 並無此要求，實際出處為 `design.md`（prod「CORS 限定前端網域」）與 `roadmap.md` Phase 4 驗收項。更正認知：`spec.md` 是最高仲裁文件，引用「spec 要求」前須實查，勿將 design/roadmap 的設計決定混稱為 spec 紅線
 - **觸發來源**：自動偵測（使用者質疑 → AI 查證更正）
 - **風險等級**：低
+
+## CHANGE-014
+
+- **時間戳**：2026-05-31T16:20:00+08:00
+- **類型**：變更
+- **範圍與摘要**：第二批①無障礙——對話字級放大。`App.css`：`.bubble` 改用 `var(--chat-font-size, 28px)`（預設 28px，原 16px）＋新增 `.chat__toolbar` 樣式。`ChatView.tsx`：新增字級 state（localStorage 持久化，範圍 18–40px、預設 28、步進 2）與 A−/A＋ 工具列，CSS 變數注入 `.view`。動機：目標使用者多為有老花的老師。驗證（Playwright）：預設 28px、A− 28→24、重整後 localStorage 還原 24、prod 部署後工具列在線；tsc + eslint 全綠
+- **觸發來源**：人類指示（第二批優化，字級優先；尺寸經 20/24/28px 截圖比較後人類選 28px + 要可調鈕）
+- **風險等級**：低
+- **備註**：此 push 產生 Vercel 第二個部署版本，解鎖回滾演練（roadmap Phase 4 / 任務 #6）。繪本「閱讀畫面」內容字級未納入本次，待人類決定是否一併放大
