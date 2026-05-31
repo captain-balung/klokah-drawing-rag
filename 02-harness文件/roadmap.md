@@ -9,12 +9,12 @@
 
 ## 進度摘要（1.9）
 
-> 整體 ~95%（Phase 1/2/3 完成並驗證；Phase 4 後端+前端皆上線並實測，僅剩「回滾演練」一項）
+> 整體 ~99%（上線完成並穩定；Phase 4 僅 Render 回滾順延；另完成第二批 UI 優化）
 
-- **整體**：約 95%（Phase 1/2/3 完成；Phase 4 後端 Render + 前端 Vercel 均上線並端到端實測通過，CORS 白名單生效；剩回滾演練）
-- **當前 Phase**：Phase 4（部署）——**後端 + 前端皆已上線**（2026-05-31）；prod 對話、CORS 白名單正面/負面驗證全綠
-- **當前焦點**：僅剩「回滾演練」（在 Render/Vercel 各回滾一次）即可完成 Phase 4
-- **近期完成**：前端上 Vercel（`klokah-drawing-rag.vercel.app`）+ 後端上 Render（`zuyu-rag-backend.onrender.com`）+ CORS 白名單收緊並驗證；GitHub 首次推送；Phase 3 三畫面
+- **整體**：約 99%（Phase 1/2/3 完成；Phase 4 上線並驗證，Vercel 回滾演練通過、Render 回滾順延；第二批 UI 優化已上線）
+- **當前 Phase**：Phase 4 實質完成——後端 Render + 前端 Vercel 上線、CORS 白名單、Vercel 回滾雙向驗證皆綠
+- **當前焦點**：核心交付完成。待辦僅：① Render 回滾演練（需第二個後端版本）② 視需求的後續 UI（如閱讀畫面字級）
+- **近期完成**：第二批 UI 優化——對話字級放大 28px + A−/A＋ 無障礙鈕（CHANGE-014）、對話 Markdown 渲染（CHANGE-015）；Vercel 回滾演練（VERIFY-006）；CORS 白名單；前後端上線
 
 ---
 
