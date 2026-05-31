@@ -14,7 +14,7 @@
 - **整體**：約 99%（Phase 1/2/3 完成；Phase 4 上線並驗證，Vercel 回滾演練通過、Render 回滾順延；第二批 UI 優化已上線）
 - **當前 Phase**：Phase 4 實質完成——後端 Render + 前端 Vercel 上線、CORS 白名單、Vercel 回滾雙向驗證皆綠
 - **當前焦點**：核心交付完成。待辦僅：① Render 回滾演練（需第二個後端版本）② 視需求的後續 UI（如閱讀畫面字級）
-- **近期完成**：第二批 UI 優化——對話字級放大 28px + A−/A＋ 無障礙鈕（CHANGE-014）、對話 Markdown 渲染（CHANGE-015）；Vercel 回滾演練（VERIFY-006）；CORS 白名單；前後端上線
+- **近期完成**：第三批 UI——修對話切畫面消失 + 對話提到的繪本右側面板（含封面縮圖，CHANGE-016）；第二批 UI——字級放大 28px + A−/A＋（CHANGE-014）、Markdown 渲染（CHANGE-015）；Vercel 回滾演練（VERIFY-006）；CORS 白名單；前後端上線
 
 ---
 
