@@ -323,3 +323,20 @@
 - **觸發來源**：人類指示（趁部署等待往下做）
 - **風險等級**：低
 - **備註**：Phase 3 三畫面（對話/瀏覽/閱讀）至此全部完成；F-02 閱讀畫面遵守「族語逐字以資料層為準」設計決定（LESSON-005）
+
+## CHANGE-013
+
+- **時間戳**：2026-05-31T16:05:00+08:00
+- **類型**：變更
+- **範圍與摘要**：Phase 4 上線完成。① GitHub 首次推送（`captain-balung/klokah-drawing-rag`，無金鑰）；② 後端以 Render Blueprint 部署（`zuyu-rag-backend.onrender.com`，**free 方案**，Dashboard 填 `ANTHROPIC_API_KEY`/`CORS_ORIGINS`）；③ 前端 Vercel 部署（rootDir `frontend`、`VITE_API_BASE` 指向 Render，`klokah-drawing-rag.vercel.app`）；④ `CORS_ORIGINS` 由 `*` 收緊為正式網域。驗證（機器優先）：prod `/api/health` 回 `books_loaded:95`；Playwright 多查詢實測前端→後端對話 grounded、無幻覺；curl CORS 正面（正式網域回 ACAO）＋負面（`evil.com` 無 ACAO）
+- **觸發來源**：人類指示（逐步操作雲端 Dashboard）＋ AI 自主驗證（curl/Playwright）
+- **風險等級**：中（涉及正式對外部署）
+- **備註**：`render.yaml` 實為 `plan: free`，與 CHANGE-010 文字「付費常駐」不一致——目前線上確為 free（閒置休眠、冷啟動約 50 秒），是否升級 starter 待人類決定。Phase 4 僅剩「回滾演練」。回滾演練需待有第二個部署版本才有意義（目前 Render/Vercel 各僅一個 commit 版本，無可回滾的前一版），擬併入「第二批修改」部署時實地演練
+
+## LESSON-008
+
+- **時間戳**：2026-05-31T16:05:00+08:00
+- **類型**：修正
+- **範圍與摘要**：AI 一度將「CORS 白名單」表述為 `spec.md` 的要求；使用者質疑後查證：`spec.md` 並無此要求，實際出處為 `design.md`（prod「CORS 限定前端網域」）與 `roadmap.md` Phase 4 驗收項。更正認知：`spec.md` 是最高仲裁文件，引用「spec 要求」前須實查，勿將 design/roadmap 的設計決定混稱為 spec 紅線
+- **觸發來源**：自動偵測（使用者質疑 → AI 查證更正）
+- **風險等級**：低
