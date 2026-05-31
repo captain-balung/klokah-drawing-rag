@@ -349,3 +349,12 @@
 - **觸發來源**：人類指示（第二批優化，字級優先；尺寸經 20/24/28px 截圖比較後人類選 28px + 要可調鈕）
 - **風險等級**：低
 - **備註**：此 push 產生 Vercel 第二個部署版本，解鎖回滾演練（roadmap Phase 4 / 任務 #6）。繪本「閱讀畫面」內容字級未納入本次，待人類決定是否一併放大
+
+## VERIFY-006
+
+- **時間戳**：2026-05-31T16:45:00+08:00
+- **類型**：變更（演練/驗證）
+- **範圍與摘要**：Phase 4 回滾演練（Vercel）。經人類明確授權後以 Vercel CLI 執行：`vercel rollback 705b0djqv`（production 退回前一版）→ `vercel inspect klokah-drawing-rag.vercel.app` 證實別名改指向 705b0djqv → `vercel promote 457ibcbto`（切回最新版）→ inspect 證實復原 + Playwright 證工具列/28px 功能完好。「退得回、推得上」雙向驗證通過
+- **觸發來源**：人類指示（回滾演練，明確授權動 production）＋ AI 自主執行驗證（CLI/Playwright，機器優先）
+- **風險等級**：中（動到線上 production，但全程可逆且已即時復原）
+- **備註**：① 踩到限制——Vercel **Hobby 方案只能回滾前一個部署**（跳更遠回 402，需升 Pro），故無法退到「無工具列」舊版，改以 production 指標移動客觀驗證。② Render 回滾順延：後端僅單一 commit 版本，無差異版可退，待有第二個後端部署時補做。③ 安全機制：首次 `vercel rollback --yes` 被 auto 模式分類器擋下（判定「用 CLI 看」非動 production 之授權），取得人類明確確認後才執行——機制運作正確

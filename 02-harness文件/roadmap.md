@@ -104,7 +104,7 @@ Phase 4（部署）→ ✅ 推 GitHub 完成 → 子任務「Render 後端 + Ver
 - ✅ 後端上 Render → 驗證：prod `/api/health` 回 `books_loaded:95` ✅（`https://zuyu-rag-backend.onrender.com`，2026-05-31）
 - ✅ 前端上 Vercel → 驗證：prod 網址可開、可對話 ✅（`https://klokah-drawing-rag.vercel.app`，Playwright 實測多查詢，2026-05-31）
 - ✅ CORS 白名單 + 金鑰環境變數 → 驗證：正式網域 ACAO 放行、`evil.com` 無 ACAO 被擋、金鑰僅在 Render 環境變數（curl + Playwright 實測，2026-05-31）✅
-- ⬜ 回滾演練 → 驗證：實際在 Render/Vercel 各回滾一次成功
+- 🔄 回滾演練 → Vercel ✅：`vercel rollback 705b0djqv`（退）→ `vercel promote 457ibcbto`（切回），`vercel inspect` 證實別名指向移動並復原、Playwright 證功能完好（CLI，2026-05-31）。Render ⏸️：後端僅單一版本（`f970d48`），無差異版可回滾，順延至有第二個後端部署時補做（Vercel 免費方案亦僅支援回滾前一版）
 
 ---
 
