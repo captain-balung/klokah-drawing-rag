@@ -358,3 +358,12 @@
 - **觸發來源**：人類指示（回滾演練，明確授權動 production）＋ AI 自主執行驗證（CLI/Playwright，機器優先）
 - **風險等級**：中（動到線上 production，但全程可逆且已即時復原）
 - **備註**：① 踩到限制——Vercel **Hobby 方案只能回滾前一個部署**（跳更遠回 402，需升 Pro），故無法退到「無工具列」舊版，改以 production 指標移動客觀驗證。② Render 回滾順延：後端僅單一 commit 版本，無差異版可退，待有第二個後端部署時補做。③ 安全機制：首次 `vercel rollback --yes` 被 auto 模式分類器擋下（判定「用 CLI 看」非動 production 之授權），取得人類明確確認後才執行——機制運作正確
+
+## CHANGE-015
+
+- **時間戳**：2026-05-31T17:00:00+08:00
+- **類型**：變更
+- **範圍與摘要**：第二批②——對話回應 Markdown 渲染。新增依賴 `react-markdown` + `remark-gfm`（`npm install`，0 漏洞）。`ChatView.tsx`：助理訊息與串流文字改以 `<Markdown>`（react-markdown + remarkGfm）渲染，使用者訊息維持純文字；react-markdown 預設不渲染原始 HTML（安全）。`App.css`：新增 `.bubble--md` 樣式（標題/粗體/清單/表格框線/引用/code；標題用 `em` 隨 `--chat-font-size` 縮放）。動機：原本 `##`/`**`/表格以純文字顯示、版面雜亂。驗證：本機後端真實查詢 + prod 真實查詢（表格 35 格、標題、粗體、清單皆正確渲染、無殘留原始符號）；tsc + eslint 全綠
+- **觸發來源**：人類指示（第二批優化，明確同意安裝新依賴）
+- **風險等級**：低
+- **備註**：忠實呈現——僅排版既有文字、不改字，符合 spec 精神。第二批兩項（字級放大 + Markdown 渲染）皆完成並上線
