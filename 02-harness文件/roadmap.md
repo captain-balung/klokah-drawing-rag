@@ -9,25 +9,25 @@
 
 ## 進度摘要（1.9）
 
-> 整體 ~50%（Phase 1 資料管線、Phase 2 查詢服務皆完成並驗證；Phase 3 前端待起步、Phase 4 部署未開始）
+> 整體 ~80%（Phase 1/2/3 完成並驗證；Phase 4 部署啟動——GitHub 已推送，剩 Render/Vercel 雲端設定）
 
-- **整體**：約 75%（Phase 1/2/3 完成；剩 Phase 4 部署，卡在人類 GitHub 步驟）
-- **當前 Phase**：Phase 4（部署）——前置完成，**卡在需人手的 GitHub 推送**；趁等待補完 Phase 3 三畫面
-- **當前焦點**：推 GitHub（人類建 private repo）→ Render 後端 → Vercel 前端 → 填金鑰/CORS
-- **近期完成**：Phase 3 全部三畫面完成（對話/瀏覽/閱讀，Playwright 實測）；上線前置（Sonnet 4.6、CORS/模型環境變數化、render.yaml）；前端韌性（重試）；git 首次提交（無金鑰）
+- **整體**：約 80%（Phase 1/2/3 完成；Phase 4 進行中，GitHub 推送已完成）
+- **當前 Phase**：Phase 4（部署）——**GitHub 已推送**（2026-05-31，`captain-balung/klokah-drawing-rag`）；接著 Render 後端 → Vercel 前端 → 填金鑰/CORS
+- **當前焦點**：Render 連 repo 部署後端（填 `ANTHROPIC_API_KEY`）→ Vercel 部署前端（`VITE_API_BASE`）→ 回填 `CORS_ORIGINS`
+- **近期完成**：GitHub private repo 首次推送成功（2026-05-31）；Phase 3 全部三畫面（對話/瀏覽/閱讀，Playwright 實測）；上線前置（Sonnet 4.6、CORS/模型環境變數化、render.yaml）；前端韌性（重試）
 
 ---
 
 ## 當前焦點（1.6）
 
 ```
-Phase 4（部署）→ 子任務「推 GitHub + Render 後端 + Vercel 前端」→ ⛔ 卡在人類確認點（帳號登入 / 金鑰 / CORS）
+Phase 4（部署）→ ✅ 推 GitHub 完成 → 子任務「Render 後端 + Vercel 前端」→ ⛔ 卡在人類確認點（雲端帳號 / 金鑰 / CORS）
 ```
 
 - 預計完成時間：取決於人類操作時間
 - 信心程度：中（程式與設定就緒；部署多為人類確認點）
-- 上一個完成：前端韌性重試 + 上線前置（Sonnet/CORS/render.yaml）+ 首次 git commit
-- ⛔ 待人類：① 建 GitHub private repo 給我網址 → 我推送　② Render 連 repo + 填 `ANTHROPIC_API_KEY`　③ Vercel 設 `VITE_API_BASE` + 部署　④ 回填後端 `CORS_ORIGINS`
+- 上一個完成：GitHub private repo 首次推送成功（2026-05-31，`captain-balung/klokah-drawing-rag`）
+- ⛔ 待人類：① ~~建 GitHub repo + 推送~~ ✅ 完成　② Render 連 repo + 填 `ANTHROPIC_API_KEY`　③ Vercel 設 `VITE_API_BASE` + 部署　④ 回填後端 `CORS_ORIGINS`
 
 ---
 
