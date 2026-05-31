@@ -9,12 +9,12 @@
 
 ## 進度摘要（1.9）
 
-> 整體 ~80%（Phase 1/2/3 完成並驗證；Phase 4 部署啟動——GitHub 已推送，剩 Render/Vercel 雲端設定）
+> 整體 ~95%（Phase 1/2/3 完成並驗證；Phase 4 後端+前端皆上線並實測，僅剩「回滾演練」一項）
 
-- **整體**：約 80%（Phase 1/2/3 完成；Phase 4 進行中，GitHub 推送已完成）
-- **當前 Phase**：Phase 4（部署）——**GitHub 已推送**（2026-05-31，`captain-balung/klokah-drawing-rag`）；接著 Render 後端 → Vercel 前端 → 填金鑰/CORS
-- **當前焦點**：Render 連 repo 部署後端（填 `ANTHROPIC_API_KEY`）→ Vercel 部署前端（`VITE_API_BASE`）→ 回填 `CORS_ORIGINS`
-- **近期完成**：GitHub private repo 首次推送成功（2026-05-31）；Phase 3 全部三畫面（對話/瀏覽/閱讀，Playwright 實測）；上線前置（Sonnet 4.6、CORS/模型環境變數化、render.yaml）；前端韌性（重試）
+- **整體**：約 95%（Phase 1/2/3 完成；Phase 4 後端 Render + 前端 Vercel 均上線並端到端實測通過，CORS 白名單生效；剩回滾演練）
+- **當前 Phase**：Phase 4（部署）——**後端 + 前端皆已上線**（2026-05-31）；prod 對話、CORS 白名單正面/負面驗證全綠
+- **當前焦點**：僅剩「回滾演練」（在 Render/Vercel 各回滾一次）即可完成 Phase 4
+- **近期完成**：前端上 Vercel（`klokah-drawing-rag.vercel.app`）+ 後端上 Render（`zuyu-rag-backend.onrender.com`）+ CORS 白名單收緊並驗證；GitHub 首次推送；Phase 3 三畫面
 
 ---
 
@@ -47,7 +47,7 @@ Phase 4（部署）→ ✅ 推 GitHub 完成 → 子任務「Render 後端 + Ver
 | 1 | 資料管線 | 抓取並轉換全部繪本 | 95 本 `book_*.json` + `output_v2/` 三產物齊備且通過驗證 | ✅ |
 | 2 | 查詢服務 | 可運作的後端 API | F-01~F-04、F-07、F-08 驗收通過，prompt caching 生效 | ✅ |
 | 3 | 前端介面 | 完整對話 + 瀏覽網頁 | 三個主要畫面實作完成，Playwright 截圖比對通過 | ✅ |
-| 4 | 上線部署 | prod 可用 | 前端 Vercel + 後端 Render 部署，prod `/api/health` 正常 | ⬜ |
+| 4 | 上線部署 | prod 可用 | 前端 Vercel + 後端 Render 部署，prod `/api/health` 正常 | 🔄 |
 
 **進入條件：**
 - 進入 Phase 2：Phase 1 的 `output_v2/` 三產物齊備 ✅（已滿足）
@@ -101,9 +101,9 @@ Phase 4（部署）→ ✅ 推 GitHub 完成 → 子任務「Render 後端 + Ver
 
 ### ⬜ Phase 4：上線部署（未開始）
 
-- ⬜ 後端上 Render → 驗證：prod `/api/health` 回 `books_loaded:95`
-- ⬜ 前端上 Vercel → 驗證：prod 網址可開、可對話
-- ⬜ CORS 白名單 + 金鑰環境變數 → 驗證：跨網域請求成功且金鑰不在前端
+- ✅ 後端上 Render → 驗證：prod `/api/health` 回 `books_loaded:95` ✅（`https://zuyu-rag-backend.onrender.com`，2026-05-31）
+- ✅ 前端上 Vercel → 驗證：prod 網址可開、可對話 ✅（`https://klokah-drawing-rag.vercel.app`，Playwright 實測多查詢，2026-05-31）
+- ✅ CORS 白名單 + 金鑰環境變數 → 驗證：正式網域 ACAO 放行、`evil.com` 無 ACAO 被擋、金鑰僅在 Render 環境變數（curl + Playwright 實測，2026-05-31）✅
 - ⬜ 回滾演練 → 驗證：實際在 Render/Vercel 各回滾一次成功
 
 ---
