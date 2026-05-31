@@ -1,20 +1,18 @@
-import { useEffect, useMemo, useState } from 'react'
-import { fetchBooks, type BookSummary } from '../api'
+import { useMemo, useState } from 'react'
+import { type BookSummary } from '../api'
 
-export default function BrowseView({ onOpen }: { onOpen: (id: number) => void }) {
-  const [books, setBooks] = useState<BookSummary[]>([])
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState('')
+export default function BrowseView({
+  books,
+  error,
+  onOpen,
+}: {
+  books: BookSummary[]
+  error: string
+  onOpen: (id: number) => void
+}) {
   const [level, setLevel] = useState('')
   const [grammar, setGrammar] = useState('')
   const [lang, setLang] = useState('')
-
-  useEffect(() => {
-    fetchBooks()
-      .then(setBooks)
-      .catch((e) => setError(e instanceof Error ? e.message : String(e)))
-      .finally(() => setLoading(false))
-  }, [])
 
   const levels = useMemo(
     () => [...new Set(books.map((b) => b.level).filter(Boolean))],
@@ -36,8 +34,9 @@ export default function BrowseView({ onOpen }: { onOpen: (id: number) => void })
       (!lang || b.available_languages.includes(lang)),
   )
 
-  if (loading) return <div className="view browse__status">載入繪本列表中…</div>
   if (error) return <div className="view browse__status">⚠️ {error}</div>
+  if (books.length === 0)
+    return <div className="view browse__status">載入繪本列表中…</div>
 
   return (
     <div className="view browse">

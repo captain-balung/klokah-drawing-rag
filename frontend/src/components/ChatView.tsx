@@ -28,8 +28,13 @@ function loadFontSize(): number {
   return saved >= FONT_MIN && saved <= FONT_MAX ? saved : FONT_DEFAULT
 }
 
-export default function ChatView() {
-  const [messages, setMessages] = useState<Msg[]>([])
+export default function ChatView({
+  messages,
+  setMessages,
+}: {
+  messages: Msg[]
+  setMessages: (messages: Msg[]) => void
+}) {
   const [input, setInput] = useState('')
   const [streaming, setStreaming] = useState(false)
   const [liveText, setLiveText] = useState('')
