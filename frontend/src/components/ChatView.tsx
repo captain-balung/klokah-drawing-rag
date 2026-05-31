@@ -1,5 +1,13 @@
 import { useEffect, useRef, useState, type CSSProperties, type KeyboardEvent } from 'react'
+import ReactMarkdown from 'react-markdown'
+import remarkGfm from 'remark-gfm'
 import { displayText, streamChat, type Msg } from '../api'
+
+// 助理回應以 Markdown 渲染（remark-gfm 支援表格）；react-markdown 預設不渲染原始 HTML，安全。
+// 忠實呈現：只排版既有文字，不改字。
+function Markdown({ children }: { children: string }) {
+  return <ReactMarkdown remarkPlugins={[remarkGfm]}>{children}</ReactMarkdown>
+}
 
 // 判斷一則訊息是否要顯示成對話氣泡（略過內部的 tool_result user 訊息與空白回合）
 function renderable(m: Msg): boolean {
@@ -129,16 +137,22 @@ export default function ChatView() {
           </div>
         )}
 
-        {visible.map((m, i) => (
-          <div key={i} className={`bubble bubble--${m.role}`}>
-            {displayText(m)}
-          </div>
-        ))}
+        {visible.map((m, i) =>
+          m.role === 'assistant' ? (
+            <div key={i} className="bubble bubble--assistant bubble--md">
+              <Markdown>{displayText(m)}</Markdown>
+            </div>
+          ) : (
+            <div key={i} className="bubble bubble--user">
+              {displayText(m)}
+            </div>
+          ),
+        )}
 
         {streaming && (liveText || toolNote) && (
-          <div className="bubble bubble--assistant">
+          <div className="bubble bubble--assistant bubble--md">
             {toolNote && <div className="bubble__tool">{toolNote}</div>}
-            {liveText}
+            {liveText && <Markdown>{liveText}</Markdown>}
             <span className="cursor">▋</span>
           </div>
         )}
