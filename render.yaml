@@ -17,5 +17,7 @@ services:
         sync: false # 前端部署後填入 Vercel 網域，如 https://xxx.vercel.app
       - key: CLAUDE_MODEL
         value: claude-sonnet-4-6 # 成本控制；可改 claude-opus-4-8
+      - key: MCP_RATE_LIMIT
+        value: "60" # 對外 /mcp 的 per-IP 上限（次/分鐘）；F-09 / DECISION-010
       - key: PYTHON_VERSION
         value: 3.12.8

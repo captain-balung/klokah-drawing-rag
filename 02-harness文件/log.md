@@ -376,3 +376,51 @@
 - **觸發來源**：人類指示（回報切畫面消失 bug + 提「顯示提到的繪本」功能；設計經詢問選「右側面板 + 封面縮圖」）
 - **風險等級**：低
 - **備註**：① catch 不吞例外——封面抓失敗以 `covers[id]=null` 標記、退為純文字卡片（非靜默）。② 封面圖直連原平臺 `web.klokah.tw`（與閱讀畫面一致），不經本後端
+
+---
+
+## DECISION-010
+
+- **時間戳**：2026-06-04T00:00:00+08:00
+- **類型**：決策
+- **範圍與摘要**：新增「對外 MCP server」（F-09），讓其他聊天機器人/AI 助手以 Model Context Protocol 查詢繪本資料；範圍與紅線一併拍板
+- **觸發來源**：人類指示（提出「對外做一個 MCP server」需求）＋ AI 提案技術選型與成本紅線
+- **決策內容**：
+  - 脈絡：Phase 1–4 已上線、後端 prod 穩定；使用者希望讓外部聊天機器人也能查 95 本繪本
+  - 選項：(a) 把 `/api/chat` 包成 MCP tool（外部用我們的 Claude 推理）；(b) 只開純資料工具（外部用自己的 LLM）；(c) 不做
+  - 決定：(b)，並補三項細節
+    1. **對外範圍：完全公開** — 任何 MCP client 皆可連，**不設 token 認證**；以 per-IP rate limit（預設 60/min，環境變數 `MCP_RATE_LIMIT` 可調）防爬
+    2. **絕不開 chat tool** — MCP 工具集僅含 `list_books` / `search_books` / `get_book` / `get_book_page` 四項純資料動作，零 LLM 成本
+    3. **Render Pro 方案**（使用者確認已升級）— 解 MCP handshake 對冷啟動的容忍問題
+  - 技術選型：MCP Python SDK 的 `FastMCP` + **Streamable HTTP transport**（取代已棄用的 HTTP+SSE）；以子 ASGI app 掛到既有 FastAPI 之 `/mcp`，共用 `INDEX_DATA`/`SUMMARY_TEXT`/`load_book_detail()`；`stateless_http=True`（無 session 狀態，符合公開查詢場景）
+  - 後果：
+    - 我們的 Anthropic 額度**不受**外部呼叫影響（純讀檔，零 LLM token 成本）
+    - `/mcp` 對外公開、不套用 `CORS_ORIGINS` 白名單；其餘 `/api/*` 維持原 CORS 政策
+    - 新增依賴：`mcp`（官方 Python SDK）、`slowapi`（rate limit）
+    - 新增文件：repo 根 `MCP.md`（對外連線說明）
+- **風險等級**：中（涉及對外公開端點與新外部依賴；無不可逆風險，可隨時 `git revert` 並從 Render 撤下 `/mcp` 子 app）
+
+---
+
+## CHANGE-017
+
+- **時間戳**：2026-06-04T10:40:00+08:00
+- **類型**：變更
+- **範圍與摘要**：實作 F-09 對外 MCP server。新增 `backend/mcp_tools.py`（FastMCP + 四工具 `list_books`/`search_books`/`get_book`/`get_book_page`；資料層注入避免循環 import；嚴禁 import anthropic 守門條件設於驗證腳本）；`backend/query.py` 加 lifespan 起 MCP session manager、`app.mount("/mcp", ...)`、自寫 sliding-window per-IP rate limiter middleware（60/min 預設，環境變數 `MCP_RATE_LIMIT` 可覆寫）；`backend/requirements.txt` 加 `mcp`；`render.yaml` 加 `MCP_RATE_LIMIT` 佔位；根目錄新增 `MCP.md` 對外連線說明（Claude Desktop 設定、Python SDK、curl 範例）；新增 `backend/verify_mcp.py`（16 項零成本確定性檢查）與 `backend/verify_mcp_http.py`（端到端 MCP client + 429 rate-limit 探針）
+- **觸發來源**：人類指示（按提案規劃自主執行）＋ AI 自主判斷（細節：rate limiter 用自寫 20 行避免新增 dep；`streamable_http_path="/"` 配 mount `/mcp` 讓最終 URL 為 `/mcp/`；`transport_security` 關 DNS rebinding protection 以利公開存取）
+- **風險等級**：低（新功能，與既有 `/api/*` 互不影響；無不可逆性）
+- **備註**：實際端點為 `/mcp/`（含結尾斜線，由 Starlette mount 約定）；MCP client SDK 對兩種寫法皆能處理
+
+## VERIFY-007
+
+- **時間戳**：2026-06-04T10:40:00+08:00
+- **類型**：變更（驗證紀錄）
+- **範圍與摘要**：F-09 對外 MCP 本機驗證全綠
+  - 單元層（`python verify_mcp.py`）：16/16 PASS——`list_books` 含 4 種過濾、`search_books` 含空字串/上限保護、`get_book(167, 阿美語)` 對 `book_167.json` 第 1 頁逐字一致、`get_book_page` 同上、不存在 ID 丟 `ValueError`、原始碼斷言「未 `import anthropic`」
+  - 端到端（`python verify_mcp_http.py`）：以官方 `mcp` Python SDK 對 `http://localhost:8000/mcp/` 跑 initialize → tools/list（回 4 工具）→ 4 個 call_tool（含族語逐字斷言）→ 1 個錯誤路徑（`get_book(99999)` 回 `isError`）全綠
+  - Rate limit：對 `/mcp/` 連打 70 次後，第 49 次起回 429（含 `Retry-After: 60`），總計 22 個 429——與「預設 60/min」設定相符（前段已有 ~12 次 MCP session 請求占額度）
+- **觸發來源**：自動驗證（機器優先）
+- **風險等級**：低
+- **備註**：尚未部署 prod。部署檢核項：git push → Render 自動 build → prod `/mcp/` 跑一次 initialize/tools/list/tools/call → MCP.md 中的 prod URL 在 Claude Desktop 連得到
+
+---

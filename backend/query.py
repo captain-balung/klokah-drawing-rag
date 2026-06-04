@@ -27,15 +27,20 @@ import json
 import logging
 import os
 import re
+import threading
+import time
+from collections import defaultdict, deque
 from collections.abc import Iterator
+from contextlib import asynccontextmanager
 from pathlib import Path
 from typing import Any
 
 import anthropic
+import mcp_tools
 from dotenv import load_dotenv
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import StreamingResponse
+from fastapi.responses import JSONResponse, StreamingResponse
 from pydantic import BaseModel, Field
 
 # 從 backend/.env 載入環境變數（含 ANTHROPIC_API_KEY）。
@@ -90,10 +95,22 @@ def load_book_detail(book_id: int) -> dict | None:
 
 
 SUMMARY_TEXT = load_summary()
+SUMMARY_LINES = SUMMARY_TEXT.splitlines()
 INDEX_DATA = json.loads(INDEX_PATH.read_text(encoding="utf-8")) if INDEX_PATH.exists() else []
 
 # 幻覺防護：資料庫中真實存在的繪本 ID 集合，用來事後檢查回應是否捏造 ID。
 VALID_BOOK_IDS = {b["id"] for b in INDEX_DATA}
+
+# ------------------------------------------------------------------
+# 對外 MCP server（F-09 / DECISION-010）：注入資料來源
+# ------------------------------------------------------------------
+# 共用已載入記憶體的 INDEX_DATA / SUMMARY_LINES / load_book_detail，
+# 避免 mcp_tools.py 重複載入。MCP 工具僅讀資料、不呼叫 Claude。
+mcp_tools.register_data_sources(
+    index=INDEX_DATA,
+    summary_lines=SUMMARY_LINES,
+    load_book_detail=load_book_detail,
+)
 
 # 抓回應文字裡引用的繪本編號。配合 system prompt 要求以 `#編號` 標註（例：#167），
 # 同時相容「編號(id) 167」「id：167」等寫法，盡量多抓以利偵測捏造。
@@ -198,12 +215,20 @@ def run_tool(name: str, args: dict) -> str:
 
 
 # ------------------------------------------------------------------
-# FastAPI app
+# FastAPI app（含對外 MCP server 子 app 的 lifespan）
 # ------------------------------------------------------------------
-app = FastAPI(title="族語繪本查詢 API", version="0.1.0")
+@asynccontextmanager
+async def app_lifespan(_app: FastAPI):
+    """啟動 FastMCP 的 streamable HTTP session manager，請求結束時收尾。"""
+    async with mcp_tools.mcp.session_manager.run():
+        yield
+
+
+app = FastAPI(title="族語繪本查詢 API", version="0.2.0", lifespan=app_lifespan)
 
 # CORS 來源：開發預設全開（*）；正式部署用環境變數 CORS_ORIGINS 限定前端網域
 # （逗號分隔，如 "https://xxx.vercel.app"）。不使用 cookie，故 allow_credentials=False。
+# 注意：此 CORS 政策僅針對 /api/*；/mcp 為對外公開介面，由其子 app 自行處理。
 _cors_env = os.getenv("CORS_ORIGINS", "*").strip()
 ALLOWED_ORIGINS = (
     ["*"] if _cors_env == "*" else [o.strip() for o in _cors_env.split(",") if o.strip()]
@@ -215,6 +240,56 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
+# ------------------------------------------------------------------
+# 對外 MCP 的 per-IP rate limit（DECISION-010）
+# ------------------------------------------------------------------
+# 完全公開不設 token，但用 sliding-window per-IP 計數防爬。
+# 預設 60 次/分鐘，可用環境變數 MCP_RATE_LIMIT 覆寫（純整數，單位 per minute）。
+class _SlidingWindowLimiter:
+    """簡單的 per-key 滑動視窗計數器（thread-safe，記憶體內）。"""
+
+    def __init__(self, max_hits: int, window_sec: float) -> None:
+        self.max = max_hits
+        self.window = window_sec
+        self._hits: dict[str, deque[float]] = defaultdict(deque)
+        self._lock = threading.Lock()
+
+    def hit(self, key: str) -> bool:
+        now = time.monotonic()
+        cutoff = now - self.window
+        with self._lock:
+            q = self._hits[key]
+            while q and q[0] < cutoff:
+                q.popleft()
+            if len(q) >= self.max:
+                return False
+            q.append(now)
+            return True
+
+
+_mcp_limit_per_min = max(1, int(os.getenv("MCP_RATE_LIMIT", "60")))
+_mcp_limiter = _SlidingWindowLimiter(max_hits=_mcp_limit_per_min, window_sec=60.0)
+
+
+@app.middleware("http")
+async def mcp_rate_limit_middleware(request: Request, call_next):
+    """對 /mcp 路徑做 per-IP rate limit；其他路徑直通。"""
+    if request.url.path.startswith("/mcp"):
+        client_ip = request.client.host if request.client else "unknown"
+        if not _mcp_limiter.hit(client_ip):
+            log.warning("/mcp rate limit hit ip=%s limit=%d/min", client_ip, _mcp_limit_per_min)
+            return JSONResponse(
+                {"error": "rate limit exceeded", "limit_per_minute": _mcp_limit_per_min},
+                status_code=429,
+                headers={"Retry-After": "60"},
+            )
+    return await call_next(request)
+
+
+# 掛載 FastMCP 子 app：對外 MCP 端點為 /mcp（streamable HTTP transport）
+app.mount("/mcp", mcp_tools.mcp.streamable_http_app())
 
 
 client = anthropic.Anthropic()  # 從環境變數讀 ANTHROPIC_API_KEY

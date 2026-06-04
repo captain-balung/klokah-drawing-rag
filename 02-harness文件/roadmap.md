@@ -9,25 +9,25 @@
 
 ## 進度摘要（1.9）
 
-> 整體 ~99%（上線完成並穩定；Phase 4 僅 Render 回滾順延；另完成第二批 UI 優化）
+> 整體 ~99%（Phase 1–4 完成上線）；新增 Phase 5「對外 MCP server」開工中
 
-- **整體**：約 99%（Phase 1/2/3 完成；Phase 4 上線並驗證，Vercel 回滾演練通過、Render 回滾順延；第二批 UI 優化已上線）
-- **當前 Phase**：Phase 4 實質完成——後端 Render + 前端 Vercel 上線、CORS 白名單、Vercel 回滾雙向驗證皆綠
-- **當前焦點**：核心交付完成。待辦僅：① Render 回滾演練（需第二個後端版本）② 視需求的後續 UI（如閱讀畫面字級）
-- **近期完成**：第三批 UI——修對話切畫面消失 + 對話提到的繪本右側面板（含封面縮圖，CHANGE-016）；第二批 UI——字級放大 28px + A−/A＋（CHANGE-014）、Markdown 渲染（CHANGE-015）；Vercel 回滾演練（VERIFY-006）；CORS 白名單；前後端上線
+- **整體**：Phase 1/2/3/4 完成（上線並穩定）；Phase 5（對外 MCP）開工
+- **當前 Phase**：**Phase 5（對外 MCP server）**——F-09，本機實作 + 驗證完成；待 prod 部署
+- **當前焦點**：等待人類同意 `git push` 觸發 Render 自動部署；部署後對 prod `/mcp/` 跑一次 initialize/tools/list/tools/call 補 VERIFY-008
+- **近期完成**：第三批 UI（CHANGE-016）；第二批 UI（CHANGE-014/015）；Vercel 回滾演練（VERIFY-006）；前後端上線（CHANGE-013）
 
 ---
 
 ## 當前焦點（1.6）
 
 ```
-Phase 4（部署）→ ✅ 推 GitHub 完成 → 子任務「Render 後端 + Vercel 前端」→ ⛔ 卡在人類確認點（雲端帳號 / 金鑰 / CORS）
+Phase 5（對外 MCP server）→ 🔄 規範文件補完 → 子任務「mcp_tools.py + /mcp 掛載 + 本機驗證 + README」
 ```
 
-- 預計完成時間：取決於人類操作時間
-- 信心程度：中（程式與設定就緒；部署多為人類確認點）
-- 上一個完成：GitHub private repo 首次推送成功（2026-05-31，`captain-balung/klokah-drawing-rag`）
-- ⛔ 待人類：① ~~建 GitHub repo + 推送~~ ✅ 完成　② Render 連 repo + 填 `ANTHROPIC_API_KEY`　③ Vercel 設 `VITE_API_BASE` + 部署　④ 回填後端 `CORS_ORIGINS`
+- 預計完成時間：規範完成；程式碼+本機驗證 1–2 個工作 session
+- 信心程度：中高（Streamable HTTP 屬 MCP 標準、Python SDK 成熟；唯一未知是 FastAPI mount FastMCP 的 lifespan/path 細節，需以實作驗證）
+- 上一個完成：規範文件四檔（spec/design/log/roadmap）對齊 F-09（2026-06-04，本回合）
+- ⛔ 待人類：暫無（完全公開、Render Pro 已升、無 chat tool 已拍板）
 
 ---
 
@@ -36,7 +36,8 @@ Phase 4（部署）→ ✅ 推 GitHub 完成 → 子任務「Render 後端 + Ver
 | 項目 | 類型 | 說明 |
 |---|---|---|
 | ~~前端框架 React vs Vue~~ | ✅ 已解 | 拍板 **React**（2026-05-30，log DECISION-008，原 DECISION-003）|
-| Render 方案（免費 vs 付費）| 待人類決策 | 影響冷啟動體驗（見 design.md 已知問題）；Phase 4 才需拍板 |
+| ~~Render 方案（免費 vs 付費）~~ | ✅ 已解 | Pro 方案（2026-06-04，使用者確認）|
+| ~~對外 MCP server 範圍／工具集~~ | ✅ 已解 | 完全公開 + 只開資料工具 + 絕不開 chat（2026-06-04，DECISION-010）|
 
 ---
 
@@ -47,12 +48,14 @@ Phase 4（部署）→ ✅ 推 GitHub 完成 → 子任務「Render 後端 + Ver
 | 1 | 資料管線 | 抓取並轉換全部繪本 | 95 本 `book_*.json` + `output_v2/` 三產物齊備且通過驗證 | ✅ |
 | 2 | 查詢服務 | 可運作的後端 API | F-01~F-04、F-07、F-08 驗收通過，prompt caching 生效 | ✅ |
 | 3 | 前端介面 | 完整對話 + 瀏覽網頁 | 三個主要畫面實作完成，Playwright 截圖比對通過 | ✅ |
-| 4 | 上線部署 | prod 可用 | 前端 Vercel + 後端 Render 部署，prod `/api/health` 正常 | 🔄 |
+| 4 | 上線部署 | prod 可用 | 前端 Vercel + 後端 Render 部署，prod `/api/health` 正常 | ✅ |
+| 5 | 對外 MCP server | 其他聊天機器人可查繪本資料 | F-09：`/mcp` 通過 MCP Inspector 跑完 initialize/tools/list/tools/call，四工具回傳與 JSON 一致；對外 README 上線 | 🔄 |
 
 **進入條件：**
 - 進入 Phase 2：Phase 1 的 `output_v2/` 三產物齊備 ✅（已滿足）
 - 進入 Phase 3：Phase 2 後端 API 穩定且 `/docs` 可測 ✅ + 前端框架已拍板 ✅（React）→ **已滿足**
 - 進入 Phase 4：Phase 3 前端在 local 串接後端成功 + 回滾預案就緒（design.md 已備）
+- 進入 Phase 5：Phase 4 prod 後端穩定 ✅ + DECISION-010 範圍拍板 ✅ → **已滿足**
 
 ---
 
@@ -106,6 +109,17 @@ Phase 4（部署）→ ✅ 推 GitHub 完成 → 子任務「Render 後端 + Ver
 - ✅ CORS 白名單 + 金鑰環境變數 → 驗證：正式網域 ACAO 放行、`evil.com` 無 ACAO 被擋、金鑰僅在 Render 環境變數（curl + Playwright 實測，2026-05-31）✅
 - 🔄 回滾演練 → Vercel ✅：`vercel rollback 705b0djqv`（退）→ `vercel promote 457ibcbto`（切回），`vercel inspect` 證實別名指向移動並復原、Playwright 證功能完好（CLI，2026-05-31）。Render ⏸️：後端僅單一版本（`f970d48`），無差異版可回滾，順延至有第二個後端部署時補做（Vercel 免費方案亦僅支援回滾前一版）
 
+### 🔄 Phase 5：對外 MCP server（本機完成，待部署）
+
+- ✅ 規範文件補完 → spec.md 加 F-09、design.md 對外介面表加 `/mcp` 列、log.md DECISION-010、roadmap.md Phase 5（2026-06-04）✅
+- 🔄 功能群：對外 MCP server（F-09）
+  - ✅ 實作 `backend/mcp_tools.py` → 驗證：四工具註冊、`verify_mcp.py` 16 項全綠（含族語逐字一致）✅
+  - ✅ `query.py` 掛載 `/mcp` + per-IP sliding-window rate limit（自寫 20 行，無新增 dep）→ 驗證：本機啟動 `/api/health` 200、`/mcp/` initialize 200、70 連打後第 49 次起 429（CHANGE-017，2026-06-04）✅
+  - ✅ `backend/requirements.txt` 加 `mcp`、`render.yaml` 加 `MCP_RATE_LIMIT` 佔位 → 驗證：本機 `pip install` 已驗，prod 留待 Render build ✅
+  - ✅ MCP client 本機驗證 → 改用官方 `mcp` Python SDK 直接驗（`verify_mcp_http.py`），等同 Inspector：initialize/tools/list/4×tools_call/錯誤路徑/429 探針全綠（VERIFY-007，2026-06-04）✅
+  - ✅ 寫 repo 根 `MCP.md` → 含 prod URL、四工具 schema、Claude Desktop config 範本、Python SDK 與 curl 範例 ✅
+  - ⬜ 部署 prod → 驗證：`/mcp/` initialize 對 `https://zuyu-rag-backend.onrender.com/mcp/` 跑通；補 VERIFY-008 入 log（待人類同意 git push）
+
 ---
 
 ## 跨 phase 引用（1.8）
@@ -114,6 +128,8 @@ Phase 4（部署）→ ✅ 推 GitHub 完成 → 子任務「Render 後端 + Ver
 - Phase 4 → Phase 3（硬依賴）：部署前需 local 全鏈路跑通
 - Phase 3 前端框架決策 → Phase 3 全部子任務（硬依賴）：未拍板無法起步
 - Phase 4 → design.md 回滾預案（軟依賴）：已就緒，部署即可演練
+- Phase 5 → Phase 2（軟依賴）：MCP 工具共用 `query.py` 已載入的 `INDEX_DATA`/`SUMMARY_TEXT`/`load_book_detail()`
+- Phase 5 → Phase 4（軟依賴）：與 `/api/*` 共用同一 Render 服務，部署管線復用
 
 ---
 
@@ -128,6 +144,5 @@ Phase 4（部署）→ ✅ 推 GitHub 完成 → 子任務「Render 後端 + Ver
 
 ## 樹狀展開狀態（1.11）
 
-- 預設只展開當前 Phase（Phase 2）與當前焦點路徑
-- Phase 1 已折疊為摘要（全 ✅）
-- Phase 3、4 維持未展開細節，進入時再展開
+- 預設只展開當前 Phase（Phase 5）與當前焦點路徑
+- Phase 1–4 已折疊為摘要（全 ✅，回滾僅 Render 順延）

@@ -5,5 +5,8 @@ anthropic
 python-dotenv
 pydantic
 
+# F-09 對外 MCP server（DECISION-010）
+mcp
+
 # test_query.py 用
 requests

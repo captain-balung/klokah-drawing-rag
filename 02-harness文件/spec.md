@@ -43,6 +43,7 @@
 - 支援多輪對話（記得前文）
 - 支援查看繪本完整內容、特定族語版本、逐頁文字
 - 提供繪本資料的抓取（爬蟲）與格式轉換工具
+- **對外提供 MCP server**：讓其他聊天機器人/AI 助手以 Model Context Protocol（Streamable HTTP）查詢繪本資料
 
 **明確不做什麼（擋住 scope creep）：**
 
@@ -84,6 +85,7 @@
 | F-06 | 格式轉換 | `transformer.py` 產生 `index.json`、`summary.jsonl`、去重後 `books/*.json`，中文差異記入 `chinese_variants` |
 | F-07 | SSE streaming 回應 | POST `/api/chat/stream` 回傳 `text/event-stream`，事件含 text/tool_use/done |
 | F-08 | 健康檢查 | GET `/api/health` 回傳 `books_loaded` 等於實際載入數 |
+| F-09 | 對外 MCP server | `/mcp` 通過 MCP Streamable HTTP 協定（initialize → tools/list → tools/call）；提供 `list_books`/`search_books`/`get_book`/`get_book_page` 四項純資料工具；**不暴露任何呼叫 Claude API 的能力**；對外完全公開（無 token），以 per-IP rate limit 防爬 |
 
 ### 反例規格（不該做什麼）
 
@@ -93,6 +95,8 @@
 - 爬蟲**不該**在使用者查詢時被觸發
 - 日誌**不該**記錄完整 API 金鑰或可識別使用者的完整查詢
 - API 回應**不該**洩漏伺服器檔案路徑、堆疊追蹤給前端使用者
+- **對外 MCP server 不該**暴露任何會呼叫付費 LLM API 的工具——chat 留在 `/api/chat` 給前端，**絕不上 MCP**（否則外部使用者每次查詢都燒我們的 Anthropic 額度，違反成本鐵則）
+- **對外 MCP server 不該**提供寫入/修改/刪除類工具——純讀繪本靜態 JSON
 
 ### 資料與資安要點
 

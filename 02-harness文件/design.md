@@ -69,7 +69,8 @@ graph TD
 
 - `data-pipeline/scraper.py`：只負責從 web.klokah.tw 抓資料、產生原始 `book_*.json`。對外介面為 CLI（`probe`/`list`/`book`/`all`）。
 - `data-pipeline/transformer.py`：只負責格式轉換（中文去重、產生 summary/index）。輸入 `data-pipeline/output/`，輸出 `data-pipeline/output_v2/`，不碰網路。
-- `backend/query.py`：只負責線上查詢。讀 `data-pipeline/output_v2/`（唯讀）、呼叫 Claude API、提供 REST + SSE。不碰網路爬取。
+- `backend/query.py`：只負責線上查詢。讀 `data-pipeline/output_v2/`（唯讀）、呼叫 Claude API、提供 REST + SSE。不碰網路爬取。另以子 app 形式掛載 `backend/mcp_tools.py` 至 `/mcp`。
+- `backend/mcp_tools.py`：定義對外 MCP server 的純資料工具（`list_books`/`search_books`/`get_book`/`get_book_page`）。共用 `query.py` 已載入記憶體的 `INDEX_DATA` / `SUMMARY_TEXT` / `load_book_detail()`；**嚴禁**呼叫 Claude API 或任何付費外部服務；**嚴禁**寫入。
 - `frontend/`：只負責 UI 與對話狀態保存，所有資料經後端 API。
 
 ---
@@ -83,14 +84,16 @@ graph TD
 | `/api/books/{id}` | GET | path: id | 單本完整 JSON | 無 | 404 書不存在 |
 | `/api/chat` | POST | `{messages:[...]}` | `{messages, text}` | **呼叫付費 Claude API** | 400 空 messages |
 | `/api/chat/stream` | POST | `{messages:[...]}` | SSE 事件流 | **呼叫付費 Claude API** | 400 空 messages；error 事件 |
+| `/mcp` | POST / GET / DELETE | MCP JSON-RPC（`initialize` / `tools/list` / `tools/call`），透過 Streamable HTTP transport | MCP 標準回應（JSON 或 SSE 串流） | **唯讀**：讀 `output_v2/` 靜態 JSON；**不**呼叫 Claude API | 標準 MCP error；超過 per-IP rate limit 回 429 |
 
-**副作用警示**：`/api/chat` 與 `/api/chat/stream` 會呼叫付費 API；`fetch_book_detail` 工具會讀取本地 JSON（唯讀，無寫入副作用）。
+**副作用警示**：`/api/chat` 與 `/api/chat/stream` 會呼叫付費 API；`fetch_book_detail` 工具會讀取本地 JSON（唯讀，無寫入副作用）；`/mcp` 對外完全公開、**零 LLM 成本**，僅讀靜態 JSON。
 
 **破壞性變更判定**：以下任一即為 breaking change，須入 `log.md`（決策類型 + 不可逆風險）並通知前端：
 - 移除或改名任何端點
 - 改變 `messages` 的結構或 `role`/`content` 格式
 - 改變 SSE 事件名稱（text/tool_use/tool_result/done/error）
 - 改變 `book_*.json` 的欄位結構（影響 `fetch_book_detail` 輸出）
+- 移除、改名 `/mcp` 任一對外工具或變更其 `input_schema`／回傳 schema（影響已接入的外部聊天機器人）
 
 ---
 
@@ -146,8 +149,9 @@ graph TD
 | 變數 | 用途 | 備註 |
 |---|---|---|
 | `ANTHROPIC_API_KEY` | Claude API 金鑰 | ⚠️ 高敏感，sync:false，不入版控 |
-| `CORS_ORIGINS` | 允許的前端網域（逗號分隔）| 部署前端後填 Vercel 網址；預設 `*` 僅供本機 |
+| `CORS_ORIGINS` | 允許的前端網域（逗號分隔）| 部署前端後填 Vercel 網址；預設 `*` 僅供本機。**僅作用於 `/api/*`；`/mcp` 對外完全公開不套用此限制** |
 | `CLAUDE_MODEL` | LLM 模型 | 預設 `claude-sonnet-4-6`（成本控制，DECISION-009）|
+| `MCP_RATE_LIMIT` | `/mcp` 的 per-IP 上限（per minute） | 選填，預設 `60/minute`；超量回 429 |
 
 **前端環境變數（Vercel）：** `VITE_API_BASE` = Render 後端網址（build 時注入）。
 
