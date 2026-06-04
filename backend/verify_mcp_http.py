@@ -17,7 +17,8 @@ if hasattr(sys.stdout, "reconfigure"):
 
 
 async def run_one_session() -> int:
-    url = "http://localhost:8000/mcp/"
+    import os
+    url = os.getenv("MCP_URL", "http://localhost:8000/mcp/")
     print(f"連線 {url}")
     async with streamablehttp_client(url) as (read, write, _):
         async with ClientSession(read, write) as session:
@@ -79,11 +80,13 @@ async def run_rate_limit_probe() -> int:
     這裡只驗證 429 路徑能被 middleware 觸發——以 health 之外的 /mcp 路徑連打。
     跳過 MCP 協定，直接以 httpx 對 /mcp/ 連打 70 次（POST 空 body），預期最後若干次 429。"""
     print("\n--- rate limit probe ---")
-    async with httpx.AsyncClient(timeout=5.0) as c:
+    import os
+    url = os.getenv("MCP_URL", "http://localhost:8000/mcp/")
+    async with httpx.AsyncClient(timeout=10.0) as c:
         codes: list[int] = []
         for _i in range(70):
             try:
-                resp = await c.post("http://localhost:8000/mcp/", content="{}", headers={"content-type": "application/json"})
+                resp = await c.post(url, content="{}", headers={"content-type": "application/json"})
                 codes.append(resp.status_code)
             except Exception as e:  # noqa: BLE001
                 codes.append(-1)

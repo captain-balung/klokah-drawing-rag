@@ -423,4 +423,13 @@
 - **風險等級**：低
 - **備註**：尚未部署 prod。部署檢核項：git push → Render 自動 build → prod `/mcp/` 跑一次 initialize/tools/list/tools/call → MCP.md 中的 prod URL 在 Claude Desktop 連得到
 
+## VERIFY-008
+
+- **時間戳**：2026-06-04T10:58:00+08:00
+- **類型**：變更（驗證紀錄）
+- **範圍與摘要**：F-09 prod 部署驗證全綠。`git push origin main`（`d9ca8ea..35553d6`）觸發 Render 自動 build；新版上線後對 `https://zuyu-rag-backend.onrender.com/mcp/` 跑 `verify_mcp_http.py`：initialize（server=`klokah-rag`）→ tools/list（4 工具）→ 4 個 call_tool（`list_books(阿美語)=95`、`search_books(森林, limit=3)` 命中 #100、`get_book(167, 阿美語)=18 頁`、`get_book_page(167, 1, 阿美語)` 族語文字逐字一致）→ 錯誤路徑（`get_book(99999)` 回 `isError`）皆綠；rate limit 70 連打觸發 19 次 429（與 `MCP_RATE_LIMIT=60` 相符）
+- **觸發來源**：自動驗證（機器優先；`MCP_URL` 環境變數切 prod）
+- **風險等級**：低
+- **備註**：對外 MCP server 正式上線；現可在 Claude Desktop / 其他 MCP client 用 `https://zuyu-rag-backend.onrender.com/mcp/` 連線。`verify_mcp_http.py` 同時支援 local 與 prod（讀 `MCP_URL` 環境變數，預設 local）
+
 ---

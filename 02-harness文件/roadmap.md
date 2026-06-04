@@ -9,11 +9,11 @@
 
 ## 進度摘要（1.9）
 
-> 整體 ~99%（Phase 1–4 完成上線）；新增 Phase 5「對外 MCP server」開工中
+> 整體 100%（Phase 1–5 全部完成上線）
 
-- **整體**：Phase 1/2/3/4 完成（上線並穩定）；Phase 5（對外 MCP）開工
-- **當前 Phase**：**Phase 5（對外 MCP server）**——F-09，本機實作 + 驗證完成；待 prod 部署
-- **當前焦點**：等待人類同意 `git push` 觸發 Render 自動部署；部署後對 prod `/mcp/` 跑一次 initialize/tools/list/tools/call 補 VERIFY-008
+- **整體**：Phase 1/2/3/4/5 完成上線
+- **當前 Phase**：—（無進行中 Phase）
+- **當前焦點**：核心交付完成。對外 MCP server 已上線於 `https://zuyu-rag-backend.onrender.com/mcp/`；可在 Claude Desktop / 其他 MCP client 直接連
 - **近期完成**：第三批 UI（CHANGE-016）；第二批 UI（CHANGE-014/015）；Vercel 回滾演練（VERIFY-006）；前後端上線（CHANGE-013）
 
 ---
@@ -49,7 +49,7 @@ Phase 5（對外 MCP server）→ 🔄 規範文件補完 → 子任務「mcp_to
 | 2 | 查詢服務 | 可運作的後端 API | F-01~F-04、F-07、F-08 驗收通過，prompt caching 生效 | ✅ |
 | 3 | 前端介面 | 完整對話 + 瀏覽網頁 | 三個主要畫面實作完成，Playwright 截圖比對通過 | ✅ |
 | 4 | 上線部署 | prod 可用 | 前端 Vercel + 後端 Render 部署，prod `/api/health` 正常 | ✅ |
-| 5 | 對外 MCP server | 其他聊天機器人可查繪本資料 | F-09：`/mcp` 通過 MCP Inspector 跑完 initialize/tools/list/tools/call，四工具回傳與 JSON 一致；對外 README 上線 | 🔄 |
+| 5 | 對外 MCP server | 其他聊天機器人可查繪本資料 | F-09：`/mcp` 通過 MCP Inspector 跑完 initialize/tools/list/tools/call，四工具回傳與 JSON 一致；對外 README 上線 | ✅ |
 
 **進入條件：**
 - 進入 Phase 2：Phase 1 的 `output_v2/` 三產物齊備 ✅（已滿足）
@@ -109,7 +109,7 @@ Phase 5（對外 MCP server）→ 🔄 規範文件補完 → 子任務「mcp_to
 - ✅ CORS 白名單 + 金鑰環境變數 → 驗證：正式網域 ACAO 放行、`evil.com` 無 ACAO 被擋、金鑰僅在 Render 環境變數（curl + Playwright 實測，2026-05-31）✅
 - 🔄 回滾演練 → Vercel ✅：`vercel rollback 705b0djqv`（退）→ `vercel promote 457ibcbto`（切回），`vercel inspect` 證實別名指向移動並復原、Playwright 證功能完好（CLI，2026-05-31）。Render ⏸️：後端僅單一版本（`f970d48`），無差異版可回滾，順延至有第二個後端部署時補做（Vercel 免費方案亦僅支援回滾前一版）
 
-### 🔄 Phase 5：對外 MCP server（本機完成，待部署）
+### ✅ Phase 5：對外 MCP server（已完成上線）
 
 - ✅ 規範文件補完 → spec.md 加 F-09、design.md 對外介面表加 `/mcp` 列、log.md DECISION-010、roadmap.md Phase 5（2026-06-04）✅
 - 🔄 功能群：對外 MCP server（F-09）
@@ -118,7 +118,7 @@ Phase 5（對外 MCP server）→ 🔄 規範文件補完 → 子任務「mcp_to
   - ✅ `backend/requirements.txt` 加 `mcp`、`render.yaml` 加 `MCP_RATE_LIMIT` 佔位 → 驗證：本機 `pip install` 已驗，prod 留待 Render build ✅
   - ✅ MCP client 本機驗證 → 改用官方 `mcp` Python SDK 直接驗（`verify_mcp_http.py`），等同 Inspector：initialize/tools/list/4×tools_call/錯誤路徑/429 探針全綠（VERIFY-007，2026-06-04）✅
   - ✅ 寫 repo 根 `MCP.md` → 含 prod URL、四工具 schema、Claude Desktop config 範本、Python SDK 與 curl 範例 ✅
-  - ⬜ 部署 prod → 驗證：`/mcp/` initialize 對 `https://zuyu-rag-backend.onrender.com/mcp/` 跑通；補 VERIFY-008 入 log（待人類同意 git push）
+  - ✅ 部署 prod → 驗證：`git push` 觸發 Render auto-deploy；對 prod `/mcp/` 跑 `verify_mcp_http.py` 全綠（initialize/4 工具/錯誤路徑/429 全 PASS，2026-06-04，VERIFY-008）✅
 
 ---
 
