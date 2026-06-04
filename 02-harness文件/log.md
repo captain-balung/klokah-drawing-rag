@@ -441,4 +441,18 @@
 - **風險等級**：低（純文件、不動程式）
 - **備註**：發現後續可做但不在本次範圍——Phase 4 Render 回滾演練本次 push 後已**解鎖**（後端現有 ≥2 個 deploy 版本可互退），待人類擇期演練再補 VERIFY
 
+## CHANGE-019
+
+- **時間戳**：2026-06-04T11:35:00+08:00
+- **類型**：變更（完工 sweep）
+- **範圍與摘要**：本回合（Phase 5 對外 MCP server）push 軌跡完整紀錄，留作日後追溯：
+  1. `35553d6` — feat(後端) F-09 對外 MCP server 主體（CHANGE-017）
+  2. `2d0502e` — docs: VERIFY-008 prod 驗證綠 + roadmap Phase 5 收尾
+  3. `e0770f3` — docs: 新增「繪本MCP安裝指南.md」對外友善版（CHANGE-018 主體）
+  4. `c791bb0` — chore: 完工收尾（log CHANGE-018 + gitignore + ruff）
+  5. （本條目所在的 commit）— chore: 補 CHANGE-019 push 軌跡
+- **觸發來源**：人類指示（「按施工協議再記錄一下」，補回 CHANGE-018 寫成時 e0770f3/c791bb0 尚未 push 的時序落差）
+- **風險等級**：低
+- **備註**：本條目為本 session 最後一條 log；不再追加避免遞迴（再記就要記「記了」的記）。Phase 5 至此完整收尾
+
 ---
