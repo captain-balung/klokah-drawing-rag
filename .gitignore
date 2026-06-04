@@ -19,6 +19,12 @@ dist/
 /fe-*.png
 /docs-*.png
 
+# 衍生產物（從 *.md 重新轉檔即可，不入版控）
+*.pdf
+
+# 開發工具本機設定
+.claude/
+
 # OS / 編輯器
 .DS_Store
 Thumbs.db

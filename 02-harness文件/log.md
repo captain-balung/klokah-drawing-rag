@@ -432,4 +432,13 @@
 - **風險等級**：低
 - **備註**：對外 MCP server 正式上線；現可在 Claude Desktop / 其他 MCP client 用 `https://zuyu-rag-backend.onrender.com/mcp/` 連線。`verify_mcp_http.py` 同時支援 local 與 prod（讀 `MCP_URL` 環境變數，預設 local）
 
+## CHANGE-018
+
+- **時間戳**：2026-06-04T11:20:00+08:00
+- **類型**：變更
+- **範圍與摘要**：新增對外友善版安裝指南。repo 根 `繪本MCP安裝指南.md`（與既有開發者向 `MCP.md` 並存）涵蓋四條路徑（Claude.ai 網頁版／Claude Desktop UI／Claude Desktop 設定檔／ChatGPT Connectors），含決策表、共用 URL box、驗證步驟、試試看的查詢、常見問題、隱私聲明；另說明 Gemini 一般使用者介面目前未開放自訂 MCP。本機以 `npx md-to-pdf` 轉出 `繪本MCP安裝指南.pdf`（878 KB 約 6 頁、A4、Windows 系統字 Microsoft JhengHei）給人類傳檔給朋友用；PDF 不入版控（`.gitignore` 加 `*.pdf` + `.claude/` 規則）
+- **觸發來源**：人類指示（朋友要安裝、要對外友善 + 加 Claude.ai 與 ChatGPT 路徑 + 出 PDF 版）＋ AI 自主判斷（決策表結構、Gemini 區段、Win/Mac 路徑分項）
+- **風險等級**：低（純文件、不動程式）
+- **備註**：發現後續可做但不在本次範圍——Phase 4 Render 回滾演練本次 push 後已**解鎖**（後端現有 ≥2 個 deploy 版本可互退），待人類擇期演練再補 VERIFY
+
 ---
